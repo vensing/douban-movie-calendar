@@ -1,0 +1,102 @@
+{
+    "comment": {
+        "content": "谁都能活得舒服快活，但如果人人如此，世界就无法进步。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72716a",
+            "secondary_color": "f9f9f4",
+            "primary_color_dark": "4c4b47"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140536.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-31",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 137283,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.9
+        },
+        "pubdate": [
+            "2019-09-06(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2566598269.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2566598269.jpg"
+        },
+        "is_show": false,
+        "year": "2018",
+        "card_subtitle": "2018 / 美国 / 纪录片\n伊丽莎白·柴·瓦沙瑞莉 / 金国威 导演",
+        "id": "30167509",
+        "genres": [
+            "纪录片"
+        ],
+        "title": "徒手攀岩",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "亚历克斯·霍诺德"
+            },
+            {
+                "name": "汤米·考德威尔"
+            },
+            {
+                "name": "金国威"
+            },
+            {
+                "name": "米奇·谢弗"
+            },
+            {
+                "name": "萨妮·麦坎德斯"
+            },
+            {
+                "name": "迪尔德丽·沃尼克"
+            },
+            {
+                "name": "彼得·克罗夫特"
+            },
+            {
+                "name": "丹·奥斯曼"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726f5a",
+            "_base_color": [
+                0.1458333333333334,
+                0.21052631578947367,
+                0.14901960784313725
+            ],
+            "secondary_color": "f9f9f4",
+            "_avg_color": [
+                0.1145833333333333,
+                0.23880597014925373,
+                0.2627450980392157
+            ],
+            "primary_color_dark": "4c4a3c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2566598269.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/30167509",
+        "url": "https://movie.douban.com/subject/30167509/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/30167509",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "伊丽莎白·柴·瓦沙瑞莉"
+            },
+            {
+                "name": "金国威"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "comment": {
+        "content": "有些事不用一个晚上都做完，我们又不赶时间。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59c90",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f786f"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139599.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-25",
+        "description": "《志明与春娇》上映10周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 432177,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.9
+        },
+        "pubdate": [
+            "2010-03-25(中国香港)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1456854668.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1456854668.jpg"
+        },
+        "is_show": false,
+        "year": "2010",
+        "card_subtitle": "2010 / 中国香港 / 喜剧 剧情 爱情\n彭浩翔 导演",
+        "id": "4305436",
+        "genres": [
+            "喜剧",
+            "剧情",
+            "爱情"
+        ],
+        "title": "志明与春娇",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "杨千嬅"
+            },
+            {
+                "name": "余文乐"
+            },
+            {
+                "name": "黄德斌"
+            },
+            {
+                "name": "陈逸宁"
+            },
+            {
+                "name": "谷祖琳"
+            },
+            {
+                "name": "司徒慧焯"
+            },
+            {
+                "name": "谷德昭"
+            },
+            {
+                "name": "张达明"
+            },
+            {
+                "name": "方皓玟"
+            },
+            {
+                "name": "林兆霞"
+            },
+            {
+                "name": "关逸基"
+            },
+            {
+                "name": "林耀声"
+            },
+            {
+                "name": "缪非临"
+            },
+            {
+                "name": "辛格·哈提汗·比托"
+            },
+            {
+                "name": "陆诗韵"
+            },
+            {
+                "name": "徐天佑"
+            },
+            {
+                "name": "邹凯光"
+            },
+            {
+                "name": "王宗尧"
+            },
+            {
+                "name": "朱慧敏"
+            },
+            {
+                "name": "刘伟恒"
+            },
+            {
+                "name": "筱靖"
+            },
+            {
+                "name": "骆应钧"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "3e57a5",
+            "_base_color": [
+                0.6263440860215054,
+                0.62,
+                0.39215686274509803
+            ],
+            "secondary_color": "f4f6f9",
+            "_avg_color": [
+                0.984375,
+                0.4266666666666667,
+                0.8823529411764706
+            ],
+            "primary_color_dark": "30437f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1456854668.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/4305436",
+        "url": "https://movie.douban.com/subject/4305436/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/4305436",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "彭浩翔"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

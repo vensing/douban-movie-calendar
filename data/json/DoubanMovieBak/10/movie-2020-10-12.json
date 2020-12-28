@@ -1,0 +1,134 @@
+{
+    "comment": {
+        "content": "最高贵的艺术是使人快乐的艺术。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725749",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3a30"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140866.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-12",
+        "description": "休·杰克曼52岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 155876,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.8
+        },
+        "pubdate": [
+            "2018-02-01(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2511346392.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2511346392.jpg"
+        },
+        "is_show": false,
+        "year": "2017",
+        "card_subtitle": "2017 / 美国 / 剧情 传记 歌舞\n迈克尔·格雷西 导演",
+        "id": "3914513",
+        "genres": [
+            "剧情",
+            "传记",
+            "歌舞"
+        ],
+        "title": "马戏之王",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "休·杰克曼"
+            },
+            {
+                "name": "米歇尔·威廉姆斯"
+            },
+            {
+                "name": "扎克·埃夫隆"
+            },
+            {
+                "name": "赞达亚"
+            },
+            {
+                "name": "丽贝卡·弗格森"
+            },
+            {
+                "name": "奥丝汀·约翰森"
+            },
+            {
+                "name": "卡梅伦·丝蕾"
+            },
+            {
+                "name": "基拉·塞特尔"
+            },
+            {
+                "name": "萨姆·汉弗莱"
+            },
+            {
+                "name": "叶海亚·阿卜杜勒-迈丁"
+            },
+            {
+                "name": "埃里克·安德森"
+            },
+            {
+                "name": "伊利斯·鲁宾"
+            },
+            {
+                "name": "斯凯勒·杜恩"
+            },
+            {
+                "name": "丹尼尔·埃维里奇"
+            },
+            {
+                "name": "拉杜·斯平格尔"
+            },
+            {
+                "name": "小森优作"
+            },
+            {
+                "name": "丹尼尔·松"
+            },
+            {
+                "name": "保罗·斯帕克斯"
+            },
+            {
+                "name": "威尔·斯文森"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "234572",
+            "_base_color": [
+                0.5949612403100776,
+                0.688,
+                0.49019607843137253
+            ],
+            "secondary_color": "f4f7f9",
+            "_avg_color": [
+                0.5873015873015873,
+                0.525,
+                0.47058823529411764
+            ],
+            "primary_color_dark": "172e4c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2511346392.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3914513",
+        "url": "https://movie.douban.com/subject/3914513/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3914513",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "迈克尔·格雷西"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "comment": {
+        "content": "但愿离去是幸，但愿永不归来！",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72675b",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c443d"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140059.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-28",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 52676,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "2002-08-29(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p729625029.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p729625029.jpg"
+        },
+        "is_show": false,
+        "year": "2002",
+        "card_subtitle": "2002 / 美国 墨西哥 加拿大 / 传记 剧情 爱情\n朱丽·泰莫 导演",
+        "id": "1291852",
+        "genres": [
+            "传记",
+            "剧情",
+            "爱情"
+        ],
+        "title": "弗里达",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "萨尔玛·海耶克"
+            },
+            {
+                "name": "阿尔弗雷德·莫里纳"
+            },
+            {
+                "name": "米娅·麦斯特罗"
+            },
+            {
+                "name": "艾什莉·贾德"
+            },
+            {
+                "name": "安东尼奥·班德拉斯"
+            },
+            {
+                "name": "杰弗里·拉什"
+            },
+            {
+                "name": "爱德华·诺顿"
+            },
+            {
+                "name": "瓦莱丽亚·戈利诺"
+            },
+            {
+                "name": "迭戈·卢纳"
+            },
+            {
+                "name": "亚历杭德罗·乌西利"
+            },
+            {
+                "name": "萨弗蓉·布罗斯"
+            },
+            {
+                "name": "洛罗·纳瓦罗"
+            },
+            {
+                "name": "罗杰·里斯"
+            },
+            {
+                "name": "费尔明·马丁内斯"
+            },
+            {
+                "name": "阿梅莉亚·萨帕塔"
+            },
+            {
+                "name": "罗伯托·梅迪纳"
+            },
+            {
+                "name": "帕特里夏·雷耶斯·斯平多拉"
+            },
+            {
+                "name": "玛加丽塔·桑斯"
+            },
+            {
+                "name": "奥马尔·罗德里格斯"
+            },
+            {
+                "name": "查维拉·巴尔加斯"
+            },
+            {
+                "name": "费利佩·富勒普"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725240",
+            "_base_color": [
+                0.05833333333333337,
+                0.43478260869565216,
+                0.1803921568627451
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.04687499999999998,
+                0.32653061224489793,
+                0.3843137254901961
+            ],
+            "primary_color_dark": "4c362b"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p729625029.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291852",
+        "url": "https://movie.douban.com/subject/1291852/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291852",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "朱丽·泰莫"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

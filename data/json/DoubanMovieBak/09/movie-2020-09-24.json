@@ -1,0 +1,131 @@
+{
+    "comment": {
+        "content": "正是因为不相信有地狱，我无所畏惧。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726b5d",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "4c473e"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140791.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-24",
+        "description": "佩德罗·阿莫多瓦71岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 33532,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.3
+        },
+        "pubdate": [
+            "2004-09-16"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1910921856.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910921856.jpg"
+        },
+        "is_show": false,
+        "year": "2004",
+        "card_subtitle": "2004 / 西班牙 / 剧情 犯罪 悬疑\n佩德罗·阿莫多瓦 导演",
+        "id": "1291878",
+        "genres": [
+            "剧情",
+            "犯罪",
+            "悬疑"
+        ],
+        "title": "不良教育",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "盖尔·加西亚·贝纳尔"
+            },
+            {
+                "name": "费雷·马丁内兹"
+            },
+            {
+                "name": "丹尼尔·希梅内斯·卡乔"
+            },
+            {
+                "name": "路易斯·奥马"
+            },
+            {
+                "name": "弗朗西斯科·梅斯特"
+            },
+            {
+                "name": "弗郎西斯科·博伊拉"
+            },
+            {
+                "name": "胡安·费尔南德斯"
+            },
+            {
+                "name": "纳乔·佩雷斯"
+            },
+            {
+                "name": "哈维尔·卡马拉"
+            },
+            {
+                "name": "阿尔维托·费雷罗"
+            },
+            {
+                "name": "佩特拉·马丁内斯"
+            },
+            {
+                "name": "Roberto Hoyas"
+            },
+            {
+                "name": "阿古斯丁·阿莫多瓦"
+            },
+            {
+                "name": "佩德罗·阿莫多瓦"
+            },
+            {
+                "name": "波尔·莫南"
+            },
+            {
+                "name": "萨拉·蒙铁儿"
+            },
+            {
+                "name": "蕾欧诺·瓦特林"
+            },
+            {
+                "name": "何塞·马利亚·亚兹皮克"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a51c32",
+            "_base_color": [
+                0.9732297063903281,
+                0.8283261802575107,
+                0.9137254901960784
+            ],
+            "secondary_color": "f9f4f5",
+            "_avg_color": [
+                0.9691358024691358,
+                0.37155963302752293,
+                0.8549019607843137
+            ],
+            "primary_color_dark": "7f1526"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1910921856.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291878",
+        "url": "https://movie.douban.com/subject/1291878/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291878",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "佩德罗·阿莫多瓦"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

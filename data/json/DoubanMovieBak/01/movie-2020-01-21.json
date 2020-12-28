@@ -1,0 +1,107 @@
+{
+    "comment": {
+        "content": "做人不开心，就算长生不死也没有用。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a57354",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "7f5941"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139353.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-21",
+        "description": "《大话西游之月光宝盒》上映25周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 944651,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9
+        },
+        "pubdate": [
+            "1995-01-21(中国香港)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2561721372.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2561721372.jpg"
+        },
+        "is_show": false,
+        "year": "1995",
+        "card_subtitle": "1995 / 中国香港 中国大陆 / 喜剧 爱情 奇幻\n刘镇伟 导演",
+        "id": "1299398",
+        "genres": [
+            "喜剧",
+            "爱情",
+            "奇幻"
+        ],
+        "title": "大话西游之月光宝盒",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "周星驰"
+            },
+            {
+                "name": "吴孟达"
+            },
+            {
+                "name": "罗家英"
+            },
+            {
+                "name": "蓝洁瑛"
+            },
+            {
+                "name": "莫文蔚"
+            },
+            {
+                "name": "江约诚"
+            },
+            {
+                "name": "陆树铭"
+            },
+            {
+                "name": "刘镇伟"
+            },
+            {
+                "name": "朱茵"
+            },
+            {
+                "name": "李健仁"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "723520",
+            "_base_color": [
+                0.043624161073825496,
+                0.7198067632850242,
+                0.8117647058823529
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.030701754385964914,
+                0.6551724137931034,
+                0.4549019607843137
+            ],
+            "primary_color_dark": "4c2315"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2561721372.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1299398",
+        "url": "https://movie.douban.com/subject/1299398/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1299398",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "刘镇伟"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

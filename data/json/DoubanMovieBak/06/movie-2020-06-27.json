@@ -1,0 +1,118 @@
+{
+    "comment": {
+        "content": "女孩总是假装她们很随便，轻易和男生接吻，其实她们喜欢体贴的男孩子。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725647",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c392f"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140058.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-27",
+        "description": "基耶斯洛夫斯基诞辰79周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 19718,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.8
+        },
+        "pubdate": [
+            "1988-10-21(波兰)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2189908788.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2189908788.jpg"
+        },
+        "is_show": false,
+        "year": "1988",
+        "card_subtitle": "1988 / 波兰 / 剧情 爱情\n克日什托夫·基耶斯洛夫斯基 导演",
+        "id": "1294570",
+        "genres": [
+            "剧情",
+            "爱情"
+        ],
+        "title": "爱情短片",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "格拉日娜·沙波沃夫斯卡"
+            },
+            {
+                "name": "奥拉夫·卢巴申科"
+            },
+            {
+                "name": "斯特凡尼亚·伊文斯卡"
+            },
+            {
+                "name": "比奥迪·玛查里卡"
+            },
+            {
+                "name": "阿图尔·巴奇斯"
+            },
+            {
+                "name": "汉娜·霍伊纳茨卡"
+            },
+            {
+                "name": "斯塔尼斯拉娃·加瓦里克"
+            },
+            {
+                "name": "托马斯兹·格拉多维斯基"
+            },
+            {
+                "name": "拉法尔·伊穆布罗"
+            },
+            {
+                "name": "杨·皮科辛斯基"
+            },
+            {
+                "name": "克雷兹耶托夫·考普佩尔斯基"
+            },
+            {
+                "name": "杰罗斯拉娃·迈克勒斯卡"
+            },
+            {
+                "name": "玛乌戈扎塔·罗日尼亚托夫斯卡"
+            },
+            {
+                "name": "额米莉亚·兹沃克斯卡"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "727066",
+            "_base_color": [
+                0.13333333333333344,
+                0.10869565217391297,
+                0.1803921568627451
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.06944444444444459,
+                0.15584415584415584,
+                0.30196078431372547
+            ],
+            "primary_color_dark": "4c4a44"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2189908788.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1294570",
+        "url": "https://movie.douban.com/subject/1294570/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1294570",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "克日什托夫·基耶斯洛夫斯基"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

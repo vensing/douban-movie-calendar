@@ -1,0 +1,136 @@
+{
+    "comment": {
+        "content": "很久很久以后我们才知道，当一个女生说她再也不理你，不是真的讨厌你，而是她很在乎你，非常非常在乎你。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59e92",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f7970"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580139440.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-02-25",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 498263,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.8
+        },
+        "pubdate": [
+            "2015-08-15(中国台湾)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2285115802.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2285115802.jpg"
+        },
+        "is_show": false,
+        "year": "2015",
+        "card_subtitle": "2015 / 中国台湾 / 喜剧 爱情\n陈玉珊 导演",
+        "id": "26366465",
+        "genres": [
+            "喜剧",
+            "爱情"
+        ],
+        "title": "我的少女时代",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "宋芸桦"
+            },
+            {
+                "name": "王大陆"
+            },
+            {
+                "name": "李玉玺"
+            },
+            {
+                "name": "简廷芮"
+            },
+            {
+                "name": "刘德华"
+            },
+            {
+                "name": "陈乔恩"
+            },
+            {
+                "name": "言承旭"
+            },
+            {
+                "name": "曲家瑞"
+            },
+            {
+                "name": "屈中恒"
+            },
+            {
+                "name": "钟欣凌"
+            },
+            {
+                "name": "许杰辉"
+            },
+            {
+                "name": "蔡颐榛"
+            },
+            {
+                "name": "郭文颐"
+            },
+            {
+                "name": "石知田"
+            },
+            {
+                "name": "那维勋"
+            },
+            {
+                "name": "林鹤轩"
+            },
+            {
+                "name": "陈彦允"
+            },
+            {
+                "name": "张立东"
+            },
+            {
+                "name": "郑茵声"
+            },
+            {
+                "name": "李绍祥"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5968f",
+            "_base_color": [
+                0.05555555555555566,
+                0.13392857142857145,
+                0.8784313725490196
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.050000000000000065,
+                0.22727272727272727,
+                0.6901960784313725
+            ],
+            "primary_color_dark": "7f746e"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2285115802.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26366465",
+        "url": "https://movie.douban.com/subject/26366465/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26366465",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "陈玉珊"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

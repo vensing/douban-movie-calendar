@@ -1,0 +1,110 @@
+{
+    "comment": {
+        "content": "人哪有好的，只是坏的程度不一样而已。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725951",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3b36"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139766.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-02",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 764011,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.1
+        },
+        "pubdate": [
+            "2004-09-05(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2174346180.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2174346180.jpg"
+        },
+        "is_show": false,
+        "year": "2004",
+        "card_subtitle": "2004 / 日本 / 动画 奇幻 冒险\n宫崎骏 导演",
+        "id": "1308807",
+        "genres": [
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "title": "哈尔的移动城堡",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "倍赏千惠子"
+            },
+            {
+                "name": "木村拓哉"
+            },
+            {
+                "name": "美轮明宏"
+            },
+            {
+                "name": "我修院达也"
+            },
+            {
+                "name": "神木隆之介"
+            },
+            {
+                "name": "伊崎充则"
+            },
+            {
+                "name": "大泉洋"
+            },
+            {
+                "name": "大塚明夫"
+            },
+            {
+                "name": "原田大二郎"
+            },
+            {
+                "name": "加藤治子"
+            },
+            {
+                "name": "都筑香弥子"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59765",
+            "_base_color": [
+                0.1294117647058823,
+                0.3863636363636364,
+                0.8627450980392157
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.25000000000000017,
+                0.15602836879432627,
+                0.5529411764705883
+            ],
+            "primary_color_dark": "7f744e"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2174346180.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1308807",
+        "url": "https://movie.douban.com/subject/1308807/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1308807",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "宫崎骏"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

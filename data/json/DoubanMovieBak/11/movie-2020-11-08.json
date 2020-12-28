@@ -1,0 +1,120 @@
+{
+    "comment": {
+        "content": "我们也不做只会陈述事实的机器，因为新闻有了人性的参与才变得更有意义。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726055",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c4039"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140975.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-08",
+        "description": "记者节",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 68718,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.1
+        },
+        "pubdate": [
+            "2012-06-24(美国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2221554478.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2221554478.jpg"
+        },
+        "is_show": false,
+        "year": "2012",
+        "card_subtitle": "2012 / 美国 / 剧情\n格雷格·莫托拉 / 艾利克斯·格雷夫斯 / 丹尼尔·米纳汉 / 艾伦·保尔 / 杰雷米·波德斯瓦 / 莱丝莉·琳卡·格拉特 / 乔舒亚·马斯顿 导演",
+        "id": "6142597",
+        "genres": [
+            "剧情"
+        ],
+        "title": "新闻编辑室 第一季",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "杰夫·丹尼尔斯"
+            },
+            {
+                "name": "艾米莉·莫迪默"
+            },
+            {
+                "name": "艾丽森·皮尔"
+            },
+            {
+                "name": "小约翰·加拉赫"
+            },
+            {
+                "name": "戴夫·帕特尔"
+            },
+            {
+                "name": "托马斯·萨多斯基"
+            },
+            {
+                "name": "萨姆·沃特森"
+            },
+            {
+                "name": "简·方达"
+            },
+            {
+                "name": "奥立薇娅·玛恩"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6a7270",
+            "_base_color": [
+                0.4615384615384614,
+                0.07222222222222227,
+                0.7058823529411765
+            ],
+            "secondary_color": "f4f9f8",
+            "_avg_color": [
+                0.5,
+                0.05405405405405405,
+                0.2901960784313726
+            ],
+            "primary_color_dark": "464c4b"
+        },
+        "type": "tv",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2221554478.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/6142597",
+        "url": "https://movie.douban.com/subject/6142597/",
+        "release_date": null,
+        "uri": "douban://douban.com/tv/6142597",
+        "subtype": "tv",
+        "directors": [
+            {
+                "name": "格雷格·莫托拉"
+            },
+            {
+                "name": "艾利克斯·格雷夫斯"
+            },
+            {
+                "name": "丹尼尔·米纳汉"
+            },
+            {
+                "name": "艾伦·保尔"
+            },
+            {
+                "name": "杰雷米·波德斯瓦"
+            },
+            {
+                "name": "莱丝莉·琳卡·格拉特"
+            },
+            {
+                "name": "乔舒亚·马斯顿"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

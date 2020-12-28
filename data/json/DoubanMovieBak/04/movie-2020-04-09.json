@@ -1,0 +1,161 @@
+{
+    "comment": {
+        "content": "当你梦到太多阳光，就会忘记树的存在。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726356",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c4239"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139689.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-04-09",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 351222,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.5
+        },
+        "pubdate": [
+            "2014-03-17(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2173648321.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173648321.jpg"
+        },
+        "is_show": false,
+        "year": "2013",
+        "card_subtitle": "2013 / 韩国 捷克 / 剧情 动作 科幻\n奉俊昊 导演",
+        "id": "3071441",
+        "genres": [
+            "剧情",
+            "动作",
+            "科幻"
+        ],
+        "title": "雪国列车",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "克里斯·埃文斯"
+            },
+            {
+                "name": "宋康昊"
+            },
+            {
+                "name": "艾德·哈里斯"
+            },
+            {
+                "name": "约翰·赫特"
+            },
+            {
+                "name": "蒂尔达·斯文顿"
+            },
+            {
+                "name": "杰米·贝尔"
+            },
+            {
+                "name": "奥克塔维亚·斯宾瑟"
+            },
+            {
+                "name": "艾文·布莱纳"
+            },
+            {
+                "name": "艾丽森·皮尔"
+            },
+            {
+                "name": "高雅星"
+            },
+            {
+                "name": "斯蒂夫·朴"
+            },
+            {
+                "name": "卢克·帕斯夸尼洛"
+            },
+            {
+                "name": "肯尼·道提"
+            },
+            {
+                "name": "克拉克·米德尔顿"
+            },
+            {
+                "name": "弗拉德·伊凡诺夫"
+            },
+            {
+                "name": "阿德南·哈斯科维奇"
+            },
+            {
+                "name": "艾玛·列维"
+            },
+            {
+                "name": "托马斯·勒马尔奎斯"
+            },
+            {
+                "name": "Igor Juric"
+            },
+            {
+                "name": "马坎索尼·雷斯"
+            },
+            {
+                "name": "吉姆·海伊"
+            },
+            {
+                "name": "Griffin Seymour"
+            },
+            {
+                "name": "肖恩·康纳·伦威克"
+            },
+            {
+                "name": "布莱恩·科林·弗利"
+            },
+            {
+                "name": "肯德里克·昂"
+            },
+            {
+                "name": "达纳·格林"
+            },
+            {
+                "name": "派瑞·申"
+            },
+            {
+                "name": "约瑟夫·贝尔托特"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6f7172",
+            "_base_color": [
+                0.5476190476190476,
+                0.03196347031963459,
+                0.8588235294117647
+            ],
+            "secondary_color": "f4f8f9",
+            "_avg_color": [
+                0.5555555555555555,
+                0.1212121212121212,
+                0.38823529411764707
+            ],
+            "primary_color_dark": "4a4b4c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2173648321.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3071441",
+        "url": "https://movie.douban.com/subject/3071441/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3071441",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "奉俊昊"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

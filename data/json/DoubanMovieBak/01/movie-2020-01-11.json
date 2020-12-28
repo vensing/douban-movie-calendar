@@ -1,0 +1,121 @@
+{
+    "comment": {
+        "content": "——“如果我是上帝，我会特别珍爱你。”\n——“为什么？”\n——“因为你并不快乐，你牺牲了快乐和生活，只为了那触不到的恋人。”",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a57d7d",
+            "secondary_color": "f9f4f4",
+            "primary_color_dark": "7f6060"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139337.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-11",
+        "description": "埃里克·侯麦逝世10周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 15891,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.4
+        },
+        "pubdate": [
+            "1992-01-29"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1665123572.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1665123572.jpg"
+        },
+        "is_show": false,
+        "year": "1992",
+        "card_subtitle": "1992 / 法国 / 剧情 爱情\n埃里克·侯麦 导演",
+        "id": "1293388",
+        "genres": [
+            "剧情",
+            "爱情"
+        ],
+        "title": "冬天的故事",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "夏洛特·韦里"
+            },
+            {
+                "name": "弗里德里克·范登德里舍"
+            },
+            {
+                "name": "米歇尔·瓦莱蒂"
+            },
+            {
+                "name": "赫尔菲里克"
+            },
+            {
+                "name": "Ava Loraschi"
+            },
+            {
+                "name": "Christiane Desbois"
+            },
+            {
+                "name": "Rosette"
+            },
+            {
+                "name": "Jean-Luc Revol"
+            },
+            {
+                "name": "Haydée Caillot"
+            },
+            {
+                "name": "让-克洛德·比埃特"
+            },
+            {
+                "name": "玛丽·里维埃"
+            },
+            {
+                "name": "Claudine Paringaux"
+            },
+            {
+                "name": "罗杰·杜马斯"
+            },
+            {
+                "name": "达尼埃莱·莱布伦"
+            },
+            {
+                "name": "戴安莱夫里耶"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725561",
+            "_base_color": [
+                0.9313725490196079,
+                0.25373134328358216,
+                0.2627450980392157
+            ],
+            "secondary_color": "f9f4f6",
+            "_avg_color": [
+                0.9313725490196079,
+                0.16666666666666677,
+                0.4
+            ],
+            "primary_color_dark": "4c3941"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1665123572.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1293388",
+        "url": "https://movie.douban.com/subject/1293388/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1293388",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "埃里克·侯麦"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

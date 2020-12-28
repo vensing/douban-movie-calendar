@@ -1,0 +1,92 @@
+{
+    "comment": {
+        "content": "我不希望有一天发现自己是在为了别人活，我愿意承担后果，就算偶尔寂寞甚至孤独而终，我都能接受。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "727054",
+            "secondary_color": "f9f9f4",
+            "primary_color_dark": "4c4b38"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580141185.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-10",
+        "description": "《走出非洲》上映35周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 73671,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "1985-12-10(洛杉矶首映)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1910907281.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910907281.jpg"
+        },
+        "is_show": false,
+        "year": "1985",
+        "card_subtitle": "1985 / 美国 / 冒险 传记 剧情\n西德尼·波拉克 导演",
+        "id": "1291840",
+        "genres": [
+            "冒险",
+            "传记",
+            "剧情"
+        ],
+        "title": "走出非洲",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "梅丽尔·斯特里普"
+            },
+            {
+                "name": "罗伯特·雷德福"
+            },
+            {
+                "name": "克劳斯·马利亚·布朗道尔"
+            },
+            {
+                "name": "迈克尔·基臣"
+            },
+            {
+                "name": "Malick Bowens"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a5a0",
+            "_base_color": [
+                0.14285714285714296,
+                0.029411764705882366,
+                0.9333333333333333
+            ],
+            "secondary_color": "f9f9f4",
+            "_avg_color": [
+                0.12962962962962962,
+                0.19354838709677413,
+                0.7294117647058823
+            ],
+            "primary_color_dark": "7f7e7b"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1910907281.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291840",
+        "url": "https://movie.douban.com/subject/1291840/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291840",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "西德尼·波拉克"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

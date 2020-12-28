@@ -1,0 +1,135 @@
+{
+    "comment": {
+        "content": "残暴是爱的对立面，不是什么笨拙的表达爱的方式。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726651",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "4c4436"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140226.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-19",
+        "description": "本尼迪克特·康伯巴奇44岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 90140,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9
+        },
+        "pubdate": [
+            "2018-05-12(美国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2518519566.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2518519566.jpg"
+        },
+        "is_show": false,
+        "year": "2018",
+        "card_subtitle": "2018 / 英国 / 剧情\n爱德华·贝尔格 导演",
+        "id": "26985973",
+        "genres": [
+            "剧情"
+        ],
+        "title": "梅尔罗斯",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "本尼迪克特·康伯巴奇"
+            },
+            {
+                "name": "詹妮弗·杰森·李"
+            },
+            {
+                "name": "塞巴斯蒂安·马尔茨"
+            },
+            {
+                "name": "杰西卡·雷恩"
+            },
+            {
+                "name": "雨果·维文"
+            },
+            {
+                "name": "Prasanna Puwanarajah"
+            },
+            {
+                "name": "皮普·托伦斯"
+            },
+            {
+                "name": "安娜·玛德蕾"
+            },
+            {
+                "name": "因迪拉·瓦玛"
+            },
+            {
+                "name": "丹顿·安德森"
+            },
+            {
+                "name": "加里·比德尔"
+            },
+            {
+                "name": "莫菲德·克拉克"
+            },
+            {
+                "name": "布莱思·丹纳"
+            },
+            {
+                "name": "荷丽黛·格兰杰"
+            },
+            {
+                "name": "西莉亚·伊姆里"
+            },
+            {
+                "name": "盖伊·保罗"
+            },
+            {
+                "name": "马库斯·史密斯"
+            },
+            {
+                "name": "约翰·斯坦丁"
+            },
+            {
+                "name": "艾琳·沃尔什"
+            },
+            {
+                "name": "艾莉森·威廉姆斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "686e72",
+            "_base_color": [
+                0.5757575757575758,
+                0.08730158730158732,
+                0.49411764705882355
+            ],
+            "secondary_color": "f4f7f9",
+            "_avg_color": [
+                0.6249999999999996,
+                0.035398230088495575,
+                0.44313725490196076
+            ],
+            "primary_color_dark": "45494c"
+        },
+        "type": "tv",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2518519566.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26985973",
+        "url": "https://movie.douban.com/subject/26985973/",
+        "release_date": null,
+        "uri": "douban://douban.com/tv/26985973",
+        "subtype": "tv",
+        "directors": [
+            {
+                "name": "爱德华·贝尔格"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

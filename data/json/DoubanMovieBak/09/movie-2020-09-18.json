@@ -1,0 +1,191 @@
+{
+    "comment": {
+        "content": "我们这种人不能坐在观众席，我们必须登台表演、管理演出，否则，其他人就会摆布我们。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726e6c",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c4948"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140775.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-18",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 45446,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.3
+        },
+        "pubdate": [
+            "1979-05-03"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1792296798.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1792296798.jpg"
+        },
+        "is_show": false,
+        "year": "1979",
+        "card_subtitle": "1979 / 西德 波兰 法国 南斯拉夫 / 剧情 历史 战争\n沃尔克·施隆多夫 导演",
+        "id": "1292207",
+        "genres": [
+            "剧情",
+            "历史",
+            "战争"
+        ],
+        "title": "铁皮鼓",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "马里奥·阿多夫"
+            },
+            {
+                "name": "安吉拉·温科勒"
+            },
+            {
+                "name": "大卫·本奈特"
+            },
+            {
+                "name": "卡特琳娜·塔巴赫"
+            },
+            {
+                "name": "达尼尔·奥勒布里斯基"
+            },
+            {
+                "name": "蒂娜·恩格尔"
+            },
+            {
+                "name": "贝尔塔·德鲁兹"
+            },
+            {
+                "name": "Roland Teubner"
+            },
+            {
+                "name": "Tadeusz Kunikowski"
+            },
+            {
+                "name": "安德烈亚·费雷奥尔"
+            },
+            {
+                "name": "海因茨·贝能特"
+            },
+            {
+                "name": "伊尔莎·帕日"
+            },
+            {
+                "name": "Werner Rehm"
+            },
+            {
+                "name": "凯特·耶尼克"
+            },
+            {
+                "name": "赫尔穆特·布拉施"
+            },
+            {
+                "name": "奥托·山德尔"
+            },
+            {
+                "name": "Mariella Oliveri"
+            },
+            {
+                "name": "Fritz Hakl"
+            },
+            {
+                "name": "Emil Feist"
+            },
+            {
+                "name": "夏尔·阿兹纳夫"
+            },
+            {
+                "name": "马雷克·瓦尔切夫斯基"
+            },
+            {
+                "name": "恩斯特·雅各比"
+            },
+            {
+                "name": "沃捷希奇·帕斯佐尼亚克"
+            },
+            {
+                "name": "Joachim Hackethal"
+            },
+            {
+                "name": "Henning Schlüter"
+            },
+            {
+                "name": "齐格蒙特·哈布纳"
+            },
+            {
+                "name": "Mieczyslaw Czechowicz"
+            },
+            {
+                "name": "布鲁诺·托斯特"
+            },
+            {
+                "name": "Stanislaw Michalski"
+            },
+            {
+                "name": "Dietrich Frauboes"
+            },
+            {
+                "name": "安妮·贝南特"
+            },
+            {
+                "name": "Horst Gentzen"
+            },
+            {
+                "name": "阿道夫·希特勒"
+            },
+            {
+                "name": "赖因哈德·科尔德霍夫"
+            },
+            {
+                "name": "昆特·迈斯纳"
+            },
+            {
+                "name": "贝娅塔·波兹尼亚克"
+            },
+            {
+                "name": "Raphaël Vogt"
+            },
+            {
+                "name": "Herbert Weissbach"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59d9e",
+            "_base_color": [
+                0.9666666666666668,
+                0.052083333333333294,
+                0.7529411764705882
+            ],
+            "secondary_color": "f9f4f5",
+            "_avg_color": [
+                0.7777777777777772,
+                0.04026845637583897,
+                0.5843137254901961
+            ],
+            "primary_color_dark": "7f787a"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1792296798.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292207",
+        "url": "https://movie.douban.com/subject/1292207/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292207",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "沃尔克·施隆多夫"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

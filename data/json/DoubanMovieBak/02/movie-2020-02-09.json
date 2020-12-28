@@ -1,0 +1,164 @@
+{
+    "comment": {
+        "content": "不确定性，才是这世间一切的正道。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726e6d",
+            "secondary_color": "f9f5f4",
+            "primary_color_dark": "4c4949"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139407.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-02-09",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 93678,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.5
+        },
+        "pubdate": [
+            "2018-08-31(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2539127687.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539127687.jpg"
+        },
+        "is_show": false,
+        "year": "2018",
+        "card_subtitle": "2018 / 美国 / 剧情 喜剧 爱情\n伊桑·科恩 / 乔尔·科恩 导演",
+        "id": "26952704",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "title": "巴斯特·斯克鲁格斯的歌谣",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "哈利·米尔林"
+            },
+            {
+                "name": "佐伊·卡赞"
+            },
+            {
+                "name": "连姆·尼森"
+            },
+            {
+                "name": "詹姆斯·弗兰科"
+            },
+            {
+                "name": "大卫·克朗姆霍茨"
+            },
+            {
+                "name": "汤姆·威兹"
+            },
+            {
+                "name": "克兰西·布朗"
+            },
+            {
+                "name": "蒂姆·布雷克·尼尔森"
+            },
+            {
+                "name": "布莱丹·格里森"
+            },
+            {
+                "name": "比尔·赫克"
+            },
+            {
+                "name": "斯蒂芬·鲁特"
+            },
+            {
+                "name": "泰恩·黛莉"
+            },
+            {
+                "name": "拉尔夫·伊内森"
+            },
+            {
+                "name": "切尔西·罗斯"
+            },
+            {
+                "name": "绍尔·鲁宾内克"
+            },
+            {
+                "name": "琼乔·奥雷尔"
+            },
+            {
+                "name": "马修·维利希"
+            },
+            {
+                "name": "杰西·卢肯"
+            },
+            {
+                "name": "保罗·瑞"
+            },
+            {
+                "name": "格兰杰·海恩斯"
+            },
+            {
+                "name": "杰弗森·梅斯"
+            },
+            {
+                "name": "山姆·狄龙"
+            },
+            {
+                "name": "比利·洛克伍德"
+            },
+            {
+                "name": "汤姆·普罗克特"
+            },
+            {
+                "name": "E·E·贝尔"
+            },
+            {
+                "name": "丹尼·麦卡锡"
+            },
+            {
+                "name": "杰克莫·巴泽尔"
+            },
+            {
+                "name": "伊索·阿克瑞恩"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a53835",
+            "_base_color": [
+                0.003787878787878803,
+                0.676923076923077,
+                0.5098039215686274
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.013888888888888895,
+                0.6043165467625898,
+                0.5450980392156862
+            ],
+            "primary_color_dark": "7f2b29"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2539127687.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26952704",
+        "url": "https://movie.douban.com/subject/26952704/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26952704",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "伊桑·科恩"
+            },
+            {
+                "name": "乔尔·科恩"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

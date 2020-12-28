@@ -1,0 +1,112 @@
+{
+    "comment": {
+        "content": "宗教为人而生，但人不是宗教创造的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58d67",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f6c4f"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139573.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-14",
+        "description": "阿米尔·汗55岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 311213,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.4
+        },
+        "pubdate": [
+            "2015-05-22(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2243803873.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2243803873.jpg"
+        },
+        "is_show": false,
+        "year": "2014",
+        "card_subtitle": "2014 / 印度 / 喜剧 奇幻\n拉吉库马尔·希拉尼 导演",
+        "id": "10741643",
+        "genres": [
+            "喜剧",
+            "奇幻"
+        ],
+        "title": "我的个神啊",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "阿米尔·汗"
+            },
+            {
+                "name": "安努舒卡·莎玛"
+            },
+            {
+                "name": "桑杰·达特"
+            },
+            {
+                "name": "博曼·伊拉尼"
+            },
+            {
+                "name": "沙鲁巴·舒克拉"
+            },
+            {
+                "name": "苏尚特·辛格·拉吉普特"
+            },
+            {
+                "name": "帕里卡沙特.萨赫尼"
+            },
+            {
+                "name": "阿马尔迪普·杰哈"
+            },
+            {
+                "name": "瑞玛·德纳斯"
+            },
+            {
+                "name": "迪伦德拉·德维韦迪"
+            },
+            {
+                "name": "赛·甘德沃尔"
+            },
+            {
+                "name": "拉姆·P·塞蒂"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58663",
+            "_base_color": [
+                0.08974358974358976,
+                0.40265486725663713,
+                0.8862745098039215
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.0794573643410853,
+                0.46236559139784944,
+                0.7294117647058823
+            ],
+            "primary_color_dark": "7f674c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2243803873.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/10741643",
+        "url": "https://movie.douban.com/subject/10741643/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/10741643",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "拉吉库马尔·希拉尼"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

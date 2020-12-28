@@ -1,0 +1,149 @@
+{
+    "comment": {
+        "content": "我会履行承诺，否则请把我做成鱼片粥。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "63a1a5",
+            "secondary_color": "f4f9f9",
+            "primary_color_dark": "4c7c7f"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140017.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-08",
+        "description": "世界海洋日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 315541,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.4
+        },
+        "pubdate": [
+            "2003-07-30(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1755893801.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1755893801.jpg"
+        },
+        "is_show": false,
+        "year": "2003",
+        "card_subtitle": "2003 / 美国 澳大利亚 / 喜剧 动画 冒险\n安德鲁·斯坦顿 / 李·昂克里奇 导演",
+        "id": "1291586",
+        "genres": [
+            "喜剧",
+            "动画",
+            "冒险"
+        ],
+        "title": "海底总动员",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "艾伯特·布鲁克斯"
+            },
+            {
+                "name": "艾伦·德杰尼勒斯"
+            },
+            {
+                "name": "亚历山大·古尔德"
+            },
+            {
+                "name": "威廉·达福"
+            },
+            {
+                "name": "布拉德·加内特"
+            },
+            {
+                "name": "艾莉森·珍妮"
+            },
+            {
+                "name": "奥斯汀·潘德尔顿"
+            },
+            {
+                "name": "斯蒂芬·鲁特"
+            },
+            {
+                "name": "薇姬·刘易斯"
+            },
+            {
+                "name": "乔·兰福特"
+            },
+            {
+                "name": "杰弗里·拉什"
+            },
+            {
+                "name": "安德鲁·斯坦顿"
+            },
+            {
+                "name": "伊丽莎白·帕金斯"
+            },
+            {
+                "name": "Nicholas Bird"
+            },
+            {
+                "name": "鲍勃·彼德森"
+            },
+            {
+                "name": "巴瑞·哈姆弗莱斯"
+            },
+            {
+                "name": "艾瑞克·巴纳"
+            },
+            {
+                "name": "布鲁斯·斯宾斯"
+            },
+            {
+                "name": "比尔·亨特"
+            },
+            {
+                "name": "Jordan Ranft"
+            },
+            {
+                "name": "埃丽卡·贝克"
+            },
+            {
+                "name": "埃里克·佩尔·沙利文"
+            },
+            {
+                "name": "约翰·拉岑贝格"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "093aa5",
+            "_base_color": [
+                0.6144781144781145,
+                0.9428571428571428,
+                0.4117647058823529
+            ],
+            "secondary_color": "f4f6f9",
+            "_avg_color": [
+                0.578042328042328,
+                0.8344370860927153,
+                0.592156862745098
+            ],
+            "primary_color_dark": "072c7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1755893801.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291586",
+        "url": "https://movie.douban.com/subject/1291586/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291586",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "安德鲁·斯坦顿"
+            },
+            {
+                "name": "李·昂克里奇"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "comment": {
+        "content": "你需要的只是爱。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5958f",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "7f736e"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580141179.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-08",
+        "description": "约翰·列侬逝世40周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 9693,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.9
+        },
+        "pubdate": [
+            "1968-07-17(英国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2554171425.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554171425.jpg"
+        },
+        "is_show": false,
+        "year": "1968",
+        "card_subtitle": "1968 / 英国 美国 / 喜剧 动画 奇幻\n乔治·杜宁 导演",
+        "id": "1305605",
+        "genres": [
+            "喜剧",
+            "动画",
+            "奇幻"
+        ],
+        "title": "黄色潜水艇",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "The Beatles"
+            },
+            {
+                "name": "保罗·安吉利斯"
+            },
+            {
+                "name": "约翰·克莱夫"
+            },
+            {
+                "name": "迪克·埃默里"
+            },
+            {
+                "name": "杰弗里·休斯"
+            },
+            {
+                "name": "兰斯·珀西瓦尔"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "172c72",
+            "_base_color": [
+                0.6284153005464481,
+                0.7922077922077922,
+                0.6039215686274509
+            ],
+            "secondary_color": "f4f6f9",
+            "_avg_color": [
+                0.6818181818181818,
+                0.17886178861788624,
+                0.4823529411764706
+            ],
+            "primary_color_dark": "0f1d4c"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2554171425.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1305605",
+        "url": "https://movie.douban.com/subject/1305605/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1305605",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "乔治·杜宁"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

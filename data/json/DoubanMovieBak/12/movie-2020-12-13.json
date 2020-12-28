@@ -1,0 +1,125 @@
+{
+    "comment": {
+        "content": "我爱你，但我想要你有自己的思想和感受，即便是当我拥你入怀时。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726b51",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "4c4736"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580141192.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-13",
+        "description": "《看得见风景的房间》上映35周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 43579,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.7
+        },
+        "pubdate": [
+            "1985-12-13(皇家电影专场)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2237899275.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2237899275.jpg"
+        },
+        "is_show": false,
+        "year": "1985",
+        "card_subtitle": "1985 / 英国 / 剧情 喜剧 爱情\n詹姆斯·伊沃里 导演",
+        "id": "1293926",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "title": "看得见风景的房间",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "玛吉·史密斯"
+            },
+            {
+                "name": "海伦娜·伯翰·卡特"
+            },
+            {
+                "name": "丹霍姆·艾略特"
+            },
+            {
+                "name": "朱利安·山德斯"
+            },
+            {
+                "name": "西蒙·卡洛"
+            },
+            {
+                "name": "帕特里克·戈弗雷"
+            },
+            {
+                "name": "朱迪·丹奇"
+            },
+            {
+                "name": "法比亚·德雷克"
+            },
+            {
+                "name": "琼·亨利"
+            },
+            {
+                "name": "阿曼达·沃克"
+            },
+            {
+                "name": "丹尼尔·戴-刘易斯"
+            },
+            {
+                "name": "玛丽亚·布里特涅娃"
+            },
+            {
+                "name": "罗斯玛丽·莉琪"
+            },
+            {
+                "name": "鲁珀特·格雷夫斯"
+            },
+            {
+                "name": "彼得·塞利尔"
+            },
+            {
+                "name": "米娅·法瑟吉尔"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "7771a5",
+            "_base_color": [
+                0.6833333333333332,
+                0.3125,
+                0.12549019607843137
+            ],
+            "secondary_color": "f5f4f9",
+            "_avg_color": [
+                0.5866666666666668,
+                0.18939393939393945,
+                0.5176470588235295
+            ],
+            "primary_color_dark": "5b577f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2237899275.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1293926",
+        "url": "https://movie.douban.com/subject/1293926/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1293926",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "詹姆斯·伊沃里"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

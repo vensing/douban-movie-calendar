@@ -1,0 +1,173 @@
+{
+    "comment": {
+        "content": "世界上有太多孤独的人害怕先踏出第一步。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6c726e",
+            "secondary_color": "f4f9f6",
+            "primary_color_dark": "484c49"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140987.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-16",
+        "description": "国际宽容日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 1193819,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.9
+        },
+        "pubdate": [
+            "2019-03-01(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2549177902.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2549177902.jpg"
+        },
+        "is_show": false,
+        "year": "2018",
+        "card_subtitle": "2018 / 美国 中国大陆 / 剧情 喜剧 传记\n彼得·法雷里 导演",
+        "id": "27060077",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "传记"
+        ],
+        "title": "绿皮书",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "维果·莫腾森"
+            },
+            {
+                "name": "马赫沙拉·阿里"
+            },
+            {
+                "name": "琳达·卡德里尼"
+            },
+            {
+                "name": "塞巴斯蒂安·马尼斯科"
+            },
+            {
+                "name": "迪米特·D·马里诺夫"
+            },
+            {
+                "name": "迈克·哈顿"
+            },
+            {
+                "name": "P·J·伯恩"
+            },
+            {
+                "name": "乔·柯蒂斯"
+            },
+            {
+                "name": "玛姬·尼克松"
+            },
+            {
+                "name": "冯·刘易斯"
+            },
+            {
+                "name": "乔恩·索特兰"
+            },
+            {
+                "name": "唐·斯达克"
+            },
+            {
+                "name": "安东尼·曼加诺"
+            },
+            {
+                "name": "保罗·斯隆"
+            },
+            {
+                "name": "珍娜·劳伦索"
+            },
+            {
+                "name": "肯尼斯·以色列"
+            },
+            {
+                "name": "伊克博·塞巴"
+            },
+            {
+                "name": "尼克·瓦莱隆加"
+            },
+            {
+                "name": "大卫·安"
+            },
+            {
+                "name": "迈克·切罗内"
+            },
+            {
+                "name": "杰拉尔丁·辛格"
+            },
+            {
+                "name": "马丁·巴特斯·布拉德福德"
+            },
+            {
+                "name": "格拉伦·布莱恩特·班克斯"
+            },
+            {
+                "name": "汤姆·维图"
+            },
+            {
+                "name": "夏恩·帕特洛"
+            },
+            {
+                "name": "丹尼斯·W·霍尔"
+            },
+            {
+                "name": "吉姆·克洛克"
+            },
+            {
+                "name": "戴恩·罗兹"
+            },
+            {
+                "name": "布赖恩·斯特帕尼克"
+            },
+            {
+                "name": "乔恩·迈克尔·戴维斯"
+            },
+            {
+                "name": "布莱恩·库瑞"
+            },
+            {
+                "name": "托尼亚·马尔多纳多"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "1494a5",
+            "_base_color": [
+                0.5203836930455635,
+                0.8742138364779876,
+                0.6235294117647059
+            ],
+            "secondary_color": "f4f9f9",
+            "_avg_color": [
+                0.5144927536231885,
+                0.5380116959064327,
+                0.6705882352941176
+            ],
+            "primary_color_dark": "10717f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2549177902.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/27060077",
+        "url": "https://movie.douban.com/subject/27060077/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/27060077",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "彼得·法雷里"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

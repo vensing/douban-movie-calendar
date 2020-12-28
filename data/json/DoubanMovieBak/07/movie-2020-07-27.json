@@ -1,0 +1,139 @@
+{
+    "comment": {
+        "content": "褪去天马行空的想象和大胆出位的奇情，年近古稀的导演这次对自己一生做了一次温柔的致敬回望，也给电影世界送上了又一封真诚情书。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725e49",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3f31"
+        },
+        "source": "豆瓣网友 水包酱",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140239.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-27",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 67662,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.5
+        },
+        "pubdate": [
+            "2019-03-13(马德里首映)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2593729173.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2593729173.jpg"
+        },
+        "is_show": false,
+        "year": "2019",
+        "card_subtitle": "2019 / 西班牙 法国 / 剧情 同性\n佩德罗·阿莫多瓦 导演",
+        "id": "30198539",
+        "genres": [
+            "剧情",
+            "同性"
+        ],
+        "title": "痛苦与荣耀",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "安东尼奥·班德拉斯"
+            },
+            {
+                "name": "阿谢尔·埃特塞安迪亚"
+            },
+            {
+                "name": "莱昂纳多·斯巴拉格利亚"
+            },
+            {
+                "name": "诺拉·纳瓦斯"
+            },
+            {
+                "name": "胡丽叶塔·塞拉诺"
+            },
+            {
+                "name": "塞萨尔·文森特"
+            },
+            {
+                "name": "阿瑟·弗洛雷斯"
+            },
+            {
+                "name": "佩内洛普·克鲁兹"
+            },
+            {
+                "name": "塞西莉亚·罗特"
+            },
+            {
+                "name": "苏西·桑切斯"
+            },
+            {
+                "name": "劳尔·阿雷瓦洛"
+            },
+            {
+                "name": "佩德罗·卡萨布兰科"
+            },
+            {
+                "name": "朱利安·洛佩兹"
+            },
+            {
+                "name": "伊娃·马丁"
+            },
+            {
+                "name": "马里索尔·穆里尔"
+            },
+            {
+                "name": "阿古斯丁·阿莫多瓦"
+            },
+            {
+                "name": "沃伦·比蒂"
+            },
+            {
+                "name": "埃丝特·加西亚"
+            },
+            {
+                "name": "米娜"
+            },
+            {
+                "name": "玛丽莲·梦露"
+            },
+            {
+                "name": "娜塔莉·伍德"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "721613",
+            "_base_color": [
+                0.005649717514124279,
+                0.8309859154929576,
+                0.8352941176470589
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.013409961685823757,
+                0.7767857142857143,
+                0.4392156862745098
+            ],
+            "primary_color_dark": "4c0f0c"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2593729173.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/30198539",
+        "url": "https://movie.douban.com/subject/30198539/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/30198539",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "佩德罗·阿莫多瓦"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

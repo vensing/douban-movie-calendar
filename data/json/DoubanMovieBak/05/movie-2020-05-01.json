@@ -1,0 +1,119 @@
+{
+    "comment": {
+        "content": "如果不用言语来交流，我们也许能更准确地表达自己。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725748",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3a30"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139763.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-01",
+        "description": "韦斯·安德森51岁生日",
+        "title": "劳动节"
+    },
+    "subject": {
+        "rating": {
+            "count": 45431,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.7
+        },
+        "pubdate": [
+            "2007-09-03(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1545143046.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1545143046.jpg"
+        },
+        "is_show": false,
+        "year": "2007",
+        "card_subtitle": "2007 / 美国 / 剧情 喜剧 冒险\n韦斯·安德森 导演",
+        "id": "1968438",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "冒险"
+        ],
+        "title": "穿越大吉岭",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "欧文·威尔逊"
+            },
+            {
+                "name": "艾德里安·布洛迪"
+            },
+            {
+                "name": "詹森·舒瓦兹曼"
+            },
+            {
+                "name": "阿玛拉·卡兰"
+            },
+            {
+                "name": "华莱士·沃洛达斯基"
+            },
+            {
+                "name": "瓦里丝·阿卢瓦利亚"
+            },
+            {
+                "name": "伊尔凡·可汗"
+            },
+            {
+                "name": "巴贝特·施罗德"
+            },
+            {
+                "name": "卡米拉·拉瑟福德"
+            },
+            {
+                "name": "比尔·默瑞"
+            },
+            {
+                "name": "安杰丽卡·休斯顿"
+            },
+            {
+                "name": "库玛·帕拉纳"
+            },
+            {
+                "name": "约翰·约瑟夫·加拉格尔"
+            },
+            {
+                "name": "娜塔莉·波特曼"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "5f725b",
+            "_base_color": [
+                0.3055555555555556,
+                0.2,
+                0.23529411764705882
+            ],
+            "secondary_color": "f5f9f4",
+            "_avg_color": [
+                0.28571428571428575,
+                0.22105263157894733,
+                0.37254901960784315
+            ],
+            "primary_color_dark": "3f4c3d"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1545143046.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1968438",
+        "url": "https://movie.douban.com/subject/1968438/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1968438",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "韦斯·安德森"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

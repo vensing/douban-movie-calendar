@@ -1,0 +1,122 @@
+{
+    "comment": {
+        "content": "人活着多半不知感激。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726459",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c433b"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140962.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-31",
+        "description": "",
+        "title": "万圣节"
+    },
+    "subject": {
+        "rating": {
+            "count": 395389,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "2004-01-19(圣丹斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2565332644.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2565332644.jpg"
+        },
+        "is_show": false,
+        "year": "2004",
+        "card_subtitle": "2004 / 美国 / 悬疑 惊悚 恐怖\n温子仁 导演",
+        "id": "1417598",
+        "genres": [
+            "悬疑",
+            "惊悚",
+            "恐怖"
+        ],
+        "title": "电锯惊魂",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "雷·沃纳尔"
+            },
+            {
+                "name": "加利·艾尔维斯"
+            },
+            {
+                "name": "丹尼·格洛弗"
+            },
+            {
+                "name": "肯·梁"
+            },
+            {
+                "name": "迪娜·迈耶"
+            },
+            {
+                "name": "迈克·巴特斯"
+            },
+            {
+                "name": "保罗·古德勒支"
+            },
+            {
+                "name": "迈克尔·爱默生"
+            },
+            {
+                "name": "本尼托·马丁内斯"
+            },
+            {
+                "name": "肖妮·史密斯"
+            },
+            {
+                "name": "麦肯兹·韦加"
+            },
+            {
+                "name": "莫妮卡·波特"
+            },
+            {
+                "name": "耐德·巴拉米"
+            },
+            {
+                "name": "亚丽姗卓·全"
+            },
+            {
+                "name": "托宾·贝尔"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a5a5",
+            "_base_color": [
+                0.6666666666666666,
+                0.004424778761061931,
+                0.8862745098039215
+            ],
+            "secondary_color": "f4f4f9",
+            "_avg_color": [
+                0.125,
+                0.020618556701030855,
+                0.7607843137254902
+            ],
+            "primary_color_dark": "7e7e7f"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2565332644.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1417598",
+        "url": "https://movie.douban.com/subject/1417598/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1417598",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "温子仁"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

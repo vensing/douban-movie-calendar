@@ -1,0 +1,94 @@
+{
+    "comment": {
+        "content": "彬彬有礼，有情有义；人生在世，要有志气。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59485",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f7266"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139679.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-04-02",
+        "description": "张艺谋70岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 109122,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.1
+        },
+        "pubdate": [
+            "1999-10-16(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p871456694.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p871456694.jpg"
+        },
+        "is_show": false,
+        "year": "1999",
+        "card_subtitle": "1999 / 中国大陆 / 剧情 爱情\n张艺谋 导演",
+        "id": "1294007",
+        "genres": [
+            "剧情",
+            "爱情"
+        ],
+        "title": "我的父亲母亲",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "章子怡"
+            },
+            {
+                "name": "郑昊"
+            },
+            {
+                "name": "孙红雷"
+            },
+            {
+                "name": "李滨"
+            },
+            {
+                "name": "嵇波"
+            },
+            {
+                "name": "宋运成"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a0a1",
+            "_base_color": [
+                0.9722222222222223,
+                0.03045685279187821,
+                0.7725490196078432
+            ],
+            "secondary_color": "f9f4f5",
+            "_avg_color": [
+                0.008333333333333304,
+                0.12903225806451604,
+                0.6078431372549019
+            ],
+            "primary_color_dark": "7f7b7c"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p871456694.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1294007",
+        "url": "https://movie.douban.com/subject/1294007/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1294007",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "张艺谋"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

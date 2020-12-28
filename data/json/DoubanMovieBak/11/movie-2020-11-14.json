@@ -1,0 +1,215 @@
+{
+    "comment": {
+        "content": "让我这头公牛，有个可以发威的舞台吧。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726359",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c423b"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140985.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-14",
+        "description": "《愤怒的公牛》上映40周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 44005,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.4
+        },
+        "pubdate": [
+            "1980-11-14"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2427118378.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2427118378.jpg"
+        },
+        "is_show": false,
+        "year": "1980",
+        "card_subtitle": "1980 / 美国 / 剧情 传记 运动\n马丁·斯科塞斯 导演",
+        "id": "1293155",
+        "genres": [
+            "剧情",
+            "传记",
+            "运动"
+        ],
+        "title": "愤怒的公牛",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "罗伯特·德尼罗"
+            },
+            {
+                "name": "凯西·莫拉蒂"
+            },
+            {
+                "name": "乔·佩西"
+            },
+            {
+                "name": "弗兰克·文森特"
+            },
+            {
+                "name": "尼可拉斯·科拉山多"
+            },
+            {
+                "name": "特雷萨·萨尔达娜"
+            },
+            {
+                "name": "马里奥加洛"
+            },
+            {
+                "name": "弗兰克·阿多尼斯"
+            },
+            {
+                "name": "Joseph Bono"
+            },
+            {
+                "name": "Frank Topham"
+            },
+            {
+                "name": "Lori Anne Flax"
+            },
+            {
+                "name": "查尔斯·斯科西斯"
+            },
+            {
+                "name": "Don Dunphy"
+            },
+            {
+                "name": "Bill Hanrahan"
+            },
+            {
+                "name": "Rita Bennett"
+            },
+            {
+                "name": "Bernie Allen"
+            },
+            {
+                "name": "吉恩·拉贝尔"
+            },
+            {
+                "name": "Jimmy Lennon Sr."
+            },
+            {
+                "name": "谢伊·达芬"
+            },
+            {
+                "name": "Eddie Mustafa Muhammad"
+            },
+            {
+                "name": "Coley Wallace"
+            },
+            {
+                "name": "George Latka"
+            },
+            {
+                "name": "Ken Richards"
+            },
+            {
+                "name": "Harvey Parry"
+            },
+            {
+                "name": "Ted Husing"
+            },
+            {
+                "name": "迈克尔·巴达鲁科"
+            },
+            {
+                "name": "Paul Forrest"
+            },
+            {
+                "name": "杰拉尔丁·史密斯"
+            },
+            {
+                "name": "麦迪克·马丁"
+            },
+            {
+                "name": "彼得·萨瓦奇"
+            },
+            {
+                "name": "John Arceri"
+            },
+            {
+                "name": "Allan Malamud"
+            },
+            {
+                "name": "Richard McMurray"
+            },
+            {
+                "name": "玛丽阿尔比"
+            },
+            {
+                "name": "Candy Moore"
+            },
+            {
+                "name": "Richard A. Berk"
+            },
+            {
+                "name": "Wally K. Berns"
+            },
+            {
+                "name": "Glenn Leigh Marshall"
+            },
+            {
+                "name": "马丁·斯科塞斯"
+            },
+            {
+                "name": "Vincent Barbi"
+            },
+            {
+                "name": "Scott Crawford"
+            },
+            {
+                "name": "罗伯特·达赫达赫"
+            },
+            {
+                "name": "文森特·迪保罗"
+            },
+            {
+                "name": "Bruno DiGiorgi"
+            },
+            {
+                "name": "Marty Farrell"
+            },
+            {
+                "name": "Chuck Hicks"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a4a5a5",
+            "_base_color": [
+                0.5,
+                0.005181347150259049,
+                0.7568627450980392
+            ],
+            "secondary_color": "f4f9f9",
+            "_avg_color": [
+                0.9761904761904763,
+                0.05109489051094893,
+                0.5372549019607843
+            ],
+            "primary_color_dark": "7e7f7f"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2427118378.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1293155",
+        "url": "https://movie.douban.com/subject/1293155/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1293155",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "马丁·斯科塞斯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

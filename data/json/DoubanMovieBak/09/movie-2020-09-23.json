@@ -1,0 +1,128 @@
+{
+    "comment": {
+        "content": "以我之手来抚平你的伤悲，你永远不会感到孤寂，因为我时刻与你相伴。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726353",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c4237"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140789.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-23",
+        "description": "《僵尸新娘》上映15周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 312441,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "2005-09-07(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p735361409.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p735361409.jpg"
+        },
+        "is_show": false,
+        "year": "2005",
+        "card_subtitle": "2005 / 美国 英国 / 剧情 动画 奇幻\n蒂姆·波顿 / 迈克·约翰逊 导演",
+        "id": "1309060",
+        "genres": [
+            "剧情",
+            "动画",
+            "奇幻"
+        ],
+        "title": "僵尸新娘",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "约翰尼·德普"
+            },
+            {
+                "name": "海伦娜·伯翰·卡特"
+            },
+            {
+                "name": "艾米丽·沃森"
+            },
+            {
+                "name": "崔茜·尤玛"
+            },
+            {
+                "name": "保罗·怀特豪斯"
+            },
+            {
+                "name": "乔安娜·林莉"
+            },
+            {
+                "name": "阿尔伯特·芬尼"
+            },
+            {
+                "name": "理查德·E·格兰特"
+            },
+            {
+                "name": "克里斯托弗·李"
+            },
+            {
+                "name": "迈克尔·高夫"
+            },
+            {
+                "name": "简·霍洛克斯"
+            },
+            {
+                "name": "恩·赖特尔"
+            },
+            {
+                "name": "迪普·罗伊"
+            },
+            {
+                "name": "丹尼·艾夫曼"
+            },
+            {
+                "name": "斯蒂芬·巴兰坦"
+            },
+            {
+                "name": "丽莎·凯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6a6e72",
+            "_base_color": [
+                0.5888888888888889,
+                0.06787330316742082,
+                0.8666666666666667
+            ],
+            "secondary_color": "f4f7f9",
+            "_avg_color": [
+                0.5806451612903225,
+                0.3069306930693068,
+                0.396078431372549
+            ],
+            "primary_color_dark": "47494c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p735361409.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1309060",
+        "url": "https://movie.douban.com/subject/1309060/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1309060",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "蒂姆·波顿"
+            },
+            {
+                "name": "迈克·约翰逊"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

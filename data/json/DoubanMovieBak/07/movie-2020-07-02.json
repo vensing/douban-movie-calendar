@@ -1,0 +1,106 @@
+{
+    "comment": {
+        "content": "我恨过你，但我也只有你。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59e91",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "7f796f"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140193.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-02",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 526820,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.6
+        },
+        "pubdate": [
+            "2016-09-14(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2378140502.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2378140502.jpg"
+        },
+        "is_show": false,
+        "year": "2016",
+        "card_subtitle": "2016 / 中国大陆 中国香港 / 剧情 爱情\n曾国祥 导演",
+        "id": "25827935",
+        "genres": [
+            "剧情",
+            "爱情"
+        ],
+        "title": "七月与安生",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "周冬雨"
+            },
+            {
+                "name": "马思纯"
+            },
+            {
+                "name": "李程彬"
+            },
+            {
+                "name": "李萍"
+            },
+            {
+                "name": "蔡纲"
+            },
+            {
+                "name": "蒙亭宜"
+            },
+            {
+                "name": "沙全泽"
+            },
+            {
+                "name": "姚欣言"
+            },
+            {
+                "name": "李昊芳"
+            },
+            {
+                "name": "蒋亭轩"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a53131",
+            "_base_color": [
+                0,
+                0.7043010752688171,
+                0.7294117647058823
+            ],
+            "secondary_color": "f9f4f4",
+            "_avg_color": [
+                0.9958847736625515,
+                0.4879518072289157,
+                0.6509803921568628
+            ],
+            "primary_color_dark": "7f2525"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2378140502.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/25827935",
+        "url": "https://movie.douban.com/subject/25827935/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/25827935",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "曾国祥"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

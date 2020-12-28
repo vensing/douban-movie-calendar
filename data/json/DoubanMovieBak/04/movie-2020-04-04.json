@@ -1,0 +1,115 @@
+{
+    "comment": {
+        "content": "即使一个人已经不在这世上，你仍然可以了解他们的不同侧面。只要你留心注意，他们的生活会一点一点地向你展现。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72704e",
+            "secondary_color": "f9f9f4",
+            "primary_color_dark": "4c4a34"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580139681.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-04-04",
+        "description": "",
+        "title": "清明节"
+    },
+    "subject": {
+        "rating": {
+            "count": 75484,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "2015-01-25(圣丹斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2263553175.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2263553175.jpg"
+        },
+        "is_show": false,
+        "year": "2015",
+        "card_subtitle": "2015 / 美国 / 剧情 喜剧\n阿方索·戈麦斯-雷洪 导演",
+        "id": "24325923",
+        "genres": [
+            "剧情",
+            "喜剧"
+        ],
+        "title": "我和厄尔以及将死的女孩",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "托马斯·曼"
+            },
+            {
+                "name": "奥利维亚·库克"
+            },
+            {
+                "name": "RJ·赛勒"
+            },
+            {
+                "name": "尼克·奥弗曼"
+            },
+            {
+                "name": "莫莉·香侬"
+            },
+            {
+                "name": "乔·博恩瑟"
+            },
+            {
+                "name": "康妮·布里登"
+            },
+            {
+                "name": "凯瑟琳·休斯"
+            },
+            {
+                "name": "马特·本内特"
+            },
+            {
+                "name": "休·杰克曼"
+            },
+            {
+                "name": "马萨姆·霍顿"
+            },
+            {
+                "name": "鲍比·J·汤普森"
+            },
+            {
+                "name": "切尔西·张"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "2a8ea5",
+            "_base_color": [
+                0.531152647975078,
+                0.7430555555555555,
+                0.5647058823529412
+            ],
+            "secondary_color": "f4f8f9",
+            "_avg_color": [
+                0.5254629629629629,
+                0.4768211920529801,
+                0.592156862745098
+            ],
+            "primary_color_dark": "206d7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2263553175.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/24325923",
+        "url": "https://movie.douban.com/subject/24325923/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/24325923",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "阿方索·戈麦斯-雷洪"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

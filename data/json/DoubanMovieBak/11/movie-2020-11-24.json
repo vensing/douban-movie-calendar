@@ -1,0 +1,91 @@
+{
+    "comment": {
+        "content": "我们应该记住祖国与那些伤痛、悲伤和欢乐，我们会像讲童话一样对孩子说，曾经，有一个国家……",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725944",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3b2d"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580141002.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-24",
+        "description": "埃米尔·库斯图里卡66岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 42307,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.2
+        },
+        "pubdate": [
+            "1995-04-01(南斯拉夫)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1833776334.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1833776334.jpg"
+        },
+        "is_show": false,
+        "year": "1995",
+        "card_subtitle": "1995 / 南斯拉夫 法国 德国 保加利亚 捷克 匈牙利 英国 美国 / 剧情 战争\n埃米尔·库斯图里卡 导演",
+        "id": "1292206",
+        "genres": [
+            "剧情",
+            "战争"
+        ],
+        "title": "地下",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "米基·马诺伊洛维奇"
+            },
+            {
+                "name": "拉扎尔·里斯托夫斯基"
+            },
+            {
+                "name": "米里亚娜·约科维奇"
+            },
+            {
+                "name": "斯拉夫科·斯提马科"
+            },
+            {
+                "name": "恩斯特·施托兹"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "585672",
+            "_base_color": [
+                0.6794871794871796,
+                0.24528301886792458,
+                0.20784313725490197
+            ],
+            "secondary_color": "f5f4f9",
+            "_avg_color": [
+                0.9666666666666667,
+                0.2142857142857143,
+                0.27450980392156865
+            ],
+            "primary_color_dark": "3b394c"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1833776334.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292206",
+        "url": "https://movie.douban.com/subject/1292206/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292206",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "埃米尔·库斯图里卡"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

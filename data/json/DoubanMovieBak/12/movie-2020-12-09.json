@@ -1,0 +1,88 @@
+{
+    "comment": {
+        "content": "这样坐在你身边，就是永恒。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726856",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "4c4539"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580141182.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-09",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 3409,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.8
+        },
+        "pubdate": [
+            "1984-11-21"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1926351317.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1926351317.jpg"
+        },
+        "is_show": false,
+        "year": "1984",
+        "card_subtitle": "1984 / 法国 / 剧情 爱情\n莱奥·卡拉克斯 导演",
+        "id": "1306842",
+        "genres": [
+            "剧情",
+            "爱情"
+        ],
+        "title": "男孩遇见女孩",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "德尼·拉旺"
+            },
+            {
+                "name": "米雷耶·佩里耶"
+            },
+            {
+                "name": "Carroll Brooks"
+            },
+            {
+                "name": "Elie Poicard"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "454372",
+            "_base_color": [
+                0.6742424242424242,
+                0.41509433962264153,
+                0.20784313725490197
+            ],
+            "secondary_color": "f5f4f9",
+            "_avg_color": [
+                0.6929824561403509,
+                0.2183908045977012,
+                0.3411764705882353
+            ],
+            "primary_color_dark": "2e2c4c"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1926351317.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1306842",
+        "url": "https://movie.douban.com/subject/1306842/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1306842",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "莱奥·卡拉克斯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

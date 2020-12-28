@@ -1,0 +1,115 @@
+{
+    "comment": {
+        "content": "用剃刀会痛，跳河太潮湿。盐酸会弄脏衣服，吃药会痉挛。枪不合法，上吊靠不住。瓦斯太臭，干脆还是偷生吧。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726150",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c4135"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140008.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-04",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 30819,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "1999-12-08(美国首映)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1234743128.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1234743128.jpg"
+        },
+        "is_show": false,
+        "year": "1999",
+        "card_subtitle": "1999 / 美国 德国 / 传记 剧情\n詹姆斯·曼高德 导演",
+        "id": "1296185",
+        "genres": [
+            "传记",
+            "剧情"
+        ],
+        "title": "移魂女郎",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "薇诺娜·瑞德"
+            },
+            {
+                "name": "安吉丽娜·朱莉"
+            },
+            {
+                "name": "克里·杜瓦尔"
+            },
+            {
+                "name": "布莱特妮·墨菲"
+            },
+            {
+                "name": "伊丽莎白·莫斯"
+            },
+            {
+                "name": "杰瑞德·莱托"
+            },
+            {
+                "name": "杰弗里·塔伯"
+            },
+            {
+                "name": "瓦妮莎·雷德格瑞夫"
+            },
+            {
+                "name": "乌比·戈德堡"
+            },
+            {
+                "name": "安吉拉·贝蒂斯"
+            },
+            {
+                "name": "吉利安·阿美娜特"
+            },
+            {
+                "name": "克莉丝汀·梅尔斯"
+            },
+            {
+                "name": "乔安娜·科恩斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59b98",
+            "_base_color": [
+                0.037037037037037125,
+                0.07894736842105272,
+                0.8941176470588236
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.03448275862068969,
+                0.14500000000000005,
+                0.7843137254901961
+            ],
+            "primary_color_dark": "7f7775"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1234743128.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1296185",
+        "url": "https://movie.douban.com/subject/1296185/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1296185",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "詹姆斯·曼高德"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "comment": {
+        "content": "受了这些苦，一定是为了什么值得的东西。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5886b",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f6952"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140967.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-03",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 83054,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "2009-09-24"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p860156043.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p860156043.jpg"
+        },
+        "is_show": false,
+        "year": "2009",
+        "card_subtitle": "2009 / 英国 德国 奥地利 法国 / 剧情 传记\n雪莉·霍曼 导演",
+        "id": "3430271",
+        "genres": [
+            "剧情",
+            "传记"
+        ],
+        "title": "沙漠之花",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "Soraya Omar-Scego"
+            },
+            {
+                "name": "Idriss Abdillahi Houfaneh"
+            },
+            {
+                "name": "Awa Saïd Darar"
+            },
+            {
+                "name": "Roun Daher Aïnan"
+            },
+            {
+                "name": "Osman Aden Dalieg"
+            },
+            {
+                "name": "莉亚·科贝德"
+            },
+            {
+                "name": "莎莉·霍金斯"
+            },
+            {
+                "name": "梅拉·沙尔"
+            },
+            {
+                "name": "Anna Hilgedieck"
+            },
+            {
+                "name": "Lucrezia Phantazia"
+            },
+            {
+                "name": "克雷格·帕金森"
+            },
+            {
+                "name": "Matt Kaufman"
+            },
+            {
+                "name": "蒂莫西·斯波"
+            },
+            {
+                "name": "Prashant Prabhakar"
+            },
+            {
+                "name": "安东尼·麦凯"
+            },
+            {
+                "name": "提姆·塞菲"
+            },
+            {
+                "name": "特蕾莎·邱吉尔"
+            },
+            {
+                "name": "Eckart Friz"
+            },
+            {
+                "name": "茱丽叶特·斯蒂文森"
+            },
+            {
+                "name": "奈杰尔·贝茨"
+            },
+            {
+                "name": "阿纳斯塔西娅·希尔"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58a0c",
+            "_base_color": [
+                0.13703703703703704,
+                0.9221311475409837,
+                0.9568627450980393
+            ],
+            "secondary_color": "f9f9f4",
+            "_avg_color": [
+                0.1151685393258427,
+                0.8725490196078431,
+                0.8
+            ],
+            "primary_color_dark": "7f6a09"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p860156043.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3430271",
+        "url": "https://movie.douban.com/subject/3430271/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3430271",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "雪莉·霍曼"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

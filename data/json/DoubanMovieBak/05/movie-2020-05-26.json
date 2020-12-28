@@ -1,0 +1,109 @@
+{
+    "comment": {
+        "content": "我们并不是坏人，我们只是来自一个不好的地方。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725c48",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3d30"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139804.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-26",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 83547,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.3
+        },
+        "pubdate": [
+            "2011-09-04(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1499701469.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1499701469.jpg"
+        },
+        "is_show": false,
+        "year": "2011",
+        "card_subtitle": "2011 / 英国 / 剧情 情色\n史蒂夫·麦奎因 导演",
+        "id": "5360890",
+        "genres": [
+            "剧情",
+            "情色"
+        ],
+        "title": "羞耻",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "迈克尔·法斯宾德"
+            },
+            {
+                "name": "凯瑞·穆里根"
+            },
+            {
+                "name": "妮可·贝哈瑞 "
+            },
+            {
+                "name": "露西·沃特斯"
+            },
+            {
+                "name": "詹姆斯·戴尔"
+            },
+            {
+                "name": "亚历克斯·马内塔"
+            },
+            {
+                "name": "汉娜·韦尔"
+            },
+            {
+                "name": "玛丽-安格·拉米雷斯"
+            },
+            {
+                "name": "伊丽莎白·马苏茨"
+            },
+            {
+                "name": "玛尔塔·米兰斯"
+            },
+            {
+                "name": "罗伯特·蒙塔诺"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "2075a5",
+            "_base_color": [
+                0.5604575163398692,
+                0.8031496062992126,
+                0.4980392156862745
+            ],
+            "secondary_color": "f4f8f9",
+            "_avg_color": [
+                0.5577777777777778,
+                0.5474452554744524,
+                0.5372549019607843
+            ],
+            "primary_color_dark": "195a7f"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1499701469.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/5360890",
+        "url": "https://movie.douban.com/subject/5360890/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/5360890",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "史蒂夫·麦奎因"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

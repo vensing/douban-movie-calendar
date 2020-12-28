@@ -1,0 +1,116 @@
+{
+    "comment": {
+        "content": "三年、五年以后，甚至更久更久以后，我们会变成什么样的大人呢？",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "727272",
+            "secondary_color": "f4f4f9",
+            "primary_color_dark": "4c4c4c"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140593.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-25",
+        "description": "",
+        "title": "七夕节"
+    },
+    "subject": {
+        "rating": {
+            "count": 350404,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.3
+        },
+        "pubdate": [
+            "2002-09-27(中国台湾)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2562341754.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2562341754.jpg"
+        },
+        "is_show": false,
+        "year": "2002",
+        "card_subtitle": "2002 / 中国台湾 法国 / 剧情 爱情 同性\n易智言 导演",
+        "id": "1308575",
+        "genres": [
+            "剧情",
+            "爱情",
+            "同性"
+        ],
+        "title": "蓝色大门",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "陈柏霖"
+            },
+            {
+                "name": "桂纶镁"
+            },
+            {
+                "name": "梁又琳"
+            },
+            {
+                "name": "仇政"
+            },
+            {
+                "name": "明金成"
+            },
+            {
+                "name": "林贤能"
+            },
+            {
+                "name": "黄江丰"
+            },
+            {
+                "name": "是元介"
+            },
+            {
+                "name": "姚元浩"
+            },
+            {
+                "name": "游智炜"
+            },
+            {
+                "name": "翁桂邦"
+            },
+            {
+                "name": "夏绍虞"
+            },
+            {
+                "name": "陈梦萱"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726857",
+            "_base_color": [
+                0.10416666666666667,
+                0.23529411764705882,
+                0.13333333333333333
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.058823529411764795,
+                0.1683168316831683,
+                0.396078431372549
+            ],
+            "primary_color_dark": "4c453a"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2562341754.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1308575",
+        "url": "https://movie.douban.com/subject/1308575/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1308575",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "易智言"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

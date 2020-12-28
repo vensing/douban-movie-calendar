@@ -1,0 +1,174 @@
+{
+    "comment": {
+        "content": "我们是生灵，不是野兽，你不应该被你的情感支配。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6d726a",
+            "secondary_color": "f6f9f4",
+            "primary_color_dark": "494c46"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140596.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-26",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 15860,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.3
+        },
+        "pubdate": [
+            "2012-09-01(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1861100192.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1861100192.jpg"
+        },
+        "is_show": false,
+        "year": "2012",
+        "card_subtitle": "2012 / 美国 / 剧情\n保罗·托马斯·安德森 导演",
+        "id": "6433905",
+        "genres": [
+            "剧情"
+        ],
+        "title": "大师",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "华金·菲尼克斯"
+            },
+            {
+                "name": "菲利普·塞默·霍夫曼"
+            },
+            {
+                "name": "艾米·亚当斯"
+            },
+            {
+                "name": "杰夫瑞·W·詹金斯"
+            },
+            {
+                "name": "艾米·弗格森"
+            },
+            {
+                "name": "W·厄尔·布朗"
+            },
+            {
+                "name": "凯蒂·宝蓝德"
+            },
+            {
+                "name": "杰西·普莱蒙"
+            },
+            {
+                "name": "安拜·柴尔德斯"
+            },
+            {
+                "name": "拉米·马雷克"
+            },
+            {
+                "name": "祖舒华·克洛斯"
+            },
+            {
+                "name": "吉莉恩·贝尔"
+            },
+            {
+                "name": "凯文·J·沃尔什"
+            },
+            {
+                "name": "莱娜·恩卓"
+            },
+            {
+                "name": "麦迪逊·贝蒂"
+            },
+            {
+                "name": "凯文·J·奥康纳"
+            },
+            {
+                "name": "帕蒂·麦克马科"
+            },
+            {
+                "name": "吉尔·安德烈"
+            },
+            {
+                "name": "克里斯托弗·埃文·韦尔奇"
+            },
+            {
+                "name": "劳拉·邓恩"
+            },
+            {
+                "name": "巴洛·雅克布斯"
+            },
+            {
+                "name": "菲奥娜·道里夫"
+            },
+            {
+                "name": "贝莉·霍普金斯"
+            },
+            {
+                "name": "Sarah Klaren"
+            },
+            {
+                "name": "大卫·沃肖夫斯基"
+            },
+            {
+                "name": "金伯莉·埃布尔斯·因德拉"
+            },
+            {
+                "name": "Eban Schletter"
+            },
+            {
+                "name": "梅洛拉·沃尔特斯"
+            },
+            {
+                "name": "拿破仑·瑞恩"
+            },
+            {
+                "name": "詹妮花·妮拉·帕"
+            },
+            {
+                "name": "罗伯特·阿米克"
+            },
+            {
+                "name": "James Barbour"
+            },
+            {
+                "name": "Dan Brown"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "2458a5",
+            "_base_color": [
+                0.5991735537190083,
+                0.7806451612903226,
+                0.6078431372549019
+            ],
+            "secondary_color": "f4f6f9",
+            "_avg_color": [
+                0.5912280701754385,
+                0.5491329479768786,
+                0.6784313725490196
+            ],
+            "primary_color_dark": "1b447f"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1861100192.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/6433905",
+        "url": "https://movie.douban.com/subject/6433905/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/6433905",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "保罗·托马斯·安德森"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

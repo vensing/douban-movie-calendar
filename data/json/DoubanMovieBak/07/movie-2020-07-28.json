@@ -1,0 +1,109 @@
+{
+    "comment": {
+        "content": "——“真的朋友不会让你送死的，汉斯。” \n——“可是变态的朋友就是会，是你觉得变态有意思的。”",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a0a1",
+            "secondary_color": "f9f4f5",
+            "primary_color_dark": "7f7b7c"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140242.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-28",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 68523,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.7
+        },
+        "pubdate": [
+            "2012-10-12(美国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1748021684.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1748021684.jpg"
+        },
+        "is_show": false,
+        "year": "2012",
+        "card_subtitle": "2012 / 英国 美国 / 喜剧 犯罪\n马丁·麦克唐纳 导演",
+        "id": "6753166",
+        "genres": [
+            "喜剧",
+            "犯罪"
+        ],
+        "title": "七个神经病",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "科林·法瑞尔"
+            },
+            {
+                "name": "山姆·洛克威尔"
+            },
+            {
+                "name": "伍迪·哈里森"
+            },
+            {
+                "name": "克里斯托弗·沃肯"
+            },
+            {
+                "name": "艾比·考尼什"
+            },
+            {
+                "name": "海伦娜·马特森"
+            },
+            {
+                "name": "迈克尔·斯图巴"
+            },
+            {
+                "name": "迈克尔·皮特"
+            },
+            {
+                "name": "哈利·戴恩·斯坦通"
+            },
+            {
+                "name": "加布蕾·丝迪贝"
+            },
+            {
+                "name": "欧嘉·柯瑞兰寇"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a566",
+            "_base_color": [
+                0.16666666666666666,
+                0.38235294117647056,
+                0.13333333333333333
+            ],
+            "secondary_color": "f9f9f4",
+            "_avg_color": [
+                0.19351230425055924,
+                0.886904761904762,
+                0.6588235294117647
+            ],
+            "primary_color_dark": "7f7f4e"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1748021684.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/6753166",
+        "url": "https://movie.douban.com/subject/6753166/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/6753166",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "马丁·麦克唐纳"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "comment": {
+        "content": "——“狗只能遵从天性，为什么不该原谅它们？”\n——“狗可以学会很多事，但每次都原谅它们就不行了。”",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724a35",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3123"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580139761.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-04-30",
+        "description": "拉斯·冯·提尔64岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 122440,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.4
+        },
+        "pubdate": [
+            "2003-05-19(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2457169802.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2457169802.jpg"
+        },
+        "is_show": false,
+        "year": "2003",
+        "card_subtitle": "2003 / 丹麦 瑞典 挪威 芬兰 英国 法国 德国 荷兰 意大利 / 剧情 悬疑 惊悚\n拉斯·冯·提尔 导演",
+        "id": "1298759",
+        "genres": [
+            "剧情",
+            "悬疑",
+            "惊悚"
+        ],
+        "title": "狗镇",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "妮可·基德曼"
+            },
+            {
+                "name": "哈里特·安德森"
+            },
+            {
+                "name": "劳伦·白考尔"
+            },
+            {
+                "name": "保罗·贝坦尼"
+            },
+            {
+                "name": "詹姆斯·肯恩"
+            },
+            {
+                "name": "派翠西娅·克拉克森"
+            },
+            {
+                "name": "杰瑞米·戴维斯"
+            },
+            {
+                "name": "菲利普·贝克·霍尔"
+            },
+            {
+                "name": "汤姆·霍夫曼"
+            },
+            {
+                "name": "希芳·法隆"
+            },
+            {
+                "name": "约翰·赫特"
+            },
+            {
+                "name": "科洛·塞维尼"
+            },
+            {
+                "name": "斯特兰·斯卡斯加德"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724434",
+            "_base_color": [
+                0.041666666666666664,
+                0.5405405405405406,
+                0.1450980392156863
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.06296296296296298,
+                0.569620253164557,
+                0.30980392156862746
+            ],
+            "primary_color_dark": "4c2d23"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2457169802.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1298759",
+        "url": "https://movie.douban.com/subject/1298759/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1298759",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "拉斯·冯·提尔"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

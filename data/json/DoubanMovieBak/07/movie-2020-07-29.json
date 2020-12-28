@@ -1,0 +1,122 @@
+{
+    "comment": {
+        "content": "是不是真的并不重要，关键是他们认为这是真的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725e58",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3f3b"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140532.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-29",
+        "description": "《万能钥匙》上映15周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 278277,
+            "max": 10,
+            "star_count": 4,
+            "value": 8
+        },
+        "pubdate": [
+            "2005-07-29(英国)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p810384382.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p810384382.jpg"
+        },
+        "is_show": false,
+        "year": "2005",
+        "card_subtitle": "2005 / 美国 德国 / 剧情 悬疑 恐怖\n伊恩·索夫特雷 导演",
+        "id": "1418752",
+        "genres": [
+            "剧情",
+            "悬疑",
+            "恐怖"
+        ],
+        "title": "万能钥匙",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "凯特·哈德森"
+            },
+            {
+                "name": "吉娜·罗兰兹"
+            },
+            {
+                "name": "约翰·赫特"
+            },
+            {
+                "name": "彼得·萨斯加德"
+            },
+            {
+                "name": "乔伊·布赖恩特"
+            },
+            {
+                "name": "麦克辛·巴内特"
+            },
+            {
+                "name": "法隆尼·R·哈里斯"
+            },
+            {
+                "name": "马龙·泽瑟"
+            },
+            {
+                "name": "安·达芮普"
+            },
+            {
+                "name": "迪内·泰勒"
+            },
+            {
+                "name": "楚拉·M·马库斯"
+            },
+            {
+                "name": "松雅·斯塔森"
+            },
+            {
+                "name": "托马斯·尤斯卡利"
+            },
+            {
+                "name": "珍·阿普加"
+            },
+            {
+                "name": "弗里斯特·兰蒂斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a4a5a4",
+            "_base_color": [
+                0.3333333333333333,
+                0.009049773755656205,
+                0.8666666666666667
+            ],
+            "secondary_color": "f4f9f4",
+            "_avg_color": [
+                0.27777777777777773,
+                0.019480519480519414,
+                0.6039215686274509
+            ],
+            "primary_color_dark": "7e7f7e"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p810384382.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1418752",
+        "url": "https://movie.douban.com/subject/1418752/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1418752",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "伊恩·索夫特雷"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

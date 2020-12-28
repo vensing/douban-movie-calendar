@@ -1,0 +1,248 @@
+{
+    "comment": {
+        "content": "人类为了活下去，什么都做得出来。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58c6e",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f6c55"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140231.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-22",
+        "description": "《逃出克隆岛》上映15周年",
+        "title": "大暑"
+    },
+    "subject": {
+        "rating": {
+            "count": 102014,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.2
+        },
+        "pubdate": [
+            "2005-07-22(美国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2238267655.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2238267655.jpg"
+        },
+        "is_show": false,
+        "year": "2005",
+        "card_subtitle": "2005 / 美国 / 动作 爱情 科幻\n迈克尔·贝 导演",
+        "id": "1395776",
+        "genres": [
+            "动作",
+            "爱情",
+            "科幻"
+        ],
+        "title": "逃出克隆岛",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "伊万·麦克格雷格"
+            },
+            {
+                "name": "斯嘉丽·约翰逊"
+            },
+            {
+                "name": "杰曼·翰苏"
+            },
+            {
+                "name": "肖恩·宾"
+            },
+            {
+                "name": "史蒂夫·布西密"
+            },
+            {
+                "name": "迈克·克拉克·邓肯"
+            },
+            {
+                "name": "伊桑·菲利普斯"
+            },
+            {
+                "name": "布赖恩·斯特帕尼克"
+            },
+            {
+                "name": "诺阿·蒂什比"
+            },
+            {
+                "name": "杰米·麦克布莱德"
+            },
+            {
+                "name": "凯文·麦克克科尔"
+            },
+            {
+                "name": "凯瑟琳·罗斯·帕金斯"
+            },
+            {
+                "name": "麦克斯·贝克"
+            },
+            {
+                "name": "兰迪·奥格斯比"
+            },
+            {
+                "name": "伊薇特·尼科尔·布朗"
+            },
+            {
+                "name": "格伦·莫肖尔"
+            },
+            {
+                "name": "迈克尔·卡纳万"
+            },
+            {
+                "name": "吉米·斯玛古拉"
+            },
+            {
+                "name": "本·托普林"
+            },
+            {
+                "name": "冈萨洛·门内德斯"
+            },
+            {
+                "name": "雷·昔佛"
+            },
+            {
+                "name": "马里·帕特·格里森"
+            },
+            {
+                "name": "希欧班·芬恩"
+            },
+            {
+                "name": "Olivia Tracey"
+            },
+            {
+                "name": "Whitney Dylan"
+            },
+            {
+                "name": "米琪·马丁"
+            },
+            {
+                "name": "Shelby Leverington"
+            },
+            {
+                "name": "Richard V. Licata"
+            },
+            {
+                "name": "阿莱克斯·卡特"
+            },
+            {
+                "name": "凯文·丹尼尔斯"
+            },
+            {
+                "name": "格兰特·加里森"
+            },
+            {
+                "name": "布莱恩·雷科内尔"
+            },
+            {
+                "name": "马蒂·帕帕奇安"
+            },
+            {
+                "name": "Phil Somerville"
+            },
+            {
+                "name": "瑞安泰治"
+            },
+            {
+                "name": "余朝汉"
+            },
+            {
+                "name": "肖妮·史密斯"
+            },
+            {
+                "name": "克里斯·埃里斯"
+            },
+            {
+                "name": "唐·迈克尔·保罗"
+            },
+            {
+                "name": "艾瑞克·斯通斯崔特"
+            },
+            {
+                "name": "特伦特·福特"
+            },
+            {
+                "name": "马克·克里斯托弗·劳伦斯"
+            },
+            {
+                "name": "约翰·安顿"
+            },
+            {
+                "name": "Paul Beller"
+            },
+            {
+                "name": "Gene Borthwick"
+            },
+            {
+                "name": "德里克布伦纳"
+            },
+            {
+                "name": "乔·布卡罗三世"
+            },
+            {
+                "name": "玛丽·卡斯特罗"
+            },
+            {
+                "name": "Brian Ceponis"
+            },
+            {
+                "name": "Matthew Cieslinski"
+            },
+            {
+                "name": "金·寇兹"
+            },
+            {
+                "name": "汤姆·埃沃雷特"
+            },
+            {
+                "name": "Phillip Gramm"
+            },
+            {
+                "name": "贾斯汀·罗杰斯豪尔"
+            },
+            {
+                "name": "J·P·马诺克斯"
+            },
+            {
+                "name": "马特·麦科姆"
+            },
+            {
+                "name": "艾赛亚·穆斯塔法"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726144",
+            "_base_color": [
+                0.10493827160493825,
+                0.40703517587939697,
+                0.7803921568627451
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.0925925925925926,
+                0.3802816901408451,
+                0.2784313725490196
+            ],
+            "primary_color_dark": "4c402d"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2238267655.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1395776",
+        "url": "https://movie.douban.com/subject/1395776/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1395776",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "迈克尔·贝"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

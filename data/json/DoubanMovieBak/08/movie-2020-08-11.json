@@ -1,0 +1,98 @@
+{
+    "comment": {
+        "content": "这个城市有十多万条街道，你不需要全部都熟悉。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72685d",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c453e"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140564.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-11",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 63520,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.4
+        },
+        "pubdate": [
+            "2011-05-20(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1221329447.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1221329447.jpg"
+        },
+        "is_show": false,
+        "year": "2011",
+        "card_subtitle": "2011 / 美国 / 剧情 动作 犯罪\n尼古拉斯·温丁·雷弗恩 导演",
+        "id": "2010972",
+        "genres": [
+            "剧情",
+            "动作",
+            "犯罪"
+        ],
+        "title": "亡命驾驶",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "瑞恩·高斯林"
+            },
+            {
+                "name": "凯瑞·穆里根"
+            },
+            {
+                "name": "朗·普尔曼"
+            },
+            {
+                "name": "克里斯蒂娜·亨德里克斯"
+            },
+            {
+                "name": "艾伯特·布鲁克斯"
+            },
+            {
+                "name": "奥斯卡·伊萨克"
+            },
+            {
+                "name": "布莱恩·科兰斯顿"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726f64",
+            "_base_color": [
+                0.13461538461538458,
+                0.126829268292683,
+                0.803921568627451
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.3333333333333333,
+                0.09259259259259253,
+                0.21176470588235294
+            ],
+            "primary_color_dark": "4c4a42"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1221329447.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/2010972",
+        "url": "https://movie.douban.com/subject/2010972/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/2010972",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "尼古拉斯·温丁·雷弗恩"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

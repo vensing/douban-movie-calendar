@@ -1,0 +1,134 @@
+{
+    "comment": {
+        "content": "我们的生命都有尽头，也许没人真正明白自己的遭遇，也没人知道自己是否已活得足够。We",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726258",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c413b"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140566.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-12",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 75679,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.7
+        },
+        "pubdate": [
+            "2010-09-03(特柳赖德电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p564143648.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p564143648.jpg"
+        },
+        "is_show": false,
+        "year": "2010",
+        "card_subtitle": "2010 / 英国 美国 / 剧情 爱情 科幻\n马克·罗曼尼克 导演",
+        "id": "3321409",
+        "genres": [
+            "剧情",
+            "爱情",
+            "科幻"
+        ],
+        "title": "别让我走",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "凯瑞·穆里根"
+            },
+            {
+                "name": "安德鲁·加菲尔德"
+            },
+            {
+                "name": "伊兹·米克尔-斯莫"
+            },
+            {
+                "name": "凯拉·奈特莉"
+            },
+            {
+                "name": "查理·罗"
+            },
+            {
+                "name": "艾拉·珀内尔"
+            },
+            {
+                "name": "夏洛特·兰普林"
+            },
+            {
+                "name": "莎莉·霍金斯"
+            },
+            {
+                "name": "凯特·布兹·伦纳"
+            },
+            {
+                "name": "汉娜·夏普"
+            },
+            {
+                "name": "克里斯蒂娜·凯拉菲尔"
+            },
+            {
+                "name": "奥利弗·帕森斯"
+            },
+            {
+                "name": "卢克·布莱恩特"
+            },
+            {
+                "name": "菲德利斯·摩根"
+            },
+            {
+                "name": "达米安·托马斯"
+            },
+            {
+                "name": "娜塔莉·理查德"
+            },
+            {
+                "name": "大卫·斯特恩"
+            },
+            {
+                "name": "安德丽娅·赖斯伯勒"
+            },
+            {
+                "name": "多姆纳尔·格里森"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59f90",
+            "_base_color": [
+                0.11805555555555554,
+                0.13114754098360656,
+                0.7176470588235294
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.09848484848484855,
+                0.162962962962963,
+                0.5294117647058824
+            ],
+            "primary_color_dark": "7f7a6e"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p564143648.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3321409",
+        "url": "https://movie.douban.com/subject/3321409/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3321409",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "马克·罗曼尼克"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

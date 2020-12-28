@@ -1,0 +1,95 @@
+{
+    "comment": {
+        "content": "尊重生命并不等于懦弱，漠视生命也不代表强大。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724e3c",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3428"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580139570.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-13",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 242549,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.1
+        },
+        "pubdate": [
+            "2005-01-28(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2167017148.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2167017148.jpg"
+        },
+        "is_show": false,
+        "year": "2004",
+        "card_subtitle": "2004 / 美国 / 喜剧 动作 动画\n布拉德·伯德 导演",
+        "id": "1291577",
+        "genres": [
+            "喜剧",
+            "动作",
+            "动画"
+        ],
+        "title": "超人总动员",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "格雷格·T·尼尔森"
+            },
+            {
+                "name": "霍利·亨特"
+            },
+            {
+                "name": "塞缪尔·杰克逊"
+            },
+            {
+                "name": "杰森·李"
+            },
+            {
+                "name": "泰迪·牛顿"
+            },
+            {
+                "name": "华莱士·肖恩"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a53026",
+            "_base_color": [
+                0.01282051282051283,
+                0.7647058823529412,
+                0.2
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.03598484848484853,
+                0.676923076923077,
+                0.5098039215686274
+            ],
+            "primary_color_dark": "7f251d"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2167017148.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291577",
+        "url": "https://movie.douban.com/subject/1291577/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291577",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "布拉德·伯德"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

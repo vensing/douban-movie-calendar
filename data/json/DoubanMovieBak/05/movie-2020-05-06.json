@@ -1,0 +1,143 @@
+{
+    "comment": {
+        "content": "报仇可以消气，报仇有益健康，但是痛苦将会是永久的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72675c",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c453d"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139772.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-06",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 234357,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "2003-11-21(韩国)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2166892850.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2166892850.jpg"
+        },
+        "is_show": false,
+        "year": "2003",
+        "card_subtitle": "2003 / 韩国 / 剧情 动作 悬疑\n朴赞郁 导演",
+        "id": "1308865",
+        "genres": [
+            "剧情",
+            "动作",
+            "悬疑"
+        ],
+        "title": "老男孩",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "崔岷植"
+            },
+            {
+                "name": "刘智泰"
+            },
+            {
+                "name": "姜惠贞"
+            },
+            {
+                "name": "金秉玉"
+            },
+            {
+                "name": "吴达洙"
+            },
+            {
+                "name": "李胜欣"
+            },
+            {
+                "name": "尹珍序"
+            },
+            {
+                "name": "池大汉"
+            },
+            {
+                "name": "吴泰景"
+            },
+            {
+                "name": "柳演锡"
+            },
+            {
+                "name": "李代延"
+            },
+            {
+                "name": "吴光禄"
+            },
+            {
+                "name": "朴明申"
+            },
+            {
+                "name": "龙伊"
+            },
+            {
+                "name": "玛丽·德文"
+            },
+            {
+                "name": "克里斯平·弗里曼"
+            },
+            {
+                "name": "史蒂夫·克莱默"
+            },
+            {
+                "name": "雪莉·琳恩"
+            },
+            {
+                "name": "迈克尔·麦康诺希"
+            },
+            {
+                "name": "斯蒂芬妮·社"
+            },
+            {
+                "name": "柯克·桑顿"
+            },
+            {
+                "name": "凯瑞·华格伦"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "616172",
+            "_base_color": [
+                0.6666666666666666,
+                0.15384615384615385,
+                0.050980392156862744
+            ],
+            "secondary_color": "f4f4f9",
+            "_avg_color": [
+                0.6250000000000001,
+                0.0851063829787234,
+                0.1843137254901961
+            ],
+            "primary_color_dark": "40404c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2166892850.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1308865",
+        "url": "https://movie.douban.com/subject/1308865/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1308865",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "朴赞郁"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

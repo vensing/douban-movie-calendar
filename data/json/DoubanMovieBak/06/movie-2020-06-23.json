@@ -1,0 +1,92 @@
+{
+    "comment": {
+        "content": "如果你在比赛时就已经深知你会赢，那你赢的胜算就很大了。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726257",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c413a"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140050.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-23",
+        "description": "国际奥林匹克日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 22384,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.4
+        },
+        "pubdate": [
+            "2014-05-19(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2208497877.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2208497877.jpg"
+        },
+        "is_show": false,
+        "year": "2014",
+        "card_subtitle": "2014 / 美国 / 剧情 传记 运动\n贝尼特·米勒 导演",
+        "id": "3011022",
+        "genres": [
+            "剧情",
+            "传记",
+            "运动"
+        ],
+        "title": "狐狸猎手",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "史蒂夫·卡瑞尔"
+            },
+            {
+                "name": "查宁·塔图姆"
+            },
+            {
+                "name": "马克·鲁弗洛"
+            },
+            {
+                "name": "西耶娜·米勒"
+            },
+            {
+                "name": "瓦妮莎·雷德格瑞夫"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725653",
+            "_base_color": [
+                0.018518518518518507,
+                0.2727272727272728,
+                0.12941176470588237
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.05952380952380957,
+                0.23333333333333334,
+                0.23529411764705882
+            ],
+            "primary_color_dark": "4c3937"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2208497877.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3011022",
+        "url": "https://movie.douban.com/subject/3011022/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3011022",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "贝尼特·米勒"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

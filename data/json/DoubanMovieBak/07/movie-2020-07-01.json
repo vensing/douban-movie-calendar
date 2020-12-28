@@ -1,0 +1,169 @@
+{
+    "comment": {
+        "content": "我终日游荡在这栋楼的周围，像只热铁皮屋顶上的猫，焦躁不安地等候着画中人的出现。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6f9da5",
+            "secondary_color": "f4f9f9",
+            "primary_color_dark": "56797f"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140192.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-01",
+        "description": "香港回归纪念日",
+        "title": "建党节"
+    },
+    "subject": {
+        "rating": {
+            "count": 484954,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.8
+        },
+        "pubdate": [
+            "1995-06-28(中国香港)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2564685215.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2564685215.jpg"
+        },
+        "is_show": false,
+        "year": "1994",
+        "card_subtitle": "1994 / 中国大陆 中国香港 / 剧情 爱情\n姜文 导演",
+        "id": "1291875",
+        "genres": [
+            "剧情",
+            "爱情"
+        ],
+        "title": "阳光灿烂的日子",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "夏雨"
+            },
+            {
+                "name": "宁静"
+            },
+            {
+                "name": "陶虹"
+            },
+            {
+                "name": "耿乐"
+            },
+            {
+                "name": "斯琴高娃"
+            },
+            {
+                "name": "冯小刚"
+            },
+            {
+                "name": "刘小宁"
+            },
+            {
+                "name": "姜文"
+            },
+            {
+                "name": "王学圻"
+            },
+            {
+                "name": "王朔"
+            },
+            {
+                "name": "尚楠"
+            },
+            {
+                "name": "方化"
+            },
+            {
+                "name": "代少波"
+            },
+            {
+                "name": "王海"
+            },
+            {
+                "name": "姚二嘎"
+            },
+            {
+                "name": "吴淑昆"
+            },
+            {
+                "name": "左小青"
+            },
+            {
+                "name": "韩冬"
+            },
+            {
+                "name": "孙靖"
+            },
+            {
+                "name": "刘斌"
+            },
+            {
+                "name": "张维"
+            },
+            {
+                "name": "杨彤林"
+            },
+            {
+                "name": "王海"
+            },
+            {
+                "name": "王福"
+            },
+            {
+                "name": "胡贝贝"
+            },
+            {
+                "name": "高保成"
+            },
+            {
+                "name": "吴淑琨"
+            },
+            {
+                "name": "张华"
+            },
+            {
+                "name": "二勇"
+            },
+            {
+                "name": "烈子"
+            },
+            {
+                "name": "陈伟"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "5e78a5",
+            "_base_color": [
+                0.6065292096219931,
+                0.42731277533039647,
+                0.8901960784313725
+            ],
+            "secondary_color": "f4f6f9",
+            "_avg_color": [
+                0.625,
+                0.2553191489361702,
+                0.7372549019607844
+            ],
+            "primary_color_dark": "495c7f"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2564685215.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291875",
+        "url": "https://movie.douban.com/subject/1291875/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291875",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "姜文"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

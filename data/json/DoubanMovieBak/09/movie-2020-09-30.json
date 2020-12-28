@@ -1,0 +1,117 @@
+{
+    "comment": {
+        "content": "嫁给啥人你就不要问了，嫁人的事情是顶难了。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726249",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c4131"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140850.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-30",
+        "description": "张爱玲诞辰100周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 50826,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "1998-10-01(中国台湾)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2554535546.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554535546.jpg"
+        },
+        "is_show": false,
+        "year": "1998",
+        "card_subtitle": "1998 / 中国台湾 日本 / 剧情\n侯孝贤 导演",
+        "id": "1303451",
+        "genres": [
+            "剧情"
+        ],
+        "title": "海上花",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "梁朝伟"
+            },
+            {
+                "name": "羽田美智子"
+            },
+            {
+                "name": "刘嘉玲"
+            },
+            {
+                "name": "李嘉欣"
+            },
+            {
+                "name": "高捷"
+            },
+            {
+                "name": "潘迪华"
+            },
+            {
+                "name": "伊能静"
+            },
+            {
+                "name": "魏筱惠"
+            },
+            {
+                "name": "方璇"
+            },
+            {
+                "name": "陈宝莲"
+            },
+            {
+                "name": "许安安"
+            },
+            {
+                "name": "夏祎"
+            },
+            {
+                "name": "谢衍"
+            },
+            {
+                "name": "徐明"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724f27",
+            "_base_color": [
+                0.08964646464646465,
+                0.6567164179104477,
+                0.788235294117647
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.08176100628930817,
+                0.6883116883116883,
+                0.30196078431372547
+            ],
+            "primary_color_dark": "4c351a"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2554535546.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1303451",
+        "url": "https://movie.douban.com/subject/1303451/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1303451",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "侯孝贤"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

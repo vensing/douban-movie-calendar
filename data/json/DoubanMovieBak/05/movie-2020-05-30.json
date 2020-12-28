@@ -1,0 +1,122 @@
+{
+    "comment": {
+        "content": "归根结底，你只不过是墙上的另一块砖罢了。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72665e",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c443f"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139997.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-30",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 43489,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.8
+        },
+        "pubdate": [
+            "1982-05-22(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2567407809.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2567407809.jpg"
+        },
+        "is_show": false,
+        "year": "1982",
+        "card_subtitle": "1982 / 英国 / 剧情 动画 奇幻\n艾伦·帕克 导演",
+        "id": "1296157",
+        "genres": [
+            "剧情",
+            "动画",
+            "奇幻"
+        ],
+        "title": "迷墙",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "鲍勃·吉尔道夫"
+            },
+            {
+                "name": "Christine Hargreaves"
+            },
+            {
+                "name": "James Laurenson"
+            },
+            {
+                "name": "埃莉诺·戴维"
+            },
+            {
+                "name": "Kevin McKeon"
+            },
+            {
+                "name": "鲍勃·霍斯金斯"
+            },
+            {
+                "name": "David Bingham"
+            },
+            {
+                "name": "珍妮·赖特"
+            },
+            {
+                "name": "Alex McAvoy"
+            },
+            {
+                "name": "Ellis Dale"
+            },
+            {
+                "name": "James Hazeldine"
+            },
+            {
+                "name": "Ray Mort"
+            },
+            {
+                "name": "玛格里·梅森"
+            },
+            {
+                "name": "Robert Bridges"
+            },
+            {
+                "name": "迈克尔·英塞恩"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "3f6972",
+            "_base_color": [
+                0.5308641975308642,
+                0.4426229508196722,
+                0.23921568627450981
+            ],
+            "secondary_color": "f4f8f9",
+            "_avg_color": [
+                0.5833333333333339,
+                0.01694915254237294,
+                0.4627450980392157
+            ],
+            "primary_color_dark": "2a464c"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2567407809.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1296157",
+        "url": "https://movie.douban.com/subject/1296157/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1296157",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "艾伦·帕克"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "comment": {
+        "content": "浪费心智是一件很糟的事。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725f52",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3f36"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139443.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-02-27",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 284742,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.7
+        },
+        "pubdate": [
+            "2017-01-23(圣丹斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2508604641.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2508604641.jpg"
+        },
+        "is_show": false,
+        "year": "2017",
+        "card_subtitle": "2017 / 美国 / 悬疑 惊悚 恐怖\n乔丹·皮尔 导演",
+        "id": "26688480",
+        "genres": [
+            "悬疑",
+            "惊悚",
+            "恐怖"
+        ],
+        "title": "逃出绝命镇",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "丹尼尔·卡卢亚"
+            },
+            {
+                "name": "艾莉森·威廉姆斯"
+            },
+            {
+                "name": "凯瑟琳·基纳"
+            },
+            {
+                "name": "布莱德利·惠特福德"
+            },
+            {
+                "name": "卡赖伯·兰德里·琼斯"
+            },
+            {
+                "name": "马库斯·亨德森"
+            },
+            {
+                "name": "贝蒂·加布里埃尔"
+            },
+            {
+                "name": "勒凯斯·斯坦菲尔德"
+            },
+            {
+                "name": "斯蒂芬·鲁特"
+            },
+            {
+                "name": "里尔·莱尔·哈瓦瑞"
+            },
+            {
+                "name": "艾希礼·勒孔特·坎贝尔"
+            },
+            {
+                "name": "卡伦·L·拉基"
+            },
+            {
+                "name": "朱莉·安·多恩"
+            },
+            {
+                "name": "杰拉尔丁·辛格"
+            },
+            {
+                "name": "理查德·赫德"
+            },
+            {
+                "name": "埃里卡·亚历山大"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "5d6c72",
+            "_base_color": [
+                0.5476190476190476,
+                0.18918918918918926,
+                0.1450980392156863
+            ],
+            "secondary_color": "f4f8f9",
+            "_avg_color": [
+                0.5555555555555555,
+                0.16901408450704225,
+                0.2784313725490196
+            ],
+            "primary_color_dark": "3e484c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2508604641.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26688480",
+        "url": "https://movie.douban.com/subject/26688480/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26688480",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "乔丹·皮尔"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

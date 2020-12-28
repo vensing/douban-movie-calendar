@@ -1,0 +1,112 @@
+{
+    "comment": {
+        "content": "父亲也是无人能取代的工作吧。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59c91",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f786f"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140046.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-21",
+        "description": "",
+        "title": "父亲节"
+    },
+    "subject": {
+        "rating": {
+            "count": 116643,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "2013-09-28(日本)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2154079590.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2154079590.jpg"
+        },
+        "is_show": false,
+        "year": "2013",
+        "card_subtitle": "2013 / 日本 / 剧情 家庭\n是枝裕和 导演",
+        "id": "10571509",
+        "genres": [
+            "剧情",
+            "家庭"
+        ],
+        "title": "如父如子",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "福山雅治"
+            },
+            {
+                "name": "尾野真千子"
+            },
+            {
+                "name": "真木阳子"
+            },
+            {
+                "name": "中川雅也"
+            },
+            {
+                "name": "风吹淳"
+            },
+            {
+                "name": "国村隼"
+            },
+            {
+                "name": "树木希林"
+            },
+            {
+                "name": "夏八木勋"
+            },
+            {
+                "name": "井浦新"
+            },
+            {
+                "name": "二宫庆多"
+            },
+            {
+                "name": "黄升炫"
+            },
+            {
+                "name": "足立智充"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "999fa5",
+            "_base_color": [
+                0.5784313725490197,
+                0.07423580786026199,
+                0.8980392156862745
+            ],
+            "secondary_color": "f4f7f9",
+            "_avg_color": [
+                0.6249999999999999,
+                0.1,
+                0.6274509803921569
+            ],
+            "primary_color_dark": "767b7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2154079590.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/10571509",
+        "url": "https://movie.douban.com/subject/10571509/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/10571509",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "是枝裕和"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

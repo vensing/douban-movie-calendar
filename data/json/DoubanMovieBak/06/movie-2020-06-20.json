@@ -1,0 +1,185 @@
+{
+    "comment": {
+        "content": "我们所能做的，只有让过去的事情过去。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725a44",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3c2d"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140042.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-20",
+        "description": "妮可·基德曼53岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 118083,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.1
+        },
+        "pubdate": [
+            "2004-04-30(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1944306007.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1944306007.jpg"
+        },
+        "is_show": false,
+        "year": "2003",
+        "card_subtitle": "2003 / 英国 意大利 罗马尼亚 美国 / 剧情 爱情 战争\n安东尼·明格拉 导演",
+        "id": "1307332",
+        "genres": [
+            "剧情",
+            "爱情",
+            "战争"
+        ],
+        "title": "冷山",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "裘德·洛"
+            },
+            {
+                "name": "妮可·基德曼"
+            },
+            {
+                "name": "蕾妮·齐薇格"
+            },
+            {
+                "name": "艾琳·阿特金斯"
+            },
+            {
+                "name": "布莱丹·格里森"
+            },
+            {
+                "name": "菲利普·塞默·霍夫曼"
+            },
+            {
+                "name": "娜塔莉·波特曼"
+            },
+            {
+                "name": "吉奥瓦尼·瑞比西"
+            },
+            {
+                "name": "唐纳德·萨瑟兰"
+            },
+            {
+                "name": "雷·温斯顿"
+            },
+            {
+                "name": "凯西·贝克"
+            },
+            {
+                "name": "詹姆斯·盖蒙"
+            },
+            {
+                "name": "查理·汉纳姆"
+            },
+            {
+                "name": "杰克·怀特"
+            },
+            {
+                "name": "伊桑·苏普利"
+            },
+            {
+                "name": "吉娜·马隆"
+            },
+            {
+                "name": "梅洛拉·沃尔特斯"
+            },
+            {
+                "name": "卢卡斯·布莱克"
+            },
+            {
+                "name": "塔恩·曼宁"
+            },
+            {
+                "name": "汤姆·奥尔德里奇"
+            },
+            {
+                "name": "詹姆斯·瑞布霍恩"
+            },
+            {
+                "name": "艾米丽·丹斯切尔"
+            },
+            {
+                "name": "罗宾·穆林斯"
+            },
+            {
+                "name": "阿历克斯·哈赛尔"
+            },
+            {
+                "name": "杰伊·塔瓦尔"
+            },
+            {
+                "name": "Christopher Fennell"
+            },
+            {
+                "name": "艾瑞克·史密斯"
+            },
+            {
+                "name": "基里安·墨菲"
+            },
+            {
+                "name": "理查德·布雷克"
+            },
+            {
+                "name": "Sean Gleeson"
+            },
+            {
+                "name": "马克·杰弗里·米勒"
+            },
+            {
+                "name": "阿非莫·奥米拉"
+            },
+            {
+                "name": "William Roberts"
+            },
+            {
+                "name": "Kristen Nicole LaPrade"
+            },
+            {
+                "name": "Robert Rice"
+            },
+            {
+                "name": "Bruce Williamson"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725464",
+            "_base_color": [
+                0.9102564102564102,
+                0.25999999999999995,
+                0.19607843137254902
+            ],
+            "secondary_color": "f9f4f7",
+            "_avg_color": [
+                0.987179487179487,
+                0.15116279069767452,
+                0.33725490196078434
+            ],
+            "primary_color_dark": "4c3843"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1944306007.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1307332",
+        "url": "https://movie.douban.com/subject/1307332/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1307332",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "安东尼·明格拉"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

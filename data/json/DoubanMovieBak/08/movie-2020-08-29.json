@@ -1,0 +1,91 @@
+{
+    "comment": {
+        "content": "既然不能独自享用，那我宁愿分享，也不愿意失去。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726962",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c4641"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140729.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-29",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 70340,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "1999-10-21"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p467734271.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p467734271.jpg"
+        },
+        "is_show": false,
+        "year": "1999",
+        "card_subtitle": "1999 / 德国 匈牙利 / 爱情 剧情\n诺夫·舒贝尔 导演",
+        "id": "1301106",
+        "genres": [
+            "爱情",
+            "剧情"
+        ],
+        "title": "布达佩斯之恋",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "艾丽卡·莫露珊"
+            },
+            {
+                "name": "约阿希姆·克罗尔"
+            },
+            {
+                "name": "斯特法诺·迪奥尼斯"
+            },
+            {
+                "name": "本·贝克"
+            },
+            {
+                "name": "安德拉斯·巴林特"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a53022",
+            "_base_color": [
+                0.018115942028985515,
+                0.7931034482758621,
+                0.22745098039215686
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.01470588235294118,
+                0.8374384236453202,
+                0.796078431372549
+            ],
+            "primary_color_dark": "7f251a"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p467734271.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1301106",
+        "url": "https://movie.douban.com/subject/1301106/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1301106",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "诺夫·舒贝尔"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

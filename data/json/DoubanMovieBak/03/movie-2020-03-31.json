@@ -1,0 +1,122 @@
+{
+    "comment": {
+        "content": "没有法律，没有限制。只有一条规则：永远也别坠入爱河。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725a57",
+            "secondary_color": "f9f5f4",
+            "primary_color_dark": "4c3c3a"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139676.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-31",
+        "description": "伊万·麦克格雷格49岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 119342,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.9
+        },
+        "pubdate": [
+            "2001-05-09(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2454640615.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2454640615.jpg"
+        },
+        "is_show": false,
+        "year": "2001",
+        "card_subtitle": "2001 / 澳大利亚 美国 / 剧情 歌舞 爱情\n巴兹·鲁赫曼 导演",
+        "id": "1304641",
+        "genres": [
+            "剧情",
+            "歌舞",
+            "爱情"
+        ],
+        "title": "红磨坊",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "妮可·基德曼"
+            },
+            {
+                "name": "伊万·麦克格雷格"
+            },
+            {
+                "name": "约翰·雷吉扎莫"
+            },
+            {
+                "name": "吉姆·布劳德本特"
+            },
+            {
+                "name": "理查德·劳斯伯格"
+            },
+            {
+                "name": "加里·麦克唐纳德"
+            },
+            {
+                "name": "亚采克·科曼"
+            },
+            {
+                "name": "马修·惠德特"
+            },
+            {
+                "name": "克里·沃克"
+            },
+            {
+                "name": "卡罗琳·奥康纳"
+            },
+            {
+                "name": "克里斯汀·阿努"
+            },
+            {
+                "name": "娜塔莉·杰克逊·门多萨"
+            },
+            {
+                "name": "劳拉·穆拉凯"
+            },
+            {
+                "name": "大卫·文翰"
+            },
+            {
+                "name": "凯莉·米洛"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "723722",
+            "_base_color": [
+                0.043256997455470736,
+                0.696808510638298,
+                0.7372549019607844
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.03888888888888888,
+                0.5660377358490566,
+                0.20784313725490197
+            ],
+            "primary_color_dark": "4c2517"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2454640615.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1304641",
+        "url": "https://movie.douban.com/subject/1304641/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1304641",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "巴兹·鲁赫曼"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

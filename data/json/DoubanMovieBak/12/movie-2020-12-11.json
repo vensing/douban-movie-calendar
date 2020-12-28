@@ -1,0 +1,103 @@
+{
+    "comment": {
+        "content": "生命是一阵微风，生命是一股气息，你要抓住的，正是这气息。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59686",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f7367"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580141187.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-11",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 22988,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.1
+        },
+        "pubdate": [
+            "2011-10-26(法国)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1733151422.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1733151422.jpg"
+        },
+        "is_show": false,
+        "year": "2011",
+        "card_subtitle": "2011 / 法国 德国 / 剧情 喜剧\n玛嘉·莎塔琵 / 文森特·帕兰德 导演",
+        "id": "5151357",
+        "genres": [
+            "剧情",
+            "喜剧"
+        ],
+        "title": "梅子鸡之味",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "伊莎贝拉·罗西里尼"
+            },
+            {
+                "name": "格什菲·法拉哈尼"
+            },
+            {
+                "name": "玛丽亚·德·梅黛洛"
+            },
+            {
+                "name": "马修·阿马立克"
+            },
+            {
+                "name": "齐雅拉·马斯楚安尼"
+            },
+            {
+                "name": "贾梅尔·杜布兹"
+            },
+            {
+                "name": "埃德瓦·贝耶"
+            },
+            {
+                "name": "埃里克·卡拉瓦卡"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "3c5672",
+            "_base_color": [
+                0.5866666666666666,
+                0.47169811320754723,
+                0.20784313725490197
+            ],
+            "secondary_color": "f4f7f9",
+            "_avg_color": [
+                0.5694444444444443,
+                0.11538461538461539,
+                0.40784313725490196
+            ],
+            "primary_color_dark": "28394c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1733151422.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/5151357",
+        "url": "https://movie.douban.com/subject/5151357/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/5151357",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "玛嘉·莎塔琵"
+            },
+            {
+                "name": "文森特·帕兰德"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

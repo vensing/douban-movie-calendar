@@ -1,0 +1,161 @@
+{
+    "comment": {
+        "content": "如果我没有刀，我就不能保护你。如果我有刀，我就不能拥抱你。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "636772",
+            "secondary_color": "f4f6f9",
+            "primary_color_dark": "42454c"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580141177.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-06",
+        "description": "《剪刀手爱德华》上映30周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 857156,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "1990-12-06(美国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p480956937.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p480956937.jpg"
+        },
+        "is_show": false,
+        "year": "1990",
+        "card_subtitle": "1990 / 美国 / 剧情 奇幻 爱情\n蒂姆·波顿 导演",
+        "id": "1292370",
+        "genres": [
+            "剧情",
+            "奇幻",
+            "爱情"
+        ],
+        "title": "剪刀手爱德华",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "约翰尼·德普"
+            },
+            {
+                "name": "薇诺娜·瑞德"
+            },
+            {
+                "name": "黛安·韦斯特"
+            },
+            {
+                "name": "安东尼·迈克尔·豪尔"
+            },
+            {
+                "name": "凯西·贝克"
+            },
+            {
+                "name": "罗伯特·奥利维里"
+            },
+            {
+                "name": "康查塔·费雷尔"
+            },
+            {
+                "name": "卡罗琳·阿隆"
+            },
+            {
+                "name": "迪克·安东尼·威廉姆斯"
+            },
+            {
+                "name": "澳澜·琼斯"
+            },
+            {
+                "name": "文森特·普莱斯"
+            },
+            {
+                "name": "艾伦·阿金"
+            },
+            {
+                "name": "苏珊·布洛马特"
+            },
+            {
+                "name": "约翰·戴维森"
+            },
+            {
+                "name": "布莱恩·拉肯"
+            },
+            {
+                "name": "Victoria Price"
+            },
+            {
+                "name": "Stuart Lancaster"
+            },
+            {
+                "name": "Gina Gallagher"
+            },
+            {
+                "name": "阿隆·鲁斯汀"
+            },
+            {
+                "name": "阿兰·弗吉"
+            },
+            {
+                "name": "史蒂文·布里尔"
+            },
+            {
+                "name": "Peter Palmer"
+            },
+            {
+                "name": "马克·麦考利"
+            },
+            {
+                "name": "唐娜·派洛尼"
+            },
+            {
+                "name": "Ken DeVaul"
+            },
+            {
+                "name": "Kathy Dombo"
+            },
+            {
+                "name": "Tabetha Thomas"
+            },
+            {
+                "name": "尼克·卡特"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "8b99a5",
+            "_base_color": [
+                0.5787037037037037,
+                0.15999999999999995,
+                0.8823529411764706
+            ],
+            "secondary_color": "f4f7f9",
+            "_avg_color": [
+                0.603448275862069,
+                0.16384180790960443,
+                0.6941176470588235
+            ],
+            "primary_color_dark": "6b757f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p480956937.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292370",
+        "url": "https://movie.douban.com/subject/1292370/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292370",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "蒂姆·波顿"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,305 @@
+{
+    "comment": {
+        "content": "爱你三千遍。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "63726d",
+            "secondary_color": "f4f9f8",
+            "primary_color_dark": "424c49"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140981.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-12",
+        "description": "斯坦·李逝世2周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 899877,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.5
+        },
+        "pubdate": [
+            "2019-04-24(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2552058346.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2552058346.jpg"
+        },
+        "is_show": false,
+        "year": "2019",
+        "card_subtitle": "2019 / 美国 / 剧情 动作 科幻\n安东尼·罗素 / 乔·罗素 导演",
+        "id": "26100958",
+        "genres": [
+            "剧情",
+            "动作",
+            "科幻"
+        ],
+        "title": "复仇者联盟4：终局之战",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "小罗伯特·唐尼"
+            },
+            {
+                "name": "克里斯·埃文斯"
+            },
+            {
+                "name": "马克·鲁弗洛"
+            },
+            {
+                "name": "克里斯·海姆斯沃斯"
+            },
+            {
+                "name": "乔什·布洛林"
+            },
+            {
+                "name": "保罗·路德"
+            },
+            {
+                "name": "凯伦·吉兰"
+            },
+            {
+                "name": "杰瑞米·雷纳"
+            },
+            {
+                "name": "斯嘉丽·约翰逊"
+            },
+            {
+                "name": "唐·钱德尔"
+            },
+            {
+                "name": "布丽·拉尔森"
+            },
+            {
+                "name": "布莱德利·库珀"
+            },
+            {
+                "name": "泰莎·汤普森"
+            },
+            {
+                "name": "汤姆·赫兰德"
+            },
+            {
+                "name": "伊丽莎白·奥尔森"
+            },
+            {
+                "name": "本尼迪克特·康伯巴奇"
+            },
+            {
+                "name": "蒂尔达·斯文顿"
+            },
+            {
+                "name": "格温妮斯·帕特洛"
+            },
+            {
+                "name": "蕾妮·罗素"
+            },
+            {
+                "name": "约翰·斯拉特里"
+            },
+            {
+                "name": "查德维克·博斯曼"
+            },
+            {
+                "name": "安东尼·麦凯"
+            },
+            {
+                "name": "塞巴斯蒂安·斯坦"
+            },
+            {
+                "name": "克里斯·帕拉特"
+            },
+            {
+                "name": "汤姆·希德勒斯顿"
+            },
+            {
+                "name": "佐伊·索尔达娜"
+            },
+            {
+                "name": "丹娜·奎里拉"
+            },
+            {
+                "name": "本尼迪克特·王"
+            },
+            {
+                "name": "庞·克莱门捷夫"
+            },
+            {
+                "name": "戴夫·巴蒂斯塔"
+            },
+            {
+                "name": "利蒂希娅·赖特"
+            },
+            {
+                "name": "伊万杰琳·莉莉"
+            },
+            {
+                "name": "乔恩·费儒"
+            },
+            {
+                "name": "海莉·阿特维尔"
+            },
+            {
+                "name": "娜塔莉·波特曼"
+            },
+            {
+                "name": "玛丽莎·托梅"
+            },
+            {
+                "name": "塔伊加·维迪提"
+            },
+            {
+                "name": "安吉拉·贝塞特"
+            },
+            {
+                "name": "迈克尔·道格拉斯"
+            },
+            {
+                "name": "米歇尔·菲佛"
+            },
+            {
+                "name": "威廉·赫特"
+            },
+            {
+                "name": "寇碧·史莫德斯"
+            },
+            {
+                "name": "肖恩·古恩"
+            },
+            {
+                "name": "温斯顿·杜克"
+            },
+            {
+                "name": "琳达·卡德里尼"
+            },
+            {
+                "name": "马克斯米利亚诺·赫尔南德斯"
+            },
+            {
+                "name": "弗兰克·格里罗"
+            },
+            {
+                "name": "真田广之"
+            },
+            {
+                "name": "汤姆-沃恩-劳勒"
+            },
+            {
+                "name": "詹姆斯·达西"
+            },
+            {
+                "name": "雅各布·巴特朗"
+            },
+            {
+                "name": "范·迪塞尔"
+            },
+            {
+                "name": "罗伯特·雷德福"
+            },
+            {
+                "name": "塞缪尔·杰克逊"
+            },
+            {
+                "name": "伊薇特·尼科尔·布朗"
+            },
+            {
+                "name": "卡梅伦·布鲁姆布罗"
+            },
+            {
+                "name": "蒂莫西·卡尔"
+            },
+            {
+                "name": "凯瑞·康顿"
+            },
+            {
+                "name": "迈克尔·A·库克"
+            },
+            {
+                "name": "凯莉·库恩"
+            },
+            {
+                "name": "艾玛·福尔曼"
+            },
+            {
+                "name": "雷纳·加拉赫"
+            },
+            {
+                "name": "丹妮拉·加斯基"
+            },
+            {
+                "name": "郑肯"
+            },
+            {
+                "name": "小弗洛伊德·安东尼·约翰"
+            },
+            {
+                "name": "斯坦·李"
+            },
+            {
+                "name": "罗斯·马昆德"
+            },
+            {
+                "name": "布伦特·麦吉"
+            },
+            {
+                "name": "迈克尔·皮耶里诺·米勒"
+            },
+            {
+                "name": "卡兰·马尔韦"
+            },
+            {
+                "name": "泰瑞·诺塔里"
+            },
+            {
+                "name": "吉米·雷·皮肯斯"
+            },
+            {
+                "name": "迈克尔·詹姆斯·肖"
+            },
+            {
+                "name": "泰·辛普金斯"
+            },
+            {
+                "name": "格雷格·蒂芬"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "4f4872",
+            "_base_color": [
+                0.6944444444444445,
+                0.36923076923076914,
+                0.2549019607843137
+            ],
+            "secondary_color": "f5f4f9",
+            "_avg_color": [
+                0.7083333333333334,
+                0.2285714285714286,
+                0.4117647058823529
+            ],
+            "primary_color_dark": "34304c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2552058346.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26100958",
+        "url": "https://movie.douban.com/subject/26100958/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26100958",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "安东尼·罗素"
+            },
+            {
+                "name": "乔·罗素"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

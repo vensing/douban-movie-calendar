@@ -1,0 +1,108 @@
+{
+    "comment": {
+        "content": "如果你喜欢你所做的事，你就可以在任何地方生存。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725f46",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3f2e"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139359.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-26",
+        "description": "努里·比格·锡兰61岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 13940,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.1
+        },
+        "pubdate": [
+            "2018-05-18(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2521230606.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2521230606.jpg"
+        },
+        "is_show": false,
+        "year": "2018",
+        "card_subtitle": "2018 / 土耳其 马其顿 法国 德国 波黑 保加利亚 瑞典 / 剧情\n努里·比格·锡兰 导演",
+        "id": "26878883",
+        "genres": [
+            "剧情"
+        ],
+        "title": "野梨树",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "岛吾·德米尔考"
+            },
+            {
+                "name": "穆拉特·杰姆吉尔"
+            },
+            {
+                "name": "本努·耶勒德热姆拉尔"
+            },
+            {
+                "name": "哈扎尔·埃尔居奇卢"
+            },
+            {
+                "name": "塞尔坎·凯斯金"
+            },
+            {
+                "name": "塔梅尔·莱文特"
+            },
+            {
+                "name": "厄内尔·埃尔坎"
+            },
+            {
+                "name": "里法特·桑贾尔"
+            },
+            {
+                "name": "阿克·阿克苏"
+            },
+            {
+                "name": "卡迪尔·瑟米克"
+            },
+            {
+                "name": "欧扎·费什特"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59789",
+            "_base_color": [
+                0.08095238095238096,
+                0.16826923076923073,
+                0.8156862745098039
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.16666666666666666,
+                0.18181818181818185,
+                0.6470588235294118
+            ],
+            "primary_color_dark": "7f746a"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2521230606.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26878883",
+        "url": "https://movie.douban.com/subject/26878883/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26878883",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "努里·比格·锡兰"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

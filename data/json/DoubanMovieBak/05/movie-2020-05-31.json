@@ -1,0 +1,105 @@
+{
+    "comment": {
+        "content": "——“看什么呢糟老头子？”\n——“知道你 惹不起的人长 什么样子吗？我这样子。”",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726850",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "4c4535"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139999.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-31",
+        "description": "克林特·伊斯特伍德90岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 77662,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "2008-12-12(美国)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1155946363.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1155946363.jpg"
+        },
+        "is_show": false,
+        "year": "2008",
+        "card_subtitle": "2008 / 美国 德国 / 剧情\n克林特·伊斯特伍德 导演",
+        "id": "3026357",
+        "genres": [
+            "剧情"
+        ],
+        "title": "老爷车",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "克林特·伊斯特伍德"
+            },
+            {
+                "name": "克里斯托弗·卡利"
+            },
+            {
+                "name": "比·王"
+            },
+            {
+                "name": "安蕾·荷"
+            },
+            {
+                "name": "布莱恩·黑利"
+            },
+            {
+                "name": "杰拉尔丁·休斯"
+            },
+            {
+                "name": "德瑞玛·沃克"
+            },
+            {
+                "name": "布莱恩·豪威 "
+            },
+            {
+                "name": "约翰·卡洛·林奇"
+            },
+            {
+                "name": "斯科特·伊斯特伍德"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "727265",
+            "_base_color": [
+                0.16666666666666666,
+                0.1111111111111111,
+                0.03529411764705882
+            ],
+            "secondary_color": "f9f9f4",
+            "_avg_color": [
+                0.13333333333333344,
+                0.14705882352941177,
+                0.13333333333333333
+            ],
+            "primary_color_dark": "4c4c44"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1155946363.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3026357",
+        "url": "https://movie.douban.com/subject/3026357/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3026357",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "克林特·伊斯特伍德"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "comment": {
+        "content": "努力工作很重要，但我觉得每个人都害怕承认运气有多重要。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58b72",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f6b57"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580139781.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-12",
+        "description": "《赛末点》首映15周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 137632,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.1
+        },
+        "pubdate": [
+            "2005-05-12(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p685837045.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p685837045.jpg"
+        },
+        "is_show": false,
+        "year": "2005",
+        "card_subtitle": "2005 / 英国 美国 爱尔兰 卢森堡 / 剧情 爱情 犯罪\n伍迪·艾伦 导演",
+        "id": "1433577",
+        "genres": [
+            "剧情",
+            "爱情",
+            "犯罪"
+        ],
+        "title": "赛末点",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "乔纳森·莱斯·梅耶斯"
+            },
+            {
+                "name": "斯嘉丽·约翰逊"
+            },
+            {
+                "name": "马修·古迪"
+            },
+            {
+                "name": "艾米莉·莫迪默"
+            },
+            {
+                "name": "布莱恩·考克斯"
+            },
+            {
+                "name": "米兰达·莱森"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a1a3a5",
+            "_base_color": [
+                0.6000000000000004,
+                0.022727272727272773,
+                0.8627450980392157
+            ],
+            "secondary_color": "f4f6f9",
+            "_avg_color": [
+                0.01388888888888882,
+                0.08108108108108117,
+                0.5803921568627451
+            ],
+            "primary_color_dark": "7c7d7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p685837045.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1433577",
+        "url": "https://movie.douban.com/subject/1433577/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1433577",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "伍迪·艾伦"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

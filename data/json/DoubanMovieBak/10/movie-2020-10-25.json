@@ -1,0 +1,149 @@
+{
+    "comment": {
+        "content": "死亡不是生命的终点，遗忘才是。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725264",
+            "secondary_color": "f9f4f7",
+            "primary_color_dark": "4c3642"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140889.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-25",
+        "description": "",
+        "title": "重阳节"
+    },
+    "subject": {
+        "rating": {
+            "count": 1203966,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.1
+        },
+        "pubdate": [
+            "2017-11-24(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2614500706.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2614500706.jpg"
+        },
+        "is_show": false,
+        "year": "2017",
+        "card_subtitle": "2017 / 美国 / 喜剧 动画 奇幻\n李·昂克里奇 / 阿德里安·莫利纳 导演",
+        "id": "20495023",
+        "genres": [
+            "喜剧",
+            "动画",
+            "奇幻"
+        ],
+        "title": "寻梦环游记",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "安东尼·冈萨雷斯"
+            },
+            {
+                "name": "盖尔·加西亚·贝纳尔"
+            },
+            {
+                "name": "本杰明·布拉特"
+            },
+            {
+                "name": "阿兰娜·乌巴赫"
+            },
+            {
+                "name": "芮妮·维克托"
+            },
+            {
+                "name": "杰米·卡米尔"
+            },
+            {
+                "name": "阿方索·阿雷奥"
+            },
+            {
+                "name": "赫伯特·西古恩萨"
+            },
+            {
+                "name": "加布里埃尔·伊格莱西亚斯"
+            },
+            {
+                "name": "隆巴多·博伊尔"
+            },
+            {
+                "name": "安娜·奥菲丽亚·莫吉亚"
+            },
+            {
+                "name": "娜塔丽·科尔多瓦"
+            },
+            {
+                "name": "赛琳娜·露娜"
+            },
+            {
+                "name": "爱德华·詹姆斯·奥莫斯"
+            },
+            {
+                "name": "索菲亚·伊斯皮诺萨"
+            },
+            {
+                "name": "卡拉·梅迪纳"
+            },
+            {
+                "name": "黛娅娜·欧特里"
+            },
+            {
+                "name": "路易斯·瓦尔德斯"
+            },
+            {
+                "name": "布兰卡·阿拉切利"
+            },
+            {
+                "name": "萨尔瓦多·雷耶斯"
+            },
+            {
+                "name": "切奇·马林"
+            },
+            {
+                "name": "奥克塔维·索利斯"
+            },
+            {
+                "name": "约翰·拉岑贝格"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "3d39a5",
+            "_base_color": [
+                0.6722222222222222,
+                0.6521739130434783,
+                0.3607843137254902
+            ],
+            "secondary_color": "f5f4f9",
+            "_avg_color": [
+                0.038288288288288286,
+                0.5103448275862068,
+                0.5686274509803921
+            ],
+            "primary_color_dark": "2f2c7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2614500706.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/20495023",
+        "url": "https://movie.douban.com/subject/20495023/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/20495023",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "李·昂克里奇"
+            },
+            {
+                "name": "阿德里安·莫利纳"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

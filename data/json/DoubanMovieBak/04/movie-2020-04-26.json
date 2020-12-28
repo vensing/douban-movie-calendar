@@ -1,0 +1,152 @@
+{
+    "comment": {
+        "content": "疾如风，徐如林，侵掠如火，不动如山。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725441",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c382b"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139719.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-04-26",
+        "description": "《影武者》上映40周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 51336,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9
+        },
+        "pubdate": [
+            "1980-04-26(日本)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p997945263.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p997945263.jpg"
+        },
+        "is_show": false,
+        "year": "1980",
+        "card_subtitle": "1980 / 日本 美国 / 剧情 历史 战争\n黑泽明 导演",
+        "id": "1303067",
+        "genres": [
+            "剧情",
+            "历史",
+            "战争"
+        ],
+        "title": "影武者",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "仲代达矢"
+            },
+            {
+                "name": "山崎努"
+            },
+            {
+                "name": "萩原健一"
+            },
+            {
+                "name": "根津甚八"
+            },
+            {
+                "name": "大泷秀治"
+            },
+            {
+                "name": "隆大介"
+            },
+            {
+                "name": "油井昌由树"
+            },
+            {
+                "name": "桃井薰"
+            },
+            {
+                "name": "倍赏美津子"
+            },
+            {
+                "name": "室田日出男"
+            },
+            {
+                "name": "志浦隆之"
+            },
+            {
+                "name": "清水綋治"
+            },
+            {
+                "name": "山本亘"
+            },
+            {
+                "name": "杉森修平"
+            },
+            {
+                "name": "音羽久米子"
+            },
+            {
+                "name": "阿藤快"
+            },
+            {
+                "name": "江幡高志"
+            },
+            {
+                "name": "岛香裕"
+            },
+            {
+                "name": "松井范雄"
+            },
+            {
+                "name": "千叶治郎"
+            },
+            {
+                "name": "伊藤荣八"
+            },
+            {
+                "name": "大村千吉"
+            },
+            {
+                "name": "志村乔"
+            },
+            {
+                "name": "藤原釜足"
+            },
+            {
+                "name": "中岛书"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725e45",
+            "_base_color": [
+                0.0925925925925926,
+                0.391304347826087,
+                0.1803921568627451
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.06666666666666665,
+                0.44999999999999996,
+                0.39215686274509803
+            ],
+            "primary_color_dark": "4c3f2e"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p997945263.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1303067",
+        "url": "https://movie.douban.com/subject/1303067/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1303067",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "黑泽明"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

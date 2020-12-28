@@ -1,0 +1,100 @@
+{
+    "comment": {
+        "content": "如果痴狂的意思就是过有意义的生活，我不介意彻底疯狂。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725643",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c392d"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140856.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-05",
+        "description": "凯特·温丝莱特45岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 167394,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.1
+        },
+        "pubdate": [
+            "2008-12-15(洛杉矶首映)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p480460526.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480460526.jpg"
+        },
+        "is_show": false,
+        "year": "2008",
+        "card_subtitle": "2008 / 美国 英国 / 剧情 爱情\n萨姆·门德斯 导演",
+        "id": "2037012",
+        "genres": [
+            "剧情",
+            "爱情"
+        ],
+        "title": "革命之路",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "莱昂纳多·迪卡普里奥"
+            },
+            {
+                "name": "凯特·温丝莱特"
+            },
+            {
+                "name": "迈克尔·珊农"
+            },
+            {
+                "name": "芮安·辛普金斯"
+            },
+            {
+                "name": "克里斯托弗·菲茨杰拉德"
+            },
+            {
+                "name": "凯西·贝茨"
+            },
+            {
+                "name": "泰·辛普金斯"
+            },
+            {
+                "name": "佐伊·卡赞"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a09a",
+            "_base_color": [
+                0.09374999999999996,
+                0.07079646017699115,
+                0.8862745098039215
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.07843137254901962,
+                0.07657657657657656,
+                0.8705882352941177
+            ],
+            "primary_color_dark": "7f7b76"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p480460526.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/2037012",
+        "url": "https://movie.douban.com/subject/2037012/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/2037012",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "萨姆·门德斯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

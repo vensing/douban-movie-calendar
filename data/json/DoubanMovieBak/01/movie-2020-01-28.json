@@ -1,0 +1,109 @@
+{
+    "comment": {
+        "content": "人类其实就像动物，给予自由就意味着给予他们意识到自己曾经作为奴隶的能力，所以才要他们沉浸在苦难之中。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "667253",
+            "secondary_color": "f7f9f4",
+            "primary_color_dark": "444c37"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139362.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-28",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 90978,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.5
+        },
+        "pubdate": [
+            "2018-05-13(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2521583093.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2521583093.jpg"
+        },
+        "is_show": false,
+        "year": "2018",
+        "card_subtitle": "2018 / 意大利 瑞士 法国 德国 / 剧情 奇幻\n爱丽丝·洛尔瓦彻 导演",
+        "id": "27072795",
+        "genres": [
+            "剧情",
+            "奇幻"
+        ],
+        "title": "幸福的拉扎罗",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "阿德里亚诺·塔尔迪奥洛"
+            },
+            {
+                "name": "阿涅塞·格拉齐亚尼"
+            },
+            {
+                "name": "卢卡·奇科瓦尼"
+            },
+            {
+                "name": "阿尔芭·洛尔瓦彻"
+            },
+            {
+                "name": "塞尔希·洛佩斯"
+            },
+            {
+                "name": "纳塔利诺·巴拉索"
+            },
+            {
+                "name": "托马索·拉尼奥"
+            },
+            {
+                "name": "尼可莱塔·布拉斯基"
+            },
+            {
+                "name": "达里亚·帕斯卡·阿托利尼"
+            },
+            {
+                "name": "达维德·登奇"
+            },
+            {
+                "name": "帕斯夸丽纳·斯昆恰"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "84a59e",
+            "_base_color": [
+                0.46236559139784944,
+                0.20129870129870123,
+                0.6039215686274509
+            ],
+            "secondary_color": "f4f9f8",
+            "_avg_color": [
+                0.31250000000000006,
+                0.12307692307692297,
+                0.5098039215686274
+            ],
+            "primary_color_dark": "657f79"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2521583093.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/27072795",
+        "url": "https://movie.douban.com/subject/27072795/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/27072795",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "爱丽丝·洛尔瓦彻"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

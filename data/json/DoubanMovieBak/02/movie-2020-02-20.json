@@ -1,0 +1,119 @@
+{
+    "comment": {
+        "content": "——“咋的，你还想赢得人生啊？”\n——“至少可以输得慢一点吧。”",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725c43",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3d2d"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580139430.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-02-20",
+        "description": "第70届柏林电影节开幕",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 297057,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.5
+        },
+        "pubdate": [
+            "2014-03-21(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2174645340.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2174645340.jpg"
+        },
+        "is_show": false,
+        "year": "2014",
+        "card_subtitle": "2014 / 中国大陆 / 剧情 犯罪 悬疑\n刁亦男 导演",
+        "id": "21941804",
+        "genres": [
+            "剧情",
+            "犯罪",
+            "悬疑"
+        ],
+        "title": "白日焰火",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "廖凡"
+            },
+            {
+                "name": "桂纶镁"
+            },
+            {
+                "name": "王学兵"
+            },
+            {
+                "name": "王景春"
+            },
+            {
+                "name": "余皑磊"
+            },
+            {
+                "name": "倪景阳"
+            },
+            {
+                "name": "常凯宁"
+            },
+            {
+                "name": "李彩霞"
+            },
+            {
+                "name": "李克伟"
+            },
+            {
+                "name": "洛成"
+            },
+            {
+                "name": "裴功勇"
+            },
+            {
+                "name": "彭龙"
+            },
+            {
+                "name": "于雪冬"
+            },
+            {
+                "name": "蒋延良"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "424e72",
+            "_base_color": [
+                0.626984126984127,
+                0.42,
+                0.19607843137254902
+            ],
+            "secondary_color": "f4f6f9",
+            "_avg_color": [
+                0.6538461538461539,
+                0.10236220472440942,
+                0.4980392156862745
+            ],
+            "primary_color_dark": "2c344c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2174645340.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/21941804",
+        "url": "https://movie.douban.com/subject/21941804/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/21941804",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "刁亦男"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

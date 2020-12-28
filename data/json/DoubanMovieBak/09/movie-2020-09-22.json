@@ -1,0 +1,101 @@
+{
+    "comment": {
+        "content": "只有在这个肮脏的世界，你们才能义正言辞地说，那些人是无辜的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a56a52",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "7f513f"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140788.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-22",
+        "description": "《七宗罪》上映25周年",
+        "title": "秋分"
+    },
+    "subject": {
+        "rating": {
+            "count": 752716,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.8
+        },
+        "pubdate": [
+            "1995-09-22(美国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2219586434.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2219586434.jpg"
+        },
+        "is_show": false,
+        "year": "1995",
+        "card_subtitle": "1995 / 美国 / 剧情 犯罪 悬疑\n大卫·芬奇 导演",
+        "id": "1292223",
+        "genres": [
+            "剧情",
+            "犯罪",
+            "悬疑"
+        ],
+        "title": "七宗罪",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "摩根·弗里曼"
+            },
+            {
+                "name": "布拉德·皮特"
+            },
+            {
+                "name": "凯文·史派西"
+            },
+            {
+                "name": "格温妮斯·帕特洛"
+            },
+            {
+                "name": "安德鲁·凯文·沃克"
+            },
+            {
+                "name": "约翰·卡西尼"
+            },
+            {
+                "name": "雷格·E·凯蒂"
+            },
+            {
+                "name": "李·厄米"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724423",
+            "_base_color": [
+                0.06896551724137932,
+                0.6904761904761905,
+                0.16470588235294117
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.09748427672955973,
+                0.6794871794871795,
+                0.3058823529411765
+            ],
+            "primary_color_dark": "4c2d17"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2219586434.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292223",
+        "url": "https://movie.douban.com/subject/1292223/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292223",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "大卫·芬奇"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

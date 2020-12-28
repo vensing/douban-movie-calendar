@@ -1,0 +1,108 @@
+{
+    "comment": {
+        "content": "他是要用死来证明，他对她的爱远远超过你们的恨。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724e38",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3425"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139717.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-04-24",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 89201,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.9
+        },
+        "pubdate": [
+            "2015-10-29(澳大利亚)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2287885206.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2287885206.jpg"
+        },
+        "is_show": false,
+        "year": "2015",
+        "card_subtitle": "2015 / 澳大利亚 / 剧情\n乔瑟琳·穆尔豪斯 导演",
+        "id": "25697098",
+        "genres": [
+            "剧情"
+        ],
+        "title": "裁缝",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "凯特·温丝莱特"
+            },
+            {
+                "name": "朱迪·戴维斯"
+            },
+            {
+                "name": "利亚姆·海姆斯沃斯"
+            },
+            {
+                "name": "雨果·维文"
+            },
+            {
+                "name": "卡罗琳·古多尔"
+            },
+            {
+                "name": "莎拉·斯努克"
+            },
+            {
+                "name": "萨莎·霍勒"
+            },
+            {
+                "name": "凯瑞·福克斯"
+            },
+            {
+                "name": "朱丽娅·布莱克"
+            },
+            {
+                "name": "吉姆·麦凯"
+            },
+            {
+                "name": "盖东·格兰特利"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58f6b",
+            "_base_color": [
+                0.10256410256410253,
+                0.3513513513513514,
+                0.1450980392156863
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.4166666666666667,
+                0.025806451612903136,
+                0.6078431372549019
+            ],
+            "primary_color_dark": "7f6e52"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2287885206.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/25697098",
+        "url": "https://movie.douban.com/subject/25697098/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/25697098",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "乔瑟琳·穆尔豪斯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "comment": {
+        "content": "没有所谓的命运，有的只是你所创造的东西。世界年复一年地转动，你只是这一秒钟里极小的一块碎片。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725f50",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3f35"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580139700.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-04-15",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 13619,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "2008-10-24"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p607383015.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p607383015.jpg"
+        },
+        "is_show": false,
+        "year": "2008",
+        "card_subtitle": "2008 / 美国 / 剧情\n查理·考夫曼 导演",
+        "id": "2028819",
+        "genres": [
+            "剧情"
+        ],
+        "title": "纽约提喻法",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "菲利普·塞默·霍夫曼"
+            },
+            {
+                "name": "凯瑟琳·基纳"
+            },
+            {
+                "name": "米歇尔·威廉姆斯"
+            },
+            {
+                "name": "萨曼莎·莫顿"
+            },
+            {
+                "name": "霍普·戴维斯"
+            },
+            {
+                "name": "詹妮弗·杰森·李"
+            },
+            {
+                "name": "艾米丽·沃森"
+            },
+            {
+                "name": "黛安·韦斯特"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726449",
+            "_base_color": [
+                0.11111111111111109,
+                0.3636363636363637,
+                0.12941176470588237
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.1140350877192982,
+                0.23170731707317074,
+                0.3215686274509804
+            ],
+            "primary_color_dark": "4c4330"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p607383015.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/2028819",
+        "url": "https://movie.douban.com/subject/2028819/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/2028819",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "查理·考夫曼"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

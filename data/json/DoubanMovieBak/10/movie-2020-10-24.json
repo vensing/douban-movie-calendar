@@ -1,0 +1,98 @@
+{
+    "comment": {
+        "content": "父亲，生活不是选出来的，是活出来的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5867f",
+            "secondary_color": "f9f5f4",
+            "primary_color_dark": "7f6761"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140888.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-24",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 28392,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.4
+        },
+        "pubdate": [
+            "2010-11-19(西班牙)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1166464472.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1166464472.jpg"
+        },
+        "is_show": false,
+        "year": "2010",
+        "card_subtitle": "2010 / 美国 西班牙 / 剧情 喜剧 冒险\n艾米利奥·艾斯特维兹 导演",
+        "id": "3750104",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "冒险"
+        ],
+        "title": "朝圣之路",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "马丁·辛"
+            },
+            {
+                "name": "艾米利奥·艾斯特维兹"
+            },
+            {
+                "name": "黛博拉·卡拉·安格"
+            },
+            {
+                "name": "约里克·范·韦杰宁根"
+            },
+            {
+                "name": "詹姆斯·内斯比特"
+            },
+            {
+                "name": "斯宾塞·加雷特"
+            },
+            {
+                "name": "切基·卡尤"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a5a5",
+            "_base_color": [
+                0,
+                0,
+                0.8901960784313725
+            ],
+            "secondary_color": "f9f4f4",
+            "_avg_color": [
+                0.14646464646464655,
+                0.15714285714285714,
+                0.8235294117647058
+            ],
+            "primary_color_dark": "7f7f7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1166464472.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3750104",
+        "url": "https://movie.douban.com/subject/3750104/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3750104",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "艾米利奥·艾斯特维兹"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

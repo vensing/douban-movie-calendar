@@ -1,0 +1,121 @@
+{
+    "comment": {
+        "content": "有时打出一记重拳的最好方法是退后一步。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725e4d",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3f33"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140994.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-20",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 170656,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "2004-12-15(美国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1734930026.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1734930026.jpg"
+        },
+        "is_show": false,
+        "year": "2004",
+        "card_subtitle": "2004 / 美国 / 剧情 运动\n克林特·伊斯特伍德 导演",
+        "id": "1309016",
+        "genres": [
+            "剧情",
+            "运动"
+        ],
+        "title": "百万美元宝贝",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "克林特·伊斯特伍德"
+            },
+            {
+                "name": "希拉里·斯万克"
+            },
+            {
+                "name": "摩根·弗里曼"
+            },
+            {
+                "name": "杰伊·巴鲁切尔"
+            },
+            {
+                "name": "迈克·柯尔特"
+            },
+            {
+                "name": "露西娅 瑞科尔"
+            },
+            {
+                "name": "布莱恩·F·奥博恩"
+            },
+            {
+                "name": "安东尼·麦凯"
+            },
+            {
+                "name": "玛格·马丁戴尔"
+            },
+            {
+                "name": "瑞琪·琳德赫姆"
+            },
+            {
+                "name": "迈克尔·佩纳"
+            },
+            {
+                "name": "本尼托·马丁内斯"
+            },
+            {
+                "name": "Bruce MacVittie"
+            },
+            {
+                "name": "David Powledge"
+            },
+            {
+                "name": "乔·达安格里奥"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726d6b",
+            "_base_color": [
+                0.04545454545454534,
+                0.05978260869565211,
+                0.7215686274509804
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0,
+                0.057142857142857134,
+                0.13725490196078433
+            ],
+            "primary_color_dark": "4c4947"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1734930026.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1309016",
+        "url": "https://movie.douban.com/subject/1309016/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1309016",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "克林特·伊斯特伍德"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

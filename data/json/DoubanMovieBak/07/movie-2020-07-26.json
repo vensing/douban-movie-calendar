@@ -1,0 +1,134 @@
+{
+    "comment": {
+        "content": "一个晚上的真实性，远远比不上一辈子。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "5d6ea5",
+            "secondary_color": "f4f6f9",
+            "primary_color_dark": "47557f"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140238.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-26",
+        "description": "斯坦利·库布里克诞辰92周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 106441,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.9
+        },
+        "pubdate": [
+            "1999-07-16(美国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1708137969.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1708137969.jpg"
+        },
+        "is_show": false,
+        "year": "1999",
+        "card_subtitle": "1999 / 英国 美国 / 剧情 悬疑 惊悚\n斯坦利·库布里克 导演",
+        "id": "1300275",
+        "genres": [
+            "剧情",
+            "悬疑",
+            "惊悚"
+        ],
+        "title": "大开眼戒",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "汤姆·克鲁斯"
+            },
+            {
+                "name": "妮可·基德曼"
+            },
+            {
+                "name": "麦迪逊·埃金顿"
+            },
+            {
+                "name": "杰基·萨维里斯"
+            },
+            {
+                "name": "西德尼·波拉克"
+            },
+            {
+                "name": "莱斯利·洛韦"
+            },
+            {
+                "name": "托德·菲尔德"
+            },
+            {
+                "name": "迈克尔·多文"
+            },
+            {
+                "name": "斯凯·杜·蒙特"
+            },
+            {
+                "name": "兰德尔·保罗"
+            },
+            {
+                "name": "朱利安·戴维斯"
+            },
+            {
+                "name": "玛丽·理查德森"
+            },
+            {
+                "name": "托马斯·吉布森"
+            },
+            {
+                "name": "凡妮莎·肖"
+            },
+            {
+                "name": "拉德·舍博德兹加"
+            },
+            {
+                "name": "伊川东吾"
+            },
+            {
+                "name": "莉莉·索博斯基"
+            },
+            {
+                "name": "山姆·道格拉斯"
+            },
+            {
+                "name": "安格斯·麦金尼斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725f3a",
+            "_base_color": [
+                0.10952380952380951,
+                0.4906542056074767,
+                0.8392156862745098
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.04504504504504501,
+                0.34259259259259256,
+                0.4235294117647059
+            ],
+            "primary_color_dark": "4c3f26"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1708137969.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1300275",
+        "url": "https://movie.douban.com/subject/1300275/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1300275",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "斯坦利·库布里克"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

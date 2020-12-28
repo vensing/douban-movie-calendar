@@ -1,0 +1,125 @@
+{
+    "comment": {
+        "content": "你看到的我看不到，我看到的你看不到，那我怎么知道你在看什么呢？我们是不是只能看到一半的事情。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5969d",
+            "secondary_color": "f9f4f7",
+            "primary_color_dark": "7f7378"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139783.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-14",
+        "description": "《一一》首映20周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 274994,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9
+        },
+        "pubdate": [
+            "2017-07-28(中国台湾)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2567845803.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2567845803.jpg"
+        },
+        "is_show": false,
+        "year": "2000",
+        "card_subtitle": "2000 / 中国台湾 日本 / 剧情 爱情 家庭\n杨德昌 导演",
+        "id": "1292434",
+        "genres": [
+            "剧情",
+            "爱情",
+            "家庭"
+        ],
+        "title": "一一",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "吴念真"
+            },
+            {
+                "name": "李凯莉"
+            },
+            {
+                "name": "金燕玲"
+            },
+            {
+                "name": "张洋洋"
+            },
+            {
+                "name": "萧淑慎"
+            },
+            {
+                "name": "尾形一成"
+            },
+            {
+                "name": "陈希圣"
+            },
+            {
+                "name": "林孟瑾"
+            },
+            {
+                "name": "陈以文"
+            },
+            {
+                "name": "柯宇纶"
+            },
+            {
+                "name": "张育邦"
+            },
+            {
+                "name": "柯素云"
+            },
+            {
+                "name": "唐如韫"
+            },
+            {
+                "name": "徐淑媛"
+            },
+            {
+                "name": "曾心怡"
+            },
+            {
+                "name": "陶传正"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "723535",
+            "_base_color": [
+                0,
+                0.5319148936170213,
+                0.1843137254901961
+            ],
+            "secondary_color": "f9f4f4",
+            "_avg_color": [
+                0.9918032786885246,
+                0.5700934579439253,
+                0.4196078431372549
+            ],
+            "primary_color_dark": "4c2323"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2567845803.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292434",
+        "url": "https://movie.douban.com/subject/1292434/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292434",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "杨德昌"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "comment": {
+        "content": "你可以成为任何你想成为的人。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725a57",
+            "secondary_color": "f9f5f4",
+            "primary_color_dark": "4c3c3a"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139558.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-08",
+        "description": "",
+        "title": "妇女节"
+    },
+    "subject": {
+        "rating": {
+            "count": 171676,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.8
+        },
+        "pubdate": [
+            "1991-05-24(美国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1910924635.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910924635.jpg"
+        },
+        "is_show": false,
+        "year": "1991",
+        "card_subtitle": "1991 / 美国 英国 法国 / 犯罪 剧情 惊悚\n雷德利·斯科特 导演",
+        "id": "1291992",
+        "genres": [
+            "犯罪",
+            "剧情",
+            "惊悚"
+        ],
+        "title": "末路狂花",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "吉娜·戴维斯"
+            },
+            {
+                "name": "苏珊·萨兰登"
+            },
+            {
+                "name": "哈威·凯特尔"
+            },
+            {
+                "name": "迈克尔·马德森"
+            },
+            {
+                "name": "布拉德·皮特"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "5656a5",
+            "_base_color": [
+                0.6666666666666666,
+                0.4774774774774775,
+                0.43529411764705883
+            ],
+            "secondary_color": "f4f4f9",
+            "_avg_color": [
+                0.898148148148148,
+                0.22222222222222215,
+                0.6352941176470588
+            ],
+            "primary_color_dark": "42427f"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1910924635.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291992",
+        "url": "https://movie.douban.com/subject/1291992/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291992",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "雷德利·斯科特"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

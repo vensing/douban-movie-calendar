@@ -1,0 +1,163 @@
+{
+    "comment": {
+        "content": "我只是以为会有更多。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "677254",
+            "secondary_color": "f8f9f4",
+            "primary_color_dark": "454c38"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140733.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-31",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 192128,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.5
+        },
+        "pubdate": [
+            "2014-01-19(圣丹斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2187391526.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2187391526.jpg"
+        },
+        "is_show": false,
+        "year": "2014",
+        "card_subtitle": "2014 / 美国 / 剧情 家庭\n理查德·林克莱特 导演",
+        "id": "2209575",
+        "genres": [
+            "剧情",
+            "家庭"
+        ],
+        "title": "少年时代",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "埃拉·科尔特兰"
+            },
+            {
+                "name": "帕特丽夏·阿奎特"
+            },
+            {
+                "name": "伊桑·霍克"
+            },
+            {
+                "name": "罗蕾莱·林克莱特"
+            },
+            {
+                "name": "史蒂芬·切斯特·普林斯"
+            },
+            {
+                "name": "利比·维拉利"
+            },
+            {
+                "name": "马可·佩雷拉"
+            },
+            {
+                "name": "杰米·霍华德"
+            },
+            {
+                "name": "安德鲁·维拉利尔"
+            },
+            {
+                "name": "谢恩·格雷厄姆"
+            },
+            {
+                "name": "苔丝·艾伦"
+            },
+            {
+                "name": "戴维·布莱克维尔"
+            },
+            {
+                "name": "塔玛拉·若兰恩"
+            },
+            {
+                "name": "埃薇·汤普森"
+            },
+            {
+                "name": "布拉德·霍金斯"
+            },
+            {
+                "name": "尼克·克劳斯"
+            },
+            {
+                "name": "梅根·迪瓦恩"
+            },
+            {
+                "name": "詹妮·图利"
+            },
+            {
+                "name": "理查德·琼斯"
+            },
+            {
+                "name": "山姆·狄龙"
+            },
+            {
+                "name": "佐伊·格瑞艾姆"
+            },
+            {
+                "name": "理查德·罗比查乌克斯"
+            },
+            {
+                "name": "克里斯·杜贝克"
+            },
+            {
+                "name": "安德里亚·陈"
+            },
+            {
+                "name": "莫娜·李·富尔茨"
+            },
+            {
+                "name": "比尔·怀斯"
+            },
+            {
+                "name": "马克西米利安·麦克纳马拉"
+            },
+            {
+                "name": "泰勒·韦弗"
+            },
+            {
+                "name": "杰西·梅希勒"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "627232",
+            "_base_color": [
+                0.20909090909090913,
+                0.5612244897959183,
+                0.3843137254901961
+            ],
+            "secondary_color": "f8f9f4",
+            "_avg_color": [
+                0.2065217391304348,
+                0.4466019417475728,
+                0.403921568627451
+            ],
+            "primary_color_dark": "414c21"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2187391526.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/2209575",
+        "url": "https://movie.douban.com/subject/2209575/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/2209575",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "理查德·林克莱特"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "comment": {
+        "content": "孩子们不该被逼着上床睡觉，当他们睡醒时，就又老了一天。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725c4e",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3d34"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140205.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-08",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 47427,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.8
+        },
+        "pubdate": [
+            "2004-09-04(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2165586020.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2165586020.jpg"
+        },
+        "is_show": false,
+        "year": "2004",
+        "card_subtitle": "2004 / 美国 英国 / 传记 剧情 家庭\n马克·福斯特 导演",
+        "id": "1308831",
+        "genres": [
+            "传记",
+            "剧情",
+            "家庭"
+        ],
+        "title": "寻找梦幻岛",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "约翰尼·德普"
+            },
+            {
+                "name": "凯特·温丝莱特"
+            },
+            {
+                "name": "达斯汀·霍夫曼"
+            },
+            {
+                "name": "弗莱迪·海默"
+            },
+            {
+                "name": "朱莉·克里斯蒂"
+            },
+            {
+                "name": "拉达·米切尔"
+            },
+            {
+                "name": "伊恩·哈特"
+            },
+            {
+                "name": "凯特·马伯里"
+            },
+            {
+                "name": "凯莉·麦克唐纳"
+            },
+            {
+                "name": "麦肯锡·克鲁克"
+            },
+            {
+                "name": "托比·琼斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58f7d",
+            "_base_color": [
+                0.07446808510638302,
+                0.24226804123711343,
+                0.7607843137254902
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.07446808510638296,
+                0.31333333333333335,
+                0.5882352941176471
+            ],
+            "primary_color_dark": "7f6e60"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2165586020.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1308831",
+        "url": "https://movie.douban.com/subject/1308831/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1308831",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "马克·福斯特"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

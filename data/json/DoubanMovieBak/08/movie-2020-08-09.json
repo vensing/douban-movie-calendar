@@ -1,0 +1,98 @@
+{
+    "comment": {
+        "content": "和魔鬼共舞时，你只能等着音乐结束。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726962",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c4641"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140558.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-09",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 471420,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.1
+        },
+        "pubdate": [
+            "1998-08-28(英国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p792443418.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792443418.jpg"
+        },
+        "is_show": false,
+        "year": "1998",
+        "card_subtitle": "1998 / 英国 / 剧情 喜剧 犯罪\n盖·里奇 导演",
+        "id": "1293350",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "犯罪"
+        ],
+        "title": "两杆大烟枪",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "杰森·弗莱明"
+            },
+            {
+                "name": "德克斯特·弗莱彻"
+            },
+            {
+                "name": "尼克·莫兰"
+            },
+            {
+                "name": "杰森·斯坦森"
+            },
+            {
+                "name": "斯蒂文·麦金托什"
+            },
+            {
+                "name": "斯汀"
+            },
+            {
+                "name": "维尼·琼斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "721a13",
+            "_base_color": [
+                0.01202749140893472,
+                0.8326180257510729,
+                0.9137254901960784
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.009433962264150941,
+                0.4732142857142857,
+                0.4392156862745098
+            ],
+            "primary_color_dark": "4c110c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p792443418.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1293350",
+        "url": "https://movie.douban.com/subject/1293350/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1293350",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "盖·里奇"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

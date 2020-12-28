@@ -1,0 +1,162 @@
+{
+    "comment": {
+        "content": "我们不能只通过一件事去定义一个人。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5917b",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f705f"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140012.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-07",
+        "description": "全国高考",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 6135,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.5
+        },
+        "pubdate": [
+            "2006-08-11"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p823376066.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p823376066.jpg"
+        },
+        "is_show": false,
+        "year": "2006",
+        "card_subtitle": "2006 / 美国 / 剧情\n瑞安·弗雷克 导演",
+        "id": "1850942",
+        "genres": [
+            "剧情"
+        ],
+        "title": "半个尼尔森",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "瑞恩·高斯林"
+            },
+            {
+                "name": "杰夫·利马"
+            },
+            {
+                "name": "莎莉卡·艾普斯"
+            },
+            {
+                "name": "Nathan Corbett"
+            },
+            {
+                "name": "Tyra Kwao-Vovo"
+            },
+            {
+                "name": "Rosemary Ledee"
+            },
+            {
+                "name": "崔斯坦·瓦尔德斯"
+            },
+            {
+                "name": "Bryce Silver"
+            },
+            {
+                "name": "Kaela C. Pabon"
+            },
+            {
+                "name": "Erica Rivera"
+            },
+            {
+                "name": "Stephanie Bast"
+            },
+            {
+                "name": "Eleanor Hutchins"
+            },
+            {
+                "name": "蒂娜·霍尔姆斯"
+            },
+            {
+                "name": "Starla Benford"
+            },
+            {
+                "name": "安东尼·麦凯"
+            },
+            {
+                "name": "丹尼斯·欧哈拉"
+            },
+            {
+                "name": "莫尼克·加布里埃拉·库尔内"
+            },
+            {
+                "name": "迪德尔·古德温"
+            },
+            {
+                "name": "柯林斯·潘尼"
+            },
+            {
+                "name": "撒迪厄斯·丹尼尔斯"
+            },
+            {
+                "name": "雷蒙德·安东尼·托马斯"
+            },
+            {
+                "name": "罗恩·彼得·琼斯"
+            },
+            {
+                "name": "莎珑·华盛顿"
+            },
+            {
+                "name": "黛伯拉·拉什"
+            },
+            {
+                "name": "杰伊·桑德斯"
+            },
+            {
+                "name": "妮科尔·维丘什"
+            },
+            {
+                "name": "阿德普波·奥杜耶"
+            },
+            {
+                "name": "凯蒂·尼拉"
+            },
+            {
+                "name": "哈维·米尔克"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "537267",
+            "_base_color": [
+                0.4404761904761905,
+                0.2692307692307692,
+                0.40784313725490196
+            ],
+            "secondary_color": "f4f9f8",
+            "_avg_color": [
+                0.4696969696969697,
+                0.20560747663551407,
+                0.4196078431372549
+            ],
+            "primary_color_dark": "374c45"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p823376066.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1850942",
+        "url": "https://movie.douban.com/subject/1850942/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1850942",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "瑞安·弗雷克"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

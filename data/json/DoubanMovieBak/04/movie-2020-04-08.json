@@ -1,0 +1,88 @@
+{
+    "comment": {
+        "content": "阿公说，这是缘分，不能勉强的啦。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72614f",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c4135"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139688.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-04-08",
+        "description": "侯孝贤73岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 61451,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "1986(中国台湾)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p743473590.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p743473590.jpg"
+        },
+        "is_show": false,
+        "year": "1986",
+        "card_subtitle": "1986 / 中国台湾 / 剧情 爱情\n侯孝贤 导演",
+        "id": "1292330",
+        "genres": [
+            "剧情",
+            "爱情"
+        ],
+        "title": "恋恋风尘",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "李天禄"
+            },
+            {
+                "name": "辛树芬"
+            },
+            {
+                "name": "王晶文"
+            },
+            {
+                "name": "柯宇纶"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a54a47",
+            "_base_color": [
+                0.004385964912280715,
+                0.5671641791044777,
+                0.2627450980392157
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.041666666666666664,
+                0.1568627450980392,
+                0.8
+            ],
+            "primary_color_dark": "7f3937"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p743473590.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292330",
+        "url": "https://movie.douban.com/subject/1292330/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292330",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "侯孝贤"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

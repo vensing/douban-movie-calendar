@@ -1,0 +1,155 @@
+{
+    "comment": {
+        "content": "你可能认为这些事情只会发生在别人身上，而不会发生在自己身上。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59c93",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f7871"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139795.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-21",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 362431,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.3
+        },
+        "pubdate": [
+            "2009-11-27(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1086352249.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1086352249.jpg"
+        },
+        "is_show": false,
+        "year": "2009",
+        "card_subtitle": "2009 / 美国 新西兰 加拿大 南非 / 动作 剧情 科幻\n尼尔·布洛姆坎普 导演",
+        "id": "3006772",
+        "genres": [
+            "动作",
+            "剧情",
+            "科幻"
+        ],
+        "title": "第九区",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "沙尔托·科普雷"
+            },
+            {
+                "name": "詹森·库伯"
+            },
+            {
+                "name": "娜塔莉·博尔特"
+            },
+            {
+                "name": "茜尔雯·斯特赖克"
+            },
+            {
+                "name": "约翰·萨莫尔"
+            },
+            {
+                "name": "威廉·艾伦·扬"
+            },
+            {
+                "name": "尼克·布雷克"
+            },
+            {
+                "name": "杰德·布罗菲"
+            },
+            {
+                "name": "路易斯·米纳尔"
+            },
+            {
+                "name": "瓦妮莎·海伍德"
+            },
+            {
+                "name": "玛丽安·胡曼"
+            },
+            {
+                "name": "维多利奥·莱奥纳迪"
+            },
+            {
+                "name": "曼德拉·加杜卡"
+            },
+            {
+                "name": "约翰·范·肖尔"
+            },
+            {
+                "name": "斯特拉·斯廷坎普"
+            },
+            {
+                "name": "戴维·詹姆斯"
+            },
+            {
+                "name": "肯尼思·恩科西"
+            },
+            {
+                "name": "蒂姆·戈登"
+            },
+            {
+                "name": "莫尔内·埃拉斯姆斯"
+            },
+            {
+                "name": "尤金·孔巴尼瓦"
+            },
+            {
+                "name": "赫棱基维·马德拉拉"
+            },
+            {
+                "name": "西雅邦加·拉德贝"
+            },
+            {
+                "name": "梅尔特·西贝尔哈亨"
+            },
+            {
+                "name": "安德勒·奥登达尔"
+            },
+            {
+                "name": "尼克·伯莱尼"
+            },
+            {
+                "name": "罗伯特·霍布斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59286",
+            "_base_color": [
+                0.06666666666666667,
+                0.18867924528301885,
+                0.20784313725490197
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.07407407407407411,
+                0.07031249999999997,
+                0.5019607843137255
+            ],
+            "primary_color_dark": "7f7167"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1086352249.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3006772",
+        "url": "https://movie.douban.com/subject/3006772/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3006772",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "尼尔·布洛姆坎普"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

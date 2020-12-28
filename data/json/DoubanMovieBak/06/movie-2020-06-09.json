@@ -1,0 +1,122 @@
+{
+    "comment": {
+        "content": "糖果不需要有任何意义，所以它才是糖果。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "727051",
+            "secondary_color": "f9f9f4",
+            "primary_color_dark": "4c4a36"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140018.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-09",
+        "description": "约翰尼·德普57岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 383229,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "2005-07-15(美国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p453925617.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453925617.jpg"
+        },
+        "is_show": false,
+        "year": "2005",
+        "card_subtitle": "2005 / 美国 英国 澳大利亚 / 喜剧 奇幻 冒险\n蒂姆·波顿 导演",
+        "id": "1309101",
+        "genres": [
+            "喜剧",
+            "奇幻",
+            "冒险"
+        ],
+        "title": "查理和巧克力工厂",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "约翰尼·德普"
+            },
+            {
+                "name": "弗莱迪·海默"
+            },
+            {
+                "name": "海伦娜·伯翰·卡特"
+            },
+            {
+                "name": "克里斯托弗·李"
+            },
+            {
+                "name": "诺亚·泰勒"
+            },
+            {
+                "name": "大卫·凯利"
+            },
+            {
+                "name": "米西·派勒"
+            },
+            {
+                "name": "詹姆斯·福克斯"
+            },
+            {
+                "name": "安娜索菲亚·罗伯"
+            },
+            {
+                "name": "迪普·罗伊"
+            },
+            {
+                "name": "亚当·戈德利"
+            },
+            {
+                "name": "弗兰西斯卡·托格内尔"
+            },
+            {
+                "name": "茱莉亚·温特"
+            },
+            {
+                "name": "乔丹·弗雷"
+            },
+            {
+                "name": "菲利普·韦格拉茨"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725356",
+            "_base_color": [
+                0.9838709677419355,
+                0.2683982683982684,
+                0.9058823529411765
+            ],
+            "secondary_color": "f9f4f5",
+            "_avg_color": [
+                0.6984126984126985,
+                0.16935483870967738,
+                0.48627450980392156
+            ],
+            "primary_color_dark": "4c3739"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p453925617.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1309101",
+        "url": "https://movie.douban.com/subject/1309101/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1309101",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "蒂姆·波顿"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

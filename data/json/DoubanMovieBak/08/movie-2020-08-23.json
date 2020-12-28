@@ -1,0 +1,149 @@
+{
+    "comment": {
+        "content": "我是路的行家，一生品尝路的滋味。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725c4e",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3d34"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140589.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-23",
+        "description": "瑞凡·菲尼克斯诞辰50周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 51005,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.3
+        },
+        "pubdate": [
+            "1991-09-12"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p906164091.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p906164091.jpg"
+        },
+        "is_show": false,
+        "year": "1991",
+        "card_subtitle": "1991 / 美国 / 剧情 爱情 同性\n格斯·范·桑特 导演",
+        "id": "1292792",
+        "genres": [
+            "剧情",
+            "爱情",
+            "同性"
+        ],
+        "title": "我自己的爱达荷",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "瑞凡·菲尼克斯"
+            },
+            {
+                "name": "基努·里维斯"
+            },
+            {
+                "name": "詹姆斯·拉索"
+            },
+            {
+                "name": "威廉·里克特"
+            },
+            {
+                "name": "罗德尼·哈维"
+            },
+            {
+                "name": "切瑞拉·凯瑟莉"
+            },
+            {
+                "name": "迈克尔·帕克"
+            },
+            {
+                "name": "弗利"
+            },
+            {
+                "name": "格蕾丝·扎布里斯基"
+            },
+            {
+                "name": "汤姆·特鲁普"
+            },
+            {
+                "name": "乌多·基尔"
+            },
+            {
+                "name": "萨莉·柯蒂斯"
+            },
+            {
+                "name": "罗伯特·李·皮彻林恩"
+            },
+            {
+                "name": "Matthew Ebert"
+            },
+            {
+                "name": "斯科特·帕特里克·格林"
+            },
+            {
+                "name": "Vana O'Brien"
+            },
+            {
+                "name": "Brian Wilson"
+            },
+            {
+                "name": "吉姆·卡维泽"
+            },
+            {
+                "name": "Tiger Warren"
+            },
+            {
+                "name": "Massimo Di Cataldo"
+            },
+            {
+                "name": "Heather J. Braden"
+            },
+            {
+                "name": "Kirsten Kuppenbender"
+            },
+            {
+                "name": "Jesse Merz"
+            },
+            {
+                "name": "格斯·范·桑特"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a2a2",
+            "_base_color": [
+                0,
+                0.01739130434782615,
+                0.9019607843137255
+            ],
+            "secondary_color": "f9f4f4",
+            "_avg_color": [
+                0.023809523809523708,
+                0.08536585365853662,
+                0.6431372549019608
+            ],
+            "primary_color_dark": "7f7d7d"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p906164091.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292792",
+        "url": "https://movie.douban.com/subject/1292792/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292792",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "格斯·范·桑特"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "comment": {
+        "content": "敌人的敌人就是朋友，欢迎你，我的朋友。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725246",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c362e"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139546.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-02",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 601088,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "2009-03-26(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2434249040.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2434249040.jpg"
+        },
+        "is_show": false,
+        "year": "2008",
+        "card_subtitle": "2008 / 英国 / 剧情 爱情\n丹尼·博伊尔 / 洛芙琳·坦丹 导演",
+        "id": "2209573",
+        "genres": [
+            "剧情",
+            "爱情"
+        ],
+        "title": "贫民窟的百万富翁",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "戴夫·帕特尔"
+            },
+            {
+                "name": "沙鲁巴·舒克拉"
+            },
+            {
+                "name": "亚尼·卡普"
+            },
+            {
+                "name": "拉詹德拉纳斯·祖特施"
+            },
+            {
+                "name": "吉尼瓦·塔瓦尔"
+            },
+            {
+                "name": "芙蕾达·平托"
+            },
+            {
+                "name": "伊尔凡·可汗"
+            },
+            {
+                "name": "爱资哈尔丁·穆罕默德·伊斯梅尔"
+            },
+            {
+                "name": "阿什·马赫什·舍德卡"
+            },
+            {
+                "name": "马赫什·曼杰瑞卡"
+            },
+            {
+                "name": "麦活·米泰尔"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725142",
+            "_base_color": [
+                0.05303030303030304,
+                0.419047619047619,
+                0.8235294117647058
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.8666666666666667,
+                0.23076923076923073,
+                0.2549019607843137
+            ],
+            "primary_color_dark": "4c362c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2434249040.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/2209573",
+        "url": "https://movie.douban.com/subject/2209573/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/2209573",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "丹尼·博伊尔"
+            },
+            {
+                "name": "洛芙琳·坦丹"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

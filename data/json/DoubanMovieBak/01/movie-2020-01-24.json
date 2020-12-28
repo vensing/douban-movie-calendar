@@ -1,0 +1,104 @@
+{
+    "comment": {
+        "content": "不要躲藏，活下去，追随太阳，你就能到达明天。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58366",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f644e"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139356.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-24",
+        "description": "",
+        "title": "除夕"
+    },
+    "subject": {
+        "rating": {
+            "count": 670664,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "2013-04-20(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1867084027.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1867084027.jpg"
+        },
+        "is_show": false,
+        "year": "2013",
+        "card_subtitle": "2013 / 美国 / 喜剧 动画 冒险\n柯克·德·米科 / 克里斯·桑德斯 导演",
+        "id": "1907966",
+        "genres": [
+            "喜剧",
+            "动画",
+            "冒险"
+        ],
+        "title": "疯狂原始人",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "尼古拉斯·凯奇"
+            },
+            {
+                "name": "艾玛·斯通"
+            },
+            {
+                "name": "瑞恩·雷诺兹"
+            },
+            {
+                "name": "凯瑟琳·基纳"
+            },
+            {
+                "name": "克萝丽丝·利奇曼"
+            },
+            {
+                "name": "克拉克·杜克"
+            },
+            {
+                "name": "克里斯·桑德斯"
+            },
+            {
+                "name": "兰迪·汤姆"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5937b",
+            "_base_color": [
+                0.09374999999999996,
+                0.25396825396825395,
+                0.24705882352941178
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.46527777777777773,
+                0.1818181818181819,
+                0.5176470588235295
+            ],
+            "primary_color_dark": "7f715f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1867084027.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1907966",
+        "url": "https://movie.douban.com/subject/1907966/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1907966",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "柯克·德·米科"
+            },
+            {
+                "name": "克里斯·桑德斯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

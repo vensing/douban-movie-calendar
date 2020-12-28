@@ -1,0 +1,104 @@
+{
+    "comment": {
+        "content": "战斗的狂飙突击是一种瘾，强效而致命，因为战争本身是种毒品。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72634c",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c4233"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140874.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-16",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 151763,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.8
+        },
+        "pubdate": [
+            "2008-09-04(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p770541118.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p770541118.jpg"
+        },
+        "is_show": false,
+        "year": "2008",
+        "card_subtitle": "2008 / 美国 / 剧情 惊悚 战争\n凯瑟琳·毕格罗 导演",
+        "id": "2028645",
+        "genres": [
+            "剧情",
+            "惊悚",
+            "战争"
+        ],
+        "title": "拆弹部队",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "杰瑞米·雷纳"
+            },
+            {
+                "name": "安东尼·麦凯"
+            },
+            {
+                "name": "布莱恩·格拉格提"
+            },
+            {
+                "name": "克里斯托弗·沙耶"
+            },
+            {
+                "name": "大卫·摩斯"
+            },
+            {
+                "name": "拉尔夫·费因斯"
+            },
+            {
+                "name": "盖·皮尔斯"
+            },
+            {
+                "name": "克里斯蒂安·卡玛戈"
+            },
+            {
+                "name": "伊万杰琳·莉莉"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a4a0",
+            "_base_color": [
+                0.13888888888888903,
+                0.030150753768844255,
+                0.7803921568627451
+            ],
+            "secondary_color": "f9f9f4",
+            "_avg_color": [
+                0.06666666666666694,
+                0.05586592178770946,
+                0.7019607843137254
+            ],
+            "primary_color_dark": "7f7e7b"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p770541118.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/2028645",
+        "url": "https://movie.douban.com/subject/2028645/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/2028645",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "凯瑟琳·毕格罗"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

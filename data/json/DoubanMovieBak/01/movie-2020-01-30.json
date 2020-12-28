@@ -1,0 +1,133 @@
+{
+    "comment": {
+        "content": "没人愿意听到坏消息，所以人们往往低估坏事发生的概率。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726862",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c4541"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139365.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-30",
+        "description": "克里斯蒂安·贝尔46岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 168775,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.5
+        },
+        "pubdate": [
+            "2015-11-12(AFI影展)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2283531871.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2283531871.jpg"
+        },
+        "is_show": false,
+        "year": "2015",
+        "card_subtitle": "2015 / 美国 / 剧情 传记\n亚当·麦凯 导演",
+        "id": "26303622",
+        "genres": [
+            "剧情",
+            "传记"
+        ],
+        "title": "大空头",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "克里斯蒂安·贝尔"
+            },
+            {
+                "name": "史蒂夫·卡瑞尔"
+            },
+            {
+                "name": "瑞恩·高斯林"
+            },
+            {
+                "name": "布拉德·皮特"
+            },
+            {
+                "name": "梅丽莎·里奥"
+            },
+            {
+                "name": "约翰·马加罗"
+            },
+            {
+                "name": "拉菲·斯波"
+            },
+            {
+                "name": "杰瑞米·斯特朗"
+            },
+            {
+                "name": "芬·维特洛克"
+            },
+            {
+                "name": "玛丽莎·托梅"
+            },
+            {
+                "name": "崔西·莱茨"
+            },
+            {
+                "name": "文峰"
+            },
+            {
+                "name": "阿德普波·奥杜耶"
+            },
+            {
+                "name": "凯伦·吉兰"
+            },
+            {
+                "name": "马克思·格林菲尔德"
+            },
+            {
+                "name": "比利·马格努森"
+            },
+            {
+                "name": "玛格特·罗比"
+            },
+            {
+                "name": "理查德·塞勒"
+            },
+            {
+                "name": "赛琳娜·戈麦斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5948d",
+            "_base_color": [
+                0.04999999999999997,
+                0.14492753623188395,
+                0.27058823529411763
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.0641025641025642,
+                0.07784431137724557,
+                0.6549019607843137
+            ],
+            "primary_color_dark": "7f726d"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2283531871.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26303622",
+        "url": "https://movie.douban.com/subject/26303622/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26303622",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "亚当·麦凯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

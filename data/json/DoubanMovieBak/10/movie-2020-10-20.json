@@ -1,0 +1,116 @@
+{
+    "comment": {
+        "content": "为了快乐，我们都对自己撒谎。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725e70",
+            "secondary_color": "f9f4f9",
+            "primary_color_dark": "4c3e4b"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140878.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-20",
+        "description": "《记忆碎片》上映20周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 481984,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "2000-09-05(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p641688453.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p641688453.jpg"
+        },
+        "is_show": false,
+        "year": "2000",
+        "card_subtitle": "2000 / 美国 / 犯罪 剧情 悬疑\n克里斯托弗·诺兰 导演",
+        "id": "1304447",
+        "genres": [
+            "犯罪",
+            "剧情",
+            "悬疑"
+        ],
+        "title": "记忆碎片",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "盖·皮尔斯"
+            },
+            {
+                "name": "凯瑞-安·莫斯"
+            },
+            {
+                "name": "乔·潘托里亚诺"
+            },
+            {
+                "name": "小马克·布恩"
+            },
+            {
+                "name": "拉什·费加"
+            },
+            {
+                "name": "乔雅·福克斯"
+            },
+            {
+                "name": "斯蒂芬·托布罗斯基"
+            },
+            {
+                "name": "哈里特·桑塞姆·哈里斯"
+            },
+            {
+                "name": "托马斯·列农"
+            },
+            {
+                "name": "考乐姆·吉斯·雷尼"
+            },
+            {
+                "name": "金伯利·坎贝尔"
+            },
+            {
+                "name": "玛丽安妮·穆勒雷尔"
+            },
+            {
+                "name": "拉里·霍尔登"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59a87",
+            "_base_color": [
+                0.10317460317460315,
+                0.1818181818181818,
+                0.9058823529411765
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.059259259259259255,
+                0.27108433734939763,
+                0.6509803921568628
+            ],
+            "primary_color_dark": "7f7668"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p641688453.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1304447",
+        "url": "https://movie.douban.com/subject/1304447/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1304447",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "克里斯托弗·诺兰"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

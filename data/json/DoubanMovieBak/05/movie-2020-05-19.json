@@ -1,0 +1,100 @@
+{
+    "comment": {
+        "content": "吾之所失，亦是吾之所在。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "70724f",
+            "secondary_color": "f9f9f4",
+            "primary_color_dark": "4a4c34"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139792.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-19",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 43866,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "2000-06-16(墨西哥)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p627345397.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p627345397.jpg"
+        },
+        "is_show": false,
+        "year": "2000",
+        "card_subtitle": "2000 / 墨西哥 / 剧情 惊悚\n亚历杭德罗·冈萨雷斯·伊纳里图 导演",
+        "id": "1292216",
+        "genres": [
+            "剧情",
+            "惊悚"
+        ],
+        "title": "爱情是狗娘",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "盖尔·加西亚·贝纳尔"
+            },
+            {
+                "name": "Emilio Echevarría"
+            },
+            {
+                "name": "Álvaro Guerrero"
+            },
+            {
+                "name": "巴内萨·宝切"
+            },
+            {
+                "name": "豪尔赫·萨利纳斯"
+            },
+            {
+                "name": "Marco Pérez"
+            },
+            {
+                "name": "艾德里安娜·巴拉扎"
+            },
+            {
+                "name": "胡伯托·巴斯托"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a52535",
+            "_base_color": [
+                0.978494623655914,
+                0.775,
+                0.1568627450980392
+            ],
+            "secondary_color": "f9f4f5",
+            "_avg_color": [
+                0.988562091503268,
+                0.7183098591549296,
+                0.5568627450980392
+            ],
+            "primary_color_dark": "7f1c29"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p627345397.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292216",
+        "url": "https://movie.douban.com/subject/1292216/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292216",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "亚历杭德罗·冈萨雷斯·伊纳里图"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

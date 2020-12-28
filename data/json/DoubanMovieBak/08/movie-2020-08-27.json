@@ -1,0 +1,120 @@
+{
+    "comment": {
+        "content": "那些快乐的美好日子已然过去，只剩下这可恶肮脏的生活在吞噬着我们，人生总是如此。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a57b49",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f5e38"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140598.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-27",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 14093,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.8
+        },
+        "pubdate": [
+            "1982-12-17"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1172714598.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1172714598.jpg"
+        },
+        "is_show": false,
+        "year": "1982",
+        "card_subtitle": "1982 / 法国 瑞典 西德 / 剧情\n英格玛·伯格曼 导演",
+        "id": "1292784",
+        "genres": [
+            "剧情"
+        ],
+        "title": "芬妮与亚历山大",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "克里斯蒂娜·阿道夫森"
+            },
+            {
+                "name": "伯杰·阿斯特"
+            },
+            {
+                "name": "佩妮娜·奥威"
+            },
+            {
+                "name": "克里斯蒂安·阿尔姆格伦"
+            },
+            {
+                "name": "卡尔·比尔奎斯特"
+            },
+            {
+                "name": "阿克塞尔·迪贝里"
+            },
+            {
+                "name": "艾伦·埃德渥"
+            },
+            {
+                "name": "茜芙·埃里克斯"
+            },
+            {
+                "name": "阿娃·弗洛灵"
+            },
+            {
+                "name": "Patricia Gélin"
+            },
+            {
+                "name": "迈丽丝·格兰隆德"
+            },
+            {
+                "name": "Maria Granlund"
+            },
+            {
+                "name": "贝蒂尔·古韦"
+            },
+            {
+                "name": "埃娃·冯·汉诺"
+            },
+            {
+                "name": "索妮娅·赫登布拉特"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a51b17",
+            "_base_color": [
+                0.004694835680751149,
+                0.8606060606060606,
+                0.6470588235294118
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.02304964539007091,
+                0.4895833333333333,
+                0.7529411764705882
+            ],
+            "primary_color_dark": "7f1411"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1172714598.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292784",
+        "url": "https://movie.douban.com/subject/1292784/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292784",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "英格玛·伯格曼"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

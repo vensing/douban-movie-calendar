@@ -1,0 +1,134 @@
+{
+    "comment": {
+        "content": "我的心是颗牙齿，而牙齿上蛀了个洞，只有孩子的爱才能填补这个洞。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725440",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c382b"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140207.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-09",
+        "description": "《神偷奶爸》上映10周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 757330,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "2010-06-20(莫斯科电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p792776858.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792776858.jpg"
+        },
+        "is_show": false,
+        "year": "2010",
+        "card_subtitle": "2010 / 美国 法国 / 喜剧 动画 冒险\n皮埃尔·柯芬 / 克里斯·雷纳德 导演",
+        "id": "3287562",
+        "genres": [
+            "喜剧",
+            "动画",
+            "冒险"
+        ],
+        "title": "神偷奶爸",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "史蒂夫·卡瑞尔"
+            },
+            {
+                "name": "杰森·席格尔"
+            },
+            {
+                "name": "拉塞尔·布兰德"
+            },
+            {
+                "name": "朱莉·安德鲁斯"
+            },
+            {
+                "name": "威尔·阿奈特"
+            },
+            {
+                "name": "克里斯汀·韦格"
+            },
+            {
+                "name": "米兰达·卡斯格拉夫"
+            },
+            {
+                "name": "达纳·盖尔"
+            },
+            {
+                "name": "艾尔西·费舍尔"
+            },
+            {
+                "name": "皮埃尔·柯芬"
+            },
+            {
+                "name": "克里斯·雷纳德"
+            },
+            {
+                "name": "杰梅奈·克莱门特"
+            },
+            {
+                "name": "杰克·麦克布瑞尔"
+            },
+            {
+                "name": "丹尼·麦克布莱德"
+            },
+            {
+                "name": "敏迪·卡灵"
+            },
+            {
+                "name": "罗布·许贝尔"
+            },
+            {
+                "name": "肯·道里欧"
+            },
+            {
+                "name": "郑肯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59a8f",
+            "_base_color": [
+                0.08620689655172413,
+                0.1361502347417841,
+                0.8352941176470589
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.5942028985507247,
+                0.17164179104477614,
+                0.5254901960784314
+            ],
+            "primary_color_dark": "7f776e"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p792776858.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3287562",
+        "url": "https://movie.douban.com/subject/3287562/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3287562",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "皮埃尔·柯芬"
+            },
+            {
+                "name": "克里斯·雷纳德"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

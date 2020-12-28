@@ -1,0 +1,149 @@
+{
+    "comment": {
+        "content": "你真正是谁并不重要，重要的是你的所作所为。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724735",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c2f23"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140764.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-13",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 296616,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.5
+        },
+        "pubdate": [
+            "2005-06-29(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1563566300.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1563566300.jpg"
+        },
+        "is_show": false,
+        "year": "2005",
+        "card_subtitle": "2005 / 美国 英国 / 剧情 动作 科幻\n克里斯托弗·诺兰 导演",
+        "id": "1309069",
+        "genres": [
+            "剧情",
+            "动作",
+            "科幻"
+        ],
+        "title": "蝙蝠侠：侠影之谜",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "克里斯蒂安·贝尔"
+            },
+            {
+                "name": "迈克尔·凯恩"
+            },
+            {
+                "name": "连姆·尼森"
+            },
+            {
+                "name": "凯蒂·霍尔姆斯"
+            },
+            {
+                "name": "加里·奥德曼"
+            },
+            {
+                "name": "基里安·墨菲"
+            },
+            {
+                "name": "汤姆·威尔金森"
+            },
+            {
+                "name": "鲁特格尔·哈尔"
+            },
+            {
+                "name": "渡边谦"
+            },
+            {
+                "name": "小马克·布恩"
+            },
+            {
+                "name": "莱纳斯·罗彻"
+            },
+            {
+                "name": "摩根·弗里曼"
+            },
+            {
+                "name": "拉里·霍尔登"
+            },
+            {
+                "name": "杰拉德·墨菲"
+            },
+            {
+                "name": "柯林·麦克法兰"
+            },
+            {
+                "name": "莎拉·斯图尔特"
+            },
+            {
+                "name": "加斯·刘易斯"
+            },
+            {
+                "name": "理查德·布雷克"
+            },
+            {
+                "name": "拉德·舍博德兹加"
+            },
+            {
+                "name": "艾玛·洛克哈特"
+            },
+            {
+                "name": "克里斯蒂尼·亚当斯"
+            },
+            {
+                "name": "凯瑟琳·波特"
+            },
+            {
+                "name": "约翰·诺兰"
+            },
+            {
+                "name": "杰克·格里森"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725834",
+            "_base_color": [
+                0.09523809523809523,
+                0.5384615384615384,
+                0.8156862745098039
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.07758620689655173,
+                0.6236559139784946,
+                0.36470588235294116
+            ],
+            "primary_color_dark": "4c3a23"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1563566300.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1309069",
+        "url": "https://movie.douban.com/subject/1309069/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1309069",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "克里斯托弗·诺兰"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

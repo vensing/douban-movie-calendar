@@ -1,0 +1,91 @@
+{
+    "comment": {
+        "content": "藏在黑暗之后的，必定是万丈光芒。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72625a",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c413c"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140540.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-01",
+        "description": "",
+        "title": "建军节"
+    },
+    "subject": {
+        "rating": {
+            "count": 53931,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.5
+        },
+        "pubdate": [
+            "2015-10-07(法国)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2312758560.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2312758560.jpg"
+        },
+        "is_show": false,
+        "year": "2015",
+        "card_subtitle": "2015 / 法国 / 剧情 喜剧\n萨米埃尔·本谢特里 导演",
+        "id": "26356789",
+        "genres": [
+            "剧情",
+            "喜剧"
+        ],
+        "title": "心房客",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "迈克尔·皮特"
+            },
+            {
+                "name": "伊莎贝尔·于佩尔"
+            },
+            {
+                "name": "瓦莱丽亚·布鲁尼·泰德斯基"
+            },
+            {
+                "name": "古斯塔弗·科文"
+            },
+            {
+                "name": "朱尔·本谢特里"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a2a3",
+            "_base_color": [
+                0.9583333333333334,
+                0.019138755980861177,
+                0.8196078431372549
+            ],
+            "secondary_color": "f9f4f6",
+            "_avg_color": [
+                0,
+                0.06395348837209312,
+                0.6745098039215687
+            ],
+            "primary_color_dark": "7f7d7d"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2312758560.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26356789",
+        "url": "https://movie.douban.com/subject/26356789/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26356789",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "萨米埃尔·本谢特里"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

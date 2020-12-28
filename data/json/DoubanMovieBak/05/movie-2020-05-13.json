@@ -1,0 +1,101 @@
+{
+    "comment": {
+        "content": "你知道我的问题在哪吗？我没法拒绝别人，因为我想要所有人都喜欢我。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58c89",
+            "secondary_color": "f9f5f4",
+            "primary_color_dark": "7f6c69"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139782.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-13",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 58538,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.2
+        },
+        "pubdate": [
+            "2014-08-22(美国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2192391114.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2192391114.jpg"
+        },
+        "is_show": false,
+        "year": "2014",
+        "card_subtitle": "2014 / 美国 / 剧情 喜剧 动画\nJ·C·冈泽尔兹 导演",
+        "id": "25900177",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "动画"
+        ],
+        "title": "马男波杰克 第一季",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "亚伦·保尔"
+            },
+            {
+                "name": "威尔·阿奈特"
+            },
+            {
+                "name": "艾米·塞德丽丝"
+            },
+            {
+                "name": "爱丽森·布里"
+            },
+            {
+                "name": "保罗·F·汤普金斯"
+            },
+            {
+                "name": "帕顿·奥斯瓦尔特"
+            },
+            {
+                "name": "克里斯汀·沙尔"
+            },
+            {
+                "name": "斯坦利·图齐"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6d9ca5",
+            "_base_color": [
+                0.5281385281385281,
+                0.34222222222222215,
+                0.8823529411764706
+            ],
+            "secondary_color": "f4f9f9",
+            "_avg_color": [
+                0.44827586206896536,
+                0.16860465116279075,
+                0.6745098039215687
+            ],
+            "primary_color_dark": "53787f"
+        },
+        "type": "tv",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2192391114.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/25900177",
+        "url": "https://movie.douban.com/subject/25900177/",
+        "release_date": null,
+        "uri": "douban://douban.com/tv/25900177",
+        "subtype": "tv",
+        "directors": [
+            {
+                "name": "J·C·冈泽尔兹"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

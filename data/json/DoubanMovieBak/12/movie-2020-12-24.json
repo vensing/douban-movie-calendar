@@ -1,0 +1,188 @@
+{
+    "comment": {
+        "content": "彼此坦诚以对还能爱对方，这才是真正的亲情吧。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72635d",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c423e"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580141210.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-24",
+        "description": "",
+        "title": "平安夜"
+    },
+    "subject": {
+        "rating": {
+            "count": 127278,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9
+        },
+        "pubdate": [
+            "2003-11-08(日本)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p456703618.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p456703618.jpg"
+        },
+        "is_show": false,
+        "year": "2003",
+        "card_subtitle": "2003 / 日本 / 剧情 喜剧 动画\n今敏 导演",
+        "id": "1310177",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "动画"
+        ],
+        "title": "东京教父",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "江守彻"
+            },
+            {
+                "name": "梅垣义明"
+            },
+            {
+                "name": "冈本绫"
+            },
+            {
+                "name": "饭塚昭三"
+            },
+            {
+                "name": "加藤精三"
+            },
+            {
+                "name": "石丸博也"
+            },
+            {
+                "name": "槐柳二"
+            },
+            {
+                "name": "屋良有作"
+            },
+            {
+                "name": "寺濑今日子"
+            },
+            {
+                "name": "能登麻美子"
+            },
+            {
+                "name": "大塚明夫"
+            },
+            {
+                "name": "小山力也"
+            },
+            {
+                "name": "宇垣秀成"
+            },
+            {
+                "name": "小形满"
+            },
+            {
+                "name": "芝原智矢子"
+            },
+            {
+                "name": "竹口安芸子"
+            },
+            {
+                "name": "伊藤和晃"
+            },
+            {
+                "name": "古田信幸"
+            },
+            {
+                "name": "汤屋敦子"
+            },
+            {
+                "name": "堀川仁"
+            },
+            {
+                "name": "风间勇刀"
+            },
+            {
+                "name": "最上嗣生"
+            },
+            {
+                "name": "园部好德"
+            },
+            {
+                "name": "川濑晶子"
+            },
+            {
+                "name": "宫崎晋永"
+            },
+            {
+                "name": "矢原加奈子"
+            },
+            {
+                "name": "柴田理惠"
+            },
+            {
+                "name": "犬山犬子"
+            },
+            {
+                "name": "山寺宏一"
+            },
+            {
+                "name": "柚木凉香"
+            },
+            {
+                "name": "进藤尚美"
+            },
+            {
+                "name": "川原庆久"
+            },
+            {
+                "name": "麻生智久"
+            },
+            {
+                "name": "铃森勘司"
+            },
+            {
+                "name": "金田朋子"
+            },
+            {
+                "name": "藤原启治"
+            },
+            {
+                "name": "兴梠里美"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72493d",
+            "_base_color": [
+                0.03809523809523809,
+                0.4666666666666667,
+                0.29411764705882354
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.04722222222222222,
+                0.5,
+                0.47058823529411764
+            ],
+            "primary_color_dark": "4c3028"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p456703618.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1310177",
+        "url": "https://movie.douban.com/subject/1310177/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1310177",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "今敏"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

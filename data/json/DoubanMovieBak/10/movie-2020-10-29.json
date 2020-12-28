@@ -1,0 +1,179 @@
+{
+    "comment": {
+        "content": "——“朋友”是什么？\n——就是你会为他赴汤蹈火的人。而且永不违背承诺。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725f4b",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3f32"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140959.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-29",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 161329,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.9
+        },
+        "pubdate": [
+            "2016-07-15(美国)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2364206200.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2364206200.jpg"
+        },
+        "is_show": false,
+        "year": "2016",
+        "card_subtitle": "2016 / 美国 / 剧情 科幻 悬疑\n肖恩·利维 / 马特·达菲 / 罗斯·达菲 导演",
+        "id": "26359270",
+        "genres": [
+            "剧情",
+            "科幻",
+            "悬疑"
+        ],
+        "title": "怪奇物语 第一季",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "薇诺娜·瑞德"
+            },
+            {
+                "name": "大卫·哈伯"
+            },
+            {
+                "name": "菲恩·伍法德"
+            },
+            {
+                "name": "米莉·波比·布朗"
+            },
+            {
+                "name": "伽塔·马塔拉佐"
+            },
+            {
+                "name": "凯莱布·麦克劳克林"
+            },
+            {
+                "name": "娜塔莉·戴尔"
+            },
+            {
+                "name": "查理·希顿"
+            },
+            {
+                "name": "卡拉·布欧诺"
+            },
+            {
+                "name": "马修·莫迪恩"
+            },
+            {
+                "name": "乔·基瑞"
+            },
+            {
+                "name": "罗布·摩根"
+            },
+            {
+                "name": "约翰·雷诺兹"
+            },
+            {
+                "name": "乔·克里斯特"
+            },
+            {
+                "name": "诺亚·施纳普"
+            },
+            {
+                "name": "马克·斯达格"
+            },
+            {
+                "name": "兰德尔·P·海文斯"
+            },
+            {
+                "name": "托比亚斯·耶利内克"
+            },
+            {
+                "name": "苏珊·沙尔霍布·拉金"
+            },
+            {
+                "name": "凯萨琳·戴尔"
+            },
+            {
+                "name": "安妮斯顿·普莱斯"
+            },
+            {
+                "name": "婷斯莉·普莱斯"
+            },
+            {
+                "name": "佩顿·威奇"
+            },
+            {
+                "name": "罗斯·帕特里奇"
+            },
+            {
+                "name": "艾米·穆林斯"
+            },
+            {
+                "name": "克里斯·沙利文"
+            },
+            {
+                "name": "朗·罗格"
+            },
+            {
+                "name": "休·B·赫鲁伯"
+            },
+            {
+                "name": "罗伯特·沃克·布兰乔德"
+            },
+            {
+                "name": "香农·珀瑟"
+            },
+            {
+                "name": "斯特凡妮·巴特勒"
+            },
+            {
+                "name": "尤赖亚·谢尔顿"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6e5472",
+            "_base_color": [
+                0.8125,
+                0.26666666666666666,
+                0.11764705882352941
+            ],
+            "secondary_color": "f9f4f9",
+            "_avg_color": [
+                0.7575757575757577,
+                0.17187499999999994,
+                0.25098039215686274
+            ],
+            "primary_color_dark": "49384c"
+        },
+        "type": "tv",
+        "has_linewatch": false,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2364206200.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26359270",
+        "url": "https://movie.douban.com/subject/26359270/",
+        "release_date": null,
+        "uri": "douban://douban.com/tv/26359270",
+        "subtype": "tv",
+        "directors": [
+            {
+                "name": "肖恩·利维"
+            },
+            {
+                "name": "马特·达菲"
+            },
+            {
+                "name": "罗斯·达菲"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

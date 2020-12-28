@@ -1,0 +1,91 @@
+{
+    "comment": {
+        "content": "奇怪的是，这种形式的沟通，什么都是废话。但是我只想说，这些废话对我来说，比很多事都重要得多。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726252",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c4136"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139794.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-20",
+        "description": "",
+        "title": "小满"
+    },
+    "subject": {
+        "rating": {
+            "count": 90227,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.8
+        },
+        "pubdate": [
+            "1998-12-18"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p469986306.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p469986306.jpg"
+        },
+        "is_show": false,
+        "year": "1998",
+        "card_subtitle": "1998 / 美国 / 喜剧 爱情\n诺拉·艾芙隆 导演",
+        "id": "1293555",
+        "genres": [
+            "喜剧",
+            "爱情"
+        ],
+        "title": "电子情书",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "汤姆·汉克斯"
+            },
+            {
+                "name": "梅格·瑞恩"
+            },
+            {
+                "name": "凯蒂·萨戈纳"
+            },
+            {
+                "name": "格雷戈·金尼尔"
+            },
+            {
+                "name": "帕克·波西"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72565d",
+            "_base_color": [
+                0.962962962962963,
+                0.2432432432432433,
+                0.1450980392156863
+            ],
+            "secondary_color": "f9f4f6",
+            "_avg_color": [
+                0.030864197530864224,
+                0.3417721518987342,
+                0.30980392156862746
+            ],
+            "primary_color_dark": "4c393e"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p469986306.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1293555",
+        "url": "https://movie.douban.com/subject/1293555/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1293555",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "诺拉·艾芙隆"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

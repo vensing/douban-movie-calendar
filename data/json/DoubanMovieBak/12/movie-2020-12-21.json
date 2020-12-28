@@ -1,0 +1,128 @@
+{
+    "comment": {
+        "content": "隧道尽头是光明。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724d2c",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c331d"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580141206.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-21",
+        "description": "",
+        "title": "冬至"
+    },
+    "subject": {
+        "rating": {
+            "count": 79375,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.4
+        },
+        "pubdate": [
+            "1994-01-26(法国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1604838524.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1604838524.jpg"
+        },
+        "is_show": false,
+        "year": "1994",
+        "card_subtitle": "1994 / 法国 波兰 瑞士 / 喜剧 剧情 悬疑\n克日什托夫·基耶斯洛夫斯基 导演",
+        "id": "1292049",
+        "genres": [
+            "喜剧",
+            "剧情",
+            "悬疑"
+        ],
+        "title": "蓝白红三部曲之白",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "泽比纽·扎马洲斯基"
+            },
+            {
+                "name": "朱莉·德尔佩"
+            },
+            {
+                "name": "扬努斯·加约斯"
+            },
+            {
+                "name": "耶日·斯图尔"
+            },
+            {
+                "name": "亚历山大·巴尔迪尼"
+            },
+            {
+                "name": "格热戈日·瓦寇"
+            },
+            {
+                "name": "采扎里·哈拉西摩威奇"
+            },
+            {
+                "name": "耶日·诺瓦克"
+            },
+            {
+                "name": "杰吉·特雷拉"
+            },
+            {
+                "name": "采扎里·帕祖拉"
+            },
+            {
+                "name": "菲利普·莫里尔-热努"
+            },
+            {
+                "name": "比奥迪·玛查里卡"
+            },
+            {
+                "name": "弗朗西斯·科菲内"
+            },
+            {
+                "name": "芭芭拉·杰坎"
+            },
+            {
+                "name": "马尔泽娜·泰巴拉"
+            },
+            {
+                "name": "特蕾莎·布齐什-克日扎诺夫斯卡"
+            },
+            {
+                "name": "朱丽叶·比诺什"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59468",
+            "_base_color": [
+                0.11904761904761905,
+                0.3684210526315789,
+                0.14901960784313725
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.07936507936507937,
+                0.11351351351351342,
+                0.7254901960784313
+            ],
+            "primary_color_dark": "7f7250"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1604838524.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292049",
+        "url": "https://movie.douban.com/subject/1292049/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292049",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "克日什托夫·基耶斯洛夫斯基"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

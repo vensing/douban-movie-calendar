@@ -1,0 +1,95 @@
+{
+    "comment": {
+        "content": "你为朋友挺身而出，我们以你为荣。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725f4b",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3f32"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139354.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-22",
+        "description": "希斯·莱杰逝世12周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 6961,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.3
+        },
+        "pubdate": [
+            "2005-06-03"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1163848822.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1163848822.jpg"
+        },
+        "is_show": false,
+        "year": "2005",
+        "card_subtitle": "2005 / 美国 德国 / 传记 剧情 运动\n凯瑟琳·哈德威克 导演",
+        "id": "1309206",
+        "genres": [
+            "传记",
+            "剧情",
+            "运动"
+        ],
+        "title": "狗镇之主",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "埃米尔·赫斯基"
+            },
+            {
+                "name": "维克多·罗塞克"
+            },
+            {
+                "name": "约翰·罗宾森"
+            },
+            {
+                "name": "希斯·莱杰"
+            },
+            {
+                "name": "妮基·瑞德"
+            },
+            {
+                "name": "白灵"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a56c72",
+            "_base_color": [
+                0.9814814814814815,
+                0.34615384615384615,
+                0.10196078431372549
+            ],
+            "secondary_color": "f9f4f5",
+            "_avg_color": [
+                0.05303030303030304,
+                0.1122448979591837,
+                0.7686274509803922
+            ],
+            "primary_color_dark": "7f5358"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1163848822.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1309206",
+        "url": "https://movie.douban.com/subject/1309206/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1309206",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "凯瑟琳·哈德威克"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

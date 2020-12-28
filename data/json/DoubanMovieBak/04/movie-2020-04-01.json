@@ -1,0 +1,104 @@
+{
+    "comment": {
+        "content": "我祈祷星辰月儿来作证，用尽一生也愿意去等。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726c6e",
+            "secondary_color": "f9f4f6",
+            "primary_color_dark": "4c4849"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139678.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-04-01",
+        "description": "张国荣逝世17周年",
+        "title": "愚人节"
+    },
+    "subject": {
+        "rating": {
+            "count": 56400,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.9
+        },
+        "pubdate": [
+            "1995-07-22(中国香港)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p971237356.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p971237356.jpg"
+        },
+        "is_show": false,
+        "year": "1995",
+        "card_subtitle": "1995 / 中国香港 中国大陆 新加坡 / 剧情 爱情 惊悚\n于仁泰 导演",
+        "id": "1304826",
+        "genres": [
+            "剧情",
+            "爱情",
+            "惊悚"
+        ],
+        "title": "夜半歌声",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "张国荣"
+            },
+            {
+                "name": "吴倩莲"
+            },
+            {
+                "name": "黄磊"
+            },
+            {
+                "name": "刘琳"
+            },
+            {
+                "name": "司徒慧焯"
+            },
+            {
+                "name": "刘天池"
+            },
+            {
+                "name": "鲍方"
+            },
+            {
+                "name": "郭追"
+            },
+            {
+                "name": "王冰"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "635b72",
+            "_base_color": [
+                0.7222222222222222,
+                0.2,
+                0.058823529411764705
+            ],
+            "secondary_color": "f6f4f9",
+            "_avg_color": [
+                0.9333333333333333,
+                0.18518518518518517,
+                0.10588235294117647
+            ],
+            "primary_color_dark": "423d4c"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p971237356.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1304826",
+        "url": "https://movie.douban.com/subject/1304826/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1304826",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "于仁泰"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

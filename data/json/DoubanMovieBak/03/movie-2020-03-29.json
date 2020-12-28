@@ -1,0 +1,84 @@
+{
+    "comment": {
+        "content": "我出生在一颗星星的呵护下，我的月亮母亲给予我清凉，我的太阳父亲给予我热量，还有宇宙给予我居所。你能想到吗？我有多么大的生活空间啊！",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726359",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c423b"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139609.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-29",
+        "description": "阿涅斯·瓦尔达逝世1周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 62453,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.2
+        },
+        "pubdate": [
+            "2017-05-19(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2459499263.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2459499263.jpg"
+        },
+        "is_show": false,
+        "year": "2017",
+        "card_subtitle": "2017 / 法国 / 纪录片\n阿涅斯·瓦尔达 / JR 导演",
+        "id": "26764928",
+        "genres": [
+            "纪录片"
+        ],
+        "title": "脸庞，村庄",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "阿涅斯·瓦尔达"
+            },
+            {
+                "name": "JR"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "7c92a5",
+            "_base_color": [
+                0.5763888888888888,
+                0.24742268041237114,
+                0.3803921568627451
+            ],
+            "secondary_color": "f4f7f9",
+            "_avg_color": [
+                0.5757575757575757,
+                0.22147651006711416,
+                0.5843137254901961
+            ],
+            "primary_color_dark": "5f717f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2459499263.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26764928",
+        "url": "https://movie.douban.com/subject/26764928/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26764928",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "阿涅斯·瓦尔达"
+            },
+            {
+                "name": "JR"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

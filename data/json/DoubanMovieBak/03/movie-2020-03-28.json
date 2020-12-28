@@ -1,0 +1,106 @@
+{
+    "comment": {
+        "content": "随着我们年长，我们就不再做选择了，尤其是大的选择。也许我们一生中有太多的选择，一旦用完了，也就没有了。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5968a",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f736a"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139607.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-28",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 32525,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.8
+        },
+        "pubdate": [
+            "2015-02-06(柏林电影节)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2309810802.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2309810802.jpg"
+        },
+        "is_show": false,
+        "year": "2015",
+        "card_subtitle": "2015 / 英国 / 剧情 爱情\n安德鲁·海格 导演",
+        "id": "25839662",
+        "genres": [
+            "剧情",
+            "爱情"
+        ],
+        "title": "45周年",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "夏洛特·兰普林"
+            },
+            {
+                "name": "汤姆·康特奈"
+            },
+            {
+                "name": "杰拉丁妮·詹姆斯"
+            },
+            {
+                "name": "多莉·韦尔斯"
+            },
+            {
+                "name": "大卫·西布利"
+            },
+            {
+                "name": "山姆·亚历山大"
+            },
+            {
+                "name": "理查德·坎宁汉姆"
+            },
+            {
+                "name": "汉娜·查尔莫斯"
+            },
+            {
+                "name": "卡米尔·乌坎"
+            },
+            {
+                "name": "鲁弗斯·赖特"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59d95",
+            "_base_color": [
+                0.07936507936507937,
+                0.09677419354838701,
+                0.8509803921568627
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.06666666666666671,
+                0.09569377990430615,
+                0.8196078431372549
+            ],
+            "primary_color_dark": "7f7973"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2309810802.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/25839662",
+        "url": "https://movie.douban.com/subject/25839662/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/25839662",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "安德鲁·海格"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

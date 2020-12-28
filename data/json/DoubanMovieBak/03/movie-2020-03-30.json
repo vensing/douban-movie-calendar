@@ -1,0 +1,131 @@
+{
+    "comment": {
+        "content": "真相什么的都是扯淡，每个人心目中的真相都不相同，生活也总是永远朝着不好的方向进行。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725c51",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3d36"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139612.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-30",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 59865,
+            "max": 10,
+            "star_count": 4,
+            "value": 8
+        },
+        "pubdate": [
+            "2017-09-08(多伦多电影节)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2508862676.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2508862676.jpg"
+        },
+        "is_show": false,
+        "year": "2017",
+        "card_subtitle": "2017 / 英国 美国 卡塔尔 / 剧情 喜剧 传记\n克雷格·吉勒斯佩 导演",
+        "id": "26756049",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "传记"
+        ],
+        "title": "我，花样女王",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "玛格特·罗比"
+            },
+            {
+                "name": "塞巴斯蒂安·斯坦"
+            },
+            {
+                "name": "艾莉森·珍妮"
+            },
+            {
+                "name": "凯特琳·卡弗"
+            },
+            {
+                "name": "麦肯娜·格瑞丝"
+            },
+            {
+                "name": "鲍比·坎纳瓦尔"
+            },
+            {
+                "name": "博亚娜·诺瓦科维奇"
+            },
+            {
+                "name": "朱丽安妮·尼科尔森"
+            },
+            {
+                "name": "凯萨琳·戴尔"
+            },
+            {
+                "name": "保罗·沃尔特·豪泽"
+            },
+            {
+                "name": "约书亚·米克尔"
+            },
+            {
+                "name": "埃文·乔治·沃拉泽里斯"
+            },
+            {
+                "name": "卡拉·曼泰拉"
+            },
+            {
+                "name": "杰森·戴维斯"
+            },
+            {
+                "name": "凯莉·弗雷泽"
+            },
+            {
+                "name": "安东尼·雷诺兹"
+            },
+            {
+                "name": "杰森·麦克唐纳"
+            },
+            {
+                "name": "迈尔斯·穆森登"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59b97",
+            "_base_color": [
+                0.04385964912280713,
+                0.08715596330275224,
+                0.8549019607843137
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.011111111111111219,
+                0.15544041450777207,
+                0.7568627450980392
+            ],
+            "primary_color_dark": "7f7774"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2508862676.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26756049",
+        "url": "https://movie.douban.com/subject/26756049/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26756049",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "克雷格·吉勒斯佩"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

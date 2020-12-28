@@ -1,0 +1,98 @@
+{
+    "comment": {
+        "content": "你越了解我，你就会越不喜欢我。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6c724c",
+            "secondary_color": "f9f9f4",
+            "primary_color_dark": "484c33"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139776.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-09",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 88398,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.8
+        },
+        "pubdate": [
+            "2016-01-22(圣丹斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2328680655.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2328680655.jpg"
+        },
+        "is_show": false,
+        "year": "2016",
+        "card_subtitle": "2016 / 美国 / 喜剧 奇幻 冒险\n丹·关 / 丹尼尔·施纳特 导演",
+        "id": "26437237",
+        "genres": [
+            "喜剧",
+            "奇幻",
+            "冒险"
+        ],
+        "title": "瑞士军刀男",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "保罗·达诺"
+            },
+            {
+                "name": "丹尼尔·雷德克里夫"
+            },
+            {
+                "name": "玛丽·伊丽莎白·温斯特德"
+            },
+            {
+                "name": "蒂莫西·尤里齐"
+            },
+            {
+                "name": "玛丽卡·卡斯蒂尔"
+            },
+            {
+                "name": "理查德·格罗斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72a1a5",
+            "_base_color": [
+                0.5138888888888888,
+                0.3103448275862069,
+                0.4549019607843137
+            ],
+            "secondary_color": "f4f9f9",
+            "_avg_color": [
+                0.47333333333333344,
+                0.17361111111111108,
+                0.5647058823529412
+            ],
+            "primary_color_dark": "577c7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2328680655.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26437237",
+        "url": "https://movie.douban.com/subject/26437237/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26437237",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "丹·关"
+            },
+            {
+                "name": "丹尼尔·施纳特"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "comment": {
+        "content": "力量总是源自平静与愤怒之间。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726550",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "4c4435"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140548.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-06",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 296207,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "2011-05-25(纽约首映)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p956878707.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p956878707.jpg"
+        },
+        "is_show": false,
+        "year": "2011",
+        "card_subtitle": "2011 / 美国 英国 / 动作 剧情 科幻\n马修·沃恩 导演",
+        "id": "3168089",
+        "genres": [
+            "动作",
+            "剧情",
+            "科幻"
+        ],
+        "title": "X战警：第一战",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "詹姆斯·麦卡沃伊"
+            },
+            {
+                "name": "迈克尔·法斯宾德"
+            },
+            {
+                "name": "凯文·贝肯"
+            },
+            {
+                "name": "詹妮弗·劳伦斯"
+            },
+            {
+                "name": "罗丝·伯恩"
+            },
+            {
+                "name": "尼古拉斯·霍尔特"
+            },
+            {
+                "name": "贝丝·戈达德"
+            },
+            {
+                "name": "摩根·莉莉"
+            },
+            {
+                "name": "劳伦斯·布莱切"
+            },
+            {
+                "name": "比尔·米尔纳"
+            },
+            {
+                "name": "佐伊·克罗维兹"
+            },
+            {
+                "name": "卡赖伯·兰德里·琼斯"
+            },
+            {
+                "name": "卢卡斯·提尔"
+            },
+            {
+                "name": "奥利弗·普莱特"
+            },
+            {
+                "name": "亚历克斯·冈萨雷斯"
+            },
+            {
+                "name": "杰森·弗莱明"
+            },
+            {
+                "name": "詹纽瑞·琼斯"
+            },
+            {
+                "name": "艾迪·盖瑟吉"
+            },
+            {
+                "name": "克里·约翰逊"
+            },
+            {
+                "name": "迪米特里·格里特萨斯"
+            },
+            {
+                "name": "格伦·莫肖尔"
+            },
+            {
+                "name": "马特·克拉文"
+            },
+            {
+                "name": "詹姆斯·瑞马尔"
+            },
+            {
+                "name": "路德格·皮斯特"
+            },
+            {
+                "name": "威尔弗里德·霍赫霍尔丁格"
+            },
+            {
+                "name": "格雷戈·科尔帕克奇"
+            },
+            {
+                "name": "安德瑞扎亚茨"
+            },
+            {
+                "name": "拉德·舍博德兹加"
+            },
+            {
+                "name": "雷·怀斯"
+            },
+            {
+                "name": "迈克尔·麦迪罗斯"
+            },
+            {
+                "name": "奥莱克·克鲁帕"
+            },
+            {
+                "name": "吉恩·法贝尔"
+            },
+            {
+                "name": "詹姆斯·福克纳"
+            },
+            {
+                "name": "伊娃·马格亚"
+            },
+            {
+                "name": "安娜贝拉·沃丽丝"
+            },
+            {
+                "name": "大卫·科罗"
+            },
+            {
+                "name": "萨莎·皮特丝"
+            },
+            {
+                "name": "布兰登·费尔"
+            },
+            {
+                "name": "迈克尔·艾恩塞德"
+            },
+            {
+                "name": "杰森·贝盖"
+            },
+            {
+                "name": "托尼·库兰"
+            },
+            {
+                "name": "兰道尔·巴蒂尼科夫"
+            },
+            {
+                "name": "彼得·斯塔克"
+            },
+            {
+                "name": "尼尔·芬格尔顿"
+            },
+            {
+                "name": "乔格·尼可洛夫"
+            },
+            {
+                "name": "阿瑟·达尔比尼扬"
+            },
+            {
+                "name": "拉斯科·阿特金斯"
+            },
+            {
+                "name": "查尔斯·L·坎贝尔"
+            },
+            {
+                "name": "格拉姆·柯里"
+            },
+            {
+                "name": "丽贝卡·沃尔什"
+            },
+            {
+                "name": "肖恩·赫拉多"
+            },
+            {
+                "name": "休·杰克曼"
+            },
+            {
+                "name": "Hannah-joy Lewis"
+            },
+            {
+                "name": "特蕾莎·马奥尼"
+            },
+            {
+                "name": "劳拉·让·马什"
+            },
+            {
+                "name": "吉姆·麦司奇门"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6a726d",
+            "_base_color": [
+                0.388888888888889,
+                0.07246376811594205,
+                0.8117647058823529
+            ],
+            "secondary_color": "f4f9f6",
+            "_avg_color": [
+                0.5,
+                0.1630434782608696,
+                0.3607843137254902
+            ],
+            "primary_color_dark": "464c48"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p956878707.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3168089",
+        "url": "https://movie.douban.com/subject/3168089/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3168089",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "马修·沃恩"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

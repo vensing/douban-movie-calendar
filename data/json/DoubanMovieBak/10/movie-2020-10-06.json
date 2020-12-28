@@ -1,0 +1,127 @@
+{
+    "comment": {
+        "content": "有钱人的人生，果然是彩色的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58e79",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f6d5d"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140858.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-06",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 307917,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "2017-10-13(中国台湾)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2505928032.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505928032.jpg"
+        },
+        "is_show": false,
+        "year": "2017",
+        "card_subtitle": "2017 / 中国台湾 / 剧情 喜剧\n黄信尧 导演",
+        "id": "27059130",
+        "genres": [
+            "剧情",
+            "喜剧"
+        ],
+        "title": "大佛普拉斯",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "庄益增"
+            },
+            {
+                "name": "陈竹昇"
+            },
+            {
+                "name": "戴立忍"
+            },
+            {
+                "name": "张少怀"
+            },
+            {
+                "name": "陈以文"
+            },
+            {
+                "name": "纳豆"
+            },
+            {
+                "name": "丁国琳"
+            },
+            {
+                "name": "李永丰"
+            },
+            {
+                "name": "朱约信"
+            },
+            {
+                "name": "雷婕熙"
+            },
+            {
+                "name": "林美秀"
+            },
+            {
+                "name": "小亮哥"
+            },
+            {
+                "name": "游安顺"
+            },
+            {
+                "name": "梁赫群"
+            },
+            {
+                "name": "脱线"
+            },
+            {
+                "name": "郑宇彤"
+            },
+            {
+                "name": "鲁文学"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a54522",
+            "_base_color": [
+                0.04342723004694835,
+                0.7888888888888889,
+                0.7058823529411765
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.05079365079365078,
+                0.6687898089171975,
+                0.615686274509804
+            ],
+            "primary_color_dark": "7f351a"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2505928032.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/27059130",
+        "url": "https://movie.douban.com/subject/27059130/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/27059130",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "黄信尧"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

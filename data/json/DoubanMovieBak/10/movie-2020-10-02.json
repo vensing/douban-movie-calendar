@@ -1,0 +1,112 @@
+{
+    "comment": {
+        "content": "现在想起来，光是遇到那家伙，就感觉自己赚到了。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5735d",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "7f5847"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140853.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-02",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 101091,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.8
+        },
+        "pubdate": [
+            "2013-02-23(日本)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1826486066.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1826486066.jpg"
+        },
+        "is_show": false,
+        "year": "2013",
+        "card_subtitle": "2013 / 日本 / 剧情 爱情\n冲田修一 导演",
+        "id": "10484041",
+        "genres": [
+            "剧情",
+            "爱情"
+        ],
+        "title": "横道世之介",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "高良健吾"
+            },
+            {
+                "name": "吉高由里子"
+            },
+            {
+                "name": "池松壮亮"
+            },
+            {
+                "name": "伊藤步"
+            },
+            {
+                "name": "绫野刚"
+            },
+            {
+                "name": "井浦新"
+            },
+            {
+                "name": "国村隼"
+            },
+            {
+                "name": "堀内敬子"
+            },
+            {
+                "name": "古关安广"
+            },
+            {
+                "name": "余贵美子"
+            },
+            {
+                "name": "朝仓亚纪"
+            },
+            {
+                "name": "柄本佑"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "9ca59c",
+            "_base_color": [
+                0.3333333333333333,
+                0.057971014492753624,
+                0.27058823529411763
+            ],
+            "secondary_color": "f4f9f4",
+            "_avg_color": [
+                0.09259259259259266,
+                0.13366336633663362,
+                0.792156862745098
+            ],
+            "primary_color_dark": "787f78"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1826486066.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/10484041",
+        "url": "https://movie.douban.com/subject/10484041/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/10484041",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "冲田修一"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

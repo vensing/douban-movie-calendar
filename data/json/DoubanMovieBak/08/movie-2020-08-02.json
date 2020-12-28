@@ -1,0 +1,208 @@
+{
+    "comment": {
+        "content": "孩子，我们在同一条船上。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726e63",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "4c4942"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140541.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-02",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 14116,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "1985-02-22(英国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2284182735.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2284182735.jpg"
+        },
+        "is_show": false,
+        "year": "1985",
+        "card_subtitle": "1985 / 英国 美国 / 剧情 科幻\n特瑞·吉列姆 导演",
+        "id": "1293823",
+        "genres": [
+            "剧情",
+            "科幻"
+        ],
+        "title": "妙想天开",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "乔纳森·普雷斯"
+            },
+            {
+                "name": "罗伯特·德尼罗"
+            },
+            {
+                "name": "凯瑟琳·海蒙德"
+            },
+            {
+                "name": "伊安·霍姆"
+            },
+            {
+                "name": "鲍勃·霍斯金斯"
+            },
+            {
+                "name": "麦克·帕林"
+            },
+            {
+                "name": "伊恩·理查森"
+            },
+            {
+                "name": "皮特·沃恩"
+            },
+            {
+                "name": "金·格雷斯特"
+            },
+            {
+                "name": "吉姆·布劳德本特"
+            },
+            {
+                "name": "芭芭拉·希克斯"
+            },
+            {
+                "name": "查尔斯·麦肯恩"
+            },
+            {
+                "name": "德里克·奥康纳"
+            },
+            {
+                "name": "凯瑟琳·波格森"
+            },
+            {
+                "name": "布莱恩·普林格"
+            },
+            {
+                "name": "Sheila Reid"
+            },
+            {
+                "name": "约翰·福拉纳干"
+            },
+            {
+                "name": "雷·库珀"
+            },
+            {
+                "name": "布莱恩·米勒"
+            },
+            {
+                "name": "Simon Nash"
+            },
+            {
+                "name": "西蒙·琼斯"
+            },
+            {
+                "name": "Derek Deadman"
+            },
+            {
+                "name": "奈格尔·派纳"
+            },
+            {
+                "name": "特伦斯·贝勒"
+            },
+            {
+                "name": "戈登·凯"
+            },
+            {
+                "name": "比尔·沃利斯"
+            },
+            {
+                "name": "Jack Purvis"
+            },
+            {
+                "name": "Myrtle Devenish"
+            },
+            {
+                "name": "安·韦"
+            },
+            {
+                "name": "Don Henderson"
+            },
+            {
+                "name": "霍华德·卢刘易斯"
+            },
+            {
+                "name": "Oscar Quitak"
+            },
+            {
+                "name": "Harold Innocent"
+            },
+            {
+                "name": "约翰·格里洛"
+            },
+            {
+                "name": "戴维·甘特"
+            },
+            {
+                "name": "帕特里克·康纳"
+            },
+            {
+                "name": "罗杰·阿什顿-格里菲斯"
+            },
+            {
+                "name": "Sue Hodge"
+            },
+            {
+                "name": "萨迪·科尔"
+            },
+            {
+                "name": "玛格丽塔·道尔"
+            },
+            {
+                "name": "泰瑞·佛瑞斯塔"
+            },
+            {
+                "name": "特瑞·吉列姆"
+            },
+            {
+                "name": "约翰·哈斯勒"
+            },
+            {
+                "name": "Peter Sands"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725868",
+            "_base_color": [
+                0.894927536231884,
+                0.2311557788944724,
+                0.7803921568627451
+            ],
+            "secondary_color": "f9f4f8",
+            "_avg_color": [
+                0.9074074074074074,
+                0.25,
+                0.2823529411764706
+            ],
+            "primary_color_dark": "4c3a45"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2284182735.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1293823",
+        "url": "https://movie.douban.com/subject/1293823/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1293823",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "特瑞·吉列姆"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

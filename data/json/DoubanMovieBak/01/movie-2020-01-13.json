@@ -1,0 +1,101 @@
+{
+    "comment": {
+        "content": "我这一生都在守候他，现在他出现了。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725747",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3a2f"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580139341.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-13",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 217296,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.7
+        },
+        "pubdate": [
+            "2009-08-14(美国)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p480590433.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p480590433.jpg"
+        },
+        "is_show": false,
+        "year": "2009",
+        "card_subtitle": "2009 / 美国 / 剧情 奇幻 悬疑\n罗伯特·斯文克 导演",
+        "id": "1885124",
+        "genres": [
+            "剧情",
+            "奇幻",
+            "悬疑"
+        ],
+        "title": "时间旅行者的妻子",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "瑞秋·麦克亚当斯"
+            },
+            {
+                "name": "艾瑞克·巴纳"
+            },
+            {
+                "name": "阿莱克斯·费瑞斯"
+            },
+            {
+                "name": "艾利斯·霍华德"
+            },
+            {
+                "name": "米歇尔·诺尔顿"
+            },
+            {
+                "name": "布鲁克琳·普劳克斯"
+            },
+            {
+                "name": "朗·里维斯顿"
+            },
+            {
+                "name": "塔图姆·麦克凯恩"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5784c",
+            "_base_color": [
+                0.08169934640522875,
+                0.5396825396825397,
+                0.7411764705882353
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.07526881720430106,
+                0.44285714285714284,
+                0.5490196078431373
+            ],
+            "primary_color_dark": "7f5c3a"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p480590433.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1885124",
+        "url": "https://movie.douban.com/subject/1885124/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1885124",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "罗伯特·斯文克"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

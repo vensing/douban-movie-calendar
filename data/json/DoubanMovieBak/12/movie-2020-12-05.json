@@ -1,0 +1,92 @@
+{
+    "comment": {
+        "content": "你那仁慈的上帝，他宁愿毁掉他的宠儿，也不愿让平庸之辈分享一丁点儿属于他的荣耀。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724934",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3122"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580141172.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-05",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 85496,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "1984-09-19"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p595764767.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p595764767.jpg"
+        },
+        "is_show": false,
+        "year": "1984",
+        "card_subtitle": "1984 / 美国 / 剧情 传记 历史\n米洛斯·福尔曼 导演",
+        "id": "1293399",
+        "genres": [
+            "剧情",
+            "传记",
+            "历史"
+        ],
+        "title": "莫扎特传",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "汤姆·休斯克"
+            },
+            {
+                "name": "F·默里·亚伯拉罕"
+            },
+            {
+                "name": "伊丽莎白·贝里奇"
+            },
+            {
+                "name": "罗伊·多特里斯"
+            },
+            {
+                "name": "杰弗瑞·琼斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725654",
+            "_base_color": [
+                0.007407407407407381,
+                0.2601156069364162,
+                0.6784313725490196
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.9814814814814815,
+                0.16071428571428564,
+                0.2196078431372549
+            ],
+            "primary_color_dark": "4c3938"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p595764767.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1293399",
+        "url": "https://movie.douban.com/subject/1293399/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1293399",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "米洛斯·福尔曼"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

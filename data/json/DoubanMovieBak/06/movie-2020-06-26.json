@@ -1,0 +1,90 @@
+{
+    "comment": {
+        "content": "我想挣足够多的钞票，多到足以远离俗世的烦扰一个人自己过。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725d4d",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3e33"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140057.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-26",
+        "description": "保罗·托马斯·安德森50岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 56820,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.3
+        },
+        "pubdate": [
+            "2007-09-27(奇幻电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2196432057.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2196432057.jpg"
+        },
+        "is_show": false,
+        "year": "2007",
+        "card_subtitle": "2007 / 美国 / 剧情\n保罗·托马斯·安德森 导演",
+        "id": "1945780",
+        "genres": [
+            "剧情"
+        ],
+        "title": "血色将至",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "丹尼尔·戴-刘易斯"
+            },
+            {
+                "name": "保罗·达诺"
+            },
+            {
+                "name": "凯文·J·奥康纳"
+            },
+            {
+                "name": "巴里·德尔·舍曼"
+            },
+            {
+                "name": "狄龙·弗雷泽尔"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "722402",
+            "_base_color": [
+                0.050546448087431695,
+                0.9799196787148594,
+                0.9764705882352941
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.049857549857549865,
+                0.959016393442623,
+                0.47843137254901963
+            ],
+            "primary_color_dark": "4c1801"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2196432057.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1945780",
+        "url": "https://movie.douban.com/subject/1945780/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1945780",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "保罗·托马斯·安德森"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

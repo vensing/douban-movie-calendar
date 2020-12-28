@@ -1,0 +1,119 @@
+{
+    "comment": {
+        "content": "不管波妞她是鱼，还是半人鱼，还是人类，我全都喜欢。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5665b",
+            "secondary_color": "f9f5f4",
+            "primary_color_dark": "7f4e46"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140986.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-15",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 330732,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.5
+        },
+        "pubdate": [
+            "2020-12-31(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p454118602.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p454118602.jpg"
+        },
+        "is_show": false,
+        "year": "2008",
+        "card_subtitle": "2008 / 日本 / 动画 奇幻 冒险\n宫崎骏 导演",
+        "id": "1959877",
+        "genres": [
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "title": "崖上的波妞",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "奈良柚莉爱"
+            },
+            {
+                "name": "土井洋辉"
+            },
+            {
+                "name": "山口智子"
+            },
+            {
+                "name": "长岛一茂"
+            },
+            {
+                "name": "天海祐希"
+            },
+            {
+                "name": "所乔治"
+            },
+            {
+                "name": "柊瑠美"
+            },
+            {
+                "name": "矢野显子"
+            },
+            {
+                "name": "吉行和子"
+            },
+            {
+                "name": "奈良冈朋子"
+            },
+            {
+                "name": "左时枝"
+            },
+            {
+                "name": "羽鸟慎一"
+            },
+            {
+                "name": "平冈映美"
+            },
+            {
+                "name": "大桥望美"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6f83a5",
+            "_base_color": [
+                0.6055555555555556,
+                0.32967032967032966,
+                0.7137254901960784
+            ],
+            "secondary_color": "f4f6f9",
+            "_avg_color": [
+                0.619047619047619,
+                0.2576687116564417,
+                0.6392156862745098
+            ],
+            "primary_color_dark": "55647f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p454118602.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1959877",
+        "url": "https://movie.douban.com/subject/1959877/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1959877",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "宫崎骏"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

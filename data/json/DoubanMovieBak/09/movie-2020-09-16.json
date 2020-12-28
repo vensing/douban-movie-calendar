@@ -1,0 +1,130 @@
+{
+    "comment": {
+        "content": "我想告诉你，你把我的躯体和灵魂都占据了，我爱你。从今天起我不想与你分开。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59a6c",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "7f7653"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140771.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-16",
+        "description": "《傲慢与偏见》上映15周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 598125,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "2005-09-16(英国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2016401659.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2016401659.jpg"
+        },
+        "is_show": false,
+        "year": "2005",
+        "card_subtitle": "2005 / 法国 英国 美国 / 剧情 爱情\n乔·赖特 导演",
+        "id": "1418200",
+        "genres": [
+            "剧情",
+            "爱情"
+        ],
+        "title": "傲慢与偏见",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "凯拉·奈特莉"
+            },
+            {
+                "name": "马修·麦克费登"
+            },
+            {
+                "name": "唐纳德·萨瑟兰"
+            },
+            {
+                "name": "布兰达·布莱斯"
+            },
+            {
+                "name": "凯瑞·穆里根"
+            },
+            {
+                "name": "裴淳华"
+            },
+            {
+                "name": "吉娜·马隆"
+            },
+            {
+                "name": "妲露拉·莱莉"
+            },
+            {
+                "name": "朱迪·丹奇"
+            },
+            {
+                "name": "西蒙·伍兹"
+            },
+            {
+                "name": "克劳迪·布莱克利"
+            },
+            {
+                "name": "汤姆·霍兰德"
+            },
+            {
+                "name": "鲁伯特·弗兰德"
+            },
+            {
+                "name": "凯利·蕾莉"
+            },
+            {
+                "name": "皮普·托伦斯"
+            },
+            {
+                "name": "西妮德·马修斯"
+            },
+            {
+                "name": "佩内洛普·威尔顿"
+            },
+            {
+                "name": "塔姆金·莫钦特"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59e87",
+            "_base_color": [
+                0.12916666666666668,
+                0.1834862385321101,
+                0.8549019607843137
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.10333333333333335,
+                0.31249999999999994,
+                0.6274509803921569
+            ],
+            "primary_color_dark": "7f7a68"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2016401659.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1418200",
+        "url": "https://movie.douban.com/subject/1418200/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1418200",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "乔·赖特"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

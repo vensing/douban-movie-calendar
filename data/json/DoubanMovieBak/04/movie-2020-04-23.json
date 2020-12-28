@@ -1,0 +1,90 @@
+{
+    "comment": {
+        "content": "人们对于得到的东西，远没有对期望的来得开心。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "727259",
+            "secondary_color": "f9f9f4",
+            "primary_color_dark": "4c4c3b"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139716.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-04-23",
+        "description": "世界读书日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 39754,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "2016-02-13(柏林电影节)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2319532864.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2319532864.jpg"
+        },
+        "is_show": false,
+        "year": "2016",
+        "card_subtitle": "2016 / 法国 德国 / 剧情\n米娅·汉森-洛夫 导演",
+        "id": "26215216",
+        "genres": [
+            "剧情"
+        ],
+        "title": "将来的事",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "伊莎贝尔·于佩尔"
+            },
+            {
+                "name": "安德烈·马尔孔"
+            },
+            {
+                "name": "罗曼·科兰卡"
+            },
+            {
+                "name": "爱迪丝·斯考博"
+            },
+            {
+                "name": "伊莉斯·洛蒙"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "5f7258",
+            "_base_color": [
+                0.2888888888888889,
+                0.2272727272727273,
+                0.25882352941176473
+            ],
+            "secondary_color": "f6f9f4",
+            "_avg_color": [
+                0.14227642276422767,
+                0.36607142857142855,
+                0.4392156862745098
+            ],
+            "primary_color_dark": "3f4c3b"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2319532864.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26215216",
+        "url": "https://movie.douban.com/subject/26215216/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26215216",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "米娅·汉森-洛夫"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

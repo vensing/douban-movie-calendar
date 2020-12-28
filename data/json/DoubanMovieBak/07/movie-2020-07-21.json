@@ -1,0 +1,87 @@
+{
+    "comment": {
+        "content": "一切的一切都永远失去了，而那么多高贵的、伟大的、卓越的，只是站在那里。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a29f",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "7f7c7a"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140230.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-21",
+        "description": "贝拉·塔尔65岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 14497,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.4
+        },
+        "pubdate": [
+            "2011-03-31(匈牙利)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2248876398.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2248876398.jpg"
+        },
+        "is_show": false,
+        "year": "2011",
+        "card_subtitle": "2011 / 匈牙利 法国 德国 瑞士 / 剧情\n贝拉·塔尔 / 阿尼亚斯·赫拉尼茨基 导演",
+        "id": "3285632",
+        "genres": [
+            "剧情"
+        ],
+        "title": "都灵之马",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "亚诺什·德尔日"
+            },
+            {
+                "name": "艾丽卡·博克"
+            },
+            {
+                "name": "米哈伊·科莫斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a39e",
+            "_base_color": [
+                0.11111111111111112,
+                0.04109589041095876,
+                0.5725490196078431
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.13333333333333353,
+                0.035211267605633874,
+                0.5568627450980392
+            ],
+            "primary_color_dark": "7f7d7a"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2248876398.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3285632",
+        "url": "https://movie.douban.com/subject/3285632/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3285632",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "贝拉·塔尔"
+            },
+            {
+                "name": "阿尼亚斯·赫拉尼茨基"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

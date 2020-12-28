@@ -1,0 +1,218 @@
+{
+    "comment": {
+        "content": "即使是在剧组里最糟糕的一天，也比在其他地方最好的一天要好。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725c53",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3d37"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139708.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-04-19",
+        "description": "",
+        "title": "谷雨"
+    },
+    "subject": {
+        "rating": {
+            "count": 42565,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.5
+        },
+        "pubdate": [
+            "2017-09-11(多伦多电影节)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2498866082.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2498866082.jpg"
+        },
+        "is_show": false,
+        "year": "2017",
+        "card_subtitle": "2017 / 美国 / 剧情 喜剧 传记\n詹姆斯·弗兰科 导演",
+        "id": "25944886",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "传记"
+        ],
+        "title": "灾难艺术家",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "詹姆斯·弗兰科"
+            },
+            {
+                "name": "戴夫·弗兰科"
+            },
+            {
+                "name": "塞斯·罗根"
+            },
+            {
+                "name": "艾莉·葛瑞那"
+            },
+            {
+                "name": "爱丽森·布里"
+            },
+            {
+                "name": "杰基·韦佛"
+            },
+            {
+                "name": "保罗·谢尔"
+            },
+            {
+                "name": "扎克·埃夫隆"
+            },
+            {
+                "name": "乔什·哈切森"
+            },
+            {
+                "name": "琼·黛安·拉斐尔"
+            },
+            {
+                "name": "梅根·莫拉莉"
+            },
+            {
+                "name": "杰森·曼楚克斯"
+            },
+            {
+                "name": "安德鲁·桑提诺"
+            },
+            {
+                "name": "内森·菲尔德"
+            },
+            {
+                "name": "乔·曼德"
+            },
+            {
+                "name": "莎朗·斯通"
+            },
+            {
+                "name": "约翰·厄尔利"
+            },
+            {
+                "name": "梅兰尼·格里菲斯"
+            },
+            {
+                "name": "汉尼拔·布勒斯"
+            },
+            {
+                "name": "查琳·易"
+            },
+            {
+                "name": "彼得·吉尔罗伊"
+            },
+            {
+                "name": "劳伦·阿什"
+            },
+            {
+                "name": "舒格·林·彼尔德"
+            },
+            {
+                "name": "鲍勃·奥登科克"
+            },
+            {
+                "name": "布莱恩·赫斯基"
+            },
+            {
+                "name": "梅根·弗格森"
+            },
+            {
+                "name": "兰道尔·朴"
+            },
+            {
+                "name": "斯蒂芬·刘"
+            },
+            {
+                "name": "凯西·威尔逊"
+            },
+            {
+                "name": "杰洛德·卡尔迈克"
+            },
+            {
+                "name": "豪莎·罗克莫雷"
+            },
+            {
+                "name": "凯莉·奥克斯福德"
+            },
+            {
+                "name": "凯瑟·多诺休"
+            },
+            {
+                "name": "德丽·海明威"
+            },
+            {
+                "name": "安吉琳"
+            },
+            {
+                "name": "汤姆·佛朗哥"
+            },
+            {
+                "name": "佐伊·达奇"
+            },
+            {
+                "name": "伊克·巴里霍尔兹"
+            },
+            {
+                "name": "凯文·史密斯"
+            },
+            {
+                "name": "J·J·艾布拉姆斯"
+            },
+            {
+                "name": "科甘-迈克尔·凯"
+            },
+            {
+                "name": "亚当·斯科特"
+            },
+            {
+                "name": "丹尼·麦克布莱德"
+            },
+            {
+                "name": "克里斯汀·贝尔"
+            },
+            {
+                "name": "贾德·阿帕图"
+            },
+            {
+                "name": "丽兹·卡潘"
+            },
+            {
+                "name": "托米·韦素"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "336f72",
+            "_base_color": [
+                0.5079365079365079,
+                0.5526315789473685,
+                0.14901960784313725
+            ],
+            "secondary_color": "f4f9f9",
+            "_avg_color": [
+                0.5144927536231885,
+                0.2948717948717949,
+                0.3058823529411765
+            ],
+            "primary_color_dark": "224a4c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2498866082.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/25944886",
+        "url": "https://movie.douban.com/subject/25944886/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/25944886",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "詹姆斯·弗兰科"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

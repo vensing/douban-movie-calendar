@@ -1,0 +1,109 @@
+{
+    "comment": {
+        "content": "我没有处在危险中，我就是危险本身。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726847",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "4c452f"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139549.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-03",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 174868,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.1
+        },
+        "pubdate": [
+            "2008-01-20(美国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2153214457.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2153214457.jpg"
+        },
+        "is_show": false,
+        "year": "2008",
+        "card_subtitle": "2008 / 美国 / 犯罪 剧情\n亚当·伯恩斯坦 / 文斯·吉里根 / 翠西亚·布洛克 / 蒂姆·亨特 / 吉姆·麦凯 / 布朗温·休斯 导演",
+        "id": "2373195",
+        "genres": [
+            "犯罪",
+            "剧情"
+        ],
+        "title": "绝命毒师 第一季",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "布莱恩·科兰斯顿"
+            },
+            {
+                "name": "亚伦·保尔"
+            },
+            {
+                "name": "安娜·冈"
+            },
+            {
+                "name": "迪恩·诺里斯"
+            },
+            {
+                "name": "贝琪·勃兰特"
+            },
+            {
+                "name": "RJ·米特"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59f8e",
+            "_base_color": [
+                0.12222222222222219,
+                0.14218009478672977,
+                0.8274509803921568
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.18749999999999992,
+                0.0903954802259887,
+                0.6941176470588235
+            ],
+            "primary_color_dark": "7f7a6d"
+        },
+        "type": "tv",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2153214457.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/2373195",
+        "url": "https://movie.douban.com/subject/2373195/",
+        "release_date": null,
+        "uri": "douban://douban.com/tv/2373195",
+        "subtype": "tv",
+        "directors": [
+            {
+                "name": "亚当·伯恩斯坦"
+            },
+            {
+                "name": "文斯·吉里根"
+            },
+            {
+                "name": "翠西亚·布洛克"
+            },
+            {
+                "name": "蒂姆·亨特"
+            },
+            {
+                "name": "吉姆·麦凯"
+            },
+            {
+                "name": "布朗温·休斯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "comment": {
+        "content": "我们想活着见证自己的余生。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59677",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "7f735c"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140225.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-18",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 64109,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.8
+        },
+        "pubdate": [
+            "2003-05-18(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1156027521.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1156027521.jpg"
+        },
+        "is_show": false,
+        "year": "2003",
+        "card_subtitle": "2003 / 美国 / 犯罪 剧情\n格斯·范·桑特 导演",
+        "id": "1292272",
+        "genres": [
+            "犯罪",
+            "剧情"
+        ],
+        "title": "大象",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "阿里克斯·弗罗斯特"
+            },
+            {
+                "name": "约翰·罗宾森"
+            },
+            {
+                "name": "埃里克·德伦"
+            },
+            {
+                "name": "伊里斯·麦康利"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72673d",
+            "_base_color": [
+                0.13235294117647056,
+                0.4636363636363636,
+                0.8627450980392157
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.3416666666666668,
+                0.1652892561983471,
+                0.4745098039215686
+            ],
+            "primary_color_dark": "4c4529"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1156027521.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292272",
+        "url": "https://movie.douban.com/subject/1292272/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292272",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "格斯·范·桑特"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

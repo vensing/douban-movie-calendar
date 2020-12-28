@@ -1,0 +1,119 @@
+{
+    "comment": {
+        "content": "当人们形容一个人特别的时候，表示那个人没有什么优点。不聪明，不漂亮，没什么好称赞，只好用特别来形容。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725848",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3a30"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140035.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-16",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 53870,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.3
+        },
+        "pubdate": [
+            "2009-09-15"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p490697335.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p490697335.jpg"
+        },
+        "is_show": false,
+        "year": "2009",
+        "card_subtitle": "2009 / 加拿大 / 剧情 传记 同性\n泽维尔·多兰 导演",
+        "id": "3707070",
+        "genres": [
+            "剧情",
+            "传记",
+            "同性"
+        ],
+        "title": "我杀了我妈妈",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "泽维尔·多兰"
+            },
+            {
+                "name": "安娜·多尔瓦尔"
+            },
+            {
+                "name": "弗朗索瓦·阿诺德"
+            },
+            {
+                "name": "苏珊娜·克莱蒙"
+            },
+            {
+                "name": "帕翠西卡·图拉斯内"
+            },
+            {
+                "name": "尼尔斯·施内德"
+            },
+            {
+                "name": "Monique Spaziani"
+            },
+            {
+                "name": "皮埃尔·查侬"
+            },
+            {
+                "name": "Benoît Gouin"
+            },
+            {
+                "name": "雨果林·什维特·兰黛斯科"
+            },
+            {
+                "name": "弗朗西斯·达查梅"
+            },
+            {
+                "name": "Émile Mailhiot"
+            },
+            {
+                "name": "曼努尔·泰德罗斯"
+            },
+            {
+                "name": "Bianca Gervais"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "4b63a5",
+            "_base_color": [
+                0.6216216216216216,
+                0.5441176470588235,
+                0.26666666666666666
+            ],
+            "secondary_color": "f4f6f9",
+            "_avg_color": [
+                0.8333333333333334,
+                0.00558659217877093,
+                0.7019607843137254
+            ],
+            "primary_color_dark": "3a4c7f"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p490697335.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3707070",
+        "url": "https://movie.douban.com/subject/3707070/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3707070",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "泽维尔·多兰"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

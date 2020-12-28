@@ -1,0 +1,121 @@
+{
+    "comment": {
+        "content": "内心软弱者才会欺负更弱的人。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a297",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "7f7c74"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140009.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-05",
+        "description": "《告白》上映10周年",
+        "title": "芒种"
+    },
+    "subject": {
+        "rating": {
+            "count": 562657,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "2010-06-05(日本)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p689520756.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p689520756.jpg"
+        },
+        "is_show": false,
+        "year": "2010",
+        "card_subtitle": "2010 / 日本 / 剧情 惊悚\n中岛哲也 导演",
+        "id": "4268598",
+        "genres": [
+            "剧情",
+            "惊悚"
+        ],
+        "title": "告白",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "松隆子"
+            },
+            {
+                "name": "冈田将生"
+            },
+            {
+                "name": "木村佳乃"
+            },
+            {
+                "name": "西井幸人"
+            },
+            {
+                "name": "桥本爱"
+            },
+            {
+                "name": "芦田爱菜"
+            },
+            {
+                "name": "三吉彩花"
+            },
+            {
+                "name": "藤原薰"
+            },
+            {
+                "name": "井之胁海"
+            },
+            {
+                "name": "清水尚弥"
+            },
+            {
+                "name": "高桥努"
+            },
+            {
+                "name": "一井直树"
+            },
+            {
+                "name": "能年玲奈"
+            },
+            {
+                "name": "新井浩文"
+            },
+            {
+                "name": "野本萤"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a0a4",
+            "_base_color": [
+                0.8809523809523807,
+                0.03225806451612905,
+                0.8509803921568627
+            ],
+            "secondary_color": "f9f4f8",
+            "_avg_color": [
+                0.9285714285714288,
+                0.04430379746835445,
+                0.6196078431372549
+            ],
+            "primary_color_dark": "7f7b7e"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p689520756.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/4268598",
+        "url": "https://movie.douban.com/subject/4268598/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/4268598",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "中岛哲也"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

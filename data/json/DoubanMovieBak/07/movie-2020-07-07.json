@@ -1,0 +1,170 @@
+{
+    "comment": {
+        "content": "压抑只会让感情更强烈。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72594f",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3b34"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140202.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-07",
+        "description": "《卧虎藏龙》上映20周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 346184,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.3
+        },
+        "pubdate": [
+            "2000-07-07(中国台湾)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1507810991.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1507810991.jpg"
+        },
+        "is_show": false,
+        "year": "2000",
+        "card_subtitle": "2000 / 中国台湾 中国香港 美国 中国大陆 / 剧情 爱情 武侠\n李安 导演",
+        "id": "1301168",
+        "genres": [
+            "剧情",
+            "爱情",
+            "武侠"
+        ],
+        "title": "卧虎藏龙",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "周润发"
+            },
+            {
+                "name": "杨紫琼"
+            },
+            {
+                "name": "章子怡"
+            },
+            {
+                "name": "张震"
+            },
+            {
+                "name": "郎雄"
+            },
+            {
+                "name": "郑佩佩"
+            },
+            {
+                "name": "李法曾"
+            },
+            {
+                "name": "高西安"
+            },
+            {
+                "name": "海燕"
+            },
+            {
+                "name": "王德明"
+            },
+            {
+                "name": "李黎"
+            },
+            {
+                "name": "黄素影"
+            },
+            {
+                "name": "张金庭"
+            },
+            {
+                "name": "杨蕊"
+            },
+            {
+                "name": "李凯"
+            },
+            {
+                "name": "冯建华"
+            },
+            {
+                "name": "杜振西"
+            },
+            {
+                "name": "徐成林"
+            },
+            {
+                "name": "林峰"
+            },
+            {
+                "name": "王文升"
+            },
+            {
+                "name": "宋东"
+            },
+            {
+                "name": "马中轩"
+            },
+            {
+                "name": "李保成"
+            },
+            {
+                "name": "杨永德"
+            },
+            {
+                "name": "张少军"
+            },
+            {
+                "name": "马宁"
+            },
+            {
+                "name": "褚建民"
+            },
+            {
+                "name": "董长生"
+            },
+            {
+                "name": "徐怡"
+            },
+            {
+                "name": "陈兵"
+            },
+            {
+                "name": "张少成"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58410",
+            "_base_color": [
+                0.12945736434108526,
+                0.899581589958159,
+                0.9372549019607843
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.10482180293501049,
+                0.8238341968911918,
+                0.7568627450980392
+            ],
+            "primary_color_dark": "7f650c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1507810991.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1301168",
+        "url": "https://movie.douban.com/subject/1301168/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1301168",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "李安"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "comment": {
+        "content": "照片里的人明明孤独又伤心，但这些照片却让世界看起来更美丽。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724e57",
+            "secondary_color": "f9f4f6",
+            "primary_color_dark": "4c343a"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139397.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-02-03",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 145762,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.8
+        },
+        "pubdate": [
+            "2004-12-03(美国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1457195667.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1457195667.jpg"
+        },
+        "is_show": false,
+        "year": "2004",
+        "card_subtitle": "2004 / 美国 英国 / 剧情 爱情\n迈克·尼科尔斯 导演",
+        "id": "1308974",
+        "genres": [
+            "剧情",
+            "爱情"
+        ],
+        "title": "偷心",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "朱莉娅·罗伯茨"
+            },
+            {
+                "name": "裘德·洛"
+            },
+            {
+                "name": "娜塔莉·波特曼"
+            },
+            {
+                "name": "克莱夫·欧文"
+            },
+            {
+                "name": "科林·斯廷顿"
+            },
+            {
+                "name": "Nick Hobbs"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5928c",
+            "_base_color": [
+                0.039215686274509776,
+                0.15384615384615394,
+                0.8666666666666667
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.033333333333333215,
+                0.12135922330097085,
+                0.807843137254902
+            ],
+            "primary_color_dark": "7f706b"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1457195667.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1308974",
+        "url": "https://movie.douban.com/subject/1308974/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1308974",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "迈克·尼科尔斯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

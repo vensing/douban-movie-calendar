@@ -1,0 +1,106 @@
+{
+    "comment": {
+        "content": "一个人做不了艺术家才成了评论家，好比一个人做不了军人，才成了告密者。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725944",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3b2d"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140581.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-18",
+        "description": "爱德华·诺顿51岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 210157,
+            "max": 10,
+            "star_count": 4,
+            "value": 8
+        },
+        "pubdate": [
+            "2014-08-27(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2203838902.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2203838902.jpg"
+        },
+        "is_show": false,
+        "year": "2014",
+        "card_subtitle": "2014 / 美国 加拿大 / 剧情 喜剧\n亚历杭德罗·冈萨雷斯·伊纳里图 导演",
+        "id": "20438962",
+        "genres": [
+            "剧情",
+            "喜剧"
+        ],
+        "title": "鸟人",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "迈克尔·基顿"
+            },
+            {
+                "name": "爱德华·诺顿"
+            },
+            {
+                "name": "艾玛·斯通"
+            },
+            {
+                "name": "扎克·加利凡纳基斯"
+            },
+            {
+                "name": "安德丽娅·赖斯伯勒"
+            },
+            {
+                "name": "娜奥米·沃茨"
+            },
+            {
+                "name": "艾米·莱安"
+            },
+            {
+                "name": "梅里特·韦弗"
+            },
+            {
+                "name": "克拉克·米德尔顿"
+            },
+            {
+                "name": "琳赛·邓肯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a50a18",
+            "_base_color": [
+                0.9851851851851852,
+                0.9374999999999999,
+                0.7529411764705882
+            ],
+            "secondary_color": "f9f4f5",
+            "_avg_color": [
+                0.9892966360856269,
+                0.7622377622377623,
+                0.5607843137254902
+            ],
+            "primary_color_dark": "7f0712"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2203838902.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/20438962",
+        "url": "https://movie.douban.com/subject/20438962/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/20438962",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "亚历杭德罗·冈萨雷斯·伊纳里图"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

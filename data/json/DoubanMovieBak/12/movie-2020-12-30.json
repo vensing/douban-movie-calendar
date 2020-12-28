@@ -1,0 +1,110 @@
+{
+    "comment": {
+        "content": "誓言幻作烟云字，费尽千般心思，情像火灼般热，怎烧一生一世，延续不容易。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726c6a",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c4846"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580141241.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-30",
+        "description": "梅艳芳逝世17周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 221699,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.4
+        },
+        "pubdate": [
+            "1987-12-05(中国台湾)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2205476838.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2205476838.jpg"
+        },
+        "is_show": false,
+        "year": "1987",
+        "card_subtitle": "1987 / 中国香港 / 剧情 爱情 奇幻\n关锦鹏 导演",
+        "id": "1299288",
+        "genres": [
+            "剧情",
+            "爱情",
+            "奇幻"
+        ],
+        "title": "胭脂扣",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "梅艳芳"
+            },
+            {
+                "name": "张国荣"
+            },
+            {
+                "name": "万梓良"
+            },
+            {
+                "name": "朱宝意"
+            },
+            {
+                "name": "温碧霞"
+            },
+            {
+                "name": "谭倩红"
+            },
+            {
+                "name": "谢贤"
+            },
+            {
+                "name": "汪禹"
+            },
+            {
+                "name": "刘家荣"
+            },
+            {
+                "name": "惠英红"
+            },
+            {
+                "name": "朱瑞棠"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59385",
+            "_base_color": [
+                0.07291666666666662,
+                0.19672131147540983,
+                0.9568627450980393
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.04629629629629628,
+                0.4,
+                0.7058823529411765
+            ],
+            "primary_color_dark": "7f7166"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2205476838.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1299288",
+        "url": "https://movie.douban.com/subject/1299288/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1299288",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "关锦鹏"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

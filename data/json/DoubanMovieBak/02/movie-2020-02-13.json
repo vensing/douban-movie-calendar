@@ -1,0 +1,98 @@
+{
+    "comment": {
+        "content": "天哪，有时候人真残酷，不是嫌我胖，就是说我性格有问题。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a59b",
+            "secondary_color": "f9f9f4",
+            "primary_color_dark": "7f7f77"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139414.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-02-13",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 28254,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.1
+        },
+        "pubdate": [
+            "1991-08-21(美国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1058380546.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1058380546.jpg"
+        },
+        "is_show": false,
+        "year": "1991",
+        "card_subtitle": "1991 / 美国 英国 / 剧情 喜剧 惊悚\n乔尔·科恩 / 伊桑·科恩 导演",
+        "id": "1298043",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "惊悚"
+        ],
+        "title": "巴顿·芬克",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "约翰·特托罗"
+            },
+            {
+                "name": "约翰·古德曼"
+            },
+            {
+                "name": "朱迪·戴维斯"
+            },
+            {
+                "name": "迈克尔·勒纳"
+            },
+            {
+                "name": "约翰·马奥尼"
+            },
+            {
+                "name": "史蒂夫·布西密"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a55532",
+            "_base_color": [
+                0.051282051282051266,
+                0.697986577181208,
+                0.5843137254901961
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.06504065040650407,
+                0.543046357615894,
+                0.592156862745098
+            ],
+            "primary_color_dark": "7f4126"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1058380546.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1298043",
+        "url": "https://movie.douban.com/subject/1298043/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1298043",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "乔尔·科恩"
+            },
+            {
+                "name": "伊桑·科恩"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

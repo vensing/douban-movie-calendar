@@ -1,0 +1,173 @@
+{
+    "comment": {
+        "content": "我爬得越高，眼前的风景便愈发迷人。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725a4e",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3c34"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140757.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-10",
+        "description": "《怦然心动》上映10周年",
+        "title": "教师节"
+    },
+    "subject": {
+        "rating": {
+            "count": 1391393,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.1
+        },
+        "pubdate": [
+            "2010-07-26(好莱坞首映)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p501177648.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p501177648.jpg"
+        },
+        "is_show": false,
+        "year": "2010",
+        "card_subtitle": "2010 / 美国 / 剧情 喜剧 爱情\n罗伯·莱纳 导演",
+        "id": "3319755",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "title": "怦然心动",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "玛德琳·卡罗尔"
+            },
+            {
+                "name": "卡兰·麦克奥利菲"
+            },
+            {
+                "name": "瑞贝卡·德·莫妮"
+            },
+            {
+                "name": "安东尼·爱德华兹"
+            },
+            {
+                "name": "约翰·马奥尼"
+            },
+            {
+                "name": "佩内洛普·安·米勒"
+            },
+            {
+                "name": "艾丹·奎因"
+            },
+            {
+                "name": "凯文·韦斯曼"
+            },
+            {
+                "name": "摩根·莉莉"
+            },
+            {
+                "name": "瑞安·克茨纳"
+            },
+            {
+                "name": "吉莉安·普法夫"
+            },
+            {
+                "name": "迈克尔·博萨"
+            },
+            {
+                "name": "博·勒纳"
+            },
+            {
+                "name": "杰奎琳·埃沃拉"
+            },
+            {
+                "name": "泰勒·格鲁秀斯"
+            },
+            {
+                "name": "艾莉·布莱恩特"
+            },
+            {
+                "name": "阿什莉·泰勒"
+            },
+            {
+                "name": "伊瑟尔·布罗萨德"
+            },
+            {
+                "name": "科迪·霍恩"
+            },
+            {
+                "name": "迈克尔·博尔顿"
+            },
+            {
+                "name": "肖恩·哈珀"
+            },
+            {
+                "name": "斯戴芬妮·斯考特"
+            },
+            {
+                "name": "帕特丽夏·伦茨"
+            },
+            {
+                "name": "马修·戈尔德"
+            },
+            {
+                "name": "阿罗拉·凯瑟琳·史密斯"
+            },
+            {
+                "name": "凯莉·唐纳利"
+            },
+            {
+                "name": "索菲亚·撒高"
+            },
+            {
+                "name": "米歇尔·梅斯默"
+            },
+            {
+                "name": "斯科特·乔尔·吉兹基"
+            },
+            {
+                "name": "罗德·迈尔斯"
+            },
+            {
+                "name": "卡拉 帕西托"
+            },
+            {
+                "name": "凯特琳·帕西托"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726552",
+            "_base_color": [
+                0.10057471264367814,
+                0.2801932367149758,
+                0.8117647058823529
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.1130952380952381,
+                0.3294117647058823,
+                0.3333333333333333
+            ],
+            "primary_color_dark": "4c4437"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p501177648.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3319755",
+        "url": "https://movie.douban.com/subject/3319755/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3319755",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "罗伯·莱纳"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

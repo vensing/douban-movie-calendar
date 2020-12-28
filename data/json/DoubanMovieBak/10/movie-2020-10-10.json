@@ -1,0 +1,128 @@
+{
+    "comment": {
+        "content": "如果不抓紧时间从新开始，你就会一步一步陷入泥潭。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726c70",
+            "secondary_color": "f9f4f8",
+            "primary_color_dark": "4c484b"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140864.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-10",
+        "description": "世界精神卫生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 20403,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.7
+        },
+        "pubdate": [
+            "2010-09-11(多伦多电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p595865058.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p595865058.jpg"
+        },
+        "is_show": false,
+        "year": "2010",
+        "card_subtitle": "2010 / 美国 / 剧情 喜剧 爱情\n安娜·波顿 / 瑞安·弗雷克 导演",
+        "id": "3269018",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "title": "说来有点可笑",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "凯尔·吉克瑞斯特"
+            },
+            {
+                "name": "达娜 德菲斯特恩"
+            },
+            {
+                "name": "劳伦·格拉汉姆"
+            },
+            {
+                "name": "吉姆·加菲根"
+            },
+            {
+                "name": "Karen Chilton"
+            },
+            {
+                "name": "扎克·加利凡纳基斯"
+            },
+            {
+                "name": "阿西夫·曼德维"
+            },
+            {
+                "name": "Jared Goldstein"
+            },
+            {
+                "name": "艾伦·艾森伯格"
+            },
+            {
+                "name": "佐伊·克罗维兹"
+            },
+            {
+                "name": "托马斯·曼"
+            },
+            {
+                "name": "杰瑞米·戴维斯"
+            },
+            {
+                "name": "罗莎琳·科尔曼"
+            },
+            {
+                "name": "维奥拉·戴维斯"
+            },
+            {
+                "name": "洛乌·迈尔斯"
+            },
+            {
+                "name": "艾玛·罗伯茨"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59f93",
+            "_base_color": [
+                0.11111111111111112,
+                0.10762331838565022,
+                0.8745098039215686
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.09374999999999996,
+                0.07729468599033816,
+                0.8117647058823529
+            ],
+            "primary_color_dark": "7f7a71"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p595865058.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3269018",
+        "url": "https://movie.douban.com/subject/3269018/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3269018",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "安娜·波顿"
+            },
+            {
+                "name": "瑞安·弗雷克"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

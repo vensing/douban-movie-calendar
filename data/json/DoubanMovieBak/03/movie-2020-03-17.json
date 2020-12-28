@@ -1,0 +1,115 @@
+{
+    "comment": {
+        "content": "人们总会把有意义的生活和做完一桩一桩事儿联系在一起。你不得不做这做那，但在做这些事儿的时候，生活就这样溜走了。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5907c",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f6f60"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139579.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-17",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 21689,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.6
+        },
+        "pubdate": [
+            "2016-05-14(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2356781122.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2356781122.jpg"
+        },
+        "is_show": false,
+        "year": "2016",
+        "card_subtitle": "2016 / 德国 奥地利 / 剧情 喜剧\n玛伦·阿德 导演",
+        "id": "24872189",
+        "genres": [
+            "剧情",
+            "喜剧"
+        ],
+        "title": "托尼·厄德曼",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "彼得·西蒙尼舍克"
+            },
+            {
+                "name": "桑德拉·惠勒"
+            },
+            {
+                "name": "米夏埃尔·维滕博恩"
+            },
+            {
+                "name": "托马斯·洛伊布尔"
+            },
+            {
+                "name": "特里斯坦·皮特"
+            },
+            {
+                "name": "哈德维奇·米尼斯"
+            },
+            {
+                "name": "露西·拉塞尔"
+            },
+            {
+                "name": "英格丽·比苏"
+            },
+            {
+                "name": "弗拉德·伊凡诺夫"
+            },
+            {
+                "name": "维多利亚·寇提亚斯"
+            },
+            {
+                "name": "拉杜·班泽鲁"
+            },
+            {
+                "name": "尼尔斯·博尔曼"
+            },
+            {
+                "name": "英格里德·布尔克哈德"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726b5b",
+            "_base_color": [
+                0.11240310077519387,
+                0.20379146919431276,
+                0.8274509803921568
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.22222222222222232,
+                0.08450704225352122,
+                0.2784313725490196
+            ],
+            "primary_color_dark": "4c473c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2356781122.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/24872189",
+        "url": "https://movie.douban.com/subject/24872189/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/24872189",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "玛伦·阿德"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

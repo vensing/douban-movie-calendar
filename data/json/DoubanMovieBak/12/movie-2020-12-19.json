@@ -1,0 +1,116 @@
+{
+    "comment": {
+        "content": "——放下枪，你开枪就跟其他人没分别。\n——我也是人，为什么要有分别。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "7b99a5",
+            "secondary_color": "f4f8f9",
+            "primary_color_dark": "5f767f"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580141202.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-19",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 198637,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.5
+        },
+        "pubdate": [
+            "2007-11-29(中国香港)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1349162079.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1349162079.jpg"
+        },
+        "is_show": false,
+        "year": "2007",
+        "card_subtitle": "2007 / 中国香港 / 动作 犯罪 悬疑\n杜琪峰 / 韦家辉 导演",
+        "id": "2027938",
+        "genres": [
+            "动作",
+            "犯罪",
+            "悬疑"
+        ],
+        "title": "神探",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "刘青云"
+            },
+            {
+                "name": "安志杰"
+            },
+            {
+                "name": "林家栋"
+            },
+            {
+                "name": "林熙蕾"
+            },
+            {
+                "name": "李国麟"
+            },
+            {
+                "name": "李彩宁"
+            },
+            {
+                "name": "陈慧珊"
+            },
+            {
+                "name": "林雪"
+            },
+            {
+                "name": "张兆辉"
+            },
+            {
+                "name": "刘锦玲"
+            },
+            {
+                "name": "郭少芸"
+            },
+            {
+                "name": "郑保瑞"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72726e",
+            "_base_color": [
+                0.19047619047619038,
+                0.03626943005181349,
+                0.7568627450980392
+            ],
+            "secondary_color": "f9f9f4",
+            "_avg_color": [
+                0.7083333333333334,
+                0.060606060606060705,
+                0.25882352941176473
+            ],
+            "primary_color_dark": "4c4c49"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1349162079.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/2027938",
+        "url": "https://movie.douban.com/subject/2027938/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/2027938",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "杜琪峰"
+            },
+            {
+                "name": "韦家辉"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

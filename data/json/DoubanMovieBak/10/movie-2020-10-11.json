@@ -1,0 +1,103 @@
+{
+    "comment": {
+        "content": "手凉的人，都有一颗温暖的心。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5867d",
+            "secondary_color": "f9f5f4",
+            "primary_color_dark": "7f6760"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140865.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-11",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 34393,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.4
+        },
+        "pubdate": [
+            "2009-05-14(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2162533098.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2162533098.jpg"
+        },
+        "is_show": false,
+        "year": "2009",
+        "card_subtitle": "2009 / 日本 / 剧情 奇幻\n是枝裕和 导演",
+        "id": "3534824",
+        "genres": [
+            "剧情",
+            "奇幻"
+        ],
+        "title": "空气人偶",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "裴斗娜"
+            },
+            {
+                "name": "井浦新"
+            },
+            {
+                "name": "板尾创路"
+            },
+            {
+                "name": "余贵美子"
+            },
+            {
+                "name": "岩松了"
+            },
+            {
+                "name": "寺岛进"
+            },
+            {
+                "name": "小田切让"
+            },
+            {
+                "name": "富司纯子"
+            },
+            {
+                "name": "星野真里"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "8e95a5",
+            "_base_color": [
+                0.6127450980392157,
+                0.14166666666666664,
+                0.9411764705882353
+            ],
+            "secondary_color": "f4f6f9",
+            "_avg_color": [
+                0.6277777777777778,
+                0.14423076923076927,
+                0.8156862745098039
+            ],
+            "primary_color_dark": "6d737f"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2162533098.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3534824",
+        "url": "https://movie.douban.com/subject/3534824/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3534824",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "是枝裕和"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

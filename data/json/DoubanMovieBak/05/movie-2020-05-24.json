@@ -1,0 +1,98 @@
+{
+    "comment": {
+        "content": "历史是由杀死英雄的人书写的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "4f6d72",
+            "secondary_color": "f4f9f9",
+            "primary_color_dark": "34484c"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580139800.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-24",
+        "description": "《勇敢的心》上映25周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 470316,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.9
+        },
+        "pubdate": [
+            "1995-05-18(西雅图电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2004174709.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2004174709.jpg"
+        },
+        "is_show": false,
+        "year": "1995",
+        "card_subtitle": "1995 / 美国 / 动作 传记 剧情\n梅尔·吉布森 导演",
+        "id": "1294639",
+        "genres": [
+            "动作",
+            "传记",
+            "剧情"
+        ],
+        "title": "勇敢的心",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "梅尔·吉布森"
+            },
+            {
+                "name": "苏菲·玛索"
+            },
+            {
+                "name": "布莱恩·考克斯"
+            },
+            {
+                "name": "詹姆斯·科兹莫"
+            },
+            {
+                "name": "辛·劳洛"
+            },
+            {
+                "name": "凯瑟琳·麦克马克"
+            },
+            {
+                "name": "安古斯·麦克菲登"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725043",
+            "_base_color": [
+                0.044871794871794844,
+                0.4126984126984127,
+                0.24705882352941178
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.06439393939393938,
+                0.4230769230769231,
+                0.40784313725490196
+            ],
+            "primary_color_dark": "4c352c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2004174709.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1294639",
+        "url": "https://movie.douban.com/subject/1294639/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1294639",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "梅尔·吉布森"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "comment": {
+        "content": "你可以比以往任何时候更忠于自己，你值得拥有你想要的一切。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725e49",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3f30"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139364.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-29",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 190059,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.3
+        },
+        "pubdate": [
+            "2018-03-16(美国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2523592367.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523592367.jpg"
+        },
+        "is_show": false,
+        "year": "2018",
+        "card_subtitle": "2018 / 美国 / 喜剧 爱情 同性\n格里格·伯兰蒂 导演",
+        "id": "26654498",
+        "genres": [
+            "喜剧",
+            "爱情",
+            "同性"
+        ],
+        "title": "爱你，西蒙",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "尼克·罗宾森"
+            },
+            {
+                "name": "詹妮弗·加纳"
+            },
+            {
+                "name": "乔什·杜哈明"
+            },
+            {
+                "name": "小豪尔赫·兰登伯格"
+            },
+            {
+                "name": "凯瑟琳·兰福德"
+            },
+            {
+                "name": "亚历山德拉·希普"
+            },
+            {
+                "name": "洛根·米勒"
+            },
+            {
+                "name": "凯南·朗斯代尔"
+            },
+            {
+                "name": "特丽莎·贝特曼"
+            },
+            {
+                "name": "托尼·海尔"
+            },
+            {
+                "name": "娜塔莎·罗斯韦尔"
+            },
+            {
+                "name": "迈尔斯·赫尔泽"
+            },
+            {
+                "name": "乔伊·保罗瑞"
+            },
+            {
+                "name": "克拉克·穆尔"
+            },
+            {
+                "name": "德鲁·斯塔基"
+            },
+            {
+                "name": "麦肯兹·林茨"
+            },
+            {
+                "name": "卡萨迪·麦克林西"
+            },
+            {
+                "name": "艾莉克斯·斯甘巴蒂"
+            },
+            {
+                "name": "贾米拉·汤普森"
+            },
+            {
+                "name": "艾米丽·乔丹"
+            },
+            {
+                "name": "帕特里克·多诺霍"
+            },
+            {
+                "name": "特雷勒·希尔"
+            },
+            {
+                "name": "泰勒·切斯"
+            },
+            {
+                "name": "哈龙·汗"
+            },
+            {
+                "name": "约书亚·米克尔"
+            },
+            {
+                "name": "尼古拉斯·斯塔格尔"
+            },
+            {
+                "name": "南茜·德·梅奥"
+            },
+            {
+                "name": "克里斯蒂安·奥乔·梅菲尔德"
+            },
+            {
+                "name": "钱特尔·D·克里斯托弗"
+            },
+            {
+                "name": "曼迪·法森"
+            },
+            {
+                "name": "菲利普·科文"
+            },
+            {
+                "name": "罗比·罗杰斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "563ca5",
+            "_base_color": [
+                0.706989247311828,
+                0.6326530612244898,
+                0.3843137254901961
+            ],
+            "secondary_color": "f6f4f9",
+            "_avg_color": [
+                0.959349593495935,
+                0.6612903225806451,
+                0.7294117647058823
+            ],
+            "primary_color_dark": "422e7f"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2523592367.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26654498",
+        "url": "https://movie.douban.com/subject/26654498/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26654498",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "格里格·伯兰蒂"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "comment": {
+        "content": "她的唯一的罪名，就是太过美丽。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725d49",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3e30"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140955.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-27",
+        "description": "《西西里的美丽传说》上映20周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 755318,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.9
+        },
+        "pubdate": [
+            "2000-10-27(意大利)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2441988159.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2441988159.jpg"
+        },
+        "is_show": false,
+        "year": "2000",
+        "card_subtitle": "2000 / 意大利 美国 / 剧情 战争 情色\n朱塞佩·托纳多雷 导演",
+        "id": "1292402",
+        "genres": [
+            "剧情",
+            "战争",
+            "情色"
+        ],
+        "title": "西西里的美丽传说",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "莫妮卡·贝鲁奇"
+            },
+            {
+                "name": "朱塞佩·苏尔法罗"
+            },
+            {
+                "name": "Luciano Federico"
+            },
+            {
+                "name": "玛蒂尔德·皮亚纳"
+            },
+            {
+                "name": "Pietro Notarianni"
+            },
+            {
+                "name": "Gaetano Aronica"
+            },
+            {
+                "name": "Gilberto Idonea"
+            },
+            {
+                "name": "Angelo Pellegrino"
+            },
+            {
+                "name": "Gabriella Di Luzio"
+            },
+            {
+                "name": "Pippo Provvidenti"
+            },
+            {
+                "name": "埃丽萨·莫鲁奇"
+            },
+            {
+                "name": "奥罗拉·夸特罗基"
+            },
+            {
+                "name": "露琪亚·萨多"
+            },
+            {
+                "name": "瓦尼·布拉马蒂"
+            },
+            {
+                "name": "Salvatore Martino"
+            },
+            {
+                "name": "安东内洛·普利西"
+            },
+            {
+                "name": "Noam Morgensztern"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "91a57d",
+            "_base_color": [
+                0.25,
+                0.24242424242424251,
+                0.12941176470588237
+            ],
+            "secondary_color": "f7f9f4",
+            "_avg_color": [
+                0.09000000000000001,
+                0.28901734104046245,
+                0.6784313725490196
+            ],
+            "primary_color_dark": "707f60"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2441988159.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292402",
+        "url": "https://movie.douban.com/subject/1292402/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292402",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "朱塞佩·托纳多雷"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

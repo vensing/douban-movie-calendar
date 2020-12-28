@@ -1,0 +1,125 @@
+{
+    "comment": {
+        "content": "在一切的终点，你会明白所有损失都是值得的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726150",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c4035"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139557.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-07",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 109843,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.2
+        },
+        "pubdate": [
+            "2018-01-21(圣丹斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2518865763.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2518865763.jpg"
+        },
+        "is_show": false,
+        "year": "2018",
+        "card_subtitle": "2018 / 美国 / 剧情 悬疑 惊悚\n阿里·艾斯特 导演",
+        "id": "27621727",
+        "genres": [
+            "剧情",
+            "悬疑",
+            "惊悚"
+        ],
+        "title": "遗传厄运",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "亚历克斯·沃尔夫"
+            },
+            {
+                "name": "加布里埃尔·伯恩"
+            },
+            {
+                "name": "托妮·科莱特"
+            },
+            {
+                "name": "米莉·夏普洛"
+            },
+            {
+                "name": "克里斯蒂·萨默海斯"
+            },
+            {
+                "name": "摩根·伦德"
+            },
+            {
+                "name": "马洛里·贝克特尔"
+            },
+            {
+                "name": "杰克·布朗"
+            },
+            {
+                "name": "布赖恩·拉谢尔"
+            },
+            {
+                "name": "海蒂·门德兹"
+            },
+            {
+                "name": "莫伊塞斯 L·托瓦"
+            },
+            {
+                "name": "贾罗德·菲利普斯"
+            },
+            {
+                "name": "安·唐德"
+            },
+            {
+                "name": "布罗克·麦金尼"
+            },
+            {
+                "name": "扎克瑞·亚瑟"
+            },
+            {
+                "name": "奥斯丁·R·格兰特"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "647272",
+            "_base_color": [
+                0.5,
+                0.125,
+                0.12549019607843137
+            ],
+            "secondary_color": "f4f9f9",
+            "_avg_color": [
+                0.5,
+                0.08333333333333323,
+                0.1411764705882353
+            ],
+            "primary_color_dark": "424c4c"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2518865763.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/27621727",
+        "url": "https://movie.douban.com/subject/27621727/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/27621727",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "阿里·艾斯特"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

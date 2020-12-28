@@ -1,0 +1,195 @@
+{
+    "comment": {
+        "content": "生命本来就有好多疑惑，我们何必自寻烦恼呢？",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59e9b",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "7f7a77"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580139351.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-20",
+        "description": "费德里科·费里尼诞辰100周年",
+        "title": "大寒"
+    },
+    "subject": {
+        "rating": {
+            "count": 40503,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.5
+        },
+        "pubdate": [
+            "1963-02-16(意大利)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2161627049.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2161627049.jpg"
+        },
+        "is_show": false,
+        "year": "1963",
+        "card_subtitle": "1963 / 意大利 法国 / 剧情\n费德里科·费里尼 导演",
+        "id": "1361276",
+        "genres": [
+            "剧情"
+        ],
+        "title": "八部半",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "马塞洛·马斯楚安尼"
+            },
+            {
+                "name": "克劳迪娅·卡汀娜"
+            },
+            {
+                "name": "阿努克·艾梅"
+            },
+            {
+                "name": "桑德拉·米洛"
+            },
+            {
+                "name": "罗塞拉·法鲁克"
+            },
+            {
+                "name": "芭芭拉·斯蒂尔"
+            },
+            {
+                "name": "玛德琳·勒博"
+            },
+            {
+                "name": "卡特丽娜·波拿托"
+            },
+            {
+                "name": "埃达·盖尔"
+            },
+            {
+                "name": "圭多·阿尔贝蒂"
+            },
+            {
+                "name": "Mario Conocchia"
+            },
+            {
+                "name": "Bruno Agostini"
+            },
+            {
+                "name": "Cesarino Miceli Picardi"
+            },
+            {
+                "name": "Jean Rougeul"
+            },
+            {
+                "name": "马里奥·皮苏"
+            },
+            {
+                "name": "米诺·多罗"
+            },
+            {
+                "name": "Nadia Sanders"
+            },
+            {
+                "name": "Georgia Simmons"
+            },
+            {
+                "name": "Rossella Como"
+            },
+            {
+                "name": "马克贺伦"
+            },
+            {
+                "name": "Marisa Colomber"
+            },
+            {
+                "name": "Neil Robinson"
+            },
+            {
+                "name": "Eugene Walter"
+            },
+            {
+                "name": "Gilda Dahlberg"
+            },
+            {
+                "name": "Francesco Rigamonti"
+            },
+            {
+                "name": "Giuditta Rissone"
+            },
+            {
+                "name": "安尼巴莱·宁基"
+            },
+            {
+                "name": "安东尼奥·阿夸"
+            },
+            {
+                "name": "玛利亚·安东涅塔·贝卢齐"
+            },
+            {
+                "name": "Mathilda Calnan"
+            },
+            {
+                "name": "朱利奥·卡利"
+            },
+            {
+                "name": "佛朗哥·卡拉乔洛"
+            },
+            {
+                "name": "Olimpia Cavalli"
+            },
+            {
+                "name": "Sonia Gessner"
+            },
+            {
+                "name": "约翰·卡尔森"
+            },
+            {
+                "name": "Roberto Nicolosi"
+            },
+            {
+                "name": "波利多尔"
+            },
+            {
+                "name": "尼诺·罗塔"
+            },
+            {
+                "name": "John Stacy"
+            },
+            {
+                "name": "玛利亚·特德斯奇"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a5a4",
+            "_base_color": [
+                0.16666666666666666,
+                0.008771929824561497,
+                0.8941176470588236
+            ],
+            "secondary_color": "f9f9f4",
+            "_avg_color": [
+                0.0018726591760299487,
+                0.49444444444444446,
+                0.7058823529411765
+            ],
+            "primary_color_dark": "7f7f7e"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2161627049.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1361276",
+        "url": "https://movie.douban.com/subject/1361276/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1361276",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "费德里科·费里尼"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

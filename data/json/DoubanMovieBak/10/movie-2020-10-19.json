@@ -1,0 +1,105 @@
+{
+    "comment": {
+        "content": "我们得到的一切，只是把我们送回了童年。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5958c",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "7f736c"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140877.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-19",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 18810,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.3
+        },
+        "pubdate": [
+            "1969-05-25(纽约首映)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2261560304.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2261560304.jpg"
+        },
+        "is_show": false,
+        "year": "1969",
+        "card_subtitle": "1969 / 美国 / 剧情\n约翰·施莱辛格 导演",
+        "id": "1297628",
+        "genres": [
+            "剧情"
+        ],
+        "title": "午夜牛郎",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "强·沃特"
+            },
+            {
+                "name": "达斯汀·霍夫曼"
+            },
+            {
+                "name": "西尔维娅·迈尔斯"
+            },
+            {
+                "name": "约翰·麦盖沃"
+            },
+            {
+                "name": "布伦达·瓦卡罗"
+            },
+            {
+                "name": "巴纳德·休斯"
+            },
+            {
+                "name": "鲁斯·怀特"
+            },
+            {
+                "name": "詹妮弗·绍特"
+            },
+            {
+                "name": "吉尔曼·兰金"
+            },
+            {
+                "name": "琳达·戴维斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59d8f",
+            "_base_color": [
+                0.09999999999999994,
+                0.13157894736842096,
+                0.14901960784313725
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.1166666666666664,
+                0.07462686567164184,
+                0.5254901960784314
+            ],
+            "primary_color_dark": "7f786e"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2261560304.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1297628",
+        "url": "https://movie.douban.com/subject/1297628/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1297628",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "约翰·施莱辛格"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

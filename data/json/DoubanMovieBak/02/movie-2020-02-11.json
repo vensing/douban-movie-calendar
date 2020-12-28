@@ -1,0 +1,103 @@
+{
+    "comment": {
+        "content": "举世皆浊，我做我爱。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724e47",
+            "secondary_color": "f9f5f4",
+            "primary_color_dark": "4c342f"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139412.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-02-11",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 12606,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "2018-06-08(英国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2523671487.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523671487.jpg"
+        },
+        "is_show": false,
+        "year": "2018",
+        "card_subtitle": "2018 / 英国 / 传记 纪录片\n伊恩·邦霍特 / 皮特·艾德盖 导演",
+        "id": "27066187",
+        "genres": [
+            "传记",
+            "纪录片"
+        ],
+        "title": "麦昆",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "亚历山大·麦昆"
+            },
+            {
+                "name": "伊莎贝拉·布罗"
+            },
+            {
+                "name": "玛德莲娜·弗莱克维亚"
+            },
+            {
+                "name": "裘蒂·洁德"
+            },
+            {
+                "name": "凯特·莫斯"
+            },
+            {
+                "name": "娜奥米·坎贝尔"
+            },
+            {
+                "name": "葛蕾丝·琼斯"
+            },
+            {
+                "name": "查理·罗斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725036",
+            "_base_color": [
+                0.07070707070707072,
+                0.5238095238095238,
+                0.7411764705882353
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.057291666666666685,
+                0.5517241379310345,
+                0.22745098039215686
+            ],
+            "primary_color_dark": "4c3524"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2523671487.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/27066187",
+        "url": "https://movie.douban.com/subject/27066187/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/27066187",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "伊恩·邦霍特"
+            },
+            {
+                "name": "皮特·艾德盖"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

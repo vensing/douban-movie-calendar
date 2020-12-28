@@ -1,0 +1,119 @@
+{
+    "comment": {
+        "content": "我们是维京人，冒险是我们的天职。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6b6c72",
+            "secondary_color": "f4f5f9",
+            "primary_color_dark": "47484c"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139602.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-26",
+        "description": "《驯龙高手》上映10周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 592146,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "2010-05-14(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2210954024.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2210954024.jpg"
+        },
+        "is_show": false,
+        "year": "2010",
+        "card_subtitle": "2010 / 美国 / 动画 奇幻 冒险\n迪恩·德布洛斯 / 克里斯·桑德斯 导演",
+        "id": "2353023",
+        "genres": [
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "title": "驯龙高手",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "杰伊·巴鲁切尔"
+            },
+            {
+                "name": "杰拉德·巴特勒"
+            },
+            {
+                "name": "克雷格·费格森"
+            },
+            {
+                "name": "亚美莉卡·费雷拉"
+            },
+            {
+                "name": "乔纳·希尔"
+            },
+            {
+                "name": "克里斯托夫·梅兹-普莱瑟"
+            },
+            {
+                "name": "T·J·米勒"
+            },
+            {
+                "name": "克里斯汀·韦格"
+            },
+            {
+                "name": "罗宾·阿特金·唐斯"
+            },
+            {
+                "name": "菲利普·麦格雷德"
+            },
+            {
+                "name": "基隆·埃利奥特"
+            },
+            {
+                "name": "阿什利·詹森"
+            },
+            {
+                "name": "大卫·田纳特"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "0d3272",
+            "_base_color": [
+                0.6056105610561056,
+                0.8782608695652174,
+                0.45098039215686275
+            ],
+            "secondary_color": "f4f6f9",
+            "_avg_color": [
+                0.6008771929824562,
+                0.6846846846846847,
+                0.43529411764705883
+            ],
+            "primary_color_dark": "09214c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2210954024.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/2353023",
+        "url": "https://movie.douban.com/subject/2353023/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/2353023",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "迪恩·德布洛斯"
+            },
+            {
+                "name": "克里斯·桑德斯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

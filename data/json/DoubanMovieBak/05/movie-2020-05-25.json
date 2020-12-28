@@ -1,0 +1,143 @@
+{
+    "comment": {
+        "content": "有没有这样一个人，可以陪你笑、陪你哭，陪你追男友，甚至可以为了你而放弃他。如果有，你一定是幸福的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59c8f",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f786e"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139802.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-25",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 174562,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.1
+        },
+        "pubdate": [
+            "2004-03-13(日本)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2196652087.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2196652087.jpg"
+        },
+        "is_show": false,
+        "year": "2004",
+        "card_subtitle": "2004 / 日本 / 剧情 喜剧 爱情\n岩井俊二 导演",
+        "id": "1308820",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "title": "花与爱丽丝",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "铃木杏"
+            },
+            {
+                "name": "苍井优"
+            },
+            {
+                "name": "郭智博"
+            },
+            {
+                "name": "平泉成"
+            },
+            {
+                "name": "木村多江"
+            },
+            {
+                "name": "相田翔子"
+            },
+            {
+                "name": "阿部宽"
+            },
+            {
+                "name": "广末凉子"
+            },
+            {
+                "name": "大泽隆夫"
+            },
+            {
+                "name": "伊藤步"
+            },
+            {
+                "name": "布施绘里"
+            },
+            {
+                "name": "坂本真"
+            },
+            {
+                "name": "池永亚美"
+            },
+            {
+                "name": "木村绿子"
+            },
+            {
+                "name": "中野裕之"
+            },
+            {
+                "name": "大森南朋"
+            },
+            {
+                "name": "森下能幸"
+            },
+            {
+                "name": "梶原善"
+            },
+            {
+                "name": "笠原秀幸"
+            },
+            {
+                "name": "叶美香"
+            },
+            {
+                "name": "吉冈秀隆"
+            },
+            {
+                "name": "松田一沙"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "5a6e72",
+            "_base_color": [
+                0.53125,
+                0.21052631578947367,
+                0.2980392156862745
+            ],
+            "secondary_color": "f4f8f9",
+            "_avg_color": [
+                0.16666666666666666,
+                0.017094017094017033,
+                0.4588235294117647
+            ],
+            "primary_color_dark": "3c494c"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2196652087.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1308820",
+        "url": "https://movie.douban.com/subject/1308820/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1308820",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "岩井俊二"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

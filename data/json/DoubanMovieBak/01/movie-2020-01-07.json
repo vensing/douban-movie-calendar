@@ -1,0 +1,131 @@
+{
+    "comment": {
+        "content": "世间所有的相遇，都是久别重逢。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726349",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "4c4231"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580139330.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-07",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 482081,
+            "max": 10,
+            "star_count": 4,
+            "value": 8
+        },
+        "pubdate": [
+            "2013-01-08(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2217557172.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2217557172.jpg"
+        },
+        "is_show": false,
+        "year": "2013",
+        "card_subtitle": "2013 / 中国大陆 中国香港 / 剧情 传记 动作\n王家卫 导演",
+        "id": "3821067",
+        "genres": [
+            "剧情",
+            "传记",
+            "动作"
+        ],
+        "title": "一代宗师",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "梁朝伟"
+            },
+            {
+                "name": "章子怡"
+            },
+            {
+                "name": "张震"
+            },
+            {
+                "name": "宋慧乔"
+            },
+            {
+                "name": "赵本山"
+            },
+            {
+                "name": "小沈阳"
+            },
+            {
+                "name": "王庆祥"
+            },
+            {
+                "name": "张晋"
+            },
+            {
+                "name": "卢海鹏"
+            },
+            {
+                "name": "冯克安"
+            },
+            {
+                "name": "刘家勇"
+            },
+            {
+                "name": "张智霖"
+            },
+            {
+                "name": "金士杰"
+            },
+            {
+                "name": "徐锦江"
+            },
+            {
+                "name": "刘洵"
+            },
+            {
+                "name": "尚铁龙"
+            },
+            {
+                "name": "罗莽"
+            },
+            {
+                "name": "吴廷烨"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724b36",
+            "_base_color": [
+                0.05614035087719297,
+                0.521978021978022,
+                0.7137254901960784
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.05555555555555556,
+                0.5094339622641509,
+                0.20784313725490197
+            ],
+            "primary_color_dark": "4c3224"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2217557172.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3821067",
+        "url": "https://movie.douban.com/subject/3821067/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3821067",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "王家卫"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

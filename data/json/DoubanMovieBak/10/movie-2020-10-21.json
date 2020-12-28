@@ -1,0 +1,102 @@
+{
+    "comment": {
+        "content": "我太想爱上一个人了，只是不知道该爱谁。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725742",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3a2c"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140881.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-21",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 25244,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "1999-12-08"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1248145206.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1248145206.jpg"
+        },
+        "is_show": false,
+        "year": "1999",
+        "card_subtitle": "1999 / 美国 / 剧情\n保罗·托马斯·安德森 导演",
+        "id": "1293564",
+        "genres": [
+            "剧情"
+        ],
+        "title": "木兰花",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "朱丽安·摩尔"
+            },
+            {
+                "name": "威廉姆·H·梅西"
+            },
+            {
+                "name": "约翰·C·赖利"
+            },
+            {
+                "name": "汤姆·克鲁斯"
+            },
+            {
+                "name": "菲利普·贝克·霍尔"
+            },
+            {
+                "name": "菲利普·塞默·霍夫曼"
+            },
+            {
+                "name": "杰森·罗巴兹"
+            },
+            {
+                "name": "梅洛拉·沃尔特斯"
+            },
+            {
+                "name": "Jeremy Blackman"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "3261a5",
+            "_base_color": [
+                0.5988700564971752,
+                0.6982248520710059,
+                0.6627450980392157
+            ],
+            "secondary_color": "f4f6f9",
+            "_avg_color": [
+                0.5992907801418439,
+                0.2338308457711443,
+                0.788235294117647
+            ],
+            "primary_color_dark": "264a7f"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1248145206.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1293564",
+        "url": "https://movie.douban.com/subject/1293564/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1293564",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "保罗·托马斯·安德森"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

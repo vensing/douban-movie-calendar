@@ -1,0 +1,119 @@
+{
+    "comment": {
+        "content": "人有时活在谎言里更容易一些。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a56f65",
+            "secondary_color": "f9f5f4",
+            "primary_color_dark": "7f564d"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140980.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-11",
+        "description": "莱昂纳多·迪卡普里奥46岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 659291,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9
+        },
+        "pubdate": [
+            "2003-04-11(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p453924541.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453924541.jpg"
+        },
+        "is_show": false,
+        "year": "2002",
+        "card_subtitle": "2002 / 美国 加拿大 / 传记 犯罪 剧情\n史蒂文·斯皮尔伯格 导演",
+        "id": "1305487",
+        "genres": [
+            "传记",
+            "犯罪",
+            "剧情"
+        ],
+        "title": "猫鼠游戏",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "莱昂纳多·迪卡普里奥"
+            },
+            {
+                "name": "汤姆·汉克斯"
+            },
+            {
+                "name": "克里斯托弗·沃肯"
+            },
+            {
+                "name": "马丁·辛"
+            },
+            {
+                "name": "艾米·亚当斯"
+            },
+            {
+                "name": "詹妮弗·加纳"
+            },
+            {
+                "name": "伊丽莎白·班克斯"
+            },
+            {
+                "name": "纳塔莉·贝伊"
+            },
+            {
+                "name": "詹姆斯·布洛林"
+            },
+            {
+                "name": "艾伦·旁派"
+            },
+            {
+                "name": "南希·利内翰"
+            },
+            {
+                "name": "布莱恩·豪威 "
+            },
+            {
+                "name": "弗兰克·约翰·休斯"
+            },
+            {
+                "name": "克里斯·埃里斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "8386a5",
+            "_base_color": [
+                0.6499999999999999,
+                0.20833333333333334,
+                0.18823529411764706
+            ],
+            "secondary_color": "f4f5f9",
+            "_avg_color": [
+                0.6333333333333333,
+                0.024752475247524667,
+                0.792156862745098
+            ],
+            "primary_color_dark": "64677f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p453924541.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1305487",
+        "url": "https://movie.douban.com/subject/1305487/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1305487",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "史蒂文·斯皮尔伯格"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "comment": {
+        "content": "愿原力与你同在。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725c51",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3d36"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139769.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-04",
+        "description": "",
+        "title": "青年节"
+    },
+    "subject": {
+        "rating": {
+            "count": 108231,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.4
+        },
+        "pubdate": [
+            "1977-05-25(美国)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p732941361.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p732941361.jpg"
+        },
+        "is_show": false,
+        "year": "1977",
+        "card_subtitle": "1977 / 美国 / 动作 科幻 冒险\n乔治·卢卡斯 导演",
+        "id": "1293838",
+        "genres": [
+            "动作",
+            "科幻",
+            "冒险"
+        ],
+        "title": "星球大战",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "哈里森·福特"
+            },
+            {
+                "name": "马克·哈米尔"
+            },
+            {
+                "name": "凯丽·费雪"
+            },
+            {
+                "name": "彼得·库欣"
+            },
+            {
+                "name": "亚历克·吉尼斯"
+            },
+            {
+                "name": "彼德·梅犹"
+            },
+            {
+                "name": "大卫·鲍罗斯"
+            },
+            {
+                "name": "詹姆斯·厄尔·琼斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725642",
+            "_base_color": [
+                0.07065217391304351,
+                0.423963133640553,
+                0.8509803921568627
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.0344827586206897,
+                0.2660550458715596,
+                0.42745098039215684
+            ],
+            "primary_color_dark": "4c392c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p732941361.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1293838",
+        "url": "https://movie.douban.com/subject/1293838/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1293838",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "乔治·卢卡斯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

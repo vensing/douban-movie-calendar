@@ -1,0 +1,125 @@
+{
+    "comment": {
+        "content": "不是子弹，而是美女杀死了野兽。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725951",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3b36"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140847.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-28",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 259445,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.9
+        },
+        "pubdate": [
+            "2006-01-12(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p858079649.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p858079649.jpg"
+        },
+        "is_show": false,
+        "year": "2005",
+        "card_subtitle": "2005 / 新西兰 美国 德国 / 动作 奇幻 冒险\n彼得·杰克逊 导演",
+        "id": "1309043",
+        "genres": [
+            "动作",
+            "奇幻",
+            "冒险"
+        ],
+        "title": "金刚",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "安迪·瑟金斯"
+            },
+            {
+                "name": "娜奥米·沃茨"
+            },
+            {
+                "name": "杰克·布莱克"
+            },
+            {
+                "name": "艾德里安·布洛迪"
+            },
+            {
+                "name": "托马斯·克莱舒曼"
+            },
+            {
+                "name": "科林·汉克斯"
+            },
+            {
+                "name": "伊万·帕克"
+            },
+            {
+                "name": "杰米·贝尔"
+            },
+            {
+                "name": "洛博·陈"
+            },
+            {
+                "name": "约翰·萨莫尔"
+            },
+            {
+                "name": "克里格·霍尔"
+            },
+            {
+                "name": "凯尔·钱德勒"
+            },
+            {
+                "name": "威廉·约翰逊"
+            },
+            {
+                "name": "马克·哈德洛"
+            },
+            {
+                "name": "杰拉丁·博若飞"
+            },
+            {
+                "name": "大卫·皮图"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "606772",
+            "_base_color": [
+                0.6,
+                0.15625,
+                0.12549019607843137
+            ],
+            "secondary_color": "f4f6f9",
+            "_avg_color": [
+                0,
+                0.12499999999999993,
+                0.2196078431372549
+            ],
+            "primary_color_dark": "40454c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p858079649.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1309043",
+        "url": "https://movie.douban.com/subject/1309043/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1309043",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "彼得·杰克逊"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

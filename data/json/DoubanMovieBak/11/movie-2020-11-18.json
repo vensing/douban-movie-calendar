@@ -1,0 +1,101 @@
+{
+    "comment": {
+        "content": "虚拟体也好，梦也罢，存在本身的信息，既虚幻又现实。无论如何，人一生所能接触的事物，对这世界而言，只是沧海一粟罢了。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72675e",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c443f"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140990.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-18",
+        "description": "《攻壳机动队》上映25周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 104434,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9
+        },
+        "pubdate": [
+            "1995-11-18(日本)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2446408045.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2446408045.jpg"
+        },
+        "is_show": false,
+        "year": "1995",
+        "card_subtitle": "1995 / 日本 / 动作 科幻 动画\n押井守 导演",
+        "id": "1291936",
+        "genres": [
+            "动作",
+            "科幻",
+            "动画"
+        ],
+        "title": "攻壳机动队",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "田中敦子"
+            },
+            {
+                "name": "大塚明夫"
+            },
+            {
+                "name": "山寺宏一"
+            },
+            {
+                "name": "大木民夫"
+            },
+            {
+                "name": "家弓家正"
+            },
+            {
+                "name": "玄田哲章"
+            },
+            {
+                "name": "山内雅人"
+            },
+            {
+                "name": "小川真司"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59d95",
+            "_base_color": [
+                0.08730158730158717,
+                0.09905660377358495,
+                0.8313725490196079
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.0555555555555553,
+                0.028037383177570124,
+                0.8392156862745098
+            ],
+            "primary_color_dark": "7f7972"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2446408045.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291936",
+        "url": "https://movie.douban.com/subject/1291936/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291936",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "押井守"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

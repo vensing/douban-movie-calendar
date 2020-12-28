@@ -1,0 +1,97 @@
+{
+    "comment": {
+        "content": "这个世界，已经不像你打棒球的时候那么简单。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6c7266",
+            "secondary_color": "f7f9f4",
+            "primary_color_dark": "484c44"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140189.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-29",
+        "description": "杨德昌逝世13周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 10466,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.9
+        },
+        "pubdate": [
+            "1985(中国台湾)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2446309121.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2446309121.jpg"
+        },
+        "is_show": false,
+        "year": "1985",
+        "card_subtitle": "1985 / 中国台湾 / 剧情 家庭\n杨德昌 导演",
+        "id": "1305327",
+        "genres": [
+            "剧情",
+            "家庭"
+        ],
+        "title": "青梅竹马",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "侯孝贤"
+            },
+            {
+                "name": "蔡琴"
+            },
+            {
+                "name": "柯一正"
+            },
+            {
+                "name": "吴念真"
+            },
+            {
+                "name": "杨丽音"
+            },
+            {
+                "name": "柯素云"
+            },
+            {
+                "name": "林秀玲"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "98a5a4",
+            "_base_color": [
+                0.4895833333333333,
+                0.08205128205128205,
+                0.7647058823529411
+            ],
+            "secondary_color": "f4f9f9",
+            "_avg_color": [
+                0.5384615384615383,
+                0.08176100628930824,
+                0.6235294117647059
+            ],
+            "primary_color_dark": "757f7e"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2446309121.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1305327",
+        "url": "https://movie.douban.com/subject/1305327/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1305327",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "杨德昌"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

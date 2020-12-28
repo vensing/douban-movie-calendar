@@ -1,0 +1,158 @@
+{
+    "comment": {
+        "content": "飞向宇宙，浩瀚无垠！",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726760",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c4440"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140997.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-22",
+        "description": "《玩具总动员》上映25周年",
+        "title": "小雪"
+    },
+    "subject": {
+        "rating": {
+            "count": 281542,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.5
+        },
+        "pubdate": [
+            "1995-11-22(美国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2565956404.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2565956404.jpg"
+        },
+        "is_show": false,
+        "year": "1995",
+        "card_subtitle": "1995 / 美国 / 喜剧 动画 家庭\n约翰·拉塞特 导演",
+        "id": "1291575",
+        "genres": [
+            "喜剧",
+            "动画",
+            "家庭"
+        ],
+        "title": "玩具总动员",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "汤姆·汉克斯"
+            },
+            {
+                "name": "蒂姆·艾伦"
+            },
+            {
+                "name": "唐·里克斯"
+            },
+            {
+                "name": "吉姆·法尼"
+            },
+            {
+                "name": "华莱士·肖恩"
+            },
+            {
+                "name": "约翰·拉岑贝格"
+            },
+            {
+                "name": "安妮·波茨"
+            },
+            {
+                "name": "约翰·莫里斯"
+            },
+            {
+                "name": "伊瑞克·冯·迪滕"
+            },
+            {
+                "name": "劳里·梅特卡夫"
+            },
+            {
+                "name": "李·厄米"
+            },
+            {
+                "name": "佩恩·吉列特"
+            },
+            {
+                "name": "杰克·安杰尔"
+            },
+            {
+                "name": "黛比·德里贝里"
+            },
+            {
+                "name": "比尔·法玛尔"
+            },
+            {
+                "name": "雪莉·琳恩"
+            },
+            {
+                "name": "斯科特·麦克菲"
+            },
+            {
+                "name": "米凯·麦高万"
+            },
+            {
+                "name": "杰夫·皮金"
+            },
+            {
+                "name": "菲尔·普洛克特"
+            },
+            {
+                "name": "扬·拉布森"
+            },
+            {
+                "name": "乔·兰福特"
+            },
+            {
+                "name": "安德鲁·斯坦顿"
+            },
+            {
+                "name": "内森·连恩"
+            },
+            {
+                "name": "约翰·拉塞特"
+            },
+            {
+                "name": "卢卡·佩洛斯"
+            },
+            {
+                "name": "厄尼·萨贝拉"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "4d5772",
+            "_base_color": [
+                0.62,
+                0.3289473684210526,
+                0.2980392156862745
+            ],
+            "secondary_color": "f4f6f9",
+            "_avg_color": [
+                0.05263157894736838,
+                0.16814159292035388,
+                0.44313725490196076
+            ],
+            "primary_color_dark": "333a4c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2565956404.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291575",
+        "url": "https://movie.douban.com/subject/1291575/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291575",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "约翰·拉塞特"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

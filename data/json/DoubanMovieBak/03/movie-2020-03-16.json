@@ -1,0 +1,140 @@
+{
+    "comment": {
+        "content": "心碎之后，自然就会明白世事。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725c4f",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3d34"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139576.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-16",
+        "description": null,
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 17171,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.7
+        },
+        "pubdate": [
+            "2016-10-08(纽约电影节)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2394211986.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2394211986.jpg"
+        },
+        "is_show": false,
+        "year": "2016",
+        "card_subtitle": "2016 / 美国 / 剧情 喜剧 家庭\n迈克·米尔斯 导演",
+        "id": "26389928",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "家庭"
+        ],
+        "title": "二十世纪女人",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "安妮特·贝宁"
+            },
+            {
+                "name": "艾丽·范宁"
+            },
+            {
+                "name": "格蕾塔·葛韦格"
+            },
+            {
+                "name": "比利·克鲁德普"
+            },
+            {
+                "name": "卢卡斯·杰德·祖曼"
+            },
+            {
+                "name": "艾丽森·艾略特"
+            },
+            {
+                "name": "西娅·吉尔"
+            },
+            {
+                "name": "维塔利·安德鲁·勒博"
+            },
+            {
+                "name": "瓦利德·祖伊特"
+            },
+            {
+                "name": "柯伦·沃尔特斯"
+            },
+            {
+                "name": "达里尔·布里特-吉布森"
+            },
+            {
+                "name": "阿莉雅·肖卡特"
+            },
+            {
+                "name": "纳塞利·洛芙"
+            },
+            {
+                "name": "卡梅伦·珀罗兹曼"
+            },
+            {
+                "name": "维多利亚·布鲁诺"
+            },
+            {
+                "name": "约翰·比灵斯列"
+            },
+            {
+                "name": "劳拉·威金斯"
+            },
+            {
+                "name": "凯·伦诺克斯"
+            },
+            {
+                "name": "凯西·伯克"
+            },
+            {
+                "name": "丹尼尔·D·乌伊"
+            },
+            {
+                "name": "马修·福斯特"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "8085a5",
+            "_base_color": [
+                0.6444444444444445,
+                0.2238805970149254,
+                0.2627450980392157
+            ],
+            "secondary_color": "f4f5f9",
+            "_avg_color": [
+                0.016666666666666625,
+                0.048543689320388314,
+                0.807843137254902
+            ],
+            "primary_color_dark": "62667f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2394211986.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26389928",
+        "url": "https://movie.douban.com/subject/26389928/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26389928",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "迈克·米尔斯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

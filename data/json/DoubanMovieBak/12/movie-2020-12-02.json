@@ -1,0 +1,108 @@
+{
+    "comment": {
+        "content": "生命如果没有这种希望和苦涩，才是可怜的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72695b",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c463c"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580141148.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-02",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 7556,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "1987-01-10(波兰)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2504900419.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504900419.jpg"
+        },
+        "is_show": false,
+        "year": "1987",
+        "card_subtitle": "1987 / 波兰 / 剧情\n克日什托夫·基耶斯洛夫斯基 导演",
+        "id": "1307200",
+        "genres": [
+            "剧情"
+        ],
+        "title": "机遇之歌",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "博古斯瓦夫·林达"
+            },
+            {
+                "name": "塔德乌什·罗姆尼斯基"
+            },
+            {
+                "name": "比涅尤·扎塔西奇斯"
+            },
+            {
+                "name": "伯格斯拉娃·帕韦莱茨"
+            },
+            {
+                "name": "马尔泽娜·泰巴拉"
+            },
+            {
+                "name": "亚切克·博尔科夫斯基"
+            },
+            {
+                "name": "亚切克·萨斯-乌赫里诺夫斯基"
+            },
+            {
+                "name": "亚当·费仁希"
+            },
+            {
+                "name": "莫妮卡·戈兹克"
+            },
+            {
+                "name": "齐格蒙特·哈布纳"
+            },
+            {
+                "name": "伊雷娜·比尔斯卡"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72716f",
+            "_base_color": [
+                0.09523809523809486,
+                0.03181818181818183,
+                0.8627450980392157
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0,
+                0.009615384615384581,
+                0.40784313725490196
+            ],
+            "primary_color_dark": "4c4b4a"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2504900419.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1307200",
+        "url": "https://movie.douban.com/subject/1307200/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1307200",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "克日什托夫·基耶斯洛夫斯基"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

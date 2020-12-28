@@ -1,0 +1,122 @@
+{
+    "comment": {
+        "content": "复仇不是一条直路，而是一座森林。你会轻易在其中迷失，忘记自己是从哪儿进来的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724f39",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3526"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139605.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-27",
+        "description": "昆汀·塔伦蒂诺57岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 383285,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.3
+        },
+        "pubdate": [
+            "2003-09-29(好莱坞首映)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2454638445.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2454638445.jpg"
+        },
+        "is_show": false,
+        "year": "2003",
+        "card_subtitle": "2003 / 美国 / 动作 犯罪 惊悚\n昆汀·塔伦蒂诺 导演",
+        "id": "1291580",
+        "genres": [
+            "动作",
+            "犯罪",
+            "惊悚"
+        ],
+        "title": "杀死比尔",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "乌玛·瑟曼"
+            },
+            {
+                "name": "刘玉玲"
+            },
+            {
+                "name": "薇薇卡·福克斯"
+            },
+            {
+                "name": "达丽尔·汉纳"
+            },
+            {
+                "name": "大卫·卡拉丁"
+            },
+            {
+                "name": "迈克尔·马德森"
+            },
+            {
+                "name": "朱莉·德赖弗斯"
+            },
+            {
+                "name": "栗山千明"
+            },
+            {
+                "name": "千叶真一"
+            },
+            {
+                "name": "刘家辉"
+            },
+            {
+                "name": "迈克尔·帕克斯"
+            },
+            {
+                "name": "迈克尔·鲍文"
+            },
+            {
+                "name": "国村隼"
+            },
+            {
+                "name": "大叶健二"
+            },
+            {
+                "name": "风祭由纪"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58414",
+            "_base_color": [
+                0.12903225806451613,
+                0.8785425101214575,
+                0.9686274509803922
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.12549019607843134,
+                0.8629441624365483,
+                0.7725490196078432
+            ],
+            "primary_color_dark": "7f660f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2454638445.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291580",
+        "url": "https://movie.douban.com/subject/1291580/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291580",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "昆汀·塔伦蒂诺"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

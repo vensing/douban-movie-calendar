@@ -1,0 +1,155 @@
+{
+    "comment": {
+        "content": "当你慢慢长大，你就会发现生活并不是童话故事。这世界很残忍，你需要去适应它，即使这很痛苦。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "727269",
+            "secondary_color": "f9f9f4",
+            "primary_color_dark": "4c4c46"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140860.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-07",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 178985,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.8
+        },
+        "pubdate": [
+            "2006-10-11(西班牙)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p924581966.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p924581966.jpg"
+        },
+        "is_show": false,
+        "year": "2006",
+        "card_subtitle": "2006 / 墨西哥 西班牙 / 剧情 战争 奇幻\n吉尔莫·德尔·托罗 导演",
+        "id": "1767042",
+        "genres": [
+            "剧情",
+            "战争",
+            "奇幻"
+        ],
+        "title": "潘神的迷宫",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "伊万娜·巴克罗"
+            },
+            {
+                "name": "塞尔希·洛佩斯"
+            },
+            {
+                "name": "玛丽维尔·贝尔杜"
+            },
+            {
+                "name": "道格·琼斯"
+            },
+            {
+                "name": "阿里亚德娜·希尔"
+            },
+            {
+                "name": "亚历克斯·安克吕罗"
+            },
+            {
+                "name": "马诺洛·索洛"
+            },
+            {
+                "name": "罗杰·卡萨马杰"
+            },
+            {
+                "name": "伊万·马萨格"
+            },
+            {
+                "name": "干沙路·乌里亚特"
+            },
+            {
+                "name": "塞巴斯蒂安·哈罗"
+            },
+            {
+                "name": "Mila Espiga"
+            },
+            {
+                "name": "Pepa Pedroche"
+            },
+            {
+                "name": "查尼·马丁"
+            },
+            {
+                "name": "米洛·塔波阿达"
+            },
+            {
+                "name": "Fernando Albizu"
+            },
+            {
+                "name": "乔斯·路易斯·托里霍"
+            },
+            {
+                "name": "因尼哥·加塞斯"
+            },
+            {
+                "name": "费尔南多·提尔弗"
+            },
+            {
+                "name": "费德里科·路皮"
+            },
+            {
+                "name": "Eduardo Aránega"
+            },
+            {
+                "name": "Eusebio Lázaro"
+            },
+            {
+                "name": "Juanjo Cucalón"
+            },
+            {
+                "name": "Francisco Vidal"
+            },
+            {
+                "name": "Lina Mira"
+            },
+            {
+                "name": "César Vea"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "496472",
+            "_base_color": [
+                0.5595238095238096,
+                0.35897435897435903,
+                0.15294117647058825
+            ],
+            "secondary_color": "f4f8f9",
+            "_avg_color": [
+                0.5555555555555555,
+                0.225,
+                0.3137254901960784
+            ],
+            "primary_color_dark": "31424c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p924581966.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1767042",
+        "url": "https://movie.douban.com/subject/1767042/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1767042",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "吉尔莫·德尔·托罗"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

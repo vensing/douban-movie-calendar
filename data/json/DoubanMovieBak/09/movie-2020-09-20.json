@@ -1,0 +1,107 @@
+{
+    "comment": {
+        "content": "我一死何足惜，不过，还是怕人言可畏，人言可畏啊！",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726762",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c4541"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140779.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-20",
+        "description": "张曼玉56岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 78413,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "1991-11-29(中国台湾)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p768817927.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p768817927.jpg"
+        },
+        "is_show": false,
+        "year": "1991",
+        "card_subtitle": "1991 / 中国香港 / 传记 剧情 爱情\n关锦鹏 导演",
+        "id": "1293414",
+        "genres": [
+            "传记",
+            "剧情",
+            "爱情"
+        ],
+        "title": "阮玲玉",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "张曼玉"
+            },
+            {
+                "name": "梁家辉"
+            },
+            {
+                "name": "秦汉"
+            },
+            {
+                "name": "刘嘉玲"
+            },
+            {
+                "name": "吴启华"
+            },
+            {
+                "name": "叶童"
+            },
+            {
+                "name": "李子雄"
+            },
+            {
+                "name": "张冲"
+            },
+            {
+                "name": "叶晨"
+            },
+            {
+                "name": "萧湘"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "637266",
+            "_base_color": [
+                0.36666666666666675,
+                0.13513513513513523,
+                0.2901960784313726
+            ],
+            "secondary_color": "f4f9f5",
+            "_avg_color": [
+                0.22916666666666674,
+                0.08163265306122448,
+                0.3843137254901961
+            ],
+            "primary_color_dark": "424c44"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p768817927.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1293414",
+        "url": "https://movie.douban.com/subject/1293414/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1293414",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "关锦鹏"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

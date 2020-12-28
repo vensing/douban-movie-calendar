@@ -1,0 +1,112 @@
+{
+    "comment": {
+        "content": "不管别人怎么说，我们做女人的总是孤身一人。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5958c",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "7f726c"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580141137.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-28",
+        "description": "阿方索·卡隆59岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 121369,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "2019-05-10(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2555541430.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2555541430.jpg"
+        },
+        "is_show": false,
+        "year": "2018",
+        "card_subtitle": "2018 / 墨西哥 美国 / 剧情 家庭\n阿方索·卡隆 导演",
+        "id": "1950330",
+        "genres": [
+            "剧情",
+            "家庭"
+        ],
+        "title": "罗马",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "雅利扎·阿巴里西奥"
+            },
+            {
+                "name": "玛丽娜·德·塔维拉"
+            },
+            {
+                "name": "迭戈·科蒂娜·奥特里"
+            },
+            {
+                "name": "卡洛斯·佩拉尔塔"
+            },
+            {
+                "name": "马科·格拉夫"
+            },
+            {
+                "name": "丹妮拉·德米萨"
+            },
+            {
+                "name": "南茜·加西亚"
+            },
+            {
+                "name": "维罗妮卡·加西亚"
+            },
+            {
+                "name": "安迪·科特斯"
+            },
+            {
+                "name": "费尔南多·格雷迪亚加"
+            },
+            {
+                "name": "豪尔赫·安东尼奥·格雷罗"
+            },
+            {
+                "name": "拉丁·洛弗"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72716d",
+            "_base_color": [
+                0.13333333333333344,
+                0.044052863436123316,
+                0.8901960784313725
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.13333333333333344,
+                0.04273504273504271,
+                0.4588235294117647
+            ],
+            "primary_color_dark": "4c4b49"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2555541430.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1950330",
+        "url": "https://movie.douban.com/subject/1950330/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1950330",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "阿方索·卡隆"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

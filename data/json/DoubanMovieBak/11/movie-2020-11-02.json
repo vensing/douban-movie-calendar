@@ -1,0 +1,88 @@
+{
+    "comment": {
+        "content": "有时候你就像个怪物，但却很温柔。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72594e",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3b34"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140966.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-02",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 70606,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "2012-05-20(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1566292031.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1566292031.jpg"
+        },
+        "is_show": false,
+        "year": "2012",
+        "card_subtitle": "2012 / 法国 德国 奥地利 / 剧情 爱情\n迈克尔·哈内克 导演",
+        "id": "4798707",
+        "genres": [
+            "剧情",
+            "爱情"
+        ],
+        "title": "爱",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "让-路易·特兰蒂尼昂"
+            },
+            {
+                "name": "埃玛妞·丽娃"
+            },
+            {
+                "name": "伊莎贝尔·于佩尔"
+            },
+            {
+                "name": "威廉姆·西梅尔"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6f5d72",
+            "_base_color": [
+                0.8095238095238096,
+                0.18421052631578946,
+                0.14901960784313725
+            ],
+            "secondary_color": "f9f4f9",
+            "_avg_color": [
+                0.95,
+                0.13698630136986292,
+                0.28627450980392155
+            ],
+            "primary_color_dark": "4a3e4c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1566292031.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/4798707",
+        "url": "https://movie.douban.com/subject/4798707/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/4798707",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "迈克尔·哈内克"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

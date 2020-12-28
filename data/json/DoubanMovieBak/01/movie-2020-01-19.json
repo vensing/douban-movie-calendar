@@ -1,0 +1,116 @@
+{
+    "comment": {
+        "content": "几乎没有人会去自杀，但几乎所有人都在自我毁灭。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726955",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "4c4639"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139349.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-19",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 304523,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.2
+        },
+        "pubdate": [
+            "2018-04-13(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2516914607.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516914607.jpg"
+        },
+        "is_show": false,
+        "year": "2018",
+        "card_subtitle": "2018 / 美国 英国 / 剧情 科幻 惊悚\n亚历克斯·加兰 导演",
+        "id": "26384741",
+        "genres": [
+            "剧情",
+            "科幻",
+            "惊悚"
+        ],
+        "title": "湮灭",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "娜塔莉·波特曼"
+            },
+            {
+                "name": "詹妮弗·杰森·李"
+            },
+            {
+                "name": "吉娜·罗德里格兹"
+            },
+            {
+                "name": "泰莎·汤普森"
+            },
+            {
+                "name": "奥斯卡·伊萨克"
+            },
+            {
+                "name": "水野索诺娅"
+            },
+            {
+                "name": "大卫·吉亚西"
+            },
+            {
+                "name": "图娃·诺沃妮"
+            },
+            {
+                "name": "本尼迪克特·王"
+            },
+            {
+                "name": "约翰·施瓦布"
+            },
+            {
+                "name": "萨米·海曼"
+            },
+            {
+                "name": "乔希·丹福德"
+            },
+            {
+                "name": "克里斯汀·麦加里蒂"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "2b4172",
+            "_base_color": [
+                0.6133333333333333,
+                0.625,
+                0.1568627450980392
+            ],
+            "secondary_color": "f4f6f9",
+            "_avg_color": [
+                0.6014492753623188,
+                0.46,
+                0.39215686274509803
+            ],
+            "primary_color_dark": "1c2b4c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2516914607.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26384741",
+        "url": "https://movie.douban.com/subject/26384741/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26384741",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "亚历克斯·加兰"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "comment": {
+        "content": "我在这个世界上并不孤独。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726252",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c4137"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580141193.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-14",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 65070,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.4
+        },
+        "pubdate": [
+            "1991-05-15(法国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1910919834.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910919834.jpg"
+        },
+        "is_show": false,
+        "year": "1991",
+        "card_subtitle": "1991 / 法国 波兰 挪威 / 剧情 爱情 奇幻\n克日什托夫·基耶斯洛夫斯基 导演",
+        "id": "1291877",
+        "genres": [
+            "剧情",
+            "爱情",
+            "奇幻"
+        ],
+        "title": "两生花",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "伊莲娜·雅各布"
+            },
+            {
+                "name": "哈丽娜·格雷格拉谢夫斯卡"
+            },
+            {
+                "name": "卡里娜·谢鲁斯克"
+            },
+            {
+                "name": "亚历山大·巴尔迪尼"
+            },
+            {
+                "name": "瓦迪斯瓦夫·科瓦尔斯基"
+            },
+            {
+                "name": "杰兹·古德寇"
+            },
+            {
+                "name": "菲利普·沃特"
+            },
+            {
+                "name": "桑德琳·杜马斯"
+            },
+            {
+                "name": "路易斯·迪克勒"
+            },
+            {
+                "name": "克洛德·迪内通"
+            },
+            {
+                "name": "洛莱妮·伊万诺夫"
+            },
+            {
+                "name": "吉约姆·德·东克戴克"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72502d",
+            "_base_color": [
+                0.08477011494252873,
+                0.6073298429319371,
+                0.7490196078431373
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.09803921568627451,
+                0.5074626865671642,
+                0.2627450980392157
+            ],
+            "primary_color_dark": "4c351e"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1910919834.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291877",
+        "url": "https://movie.douban.com/subject/1291877/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291877",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "克日什托夫·基耶斯洛夫斯基"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

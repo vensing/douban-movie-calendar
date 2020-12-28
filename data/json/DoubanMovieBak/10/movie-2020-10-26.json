@@ -1,0 +1,98 @@
+{
+    "comment": {
+        "content": "——美梦和噩梦有什么不同啊？\n——美梦开始变糟时就是噩梦，就像小孩子，刚开始的时候是一个美梦，等他们长大了，就变成了噩梦。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726754",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "4c4538"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140890.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-26",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 109150,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "2002-12-18(法国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2464686077.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2464686077.jpg"
+        },
+        "is_show": false,
+        "year": "2002",
+        "card_subtitle": "2002 / 法国 / 剧情 儿童 喜剧\n费利普·弥勒 导演",
+        "id": "1292056",
+        "genres": [
+            "剧情",
+            "儿童",
+            "喜剧"
+        ],
+        "title": "蝴蝶",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "米歇尔·塞罗尔"
+            },
+            {
+                "name": "柯莱儿·布翁尼许"
+            },
+            {
+                "name": "娜德·蒂约"
+            },
+            {
+                "name": "奥黛丽·玛丽奥"
+            },
+            {
+                "name": "弗朗索瓦·米肖"
+            },
+            {
+                "name": "海伦·伊利"
+            },
+            {
+                "name": "伊蒂格·斯特凡"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726a2f",
+            "_base_color": [
+                0.14650537634408603,
+                0.5821596244131456,
+                0.8352941176470589
+            ],
+            "secondary_color": "f9f9f4",
+            "_avg_color": [
+                0.16666666666666666,
+                0.5252525252525252,
+                0.38823529411764707
+            ],
+            "primary_color_dark": "4c471f"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2464686077.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292056",
+        "url": "https://movie.douban.com/subject/1292056/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292056",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "费利普·弥勒"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

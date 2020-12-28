@@ -1,0 +1,85 @@
+{
+    "comment": {
+        "content": "奶奶，电影结束了。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a56b46",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "7f5235"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140191.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-30",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 71468,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "2003-06-11(法国)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p649728270.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p649728270.jpg"
+        },
+        "is_show": false,
+        "year": "2003",
+        "card_subtitle": "2003 / 法国 比利时 加拿大 英国 拉脱维亚 / 喜剧 动画\n希尔万·肖默 导演",
+        "id": "1291565",
+        "genres": [
+            "喜剧",
+            "动画"
+        ],
+        "title": "疯狂约会美丽都",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "比阿特丽斯·博尼法西"
+            },
+            {
+                "name": "莉娜·布德罗"
+            },
+            {
+                "name": "米歇尔·库谢图"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a54946",
+            "_base_color": [
+                0.0050505050505050275,
+                0.5739130434782608,
+                0.45098039215686275
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.10714285714285714,
+                0.39252336448598135,
+                0.8392156862745098
+            ],
+            "primary_color_dark": "7f3836"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p649728270.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291565",
+        "url": "https://movie.douban.com/subject/1291565/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291565",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "希尔万·肖默"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

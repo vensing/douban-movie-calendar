@@ -1,0 +1,89 @@
+{
+    "comment": {
+        "content": "当生命中美好的东西到来时,我却觉得会失去它。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726454",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c4338"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140215.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-13",
+        "description": "《人鬼情未了》上映25周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 185079,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "1990-07-13"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p544574893.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p544574893.jpg"
+        },
+        "is_show": false,
+        "year": "1990",
+        "card_subtitle": "1990 / 美国 / 剧情 爱情 奇幻\n杰瑞·扎克 导演",
+        "id": "1293203",
+        "genres": [
+            "剧情",
+            "爱情",
+            "奇幻"
+        ],
+        "title": "人鬼情未了",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "帕特里克·斯威兹"
+            },
+            {
+                "name": "黛米·摩尔"
+            },
+            {
+                "name": "托尼·戈德温"
+            },
+            {
+                "name": "乌比·戈德堡"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a0a0a5",
+            "_base_color": [
+                0.6458333333333334,
+                0.03305785123966942,
+                0.9490196078431372
+            ],
+            "secondary_color": "f4f5f9",
+            "_avg_color": [
+                0.6228070175438597,
+                0.10326086956521734,
+                0.7215686274509804
+            ],
+            "primary_color_dark": "7b7b7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p544574893.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1293203",
+        "url": "https://movie.douban.com/subject/1293203/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1293203",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "杰瑞·扎克"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

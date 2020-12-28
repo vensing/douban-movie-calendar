@@ -1,0 +1,104 @@
+{
+    "comment": {
+        "content": "替社团办事，其实只是一份工作，不过这工作的规矩比较多。而且，犯了这些规矩的惩罚，不是被扣薪金或被开除，而是会丢了你的命！",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5876b",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f6852"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139712.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-04-22",
+        "description": "杜琪峰65岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 166269,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "1999-11-19(中国香港)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1538646661.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1538646661.jpg"
+        },
+        "is_show": false,
+        "year": "1999",
+        "card_subtitle": "1999 / 中国香港 / 剧情 动作 犯罪\n杜琪峰 导演",
+        "id": "1300741",
+        "genres": [
+            "剧情",
+            "动作",
+            "犯罪"
+        ],
+        "title": "枪火",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "吴镇宇"
+            },
+            {
+                "name": "任达华"
+            },
+            {
+                "name": "黄秋生"
+            },
+            {
+                "name": "吕颂贤"
+            },
+            {
+                "name": "张耀扬"
+            },
+            {
+                "name": "林雪"
+            },
+            {
+                "name": "王天林"
+            },
+            {
+                "name": "施绮莲"
+            },
+            {
+                "name": "高雄"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a0a0",
+            "_base_color": [
+                0,
+                0.02892561983471076,
+                0.9490196078431372
+            ],
+            "secondary_color": "f9f4f4",
+            "_avg_color": [
+                0.9603174603174605,
+                0.11229946524064162,
+                0.7333333333333333
+            ],
+            "primary_color_dark": "7f7b7b"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1538646661.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1300741",
+        "url": "https://movie.douban.com/subject/1300741/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1300741",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "杜琪峰"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

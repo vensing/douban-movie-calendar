@@ -1,0 +1,123 @@
+{
+    "comment": {
+        "content": "你可以了解世间万物，但追根溯源的唯一途径便是亲身尝试。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726459",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c433b"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139444.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-02-28",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 541842,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.9
+        },
+        "pubdate": [
+            "1997-12-05(美国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p480965695.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480965695.jpg"
+        },
+        "is_show": false,
+        "year": "1997",
+        "card_subtitle": "1997 / 美国 / 剧情\n格斯·范·桑特 导演",
+        "id": "1292656",
+        "genres": [
+            "剧情"
+        ],
+        "title": "心灵捕手",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "马特·达蒙"
+            },
+            {
+                "name": "罗宾·威廉姆斯"
+            },
+            {
+                "name": "本·阿弗莱克"
+            },
+            {
+                "name": "斯特兰·斯卡斯加德"
+            },
+            {
+                "name": "明妮·德里弗"
+            },
+            {
+                "name": "卡西·阿弗莱克"
+            },
+            {
+                "name": "科尔·豪瑟"
+            },
+            {
+                "name": "约翰·迈顿"
+            },
+            {
+                "name": "丹·华盛顿"
+            },
+            {
+                "name": "艾莉森·福兰德"
+            },
+            {
+                "name": "维克·萨海"
+            },
+            {
+                "name": "史蒂文·科兹洛夫斯基"
+            },
+            {
+                "name": "斯科特·威廉姆·文特斯"
+            },
+            {
+                "name": "吉米·弗林"
+            },
+            {
+                "name": "乔治·普林普顿"
+            },
+            {
+                "name": "弗朗切斯科·克莱门特"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726751",
+            "_base_color": [
+                0.11111111111111112,
+                0.2857142857142857,
+                0.16470588235294117
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.12500000000000003,
+                0.6086956521739131,
+                0.3607843137254902
+            ],
+            "primary_color_dark": "4c4536"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p480965695.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292656",
+        "url": "https://movie.douban.com/subject/1292656/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292656",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "格斯·范·桑特"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

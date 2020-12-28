@@ -1,0 +1,244 @@
+{
+    "comment": {
+        "content": "你不想死了还是单身吧？",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58672",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "7f6758"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139707.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-04-18",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 157960,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.7
+        },
+        "pubdate": [
+            "2004-04-09(英国)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1429482773.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1429482773.jpg"
+        },
+        "is_show": false,
+        "year": "2004",
+        "card_subtitle": "2004 / 英国 法国 / 喜剧 恐怖\n埃德加·赖特 导演",
+        "id": "1308755",
+        "genres": [
+            "喜剧",
+            "恐怖"
+        ],
+        "title": "僵尸肖恩",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "西蒙·佩吉"
+            },
+            {
+                "name": "尼克·弗罗斯特"
+            },
+            {
+                "name": "凯特·阿什菲尔德"
+            },
+            {
+                "name": "露茜·戴维斯"
+            },
+            {
+                "name": "迪兰·莫兰"
+            },
+            {
+                "name": "佩内洛普·威尔顿"
+            },
+            {
+                "name": "比尔·奈伊"
+            },
+            {
+                "name": "杰西卡·海因斯"
+            },
+            {
+                "name": "彼得·塞拉菲诺威茨"
+            },
+            {
+                "name": "拉菲·斯波"
+            },
+            {
+                "name": "马丁·弗瑞曼"
+            },
+            {
+                "name": "里斯·谢尔史密斯"
+            },
+            {
+                "name": "塔姆辛·格雷格"
+            },
+            {
+                "name": "马克·加蒂斯"
+            },
+            {
+                "name": "马特·卢卡斯"
+            },
+            {
+                "name": "大卫·威廉姆斯"
+            },
+            {
+                "name": "克里斯·马汀"
+            },
+            {
+                "name": "约翰·巴克兰德"
+            },
+            {
+                "name": "尼古拉·坎宁安"
+            },
+            {
+                "name": "基尔·米尔斯"
+            },
+            {
+                "name": "马特·杰恩斯"
+            },
+            {
+                "name": "加文·弗格森"
+            },
+            {
+                "name": "霍顿·朱庇特"
+            },
+            {
+                "name": "蒂姆·巴格雷"
+            },
+            {
+                "name": "阿尔温德·多希"
+            },
+            {
+                "name": "索奈尔·达卓"
+            },
+            {
+                "name": "Trisha Goddard"
+            },
+            {
+                "name": "克里斯南·古鲁-莫西"
+            },
+            {
+                "name": "Carol Barnes"
+            },
+            {
+                "name": "弗农·凯伊"
+            },
+            {
+                "name": "马克·多诺万"
+            },
+            {
+                "name": "朱丽亚·迪金"
+            },
+            {
+                "name": "Keith Chegwin"
+            },
+            {
+                "name": "露西·阿科斯特"
+            },
+            {
+                "name": "彼得·贝恩汉姆"
+            },
+            {
+                "name": "罗伯·布莱顿"
+            },
+            {
+                "name": "安东尼娅·坎贝尔-休斯"
+            },
+            {
+                "name": "Chris Clarke"
+            },
+            {
+                "name": "乔·考尼什"
+            },
+            {
+                "name": "朱莉娅·戴维斯"
+            },
+            {
+                "name": "大卫·威廉·詹姆斯·埃利奥特"
+            },
+            {
+                "name": "拉塞尔·霍华德"
+            },
+            {
+                "name": "加斯·詹宁斯"
+            },
+            {
+                "name": "Rich Johnston"
+            },
+            {
+                "name": "保罗·凯耶"
+            },
+            {
+                "name": "Jason McDonald"
+            },
+            {
+                "name": "Robert Popper"
+            },
+            {
+                "name": "保罗·普特纳"
+            },
+            {
+                "name": "彼得·雷尼克"
+            },
+            {
+                "name": "迈克尔·史麦利"
+            },
+            {
+                "name": "Dave Smith"
+            },
+            {
+                "name": "菲利普·斯波"
+            },
+            {
+                "name": "David Spratt"
+            },
+            {
+                "name": "Kenneth Thompson Marchesi"
+            },
+            {
+                "name": "Ben Thompson"
+            },
+            {
+                "name": "Julianne Watling"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724e47",
+            "_base_color": [
+                0.027027027027027067,
+                0.37948717948717947,
+                0.7647058823529411
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.026041666666666647,
+                0.34782608695652173,
+                0.3607843137254902
+            ],
+            "primary_color_dark": "4c342f"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1429482773.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1308755",
+        "url": "https://movie.douban.com/subject/1308755/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1308755",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "埃德加·赖特"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

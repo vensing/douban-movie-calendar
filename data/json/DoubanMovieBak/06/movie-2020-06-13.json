@@ -1,0 +1,95 @@
+{
+    "comment": {
+        "content": "你知道可悲的是什么吗？我觉得你自己都不知道你是谁。我要怎么爱一个不存在的人？",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58477",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "7f655c"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140028.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-13",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 65455,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.9
+        },
+        "pubdate": [
+            "2009-05-19(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p669366779.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p669366779.jpg"
+        },
+        "is_show": false,
+        "year": "2009",
+        "card_subtitle": "2009 / 法国 美国 / 喜剧 传记 爱情\n格伦·费卡拉 / 约翰·里夸 导演",
+        "id": "2361823",
+        "genres": [
+            "喜剧",
+            "传记",
+            "爱情"
+        ],
+        "title": "我爱你莫里斯",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "金·凯瑞"
+            },
+            {
+                "name": "伊万·麦克格雷格"
+            },
+            {
+                "name": "莱斯利·曼恩"
+            },
+            {
+                "name": "罗德里戈·桑托罗"
+            },
+            {
+                "name": "Nicholas Alexander"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "879da5",
+            "_base_color": [
+                0.5454545454545455,
+                0.18032786885245908,
+                0.9568627450980393
+            ],
+            "secondary_color": "f4f8f9",
+            "_avg_color": [
+                0.5681818181818182,
+                0.10476190476190467,
+                0.8235294117647058
+            ],
+            "primary_color_dark": "68797f"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p669366779.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/2361823",
+        "url": "https://movie.douban.com/subject/2361823/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/2361823",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "格伦·费卡拉"
+            },
+            {
+                "name": "约翰·里夸"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "comment": {
+        "content": "和他们走又能改变什么呢？我对任何人来说，都一文不值。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "727272",
+            "secondary_color": "f9f4f4",
+            "primary_color_dark": "4c4c4c"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140578.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-17",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 30490,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9
+        },
+        "pubdate": [
+            "1954-09-06(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1137202397.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1137202397.jpg"
+        },
+        "is_show": false,
+        "year": "1954",
+        "card_subtitle": "1954 / 意大利 / 剧情\n费德里科·费里尼 导演",
+        "id": "1292719",
+        "genres": [
+            "剧情"
+        ],
+        "title": "大路",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "安东尼·奎恩"
+            },
+            {
+                "name": "朱丽叶塔·马西纳"
+            },
+            {
+                "name": "理查德·贝斯哈特"
+            },
+            {
+                "name": "阿尔多·西尔瓦尼"
+            },
+            {
+                "name": "Marcella Rovere"
+            },
+            {
+                "name": "利维娅·文图里尼"
+            },
+            {
+                "name": "Pietro Ceccarelli"
+            },
+            {
+                "name": "Giovanna Galli"
+            },
+            {
+                "name": "Gustavo Giorgi"
+            },
+            {
+                "name": "Yami Kamadeva"
+            },
+            {
+                "name": "Mario Passante"
+            },
+            {
+                "name": "Anna Primula"
+            },
+            {
+                "name": "Goffredo Unger"
+            },
+            {
+                "name": "Nazzareno Zamperla"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a29b",
+            "_base_color": [
+                0.11538461538461549,
+                0.06220095693779896,
+                0.8196078431372549
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.055555555555555525,
+                0.2068965517241379,
+                0.5686274509803921
+            ],
+            "primary_color_dark": "7f7d77"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1137202397.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292719",
+        "url": "https://movie.douban.com/subject/1292719/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292719",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "费德里科·费里尼"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

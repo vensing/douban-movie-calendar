@@ -1,0 +1,104 @@
+{
+    "comment": {
+        "content": "上帝啊，我为了喝一杯什么都做得出来。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725c4b",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3d32"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139797.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-23",
+        "description": "《闪灵》上映40周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 355319,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "1980-05-23(美国)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2461253191.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2461253191.jpg"
+        },
+        "is_show": false,
+        "year": "1980",
+        "card_subtitle": "1980 / 英国 美国 / 剧情 悬疑 恐怖\n斯坦利·库布里克 导演",
+        "id": "1292225",
+        "genres": [
+            "剧情",
+            "悬疑",
+            "恐怖"
+        ],
+        "title": "闪灵",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "杰克·尼科尔森"
+            },
+            {
+                "name": "谢莉·杜瓦尔"
+            },
+            {
+                "name": "丹尼·劳埃德"
+            },
+            {
+                "name": "斯加特曼·克罗索斯"
+            },
+            {
+                "name": "巴瑞·尼尔森"
+            },
+            {
+                "name": "菲利普·斯通"
+            },
+            {
+                "name": "乔·托克尔"
+            },
+            {
+                "name": "安妮·杰克逊"
+            },
+            {
+                "name": "托尼·伯顿"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59985",
+            "_base_color": [
+                0.10465116279069771,
+                0.19369369369369377,
+                0.8705882352941177
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.08974358974358981,
+                0.1768707482993197,
+                0.5764705882352941
+            ],
+            "primary_color_dark": "7f7666"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2461253191.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292225",
+        "url": "https://movie.douban.com/subject/1292225/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292225",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "斯坦利·库布里克"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

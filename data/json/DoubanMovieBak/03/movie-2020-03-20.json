@@ -1,0 +1,88 @@
+{
+    "comment": {
+        "content": "母亲会越来越爱自己的孩子；而孩子则相反，这是天性使然。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725849",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3a31"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139586.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-20",
+        "description": "泽维尔·多兰31岁生日",
+        "title": "春分"
+    },
+    "subject": {
+        "rating": {
+            "count": 23288,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "2014-05-22(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2204888387.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2204888387.jpg"
+        },
+        "is_show": false,
+        "year": "2014",
+        "card_subtitle": "2014 / 加拿大 / 剧情 家庭\n泽维尔·多兰 导演",
+        "id": "25745651",
+        "genres": [
+            "剧情",
+            "家庭"
+        ],
+        "title": "妈咪",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "安娜·多尔瓦尔"
+            },
+            {
+                "name": "安托万-奥利弗·波尼安"
+            },
+            {
+                "name": "苏珊娜·克莱蒙"
+            },
+            {
+                "name": "帕特里克·华德"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59675",
+            "_base_color": [
+                0.11538461538461535,
+                0.29279279279279274,
+                0.8705882352941177
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.11711711711711716,
+                0.22981366459627328,
+                0.6313725490196078
+            ],
+            "primary_color_dark": "7f745a"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2204888387.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/25745651",
+        "url": "https://movie.douban.com/subject/25745651/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/25745651",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "泽维尔·多兰"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

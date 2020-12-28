@@ -1,0 +1,91 @@
+{
+    "comment": {
+        "content": "我再也无法相信任何事，无法相信人类的救赎。我们不值得活着，没有人值得活着，多少次我放下照相机，为我所见而哭泣。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726460",
+            "secondary_color": "f9f5f4",
+            "primary_color_dark": "4c4240"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140571.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-14",
+        "description": "维姆·文德斯75岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 29297,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.3
+        },
+        "pubdate": [
+            "2014-10-15(法国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2205830188.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2205830188.jpg"
+        },
+        "is_show": false,
+        "year": "2014",
+        "card_subtitle": "2014 / 法国 意大利 巴西 / 传记 纪录片\n维姆·文德斯 / 朱利安·诺里贝罗·萨尔加多 导演",
+        "id": "10741871",
+        "genres": [
+            "传记",
+            "纪录片"
+        ],
+        "title": "地球之盐",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "塞巴斯蒂昂·萨尔加多"
+            },
+            {
+                "name": "维姆·文德斯"
+            },
+            {
+                "name": "朱利安·诺里贝罗·萨尔加多"
+            },
+            {
+                "name": "Lélia Wanick Salgado"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726051",
+            "_base_color": [
+                0.07142857142857144,
+                0.2857142857142857,
+                0.19215686274509805
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.7777777777777772,
+                0.027272727272727303,
+                0.43137254901960786
+            ],
+            "primary_color_dark": "4c4036"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2205830188.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/10741871",
+        "url": "https://movie.douban.com/subject/10741871/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/10741871",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "维姆·文德斯"
+            },
+            {
+                "name": "朱利安·诺里贝罗·萨尔加多"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

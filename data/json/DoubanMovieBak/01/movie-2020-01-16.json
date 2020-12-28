@@ -1,0 +1,125 @@
+{
+    "comment": {
+        "content": "你们是我看过的最可怕的一群怪物，别让他人否定你们的与众不同。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726b5a",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "4c473c"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139346.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-16",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 296685,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "2013-08-23(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2033476722.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2033476722.jpg"
+        },
+        "is_show": false,
+        "year": "2013",
+        "card_subtitle": "2013 / 美国 / 喜剧 动画 冒险\n丹·斯坎隆 导演",
+        "id": "3789848",
+        "genres": [
+            "喜剧",
+            "动画",
+            "冒险"
+        ],
+        "title": "怪兽大学",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "比利·克里斯托"
+            },
+            {
+                "name": "约翰·古德曼"
+            },
+            {
+                "name": "史蒂夫·布西密"
+            },
+            {
+                "name": "海伦·米伦"
+            },
+            {
+                "name": "彼得·孙"
+            },
+            {
+                "name": "乔尔·默里"
+            },
+            {
+                "name": "西恩·海耶斯"
+            },
+            {
+                "name": "大卫·弗利"
+            },
+            {
+                "name": "查理·戴"
+            },
+            {
+                "name": "阿尔弗雷德·莫里纳"
+            },
+            {
+                "name": "泰勒·莱伯恩"
+            },
+            {
+                "name": "内森·菲利安"
+            },
+            {
+                "name": "奥布瑞·普拉扎"
+            },
+            {
+                "name": "贝丝·比厄"
+            },
+            {
+                "name": "鲍比·莫尼汉"
+            },
+            {
+                "name": "朱丽亚·斯维尼"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a3a59f",
+            "_base_color": [
+                0.2380952380952385,
+                0.03684210526315791,
+                0.7450980392156863
+            ],
+            "secondary_color": "f7f9f4",
+            "_avg_color": [
+                0.5,
+                0.04516129032258049,
+                0.6078431372549019
+            ],
+            "primary_color_dark": "7d7f7a"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2033476722.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3789848",
+        "url": "https://movie.douban.com/subject/3789848/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3789848",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "丹·斯坎隆"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

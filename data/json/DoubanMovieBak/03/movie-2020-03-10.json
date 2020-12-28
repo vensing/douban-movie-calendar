@@ -1,0 +1,124 @@
+{
+    "comment": {
+        "content": "文化其实是坚不可摧的，即使处于最糟糕的境地，它依旧可以幸存。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "723e36",
+            "secondary_color": "f9f5f4",
+            "primary_color_dark": "4c2924"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139564.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-10",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 78040,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.4
+        },
+        "pubdate": [
+            "2016-09-04(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2441383861.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2441383861.jpg"
+        },
+        "is_show": false,
+        "year": "2016",
+        "card_subtitle": "2016 / 阿根廷 西班牙 / 剧情 喜剧\n加斯顿·杜帕拉特 / 马里亚诺·寇恩 导演",
+        "id": "26844922",
+        "genres": [
+            "剧情",
+            "喜剧"
+        ],
+        "title": "杰出公民",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "奥斯卡·马丁内兹"
+            },
+            {
+                "name": "达迪·布列瓦"
+            },
+            {
+                "name": "安德丽娅·弗里杰里奥"
+            },
+            {
+                "name": "诺拉·纳瓦斯"
+            },
+            {
+                "name": "曼努埃尔·维森特"
+            },
+            {
+                "name": "马塞洛·丹德烈亚"
+            },
+            {
+                "name": "贝伦·沙瓦纳"
+            },
+            {
+                "name": "古斯塔沃·加尔松"
+            },
+            {
+                "name": "朱利安·拉基尔·泰拉里尼"
+            },
+            {
+                "name": "艾玛·里维拉"
+            },
+            {
+                "name": "尼古拉斯·德·特蕾西"
+            },
+            {
+                "name": "丹尼尔·卡尔吉曼"
+            },
+            {
+                "name": "亚历克西斯·洛佩兹·科斯塔"
+            },
+            {
+                "name": "莱昂纳多·穆里亚"
+            },
+            {
+                "name": "佩德罗·罗斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726461",
+            "_base_color": [
+                0.033333333333333305,
+                0.1515151515151516,
+                0.12941176470588237
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.05555555555555556,
+                0.225,
+                0.3137254901960784
+            ],
+            "primary_color_dark": "4c4340"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2441383861.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26844922",
+        "url": "https://movie.douban.com/subject/26844922/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26844922",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "加斯顿·杜帕拉特"
+            },
+            {
+                "name": "马里亚诺·寇恩"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "comment": {
+        "content": "我的身体拒绝没有爱的人。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726049",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c4030"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140027.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-12",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 182225,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "1992-01-22(法国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2553122878.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553122878.jpg"
+        },
+        "is_show": false,
+        "year": "1992",
+        "card_subtitle": "1992 / 法国 英国 越南 / 剧情 传记 爱情\n让-雅克·阿诺 导演",
+        "id": "1291868",
+        "genres": [
+            "剧情",
+            "传记",
+            "爱情"
+        ],
+        "title": "情人",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "珍·玛奇"
+            },
+            {
+                "name": "梁家辉"
+            },
+            {
+                "name": "弗雷德丽克·梅南热"
+            },
+            {
+                "name": "阿诺·乔瓦尼内蒂"
+            },
+            {
+                "name": "梅尔维尔·珀波"
+            },
+            {
+                "name": "丽萨·福克纳"
+            },
+            {
+                "name": "让娜·莫罗"
+            },
+            {
+                "name": "弗里德里克·奥伯汀"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59d97",
+            "_base_color": [
+                0.06666666666666661,
+                0.08403361344537821,
+                0.9333333333333333
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.038888888888888896,
+                0.13888888888888892,
+                0.8470588235294118
+            ],
+            "primary_color_dark": "7f7974"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2553122878.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291868",
+        "url": "https://movie.douban.com/subject/1291868/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291868",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "让-雅克·阿诺"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "comment": {
+        "content": "你知道被当作怪物的感受，这就是为什么我们要在一起。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726d53",
+            "secondary_color": "f9f9f4",
+            "primary_color_dark": "4c4937"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140024.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-11",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 168654,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.9
+        },
+        "pubdate": [
+            "2001-05-18(美国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1910896706.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910896706.jpg"
+        },
+        "is_show": false,
+        "year": "2001",
+        "card_subtitle": "2001 / 美国 / 动画 冒险 喜剧\n安德鲁·亚当森 / 维基·詹森 导演",
+        "id": "1291581",
+        "genres": [
+            "动画",
+            "冒险",
+            "喜剧"
+        ],
+        "title": "怪物史瑞克",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "麦克·梅尔斯"
+            },
+            {
+                "name": "艾迪·墨菲"
+            },
+            {
+                "name": "卡梅隆·迪亚兹"
+            },
+            {
+                "name": "约翰·利思戈"
+            },
+            {
+                "name": "文森特·卡索"
+            },
+            {
+                "name": "皮特·丹尼斯"
+            },
+            {
+                "name": "克莱夫·皮尔斯"
+            },
+            {
+                "name": "吉姆·卡明斯"
+            },
+            {
+                "name": "鲍比·布洛克"
+            },
+            {
+                "name": "克里斯·米勒"
+            },
+            {
+                "name": "科迪·卡梅伦"
+            },
+            {
+                "name": "凯瑟琳·弗里曼"
+            },
+            {
+                "name": "迈克尔·葛拉索"
+            },
+            {
+                "name": "克里斯多夫·奈茨"
+            },
+            {
+                "name": "西蒙·J·史密斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "3165a5",
+            "_base_color": [
+                0.5912280701754385,
+                0.7037037037037037,
+                0.5294117647058824
+            ],
+            "secondary_color": "f4f7f9",
+            "_avg_color": [
+                0.2884615384615384,
+                0.16249999999999995,
+                0.6274509803921569
+            ],
+            "primary_color_dark": "254e7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1910896706.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291581",
+        "url": "https://movie.douban.com/subject/1291581/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291581",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "安德鲁·亚当森"
+            },
+            {
+                "name": "维基·詹森"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

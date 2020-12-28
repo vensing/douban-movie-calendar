@@ -1,0 +1,100 @@
+{
+    "comment": {
+        "content": "我从来没有想到原来婚姻是这么复杂，还以为一个人做得好就行了，可是两个人在一起，单是自己做得好是不够的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725242",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c372c"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140849.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-29",
+        "description": "《花样年华》上映20周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 445269,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "2000-09-29(中国香港)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1910828286.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1910828286.jpg"
+        },
+        "is_show": false,
+        "year": "2000",
+        "card_subtitle": "2000 / 中国香港 / 剧情 爱情\n王家卫 导演",
+        "id": "1291557",
+        "genres": [
+            "剧情",
+            "爱情"
+        ],
+        "title": "花样年华",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "梁朝伟"
+            },
+            {
+                "name": "张曼玉"
+            },
+            {
+                "name": "潘迪华"
+            },
+            {
+                "name": "萧炳林"
+            },
+            {
+                "name": "张耀扬"
+            },
+            {
+                "name": "孙佳君"
+            },
+            {
+                "name": "钱似莺"
+            },
+            {
+                "name": "顾锦华"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "9a63a5",
+            "_base_color": [
+                0.8055555555555555,
+                0.4,
+                0.058823529411764705
+            ],
+            "secondary_color": "f9f4f9",
+            "_avg_color": [
+                0.02631578947368422,
+                0.5066666666666666,
+                0.5882352941176471
+            ],
+            "primary_color_dark": "764c7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1910828286.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291557",
+        "url": "https://movie.douban.com/subject/1291557/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291557",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "王家卫"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

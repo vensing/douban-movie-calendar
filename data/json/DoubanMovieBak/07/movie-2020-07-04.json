@@ -1,0 +1,161 @@
+{
+    "comment": {
+        "content": "人生最要不得的，就是饥肠辘辘和形单影只。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a3a59c",
+            "secondary_color": "f8f9f4",
+            "primary_color_dark": "7d7f78"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140197.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-04",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 154003,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "2009-08-01(日本)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1031772057.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1031772057.jpg"
+        },
+        "is_show": false,
+        "year": "2009",
+        "card_subtitle": "2009 / 日本 / 喜剧 科幻 动画\n细田守 导演",
+        "id": "3908423",
+        "genres": [
+            "喜剧",
+            "科幻",
+            "动画"
+        ],
+        "title": "夏日大作战",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "神木隆之介"
+            },
+            {
+                "name": "樱庭奈奈美"
+            },
+            {
+                "name": "富司纯子"
+            },
+            {
+                "name": "谷村美月"
+            },
+            {
+                "name": "斋藤步"
+            },
+            {
+                "name": "横川贵大"
+            },
+            {
+                "name": "信泽三惠子"
+            },
+            {
+                "name": "谷川清美"
+            },
+            {
+                "name": "桐本拓哉"
+            },
+            {
+                "name": "佐佐木睦"
+            },
+            {
+                "name": "玉川纱己子"
+            },
+            {
+                "name": "永井一郎"
+            },
+            {
+                "name": "山像香"
+            },
+            {
+                "name": "小林隆"
+            },
+            {
+                "name": "田村高美"
+            },
+            {
+                "name": "清水优"
+            },
+            {
+                "name": "中村正"
+            },
+            {
+                "name": "田中要次"
+            },
+            {
+                "name": "金泽映子"
+            },
+            {
+                "name": "中村桥弥"
+            },
+            {
+                "name": "高久千草"
+            },
+            {
+                "name": "板仓光隆"
+            },
+            {
+                "name": "仲里依纱"
+            },
+            {
+                "name": "安达直人"
+            },
+            {
+                "name": "诸星堇"
+            },
+            {
+                "name": "今井悠贵"
+            },
+            {
+                "name": "太田力斗"
+            },
+            {
+                "name": "皆川阳菜乃"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "9aa5a2",
+            "_base_color": [
+                0.4555555555555557,
+                0.06944444444444446,
+                0.8470588235294118
+            ],
+            "secondary_color": "f4f9f8",
+            "_avg_color": [
+                0.24666666666666673,
+                0.13661202185792348,
+                0.7176470588235294
+            ],
+            "primary_color_dark": "767f7d"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1031772057.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3908423",
+        "url": "https://movie.douban.com/subject/3908423/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3908423",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "细田守"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

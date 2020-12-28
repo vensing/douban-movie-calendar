@@ -1,0 +1,239 @@
+{
+    "comment": {
+        "content": "人来到这个世界不是带着仇恨，而是恐惧。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59e94",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f7972"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139336.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-10",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 318230,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.2
+        },
+        "pubdate": [
+            "2019-03-15(美国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2548248276.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2548248276.jpg"
+        },
+        "is_show": false,
+        "year": "2019",
+        "card_subtitle": "2019 / 美国 / 喜剧 科幻 动画\n维克多·马尔多纳多 / 加布里埃尔·彭纳基奥利 / 阿尔弗雷多·托雷斯 / 弗兰克·巴尔森 / 阿尔贝托·米尔戈 / 蒂姆·米勒 / 达米安·纽诺 / 杰罗姆·陈 / 维塔利·舒舒科 / 欧文·沙利文 / 罗伯特·瓦利 / 戴夫·威尔逊 / 乔恩·叶 / 哈维尔·雷西奥·格雷西亚 导演",
+        "id": "30424374",
+        "genres": [
+            "喜剧",
+            "科幻",
+            "动画"
+        ],
+        "title": "爱，死亡和机器人 第一季",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "斯科特·怀特"
+            },
+            {
+                "name": "诺兰·诺斯"
+            },
+            {
+                "name": "马修·杨·金"
+            },
+            {
+                "name": "迈克尔·本耶尔"
+            },
+            {
+                "name": "乔什·布雷纳"
+            },
+            {
+                "name": "艾莉·康德伦"
+            },
+            {
+                "name": "亨利·杜思韦特"
+            },
+            {
+                "name": "亚伦·希梅尔斯坦"
+            },
+            {
+                "name": "斯蒂芬·卡皮契奇"
+            },
+            {
+                "name": "莫里斯·拉马奇"
+            },
+            {
+                "name": "艾米丽·奥布莱恩"
+            },
+            {
+                "name": "凯文·迈克尔·理查德森"
+            },
+            {
+                "name": "海伦·萨德勒"
+            },
+            {
+                "name": "伊兰妮·谭"
+            },
+            {
+                "name": "柯克·桑顿"
+            },
+            {
+                "name": "萨米拉·威利"
+            },
+            {
+                "name": "玛丽·伊丽莎白·温斯特德"
+            },
+            {
+                "name": "卡洛斯·阿拉斯拉奇"
+            },
+            {
+                "name": "亚当·巴特利"
+            },
+            {
+                "name": "托弗·戈瑞斯"
+            },
+            {
+                "name": "尤里·洛文塔尔"
+            },
+            {
+                "name": "克里斯托弗·L·帕森"
+            },
+            {
+                "name": "弗雷德·塔特西奥"
+            },
+            {
+                "name": "布鲁斯·托马斯"
+            },
+            {
+                "name": "艾玛·索内特"
+            },
+            {
+                "name": "加里·安东尼·威廉斯"
+            },
+            {
+                "name": "盖瑞·科尔"
+            },
+            {
+                "name": "约翰·迪·马吉欧"
+            },
+            {
+                "name": "克里斯·帕内尔"
+            },
+            {
+                "name": "吉姆·皮里"
+            },
+            {
+                "name": "内斯特·塞拉诺"
+            },
+            {
+                "name": "吉尔·塔利"
+            },
+            {
+                "name": "劳拉·沃德尔"
+            },
+            {
+                "name": "泰姆·温特斯"
+            },
+            {
+                "name": "格文多林·叶"
+            },
+            {
+                "name": "奥米德·阿布塔西"
+            },
+            {
+                "name": "安东尼奥·阿尔瓦雷斯"
+            },
+            {
+                "name": "布莱恩·布鲁姆"
+            },
+            {
+                "name": "格雷厄姆·汉密尔顿"
+            },
+            {
+                "name": "迪特尔·詹森"
+            },
+            {
+                "name": "安德烈·索格利扎索"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72716d",
+            "_base_color": [
+                0.13333333333333344,
+                0.046296296296296266,
+                0.4235294117647059
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.9166666666666666,
+                0.36799999999999994,
+                0.49019607843137253
+            ],
+            "primary_color_dark": "4c4b48"
+        },
+        "type": "tv",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2548248276.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/30424374",
+        "url": "https://movie.douban.com/subject/30424374/",
+        "release_date": null,
+        "uri": "douban://douban.com/tv/30424374",
+        "subtype": "tv",
+        "directors": [
+            {
+                "name": "维克多·马尔多纳多"
+            },
+            {
+                "name": "加布里埃尔·彭纳基奥利"
+            },
+            {
+                "name": "阿尔弗雷多·托雷斯"
+            },
+            {
+                "name": "弗兰克·巴尔森"
+            },
+            {
+                "name": "阿尔贝托·米尔戈"
+            },
+            {
+                "name": "蒂姆·米勒"
+            },
+            {
+                "name": "达米安·纽诺"
+            },
+            {
+                "name": "杰罗姆·陈"
+            },
+            {
+                "name": "维塔利·舒舒科"
+            },
+            {
+                "name": "欧文·沙利文"
+            },
+            {
+                "name": "罗伯特·瓦利"
+            },
+            {
+                "name": "戴夫·威尔逊"
+            },
+            {
+                "name": "乔恩·叶"
+            },
+            {
+                "name": "哈维尔·雷西奥·格雷西亚"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

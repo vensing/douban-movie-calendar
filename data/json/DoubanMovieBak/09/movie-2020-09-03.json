@@ -1,0 +1,137 @@
+{
+    "comment": {
+        "content": "那就是你的工作，不管你喜不喜欢。我的工作就是让你去做你的工作，不\n管我喜不喜欢。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "98a566",
+            "secondary_color": "f8f9f4",
+            "primary_color_dark": "757f4e"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140741.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-03",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 13625,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.3
+        },
+        "pubdate": [
+            "1999-03-28(美国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2501253616.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501253616.jpg"
+        },
+        "is_show": false,
+        "year": "1999",
+        "card_subtitle": "1999 / 美国 / 喜剧 科幻 动画\n瑞奇·摩尔 / 皮特·阿凡季诺 导演",
+        "id": "1444534",
+        "genres": [
+            "喜剧",
+            "科幻",
+            "动画"
+        ],
+        "title": "飞出个未来 第一季",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "比利·维斯特"
+            },
+            {
+                "name": "凯特蕾·萨加尔"
+            },
+            {
+                "name": "约翰·迪·马吉欧"
+            },
+            {
+                "name": "特蕾丝·麦克尼尔"
+            },
+            {
+                "name": "菲尔·拉马"
+            },
+            {
+                "name": "劳伦·汤姆"
+            },
+            {
+                "name": "莫里斯·拉马奇"
+            },
+            {
+                "name": "大卫·赫尔曼"
+            },
+            {
+                "name": "南茜·卡特莱特"
+            },
+            {
+                "name": "弗兰克·维尔克"
+            },
+            {
+                "name": "凯斯·索西"
+            },
+            {
+                "name": "汤姆·肯尼"
+            },
+            {
+                "name": "伦纳德·尼莫伊"
+            },
+            {
+                "name": "迪克·克拉克"
+            },
+            {
+                "name": "帕米拉·安德森"
+            },
+            {
+                "name": "麦克·D"
+            },
+            {
+                "name": "亚当·霍罗维茨"
+            },
+            {
+                "name": "丹尼·雅各布斯"
+            },
+            {
+                "name": "丹·卡斯泰兰尼塔"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "542a72",
+            "_base_color": [
+                0.7633333333333333,
+                0.6329113924050633,
+                0.30980392156862746
+            ],
+            "secondary_color": "f7f4f9",
+            "_avg_color": [
+                0.8111111111111112,
+                0.25423728813559326,
+                0.4627450980392157
+            ],
+            "primary_color_dark": "381c4c"
+        },
+        "type": "tv",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2501253616.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1444534",
+        "url": "https://movie.douban.com/subject/1444534/",
+        "release_date": null,
+        "uri": "douban://douban.com/tv/1444534",
+        "subtype": "tv",
+        "directors": [
+            {
+                "name": "瑞奇·摩尔"
+            },
+            {
+                "name": "皮特·阿凡季诺"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

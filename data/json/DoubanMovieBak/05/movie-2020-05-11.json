@@ -1,0 +1,110 @@
+{
+    "comment": {
+        "content": "窗外的景色总是变化的，涵盖了一整部人生，人生的冷暖早已全部框映在这里了。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a57f5d",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f6247"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580139780.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-11",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 70693,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.1
+        },
+        "pubdate": [
+            "2016-09-02(特柳赖德电影节)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2431089276.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2431089276.jpg"
+        },
+        "is_show": false,
+        "year": "2016",
+        "card_subtitle": "2016 / 爱尔兰 加拿大 / 剧情 传记 爱情\n艾斯林·沃什 导演",
+        "id": "25938803",
+        "genres": [
+            "剧情",
+            "传记",
+            "爱情"
+        ],
+        "title": "莫娣",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "莎莉·霍金斯"
+            },
+            {
+                "name": "伊桑·霍克"
+            },
+            {
+                "name": "卡瑞·玛切特"
+            },
+            {
+                "name": "加布里埃尔·罗斯"
+            },
+            {
+                "name": "扎卡里·贝内特"
+            },
+            {
+                "name": "比利·麦克莱伦"
+            },
+            {
+                "name": "劳伦斯·巴里"
+            },
+            {
+                "name": "格雷戈·马龙"
+            },
+            {
+                "name": "玛丝·伯纳德"
+            },
+            {
+                "name": "大卫·菲恩"
+            },
+            {
+                "name": "凯特·罗斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "468ea5",
+            "_base_color": [
+                0.5400516795865634,
+                0.5733333333333334,
+                0.8823529411764706
+            ],
+            "secondary_color": "f4f8f9",
+            "_avg_color": [
+                0.4607843137254901,
+                0.2575757575757576,
+                0.5176470588235295
+            ],
+            "primary_color_dark": "366d7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2431089276.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/25938803",
+        "url": "https://movie.douban.com/subject/25938803/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/25938803",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "艾斯林·沃什"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

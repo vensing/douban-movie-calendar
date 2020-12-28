@@ -1,0 +1,130 @@
+{
+    "comment": {
+        "content": "一个人从来不会在酒吧感到无聊，不像在教堂里，要独自面对自己的灵魂。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725b50",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3c35"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139433.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-02-22",
+        "description": "路易斯·布努埃尔诞辰120周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 25253,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.6
+        },
+        "pubdate": [
+            "1967-05-24(法国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p583301187.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p583301187.jpg"
+        },
+        "is_show": false,
+        "year": "1967",
+        "card_subtitle": "1967 / 法国 意大利 / 剧情 情色\n路易斯·布努埃尔 导演",
+        "id": "1301649",
+        "genres": [
+            "剧情",
+            "情色"
+        ],
+        "title": "白日美人",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "凯瑟琳·德纳芙"
+            },
+            {
+                "name": "让·索雷尔"
+            },
+            {
+                "name": "米歇尔·皮科利"
+            },
+            {
+                "name": "吉内瓦维·佩吉"
+            },
+            {
+                "name": "皮埃尔·克里蒙地"
+            },
+            {
+                "name": "弗兰西丝·法比安"
+            },
+            {
+                "name": "玛莎·梅赫勒"
+            },
+            {
+                "name": "穆尼"
+            },
+            {
+                "name": "Maria Latour"
+            },
+            {
+                "name": "克洛德·塞瓦尔"
+            },
+            {
+                "name": "米歇尔·查瑞尔"
+            },
+            {
+                "name": "Iska Khan"
+            },
+            {
+                "name": "贝尔纳·米松"
+            },
+            {
+                "name": "马塞尔·沙尔韦"
+            },
+            {
+                "name": "弗朗索瓦·麦斯特"
+            },
+            {
+                "name": "弗朗西斯科·拉瓦尔"
+            },
+            {
+                "name": "乔治·马沙尔"
+            },
+            {
+                "name": "弗朗西斯·布朗什"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a3a5",
+            "_base_color": [
+                0.8888888888888888,
+                0.012765957446808467,
+                0.9215686274509803
+            ],
+            "secondary_color": "f9f4f8",
+            "_avg_color": [
+                0.0659722222222222,
+                0.2727272727272727,
+                0.6901960784313725
+            ],
+            "primary_color_dark": "7f7d7e"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p583301187.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1301649",
+        "url": "https://movie.douban.com/subject/1301649/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1301649",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "路易斯·布努埃尔"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "comment": {
+        "content": "所有伤心的人生活在这个世界上，将会有一个答案，顺其自然。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "9f9da5",
+            "secondary_color": "f6f4f9",
+            "primary_color_dark": "7b797f"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140198.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-05",
+        "description": "贾宏声逝世10周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 29951,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "2001-09-04(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2591003225.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2591003225.jpg"
+        },
+        "is_show": false,
+        "year": "2001",
+        "card_subtitle": "2001 / 中国大陆 / 传记 剧情 音乐\n张杨 导演",
+        "id": "1308086",
+        "genres": [
+            "传记",
+            "剧情",
+            "音乐"
+        ],
+        "title": "昨天",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "贾宏声"
+            },
+            {
+                "name": "王彤"
+            },
+            {
+                "name": "贾凤森"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725a4a",
+            "_base_color": [
+                0.06623931623931624,
+                0.35294117647058826,
+                0.8666666666666667
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.1458333333333334,
+                0.06896551724137931,
+                0.4549019607843137
+            ],
+            "primary_color_dark": "4c3c31"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2591003225.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1308086",
+        "url": "https://movie.douban.com/subject/1308086/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1308086",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "张杨"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

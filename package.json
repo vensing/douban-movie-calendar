@@ -1,0 +1,28 @@
+{
+  "name": "douban-movie-calendar-2020",
+  "version": "0.0.1",
+  "description": "douban movie calendar 2020 pic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "spider": "node ./src/spiderCalendar",
+    "start": "node ./src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vensing/douban-movie-calendar.git"
+  },
+  "keywords": [
+    "douban movie calendar 2020"
+  ],
+  "author": "vensing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vensing/douban-movie-calendar/issues"
+  },
+  "homepage": "https://github.com/vensing/douban-movie-calendar#readme",
+  "dependencies": {
+    "canvas": "^2.6.0",
+    "node-pre-gyp": "^0.17.0"
+  }
+}

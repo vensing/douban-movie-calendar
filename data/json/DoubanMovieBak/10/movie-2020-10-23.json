@@ -1,0 +1,136 @@
+{
+    "comment": {
+        "content": "饮食男女，人之大欲，不想也难。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72625a",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c413c"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140885.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-23",
+        "description": "李安66岁生日",
+        "title": "霜降"
+    },
+    "subject": {
+        "rating": {
+            "count": 447955,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.1
+        },
+        "pubdate": [
+            "1994-08-03(美国)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1910899751.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910899751.jpg"
+        },
+        "is_show": false,
+        "year": "1994",
+        "card_subtitle": "1994 / 中国台湾 美国 / 剧情 家庭\n李安 导演",
+        "id": "1291818",
+        "genres": [
+            "剧情",
+            "家庭"
+        ],
+        "title": "饮食男女",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "郎雄"
+            },
+            {
+                "name": "杨贵媚"
+            },
+            {
+                "name": "吴倩莲"
+            },
+            {
+                "name": "王渝文"
+            },
+            {
+                "name": "张艾嘉"
+            },
+            {
+                "name": "归亚蕾"
+            },
+            {
+                "name": "赵文瑄"
+            },
+            {
+                "name": "陈昭荣"
+            },
+            {
+                "name": "陈捷文"
+            },
+            {
+                "name": "卢金城"
+            },
+            {
+                "name": "唐语谦"
+            },
+            {
+                "name": "洪其德"
+            },
+            {
+                "name": "王瑞"
+            },
+            {
+                "name": "杜满生"
+            },
+            {
+                "name": "王玨"
+            },
+            {
+                "name": "陈妤"
+            },
+            {
+                "name": "左正芬"
+            },
+            {
+                "name": "许敬民"
+            },
+            {
+                "name": "聂卓晶"
+            },
+            {
+                "name": "丁仲"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a57942",
+            "_base_color": [
+                0.09285714285714287,
+                0.5982905982905983,
+                0.9176470588235294
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.07004830917874398,
+                0.5149253731343284,
+                0.5254901960784314
+            ],
+            "primary_color_dark": "7f5d33"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1910899751.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291818",
+        "url": "https://movie.douban.com/subject/1291818/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291818",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "李安"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

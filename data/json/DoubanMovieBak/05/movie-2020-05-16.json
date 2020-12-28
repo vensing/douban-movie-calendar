@@ -1,0 +1,107 @@
+{
+    "comment": {
+        "content": "相信我，如果一个男人对待你的方式就像他毫不在乎一样，那他真的就是完全不在乎你，没有例外。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72503d",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3528"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139787.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-16",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 381868,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.8
+        },
+        "pubdate": [
+            "2009-02-06(美国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p477821688.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p477821688.jpg"
+        },
+        "is_show": false,
+        "year": "2009",
+        "card_subtitle": "2009 / 美国 德国 荷兰 / 喜剧 剧情 爱情\n肯·卡皮斯 导演",
+        "id": "2161696",
+        "genres": [
+            "喜剧",
+            "剧情",
+            "爱情"
+        ],
+        "title": "他其实没那么喜欢你",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "詹妮弗·安妮斯顿"
+            },
+            {
+                "name": "本·阿弗莱克"
+            },
+            {
+                "name": "詹妮弗·康纳利"
+            },
+            {
+                "name": "布莱德利·库珀"
+            },
+            {
+                "name": "斯嘉丽·约翰逊"
+            },
+            {
+                "name": "凯文·康诺利"
+            },
+            {
+                "name": "德鲁·巴里摩尔"
+            },
+            {
+                "name": "贾斯汀·朗"
+            },
+            {
+                "name": "金妮弗·古德温"
+            },
+            {
+                "name": "摩根·莉莉"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "93a5a5",
+            "_base_color": [
+                0.5,
+                0.1111111111111111,
+                0.07058823529411765
+            ],
+            "secondary_color": "f4f9f9",
+            "_avg_color": [
+                0.09333333333333331,
+                0.19531249999999997,
+                0.5019607843137255
+            ],
+            "primary_color_dark": "717f7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p477821688.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/2161696",
+        "url": "https://movie.douban.com/subject/2161696/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/2161696",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "肯·卡皮斯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

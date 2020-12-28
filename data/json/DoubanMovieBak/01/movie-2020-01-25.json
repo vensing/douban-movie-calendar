@@ -1,0 +1,103 @@
+{
+    "comment": {
+        "content": "每个人只能陪你走一段路，迟早是要分开的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725b50",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3c35"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139357.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-25",
+        "description": "",
+        "title": "春节"
+    },
+    "subject": {
+        "rating": {
+            "count": 227902,
+            "max": 10,
+            "star_count": 4,
+            "value": 8
+        },
+        "pubdate": [
+            "2015-10-30(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2274320140.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2274320140.jpg"
+        },
+        "is_show": false,
+        "year": "2015",
+        "card_subtitle": "2015 / 中国大陆 法国 日本 / 剧情 家庭\n贾樟柯 导演",
+        "id": "25890005",
+        "genres": [
+            "剧情",
+            "家庭"
+        ],
+        "title": "山河故人",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "赵涛"
+            },
+            {
+                "name": "张译"
+            },
+            {
+                "name": "梁景东"
+            },
+            {
+                "name": "董子健"
+            },
+            {
+                "name": "张艾嘉"
+            },
+            {
+                "name": "荣梓杉"
+            },
+            {
+                "name": "梁永浩"
+            },
+            {
+                "name": "刘陆"
+            },
+            {
+                "name": "原文倩"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58d67",
+            "_base_color": [
+                0.09999999999999998,
+                0.3728070175438597,
+                0.8941176470588236
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.12719298245614039,
+                0.19191919191919196,
+                0.7764705882352941
+            ],
+            "primary_color_dark": "7f6c4f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2274320140.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/25890005",
+        "url": "https://movie.douban.com/subject/25890005/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/25890005",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "贾樟柯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

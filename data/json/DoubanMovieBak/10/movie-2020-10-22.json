@@ -1,0 +1,110 @@
+{
+    "comment": {
+        "content": "起风了，唯有努力生存。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "95a3a5",
+            "secondary_color": "f4f9f9",
+            "primary_color_dark": "737d7f"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140883.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-22",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 189851,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.1
+        },
+        "pubdate": [
+            "2013-07-20(日本)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1998028598.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1998028598.jpg"
+        },
+        "is_show": false,
+        "year": "2013",
+        "card_subtitle": "2013 / 日本 / 剧情 爱情 动画\n宫崎骏 导演",
+        "id": "6791750",
+        "genres": [
+            "剧情",
+            "爱情",
+            "动画"
+        ],
+        "title": "起风了",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "庵野秀明"
+            },
+            {
+                "name": "泷本美织"
+            },
+            {
+                "name": "西岛秀俊"
+            },
+            {
+                "name": "西村雅彦"
+            },
+            {
+                "name": "史蒂夫·阿尔珀特"
+            },
+            {
+                "name": "风间杜夫"
+            },
+            {
+                "name": "竹下景子"
+            },
+            {
+                "name": "志田未来"
+            },
+            {
+                "name": "国村隼"
+            },
+            {
+                "name": "大竹忍"
+            },
+            {
+                "name": "野村万斋"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "358ba5",
+            "_base_color": [
+                0.5392156862745098,
+                0.6761363636363636,
+                0.6901960784313725
+            ],
+            "secondary_color": "f4f8f9",
+            "_avg_color": [
+                0.4973958333333333,
+                0.4076433121019109,
+                0.615686274509804
+            ],
+            "primary_color_dark": "296b7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1998028598.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/6791750",
+        "url": "https://movie.douban.com/subject/6791750/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/6791750",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "宫崎骏"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

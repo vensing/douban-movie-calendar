@@ -1,0 +1,103 @@
+{
+    "comment": {
+        "content": "我想你不会送我玫瑰，也许也不会有糖果了，但是此刻我仍然感觉甜蜜。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72553f",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c392a"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580141231.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-26",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 11490,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.3
+        },
+        "pubdate": [
+            "2005-09-03"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p788528406.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p788528406.jpg"
+        },
+        "is_show": false,
+        "year": "2005",
+        "card_subtitle": "2005 / 爱尔兰 英国 / 喜剧 剧情\n尼尔·乔丹 导演",
+        "id": "1449845",
+        "genres": [
+            "喜剧",
+            "剧情"
+        ],
+        "title": "冥王星早餐",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "基里安·墨菲"
+            },
+            {
+                "name": "摩根·琼斯"
+            },
+            {
+                "name": "伊娃·柏西斯托"
+            },
+            {
+                "name": "连姆·尼森"
+            },
+            {
+                "name": "斯蒂芬·瑞"
+            },
+            {
+                "name": "鲁斯·麦克卡比"
+            },
+            {
+                "name": "查莲妮·麦肯纳"
+            },
+            {
+                "name": "鲁丝·内伽"
+            },
+            {
+                "name": "多米尼克·库珀"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "1a86a5",
+            "_base_color": [
+                0.5373263888888888,
+                0.8384279475982532,
+                0.8980392156862745
+            ],
+            "secondary_color": "f4f8f9",
+            "_avg_color": [
+                0.5431547619047619,
+                0.632768361581921,
+                0.6941176470588235
+            ],
+            "primary_color_dark": "14677f"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p788528406.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1449845",
+        "url": "https://movie.douban.com/subject/1449845/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1449845",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "尼尔·乔丹"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

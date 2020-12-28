@@ -1,0 +1,88 @@
+{
+    "comment": {
+        "content": "问题是我这辈子住的每个地方都像是中途站，从来没有一个地方是可以落脚的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59e99",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "7f7976"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580141004.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-25",
+        "description": "国际反家庭暴力日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 36202,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.5
+        },
+        "pubdate": [
+            "2009-03-22(中国香港)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2157922192.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2157922192.jpg"
+        },
+        "is_show": false,
+        "year": "2009",
+        "card_subtitle": "2009 / 中国香港 / 剧情 犯罪\n许鞍华 导演",
+        "id": "3596513",
+        "genres": [
+            "剧情",
+            "犯罪"
+        ],
+        "title": "天水围的夜与雾",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "任达华"
+            },
+            {
+                "name": "张静初"
+            },
+            {
+                "name": "罗慧娟"
+            },
+            {
+                "name": "覃恩美"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a58f",
+            "_base_color": [
+                0.16666666666666666,
+                0.13207547169811326,
+                0.20784313725490197
+            ],
+            "secondary_color": "f9f9f4",
+            "_avg_color": [
+                0.13888888888888903,
+                0.035714285714285754,
+                0.6588235294117647
+            ],
+            "primary_color_dark": "7f7f6e"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2157922192.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3596513",
+        "url": "https://movie.douban.com/subject/3596513/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3596513",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "许鞍华"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

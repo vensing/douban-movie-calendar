@@ -1,0 +1,118 @@
+{
+    "comment": {
+        "content": "如果养育一个孩子要靠整个村庄的支持，那侵害一个孩子整个村庄也脱不了干系。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5866f",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f6756"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139767.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-03",
+        "description": "世界新闻自由日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 223135,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.8
+        },
+        "pubdate": [
+            "2015-09-03(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2263822658.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2263822658.jpg"
+        },
+        "is_show": false,
+        "year": "2015",
+        "card_subtitle": "2015 / 美国 / 剧情 传记\n汤姆·麦卡锡 导演",
+        "id": "25954475",
+        "genres": [
+            "剧情",
+            "传记"
+        ],
+        "title": "聚焦",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "马克·鲁弗洛"
+            },
+            {
+                "name": "迈克尔·基顿"
+            },
+            {
+                "name": "瑞秋·麦克亚当斯"
+            },
+            {
+                "name": "列维·施瑞博尔"
+            },
+            {
+                "name": "约翰·斯拉特里"
+            },
+            {
+                "name": "布莱恩·达西·詹姆斯"
+            },
+            {
+                "name": "斯坦利·图齐"
+            },
+            {
+                "name": "比利·克鲁德普"
+            },
+            {
+                "name": "保罗·吉尔福伊尔"
+            },
+            {
+                "name": "杰米·谢尔丹"
+            },
+            {
+                "name": "兰·卡琉"
+            },
+            {
+                "name": "尼尔·哈夫"
+            },
+            {
+                "name": "迈克尔·西里尔·克赖顿"
+            },
+            {
+                "name": "迈克尔·康特里曼"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a29c",
+            "_base_color": [
+                0.1025641025641027,
+                0.05752212389380523,
+                0.8862745098039215
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.12500000000000014,
+                0.05633802816901408,
+                0.5568627450980392
+            ],
+            "primary_color_dark": "7f7c78"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2263822658.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/25954475",
+        "url": "https://movie.douban.com/subject/25954475/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/25954475",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "汤姆·麦卡锡"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "comment": {
+        "content": "这世界真是神奇，有一天你爱死他们，隔一天你又想将他们千刀万剐。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725234",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3723"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140573.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-15",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 85786,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.8
+        },
+        "pubdate": [
+            "2006-09-09(多伦多电影节)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p568541514.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p568541514.jpg"
+        },
+        "is_show": false,
+        "year": "2006",
+        "card_subtitle": "2006 / 美国 南非 印度 / 剧情 喜剧 奇幻\n塔西姆·辛 导演",
+        "id": "1890572",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "奇幻"
+        ],
+        "title": "坠入",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "凯婷卡·安塔鲁"
+            },
+            {
+                "name": "贾斯蒂恩·瓦戴尔"
+            },
+            {
+                "name": "李·佩斯"
+            },
+            {
+                "name": "Kim Uylenbroek"
+            },
+            {
+                "name": "Aiden Lithgow"
+            },
+            {
+                "name": "肖恩·吉尔德"
+            },
+            {
+                "name": "Ronald France"
+            },
+            {
+                "name": "Andrew Roussouw"
+            },
+            {
+                "name": "Michael Huff"
+            },
+            {
+                "name": "格兰特·斯旺比"
+            },
+            {
+                "name": "埃米尔奥斯迪那"
+            },
+            {
+                "name": "罗宾·史密斯"
+            },
+            {
+                "name": "Jeetu Verma"
+            },
+            {
+                "name": "里奥·比尔"
+            },
+            {
+                "name": "Marcus Wesley"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5613f",
+            "_base_color": [
+                0.05555555555555558,
+                0.6164383561643836,
+                0.5725490196078431
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.049019607843137226,
+                0.39534883720930225,
+                0.5058823529411764
+            ],
+            "primary_color_dark": "7f4b30"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p568541514.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1890572",
+        "url": "https://movie.douban.com/subject/1890572/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1890572",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "塔西姆·辛"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

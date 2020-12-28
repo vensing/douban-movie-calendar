@@ -1,0 +1,86 @@
+{
+    "comment": {
+        "content": "在这个有刀有枪的世界上，唐龙走到任何地方，都需要福星高照。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726050",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c4035"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580141136.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-27",
+        "description": "李小龙诞辰80周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 35062,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.4
+        },
+        "pubdate": [
+            "1972-12-30"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2191163236.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2191163236.jpg"
+        },
+        "is_show": false,
+        "year": "1972",
+        "card_subtitle": "1972 / 中国香港 / 动作 喜剧 犯罪\n李小龙 导演",
+        "id": "1306870",
+        "genres": [
+            "动作",
+            "喜剧",
+            "犯罪"
+        ],
+        "title": "猛龙过江",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "李小龙"
+            },
+            {
+                "name": "苗可秀"
+            },
+            {
+                "name": "罗礼士"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a57a68",
+            "_base_color": [
+                0.04901960784313725,
+                0.3695652173913043,
+                0.1803921568627451
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.02857142857142862,
+                0.20710059171597628,
+                0.6627450980392157
+            ],
+            "primary_color_dark": "7f5e50"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2191163236.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1306870",
+        "url": "https://movie.douban.com/subject/1306870/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1306870",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "李小龙"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

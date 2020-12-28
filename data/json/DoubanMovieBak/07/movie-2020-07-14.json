@@ -1,0 +1,91 @@
+{
+    "comment": {
+        "content": "无望的噩梦不是表面上的，而是本质上的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726661",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c4440"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140217.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-14",
+        "description": "英格玛·伯格曼诞辰102周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 18465,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.8
+        },
+        "pubdate": [
+            "1966-10-18(瑞典)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2507966309.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2507966309.jpg"
+        },
+        "is_show": false,
+        "year": "1966",
+        "card_subtitle": "1966 / 瑞典 / 剧情 惊悚\n英格玛·伯格曼 导演",
+        "id": "1294438",
+        "genres": [
+            "剧情",
+            "惊悚"
+        ],
+        "title": "假面",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "毕比·安德松"
+            },
+            {
+                "name": "丽芙·乌曼"
+            },
+            {
+                "name": "玛格丽塔·克罗克"
+            },
+            {
+                "name": "古纳尔·布约恩施特兰德"
+            },
+            {
+                "name": "约根·林德斯特伦"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "727272",
+            "_base_color": [
+                0,
+                0,
+                0.9294117647058824
+            ],
+            "secondary_color": "f9f4f4",
+            "_avg_color": [
+                0,
+                0,
+                0.4745098039215686
+            ],
+            "primary_color_dark": "4c4c4c"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2507966309.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1294438",
+        "url": "https://movie.douban.com/subject/1294438/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1294438",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "英格玛·伯格曼"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

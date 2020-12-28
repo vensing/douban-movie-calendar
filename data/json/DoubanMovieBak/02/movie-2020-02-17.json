@@ -1,0 +1,91 @@
+{
+    "comment": {
+        "content": "你会没事的，有百分之五十的概率呢！如果这是赌局，你胜算很大。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725f4b",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3f32"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580139421.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-02-17",
+        "description": "约瑟夫·高登-莱维特39岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 45657,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.7
+        },
+        "pubdate": [
+            "2011-09-30(美国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1114406235.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1114406235.jpg"
+        },
+        "is_show": false,
+        "year": "2011",
+        "card_subtitle": "2011 / 美国 / 喜剧 剧情\n乔纳森·莱文 导演",
+        "id": "3263820",
+        "genres": [
+            "喜剧",
+            "剧情"
+        ],
+        "title": "抗癌的我",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "约瑟夫·高登-莱维特"
+            },
+            {
+                "name": "塞斯·罗根"
+            },
+            {
+                "name": "安娜·肯德里克"
+            },
+            {
+                "name": "布莱丝·达拉斯·霍华德"
+            },
+            {
+                "name": "安杰丽卡·休斯顿"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726e6a",
+            "_base_color": [
+                0.08823529411764704,
+                0.07623318385650223,
+                0.8745098039215686
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.07619047619047621,
+                0.2799999999999999,
+                0.49019607843137253
+            ],
+            "primary_color_dark": "4c4946"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1114406235.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3263820",
+        "url": "https://movie.douban.com/subject/3263820/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3263820",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "乔纳森·莱文"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

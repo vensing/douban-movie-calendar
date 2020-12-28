@@ -1,0 +1,131 @@
+{
+    "comment": {
+        "content": "你学会了人生中最重要的两件事：绝不背叛你的朋友，永不泄露任何秘密。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725f4f",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3f34"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140776.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-19",
+        "description": "《好家伙》上映30周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 88265,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.4
+        },
+        "pubdate": [
+            "1990-09-09(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1403069323.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1403069323.jpg"
+        },
+        "is_show": false,
+        "year": "1990",
+        "card_subtitle": "1990 / 美国 / 剧情 传记 犯罪\n马丁·斯科塞斯 导演",
+        "id": "1292268",
+        "genres": [
+            "剧情",
+            "传记",
+            "犯罪"
+        ],
+        "title": "好家伙",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "罗伯特·德尼罗"
+            },
+            {
+                "name": "雷·利奥塔"
+            },
+            {
+                "name": "乔·佩西"
+            },
+            {
+                "name": "洛南·布雷科"
+            },
+            {
+                "name": "保罗·索维诺"
+            },
+            {
+                "name": "弗兰克·西维罗"
+            },
+            {
+                "name": "托尼·戴劳"
+            },
+            {
+                "name": "迈克·斯塔尔"
+            },
+            {
+                "name": "弗兰克·文森特"
+            },
+            {
+                "name": "查克·洛"
+            },
+            {
+                "name": "弗兰克·迪莱奥"
+            },
+            {
+                "name": "亨利·扬曼"
+            },
+            {
+                "name": "吉娜·马斯特罗吉科莫"
+            },
+            {
+                "name": "凯瑟琳·斯科塞斯"
+            },
+            {
+                "name": "查尔斯·斯科西斯"
+            },
+            {
+                "name": "苏珊妮·谢泼德"
+            },
+            {
+                "name": "黛比·玛扎"
+            },
+            {
+                "name": "塞缪尔·杰克逊"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "727272",
+            "_base_color": [
+                0,
+                0,
+                0.023529411764705882
+            ],
+            "secondary_color": "f9f4f4",
+            "_avg_color": [
+                0.6666666666666666,
+                0.04,
+                0.09803921568627451
+            ],
+            "primary_color_dark": "4c4c4c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1403069323.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292268",
+        "url": "https://movie.douban.com/subject/1292268/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292268",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "马丁·斯科塞斯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

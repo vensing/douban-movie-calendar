@@ -1,0 +1,104 @@
+{
+    "comment": {
+        "content": "每件赝品都隐藏着某些真实。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726053",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c4037"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140977.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-10",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 135374,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.4
+        },
+        "pubdate": [
+            "2013-01-01(意大利)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2039855496.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2039855496.jpg"
+        },
+        "is_show": false,
+        "year": "2013",
+        "card_subtitle": "2013 / 意大利 / 剧情 爱情 悬疑\n朱塞佩·托纳多雷 导演",
+        "id": "7059671",
+        "genres": [
+            "剧情",
+            "爱情",
+            "悬疑"
+        ],
+        "title": "最佳出价",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "杰弗里·拉什"
+            },
+            {
+                "name": "吉姆·斯特吉斯"
+            },
+            {
+                "name": "西尔维娅·侯克斯"
+            },
+            {
+                "name": "唐纳德·萨瑟兰"
+            },
+            {
+                "name": "菲利普·杰克森"
+            },
+            {
+                "name": "德尔莫特·克劳利"
+            },
+            {
+                "name": "基努娜·斯塔梅尔"
+            },
+            {
+                "name": "莉亚·科贝德"
+            },
+            {
+                "name": "肖恩·布坎纳"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725c49",
+            "_base_color": [
+                0.07500000000000002,
+                0.35714285714285715,
+                0.2196078431372549
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.0925925925925926,
+                0.37894736842105264,
+                0.37254901960784315
+            ],
+            "primary_color_dark": "4c3d31"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2039855496.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/7059671",
+        "url": "https://movie.douban.com/subject/7059671/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/7059671",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "朱塞佩·托纳多雷"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

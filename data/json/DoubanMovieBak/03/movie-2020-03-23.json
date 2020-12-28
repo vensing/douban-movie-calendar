@@ -1,0 +1,180 @@
+{
+    "comment": {
+        "content": "享受人生是人类的义务，人必须对生命有贪念。说贪念是败德已不合潮流，享受人生的贪念是美德。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726556",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c4439"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139594.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-23",
+        "description": "黑泽明诞辰110周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 25353,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.2
+        },
+        "pubdate": [
+            "1952-10-09(日本)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2079076441.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2079076441.jpg"
+        },
+        "is_show": false,
+        "year": "1952",
+        "card_subtitle": "1952 / 日本 / 剧情\n黑泽明 导演",
+        "id": "1293847",
+        "genres": [
+            "剧情"
+        ],
+        "title": "生之欲",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "志村乔"
+            },
+            {
+                "name": "日守新一"
+            },
+            {
+                "name": "田中春男"
+            },
+            {
+                "name": "千秋实"
+            },
+            {
+                "name": "小田切美喜"
+            },
+            {
+                "name": "左卜全"
+            },
+            {
+                "name": "山田巳之助"
+            },
+            {
+                "name": "藤原釜足"
+            },
+            {
+                "name": "小堀诚"
+            },
+            {
+                "name": "金子信雄"
+            },
+            {
+                "name": "中村伸郎"
+            },
+            {
+                "name": "渡边笃"
+            },
+            {
+                "name": "木村功"
+            },
+            {
+                "name": "清水将夫"
+            },
+            {
+                "name": "伊藤雄之助"
+            },
+            {
+                "name": "浦边粂子"
+            },
+            {
+                "name": "三好荣子"
+            },
+            {
+                "name": "本间文子"
+            },
+            {
+                "name": "丹阿弥谷津子"
+            },
+            {
+                "name": "菅井琴"
+            },
+            {
+                "name": "南美江"
+            },
+            {
+                "name": "阿部九州男"
+            },
+            {
+                "name": "永井智雄"
+            },
+            {
+                "name": "宫口精二"
+            },
+            {
+                "name": "加东大介"
+            },
+            {
+                "name": "稻垣三郎"
+            },
+            {
+                "name": "村上冬树"
+            },
+            {
+                "name": "青野平义"
+            },
+            {
+                "name": "小川虎之助"
+            },
+            {
+                "name": "深见泰三"
+            },
+            {
+                "name": "长滨藤夫"
+            },
+            {
+                "name": "谷晃"
+            },
+            {
+                "name": "市村俊幸"
+            },
+            {
+                "name": "夏木顺平"
+            },
+            {
+                "name": "堺左千夫"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5734c",
+            "_base_color": [
+                0.07246376811594203,
+                0.5411764705882353,
+                0.6666666666666666
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.06467661691542288,
+                0.43506493506493504,
+                0.6039215686274509
+            ],
+            "primary_color_dark": "7f583a"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2079076441.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1293847",
+        "url": "https://movie.douban.com/subject/1293847/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1293847",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "黑泽明"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

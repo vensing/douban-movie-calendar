@@ -1,0 +1,119 @@
+{
+    "comment": {
+        "content": "剑道无亲，不与圣人同忧，汝今剑术已成，唯不能斩绝人伦之情。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "723f31",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c2a20"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139702.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-04-16",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 186919,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.3
+        },
+        "pubdate": [
+            "2015-08-27(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2262306528.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2262306528.jpg"
+        },
+        "is_show": false,
+        "year": "2015",
+        "card_subtitle": "2015 / 中国台湾 中国大陆 中国香港 / 剧情 武侠 古装\n侯孝贤 导演",
+        "id": "2303845",
+        "genres": [
+            "剧情",
+            "武侠",
+            "古装"
+        ],
+        "title": "刺客聂隐娘",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "舒淇"
+            },
+            {
+                "name": "张震"
+            },
+            {
+                "name": "周韵"
+            },
+            {
+                "name": "妻夫木聪"
+            },
+            {
+                "name": "阮经天"
+            },
+            {
+                "name": "谢欣颖"
+            },
+            {
+                "name": "倪大红"
+            },
+            {
+                "name": "咏梅"
+            },
+            {
+                "name": "雷镇语"
+            },
+            {
+                "name": "许芳宜"
+            },
+            {
+                "name": "毕安生"
+            },
+            {
+                "name": "张少怀"
+            },
+            {
+                "name": "石隽"
+            },
+            {
+                "name": "梅芳"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725a20",
+            "_base_color": [
+                0.11676646706586828,
+                0.7198275862068966,
+                0.9098039215686274
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.08771929824561402,
+                0.753968253968254,
+                0.49411764705882355
+            ],
+            "primary_color_dark": "4c3c15"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2262306528.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/2303845",
+        "url": "https://movie.douban.com/subject/2303845/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/2303845",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "侯孝贤"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

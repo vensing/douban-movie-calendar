@@ -1,0 +1,105 @@
+{
+    "comment": {
+        "content": "我要控告我的父母，因为他们生下了我。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5847c",
+            "secondary_color": "f9f5f4",
+            "primary_color_dark": "7f6560"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140875.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-17",
+        "description": "国际消除贫困日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 761132,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.1
+        },
+        "pubdate": [
+            "2019-04-29(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2555295759.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555295759.jpg"
+        },
+        "is_show": false,
+        "year": "2018",
+        "card_subtitle": "2018 / 黎巴嫩 法国 美国 / 剧情\n娜丁·拉巴基 导演",
+        "id": "30170448",
+        "genres": [
+            "剧情"
+        ],
+        "title": "何以为家",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "赞恩·阿尔·拉菲亚"
+            },
+            {
+                "name": "约丹诺斯·希费罗"
+            },
+            {
+                "name": "博鲁瓦蒂夫·特雷杰·班科尔"
+            },
+            {
+                "name": "卡萨尔·艾尔·哈达德"
+            },
+            {
+                "name": "法迪·尤瑟夫"
+            },
+            {
+                "name": "海塔·塞德拉·伊扎姆"
+            },
+            {
+                "name": "阿拉·乔什涅"
+            },
+            {
+                "name": "娜丁·拉巴基"
+            },
+            {
+                "name": "埃利亚斯·库利"
+            },
+            {
+                "name": "努尔·艾尔·侯赛尼"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a56f47",
+            "_base_color": [
+                0.07017543859649124,
+                0.5671641791044777,
+                0.5254901960784314
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.0666666666666667,
+                0.4482758620689655,
+                0.5686274509803921
+            ],
+            "primary_color_dark": "7f5537"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2555295759.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/30170448",
+        "url": "https://movie.douban.com/subject/30170448/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/30170448",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "娜丁·拉巴基"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

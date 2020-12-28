@@ -1,0 +1,239 @@
+{
+    "comment": {
+        "content": "来这里见我吧，我会等你，我要跟你一起了解这个真实世界。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725440",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c382b"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139542.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-01",
+        "description": "《开罗紫玫瑰》上映35周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 28154,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "1985-03-01"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2218755965.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2218755965.jpg"
+        },
+        "is_show": false,
+        "year": "1985",
+        "card_subtitle": "1985 / 美国 / 喜剧 爱情 奇幻\n伍迪·艾伦 导演",
+        "id": "1292994",
+        "genres": [
+            "喜剧",
+            "爱情",
+            "奇幻"
+        ],
+        "title": "开罗紫玫瑰",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "米亚·法罗"
+            },
+            {
+                "name": "杰夫·丹尼尔斯"
+            },
+            {
+                "name": "丹尼·爱罗"
+            },
+            {
+                "name": "欧文·梅茨曼"
+            },
+            {
+                "name": "Victoria Zussin"
+            },
+            {
+                "name": "Wade Barnes"
+            },
+            {
+                "name": "Elaine Grollman"
+            },
+            {
+                "name": "Stephanie Farrow"
+            },
+            {
+                "name": "Maurice Brenner"
+            },
+            {
+                "name": "保罗·赫尔曼"
+            },
+            {
+                "name": "Rick Petrucelli"
+            },
+            {
+                "name": "Peter Castellotti"
+            },
+            {
+                "name": "Milton Seaman"
+            },
+            {
+                "name": "米密·威德尔"
+            },
+            {
+                "name": "Tom Degidon"
+            },
+            {
+                "name": "爱德华·赫曼"
+            },
+            {
+                "name": "约翰·伍德"
+            },
+            {
+                "name": "黛伯拉·拉什"
+            },
+            {
+                "name": "范·强生"
+            },
+            {
+                "name": "佐伊·考德威尔"
+            },
+            {
+                "name": "Karen Akers"
+            },
+            {
+                "name": "安妮乔爱德华兹"
+            },
+            {
+                "name": "米罗·奥西"
+            },
+            {
+                "name": "皮特·麦克罗比"
+            },
+            {
+                "name": "卡米利·萨维奥拉"
+            },
+            {
+                "name": "朱莉安娜·唐纳德"
+            },
+            {
+                "name": "黛安·韦斯特"
+            },
+            {
+                "name": "George Hamlin"
+            },
+            {
+                "name": "海伦汉芙特"
+            },
+            {
+                "name": "乔治·马丁"
+            },
+            {
+                "name": "克丽丝特尔·菲尔德"
+            },
+            {
+                "name": "Robert Trebor"
+            },
+            {
+                "name": "Jean Shevlin"
+            },
+            {
+                "name": "Edwin Bordo"
+            },
+            {
+                "name": "Tom Kubiak"
+            },
+            {
+                "name": "Alexander H. Cohen"
+            },
+            {
+                "name": "约翰·罗斯曼"
+            },
+            {
+                "name": "Raymond Serra"
+            },
+            {
+                "name": "Sydney A. Blake"
+            },
+            {
+                "name": "迈克尔·塔克"
+            },
+            {
+                "name": "Peter Von Berg"
+            },
+            {
+                "name": "格伦妮·海德利"
+            },
+            {
+                "name": "Lela Ivey"
+            },
+            {
+                "name": "Loretta Tupper"
+            },
+            {
+                "name": "Marty Appel"
+            },
+            {
+                "name": "弗雷德·阿斯泰尔"
+            },
+            {
+                "name": "Jacqueline Carol"
+            },
+            {
+                "name": "罗伯特·达赫达赫"
+            },
+            {
+                "name": "James Prendergast"
+            },
+            {
+                "name": "金杰·罗杰斯"
+            },
+            {
+                "name": "Don Quigley"
+            },
+            {
+                "name": "Joseph G. Graham"
+            },
+            {
+                "name": "Mark Hammond"
+            },
+            {
+                "name": "David Kieserman"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726172",
+            "_base_color": [
+                0.8333333333333334,
+                0.15,
+                0.0784313725490196
+            ],
+            "secondary_color": "f9f4f9",
+            "_avg_color": [
+                0.777777777777778,
+                0.03797468354430384,
+                0.30980392156862746
+            ],
+            "primary_color_dark": "4c414c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2218755965.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292994",
+        "url": "https://movie.douban.com/subject/1292994/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292994",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "伍迪·艾伦"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

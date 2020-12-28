@@ -1,0 +1,127 @@
+{
+    "comment": {
+        "content": "我们都是宇宙的囚徒。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72583d",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3a29"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139808.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-29",
+        "description": "贾樟柯50岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 239923,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.6
+        },
+        "pubdate": [
+            "2018-09-21(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2533283770.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2533283770.jpg"
+        },
+        "is_show": false,
+        "year": "2018",
+        "card_subtitle": "2018 / 中国大陆 法国 日本 / 爱情 犯罪\n贾樟柯 导演",
+        "id": "26972258",
+        "genres": [
+            "爱情",
+            "犯罪"
+        ],
+        "title": "江湖儿女",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "赵涛"
+            },
+            {
+                "name": "廖凡"
+            },
+            {
+                "name": "徐峥"
+            },
+            {
+                "name": "梁嘉艳"
+            },
+            {
+                "name": "刁亦男"
+            },
+            {
+                "name": "张一白"
+            },
+            {
+                "name": "丁嘉丽"
+            },
+            {
+                "name": "张译"
+            },
+            {
+                "name": "董子健"
+            },
+            {
+                "name": "李宣"
+            },
+            {
+                "name": "查娜"
+            },
+            {
+                "name": "冯家妹"
+            },
+            {
+                "name": "康亢"
+            },
+            {
+                "name": "张晓军"
+            },
+            {
+                "name": "柳敏"
+            },
+            {
+                "name": "王谭"
+            },
+            {
+                "name": "原文倩"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "5e7266",
+            "_base_color": [
+                0.39999999999999997,
+                0.1724137931034483,
+                0.22745098039215686
+            ],
+            "secondary_color": "f4f9f6",
+            "_avg_color": [
+                0.08943089430894313,
+                0.37614678899082565,
+                0.42745098039215684
+            ],
+            "primary_color_dark": "3f4c44"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2533283770.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26972258",
+        "url": "https://movie.douban.com/subject/26972258/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26972258",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "贾樟柯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

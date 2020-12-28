@@ -1,0 +1,98 @@
+{
+    "comment": {
+        "content": "我需要你，妈妈，我都不知道这些年没有你我是怎么熬过来的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724a40",
+            "secondary_color": "f9f5f4",
+            "primary_color_dark": "4c312b"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139779.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-10",
+        "description": "",
+        "title": "母亲节"
+    },
+    "subject": {
+        "rating": {
+            "count": 37383,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.1
+        },
+        "pubdate": [
+            "2006-03-17(西班牙)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2213137026.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2213137026.jpg"
+        },
+        "is_show": false,
+        "year": "2006",
+        "card_subtitle": "2006 / 西班牙 / 喜剧 犯罪 剧情\n佩德罗·阿莫多瓦 导演",
+        "id": "1689787",
+        "genres": [
+            "喜剧",
+            "犯罪",
+            "剧情"
+        ],
+        "title": "回归",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "佩内洛普·克鲁兹"
+            },
+            {
+                "name": "卡门·毛拉"
+            },
+            {
+                "name": "洛拉·杜埃尼亚斯"
+            },
+            {
+                "name": "布兰卡·波蒂略"
+            },
+            {
+                "name": "约阿娜·科沃"
+            },
+            {
+                "name": "丘斯·兰普雷亚维"
+            },
+            {
+                "name": "安东尼奥·德·拉·托雷"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a52431",
+            "_base_color": [
+                0.9834368530020704,
+                0.7777777777777778,
+                0.8117647058823529
+            ],
+            "secondary_color": "f9f4f5",
+            "_avg_color": [
+                0.9888888888888889,
+                0.4901960784313725,
+                0.6
+            ],
+            "primary_color_dark": "7f1c26"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2213137026.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1689787",
+        "url": "https://movie.douban.com/subject/1689787/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1689787",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "佩德罗·阿莫多瓦"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

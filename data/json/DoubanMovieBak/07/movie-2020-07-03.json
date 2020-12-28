@@ -1,0 +1,131 @@
+{
+    "comment": {
+        "content": "你无法让一个科学家总是闲着。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725341",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c372b"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140195.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-03",
+        "description": "《回到未来》上映35周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 153450,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "1985-07-03(美国)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p475872903.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p475872903.jpg"
+        },
+        "is_show": false,
+        "year": "1985",
+        "card_subtitle": "1985 / 美国 / 喜剧 科幻 冒险\n罗伯特·泽米吉斯 导演",
+        "id": "1300555",
+        "genres": [
+            "喜剧",
+            "科幻",
+            "冒险"
+        ],
+        "title": "回到未来",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "迈克尔·J·福克斯"
+            },
+            {
+                "name": "克里斯托弗·洛伊德"
+            },
+            {
+                "name": "莉·汤普森"
+            },
+            {
+                "name": "克里斯平·格洛弗"
+            },
+            {
+                "name": "托马斯·F·威尔森"
+            },
+            {
+                "name": "克劳迪娅·韦尔斯"
+            },
+            {
+                "name": "马克·麦克卢尔"
+            },
+            {
+                "name": "温迪·乔·斯佩博"
+            },
+            {
+                "name": "乔治·第桑佐"
+            },
+            {
+                "name": "弗兰西斯·李·麦克凯恩"
+            },
+            {
+                "name": "詹姆斯·托根"
+            },
+            {
+                "name": "J·J·科恩"
+            },
+            {
+                "name": "凯西·希玛兹科"
+            },
+            {
+                "name": "比利·赞恩"
+            },
+            {
+                "name": "小哈利·沃特斯"
+            },
+            {
+                "name": "唐纳德·富利洛夫"
+            },
+            {
+                "name": "丽萨·弗里曼"
+            },
+            {
+                "name": "克里斯滕·考夫曼"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a57ea5",
+            "_base_color": [
+                0.8333333333333334,
+                0.23684210526315788,
+                0.2980392156862745
+            ],
+            "secondary_color": "f9f4f9",
+            "_avg_color": [
+                0.9933333333333334,
+                0.17241379310344826,
+                0.5686274509803921
+            ],
+            "primary_color_dark": "7f617f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p475872903.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1300555",
+        "url": "https://movie.douban.com/subject/1300555/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1300555",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "罗伯特·泽米吉斯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

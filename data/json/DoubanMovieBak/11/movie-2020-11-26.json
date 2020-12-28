@@ -1,0 +1,209 @@
+{
+    "comment": {
+        "content": "荣耀才是你有所为、有所不为的真正动因。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726b53",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "4c4737"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580141132.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-26",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 200178,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "2009-11-20"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p585477853.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p585477853.jpg"
+        },
+        "is_show": false,
+        "year": "2009",
+        "card_subtitle": "2009 / 美国 / 剧情 家庭 传记\n约翰·李·汉考克 导演",
+        "id": "3552028",
+        "genres": [
+            "剧情",
+            "家庭",
+            "传记"
+        ],
+        "title": "弱点",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "桑德拉·布洛克"
+            },
+            {
+                "name": "蒂姆·麦格罗"
+            },
+            {
+                "name": "昆东·亚伦"
+            },
+            {
+                "name": "杰·海德"
+            },
+            {
+                "name": "莉莉·柯林斯"
+            },
+            {
+                "name": "雷·迈克金农"
+            },
+            {
+                "name": "金·迪肯斯"
+            },
+            {
+                "name": "安德莱内·列诺斯"
+            },
+            {
+                "name": "凯西·贝茨"
+            },
+            {
+                "name": "凯萨琳·戴尔"
+            },
+            {
+                "name": "安迪·斯塔尔"
+            },
+            {
+                "name": "汤姆·诺维茨基"
+            },
+            {
+                "name": "莎朗·莫里斯"
+            },
+            {
+                "name": "奥马尔·J·多尔西"
+            },
+            {
+                "name": "伊劳伊·辛格尔顿"
+            },
+            {
+                "name": "罗达·格里菲丝"
+            },
+            {
+                "name": "艾希礼·勒孔特·坎贝尔"
+            },
+            {
+                "name": "Elizabeth Omilami"
+            },
+            {
+                "name": "阿非莫·奥米拉"
+            },
+            {
+                "name": "马丽娅豪厄尔"
+            },
+            {
+                "name": "Patrick G. Keenan"
+            },
+            {
+                "name": "大卫·德怀尔"
+            },
+            {
+                "name": "罗伯特·普拉尔戈"
+            },
+            {
+                "name": "布雷特·赖斯"
+            },
+            {
+                "name": "Preston Brant"
+            },
+            {
+                "name": "马修·阿特金森"
+            },
+            {
+                "name": "约翰·纽伯格"
+            },
+            {
+                "name": "乔·克里斯特"
+            },
+            {
+                "name": "Phillip Fulmer"
+            },
+            {
+                "name": "Lou Holtz"
+            },
+            {
+                "name": "Nick Saban"
+            },
+            {
+                "name": "Haji Abdullah"
+            },
+            {
+                "name": "Demetrius B. Banks"
+            },
+            {
+                "name": "Tim Brazeal"
+            },
+            {
+                "name": "Byron Bryson"
+            },
+            {
+                "name": "Chrissy Chambers"
+            },
+            {
+                "name": "Monica D'Onofrio"
+            },
+            {
+                "name": "J. Colby Doler"
+            },
+            {
+                "name": "Roger Goodell"
+            },
+            {
+                "name": "杰夫科斯·格林"
+            },
+            {
+                "name": "安东尼·B·哈里斯"
+            },
+            {
+                "name": "Scottie Knollin"
+            },
+            {
+                "name": "Amir Kovacs"
+            },
+            {
+                "name": "梅丽莎·乐爱伦"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "5a7234",
+            "_base_color": [
+                0.23076923076923075,
+                0.5416666666666666,
+                0.09411764705882353
+            ],
+            "secondary_color": "f7f9f4",
+            "_avg_color": [
+                0.34722222222222215,
+                0.1212121212121212,
+                0.38823529411764707
+            ],
+            "primary_color_dark": "3c4c23"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p585477853.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3552028",
+        "url": "https://movie.douban.com/subject/3552028/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3552028",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "约翰·李·汉考克"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "comment": {
+        "content": "我给上帝一个机会把我杀了，但他没有，我想他是喜欢我的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72675e",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c443e"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140759.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-11",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 26723,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "2009-09-17(德国)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2196608840.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2196608840.jpg"
+        },
+        "is_show": false,
+        "year": "2009",
+        "card_subtitle": "2009 / 德国 奥地利 法国 意大利 / 剧情 悬疑\n迈克尔·哈内克 导演",
+        "id": "2464346",
+        "genres": [
+            "剧情",
+            "悬疑"
+        ],
+        "title": "白丝带",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "Christian Friedel"
+            },
+            {
+                "name": "Ernst Jacobi"
+            },
+            {
+                "name": "Leonie Benesch"
+            },
+            {
+                "name": "乌尔里希·图库尔"
+            },
+            {
+                "name": "Ursina Lardi"
+            },
+            {
+                "name": "Michael Kranz"
+            },
+            {
+                "name": "布尔格哈特·克劳斯纳"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "727271",
+            "_base_color": [
+                0.16666666666666666,
+                0.008888888888888858,
+                0.8823529411764706
+            ],
+            "secondary_color": "f9f9f4",
+            "_avg_color": [
+                0,
+                0,
+                0.4235294117647059
+            ],
+            "primary_color_dark": "4c4c4b"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2196608840.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/2464346",
+        "url": "https://movie.douban.com/subject/2464346/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/2464346",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "迈克尔·哈内克"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

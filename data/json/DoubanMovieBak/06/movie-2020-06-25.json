@@ -1,0 +1,85 @@
+{
+    "comment": {
+        "content": "如何坠落不重要。如何着陆才重要。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72655f",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c433f"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140055.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-25",
+        "description": "",
+        "title": "端午节"
+    },
+    "subject": {
+        "rating": {
+            "count": 13248,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "1995-05-31"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2494416659.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2494416659.jpg"
+        },
+        "is_show": false,
+        "year": "1995",
+        "card_subtitle": "1995 / 法国 / 犯罪 剧情\n马修·卡索维茨 导演",
+        "id": "1306449",
+        "genres": [
+            "犯罪",
+            "剧情"
+        ],
+        "title": "怒火青春",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "文森特·卡索"
+            },
+            {
+                "name": "哈勃·孔黛"
+            },
+            {
+                "name": "萨伊德·塔格马奥"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6b6b72",
+            "_base_color": [
+                0.6666666666666666,
+                0.0625,
+                0.06274509803921569
+            ],
+            "secondary_color": "f4f4f9",
+            "_avg_color": [
+                0.6666666666666666,
+                0.019230769230769162,
+                0.20392156862745098
+            ],
+            "primary_color_dark": "47474c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2494416659.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1306449",
+        "url": "https://movie.douban.com/subject/1306449/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1306449",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "马修·卡索维茨"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

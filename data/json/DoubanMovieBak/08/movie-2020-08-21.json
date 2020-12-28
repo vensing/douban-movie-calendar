@@ -1,0 +1,112 @@
+{
+    "comment": {
+        "content": "不要没梦想地活着，人生苦短，无梦难活。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59e93",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f7a71"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140586.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-21",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 485100,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.8
+        },
+        "pubdate": [
+            "2011-05-04(韩国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1374786017.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1374786017.jpg"
+        },
+        "is_show": false,
+        "year": "2011",
+        "card_subtitle": "2011 / 韩国 / 剧情 喜剧\n姜炯哲 导演",
+        "id": "4917726",
+        "genres": [
+            "剧情",
+            "喜剧"
+        ],
+        "title": "阳光姐妹淘",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "沈恩京"
+            },
+            {
+                "name": "闵孝琳"
+            },
+            {
+                "name": "姜素拉"
+            },
+            {
+                "name": "南宝拉"
+            },
+            {
+                "name": "陈熙琼"
+            },
+            {
+                "name": "金时厚"
+            },
+            {
+                "name": "柳好贞"
+            },
+            {
+                "name": "朴真珠"
+            },
+            {
+                "name": "李妍京 "
+            },
+            {
+                "name": "金甫美"
+            },
+            {
+                "name": "千禹熙"
+            },
+            {
+                "name": "李璟荣"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58774",
+            "_base_color": [
+                0.0641025641025641,
+                0.29545454545454547,
+                0.6901960784313725
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.03985507246376807,
+                0.2787878787878788,
+                0.6470588235294118
+            ],
+            "primary_color_dark": "7f6859"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1374786017.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/4917726",
+        "url": "https://movie.douban.com/subject/4917726/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/4917726",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "姜炯哲"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

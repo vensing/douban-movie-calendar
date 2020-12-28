@@ -1,0 +1,103 @@
+{
+    "comment": {
+        "content": "这样确切的爱，一生只有一次。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725a51",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3c36"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140002.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-02",
+        "description": "《廊桥遗梦》上映25周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 169186,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "1995-06-02(美国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2190558219.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2190558219.jpg"
+        },
+        "is_show": false,
+        "year": "1995",
+        "card_subtitle": "1995 / 美国 / 剧情 爱情\n克林特·伊斯特伍德 导演",
+        "id": "1293929",
+        "genres": [
+            "剧情",
+            "爱情"
+        ],
+        "title": "廊桥遗梦",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "克林特·伊斯特伍德"
+            },
+            {
+                "name": "梅丽尔·斯特里普"
+            },
+            {
+                "name": "安妮·科利"
+            },
+            {
+                "name": "维克多·斯勒扎克"
+            },
+            {
+                "name": "吉姆·海尼"
+            },
+            {
+                "name": "莎拉·凯瑟琳·施密特"
+            },
+            {
+                "name": "克里斯托·弗克朗"
+            },
+            {
+                "name": "菲利斯·里昂斯"
+            },
+            {
+                "name": "戴布拉·莫克"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725f3e",
+            "_base_color": [
+                0.10457516339869284,
+                0.45132743362831856,
+                0.44313725490196076
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.10465116279069768,
+                0.3981481481481482,
+                0.4235294117647059
+            ],
+            "primary_color_dark": "4c3f29"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2190558219.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1293929",
+        "url": "https://movie.douban.com/subject/1293929/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1293929",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "克林特·伊斯特伍德"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

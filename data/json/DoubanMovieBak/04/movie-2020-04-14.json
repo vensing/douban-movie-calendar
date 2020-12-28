@@ -1,0 +1,155 @@
+{
+    "comment": {
+        "content": "在这个世界上别太依赖任何人，因为当你在黑暗中挣扎时，连你的影子都会离开你。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6c76a5",
+            "secondary_color": "f4f5f9",
+            "primary_color_dark": "535b7f"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139699.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-04-14",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 358851,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "1989-07-29(日本)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p456676352.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p456676352.jpg"
+        },
+        "is_show": false,
+        "year": "1989",
+        "card_subtitle": "1989 / 日本 / 动画 奇幻 冒险\n宫崎骏 导演",
+        "id": "1307811",
+        "genres": [
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "title": "魔女宅急便",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "高山南"
+            },
+            {
+                "name": "佐久间玲"
+            },
+            {
+                "name": "户田惠子"
+            },
+            {
+                "name": "山口胜平"
+            },
+            {
+                "name": "信泽三惠子"
+            },
+            {
+                "name": "加藤治子"
+            },
+            {
+                "name": "关弘子"
+            },
+            {
+                "name": "三浦浩一"
+            },
+            {
+                "name": "山寺宏一"
+            },
+            {
+                "name": "井上喜久子"
+            },
+            {
+                "name": "渊崎由里子"
+            },
+            {
+                "name": "土井美加"
+            },
+            {
+                "name": "土师孝也"
+            },
+            {
+                "name": "浅井淑子"
+            },
+            {
+                "name": "齐藤昌"
+            },
+            {
+                "name": "西村知道"
+            },
+            {
+                "name": "小林优子"
+            },
+            {
+                "name": "池水通洋"
+            },
+            {
+                "name": "辻亲八"
+            },
+            {
+                "name": "大塚明夫"
+            },
+            {
+                "name": "坂本千夏"
+            },
+            {
+                "name": "田口昂"
+            },
+            {
+                "name": "键本景子"
+            },
+            {
+                "name": "津贺有子"
+            },
+            {
+                "name": "龟井芳子"
+            },
+            {
+                "name": "丸山裕子"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724839",
+            "_base_color": [
+                0.04471544715447153,
+                0.5,
+                0.3215686274509804
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.04248366013071897,
+                0.504950495049505,
+                0.396078431372549
+            ],
+            "primary_color_dark": "4c3026"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p456676352.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1307811",
+        "url": "https://movie.douban.com/subject/1307811/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1307811",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "宫崎骏"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

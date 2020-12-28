@@ -1,0 +1,133 @@
+{
+    "comment": {
+        "content": "他才二十岁，他就想活命他有什么罪？",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a57b71",
+            "secondary_color": "f9f5f4",
+            "primary_color_dark": "7f5f57"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139686.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-04-07",
+        "description": "世界卫生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 1624661,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9
+        },
+        "pubdate": [
+            "2018-07-05(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2561305376.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561305376.jpg"
+        },
+        "is_show": false,
+        "year": "2018",
+        "card_subtitle": "2018 / 中国大陆 / 剧情 喜剧\n文牧野 导演",
+        "id": "26752088",
+        "genres": [
+            "剧情",
+            "喜剧"
+        ],
+        "title": "我不是药神",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "徐峥"
+            },
+            {
+                "name": "王传君"
+            },
+            {
+                "name": "周一围"
+            },
+            {
+                "name": "谭卓"
+            },
+            {
+                "name": "章宇"
+            },
+            {
+                "name": "杨新鸣"
+            },
+            {
+                "name": "王佳佳"
+            },
+            {
+                "name": "王砚辉"
+            },
+            {
+                "name": "贾晨飞"
+            },
+            {
+                "name": "龚蓓苾"
+            },
+            {
+                "name": "宁浩"
+            },
+            {
+                "name": "李乃文"
+            },
+            {
+                "name": "岳小军"
+            },
+            {
+                "name": "苇青"
+            },
+            {
+                "name": "富冠铭"
+            },
+            {
+                "name": "巴拉特·巴蒂"
+            },
+            {
+                "name": "喜利图"
+            },
+            {
+                "name": "张海艳"
+            },
+            {
+                "name": "朱耕佑"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724131",
+            "_base_color": [
+                0.041666666666666664,
+                0.5714285714285715,
+                0.13725490196078433
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.057291666666666664,
+                0.4102564102564103,
+                0.3058823529411765
+            ],
+            "primary_color_dark": "4c2b20"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2561305376.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26752088",
+        "url": "https://movie.douban.com/subject/26752088/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26752088",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "文牧野"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

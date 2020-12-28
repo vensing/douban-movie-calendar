@@ -1,0 +1,104 @@
+{
+    "comment": {
+        "content": "他与我素昧平生，但是我愿意全心全意去爱。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58c75",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f6c5a"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140739.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-02",
+        "description": "",
+        "title": "中元节"
+    },
+    "subject": {
+        "rating": {
+            "count": 90604,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.7
+        },
+        "pubdate": [
+            "2006-06-16(美国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p696975196.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p696975196.jpg"
+        },
+        "is_show": false,
+        "year": "2006",
+        "card_subtitle": "2006 / 美国 澳大利亚 / 剧情 奇幻 爱情\n亚历杭德罗·阿格雷斯蒂 导演",
+        "id": "1474180",
+        "genres": [
+            "剧情",
+            "奇幻",
+            "爱情"
+        ],
+        "title": "触不到的恋人",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "基努·里维斯"
+            },
+            {
+                "name": "桑德拉·布洛克"
+            },
+            {
+                "name": "克里斯托弗·普卢默"
+            },
+            {
+                "name": "艾邦·摩斯-巴克拉赫"
+            },
+            {
+                "name": "维勒克·范阿梅尔罗伊"
+            },
+            {
+                "name": "迪伦·沃尔什"
+            },
+            {
+                "name": "索瑞·安达斯鲁"
+            },
+            {
+                "name": "琳恩·柯林斯"
+            },
+            {
+                "name": "弗兰克·凯提"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725b51",
+            "_base_color": [
+                0.04999999999999999,
+                0.2857142857142858,
+                0.13725490196078433
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.07692307692307694,
+                0.13829787234042565,
+                0.3686274509803922
+            ],
+            "primary_color_dark": "4c3d36"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p696975196.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1474180",
+        "url": "https://movie.douban.com/subject/1474180/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1474180",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "亚历杭德罗·阿格雷斯蒂"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

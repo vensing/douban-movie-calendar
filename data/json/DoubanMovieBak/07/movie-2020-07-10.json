@@ -1,0 +1,157 @@
+{
+    "comment": {
+        "content": "我想变成你，见你所见，爱你所爱。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725b3d",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3c29"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140209.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-10",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 134681,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.8
+        },
+        "pubdate": [
+            "1992-11-13(美国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1541485065.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1541485065.jpg"
+        },
+        "is_show": false,
+        "year": "1992",
+        "card_subtitle": "1992 / 英国 美国 / 恐怖 爱情\n弗朗西斯·福特·科波拉 导演",
+        "id": "1293124",
+        "genres": [
+            "恐怖",
+            "爱情"
+        ],
+        "title": "惊情四百年",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "加里·奥德曼"
+            },
+            {
+                "name": "薇诺娜·瑞德"
+            },
+            {
+                "name": "安东尼·霍普金斯"
+            },
+            {
+                "name": "基努·里维斯"
+            },
+            {
+                "name": "理查德·E·格兰特"
+            },
+            {
+                "name": "加利·艾尔维斯"
+            },
+            {
+                "name": "比利·坎贝尔"
+            },
+            {
+                "name": "珊迪·弗罗斯特"
+            },
+            {
+                "name": "汤姆·威兹"
+            },
+            {
+                "name": "莫妮卡·贝鲁奇"
+            },
+            {
+                "name": "Michaela Bercu"
+            },
+            {
+                "name": "Florina Kendrick"
+            },
+            {
+                "name": "杰伊·鲁宾逊"
+            },
+            {
+                "name": "I.M. Hobson"
+            },
+            {
+                "name": "Laurie Franks"
+            },
+            {
+                "name": "毛德·温切斯特"
+            },
+            {
+                "name": "南茜·林韩·查尔斯"
+            },
+            {
+                "name": "塔蒂阿娜·冯·芙丝汀宝"
+            },
+            {
+                "name": "朱尔斯·西尔维斯特"
+            },
+            {
+                "name": "Daniel Newman"
+            },
+            {
+                "name": "哈尼·劳伦"
+            },
+            {
+                "name": "埃莱·巴德汉"
+            },
+            {
+                "name": "克里斯蒂娜·富尔顿"
+            },
+            {
+                "name": "John F. Kearney"
+            },
+            {
+                "name": "Moreen Littrell"
+            },
+            {
+                "name": "阿达莫·帕拉迪诺"
+            },
+            {
+                "name": "Philip Pucci"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "646472",
+            "_base_color": [
+                0.6666666666666666,
+                0.12,
+                0.09803921568627451
+            ],
+            "secondary_color": "f4f4f9",
+            "_avg_color": [
+                0.8666666666666668,
+                0.10204081632653068,
+                0.19215686274509805
+            ],
+            "primary_color_dark": "43434c"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1541485065.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1293124",
+        "url": "https://movie.douban.com/subject/1293124/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1293124",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "弗朗西斯·福特·科波拉"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

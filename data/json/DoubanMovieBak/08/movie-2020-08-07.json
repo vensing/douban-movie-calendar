@@ -1,0 +1,88 @@
+{
+    "comment": {
+        "content": "有时我夜里睡不着，搞不懂自己是否活过，也不知道是否人人都这样。还是有些人天生比别人懂得生活，或是有些人从未活过，只是存在着。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a57b61",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "7f5e4b"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140552.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-07",
+        "description": "",
+        "title": "立秋"
+    },
+    "subject": {
+        "rating": {
+            "count": 18413,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9
+        },
+        "pubdate": [
+            "1978-10-08(瑞典)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2034707962.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2034707962.jpg"
+        },
+        "is_show": false,
+        "year": "1978",
+        "card_subtitle": "1978 / 瑞典 法国 西德 英国 / 剧情 家庭\n英格玛·伯格曼 导演",
+        "id": "1297268",
+        "genres": [
+            "剧情",
+            "家庭"
+        ],
+        "title": "秋日奏鸣曲",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "英格丽·褒曼"
+            },
+            {
+                "name": "丽芙·乌曼"
+            },
+            {
+                "name": "莱娜·尼曼"
+            },
+            {
+                "name": "哈尔瓦德·比约克"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a53d2a",
+            "_base_color": [
+                0.025000000000000005,
+                0.7407407407407407,
+                0.10588235294117647
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.06249999999999998,
+                0.22695035460992916,
+                0.5529411764705883
+            ],
+            "primary_color_dark": "7f2f21"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2034707962.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1297268",
+        "url": "https://movie.douban.com/subject/1297268/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1297268",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "英格玛·伯格曼"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

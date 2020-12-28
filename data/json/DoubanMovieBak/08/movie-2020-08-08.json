@@ -1,0 +1,113 @@
+{
+    "comment": {
+        "content": "吃什么不重要，重要的是和谁一起吃。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726953",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "4c4637"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140555.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-08",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 168197,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.2
+        },
+        "pubdate": [
+            "2002-02-06(中国香港)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2205490720.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2205490720.jpg"
+        },
+        "is_show": false,
+        "year": "2002",
+        "card_subtitle": "2002 / 中国大陆 中国香港 / 喜剧 爱情 古装\n刘镇伟 导演",
+        "id": "1307323",
+        "genres": [
+            "喜剧",
+            "爱情",
+            "古装"
+        ],
+        "title": "天下无双",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "梁朝伟"
+            },
+            {
+                "name": "王菲"
+            },
+            {
+                "name": "赵薇"
+            },
+            {
+                "name": "张震"
+            },
+            {
+                "name": "朱茵"
+            },
+            {
+                "name": "潘迪华"
+            },
+            {
+                "name": "宁静"
+            },
+            {
+                "name": "葛民辉"
+            },
+            {
+                "name": "张耀扬"
+            },
+            {
+                "name": "刘镇伟"
+            },
+            {
+                "name": "黄永明"
+            },
+            {
+                "name": "陈龙"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "75a5a5",
+            "_base_color": [
+                0.5,
+                0.29268292682926833,
+                0.1607843137254902
+            ],
+            "secondary_color": "f4f9f9",
+            "_avg_color": [
+                0.03632478632478633,
+                0.48148148148148145,
+                0.6352941176470588
+            ],
+            "primary_color_dark": "5a7f7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2205490720.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1307323",
+        "url": "https://movie.douban.com/subject/1307323/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1307323",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "刘镇伟"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

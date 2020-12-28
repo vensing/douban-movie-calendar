@@ -1,0 +1,113 @@
+{
+    "comment": {
+        "content": "我们天生就是输家，所以必须竭尽全力才能得到我们想要的东西。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59c92",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f7870"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140041.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-19",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 604499,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "2017-10-13(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2501863104.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501863104.jpg"
+        },
+        "is_show": false,
+        "year": "2017",
+        "card_subtitle": "2017 / 泰国 / 剧情 犯罪 悬疑\n纳塔吾·彭皮里亚 导演",
+        "id": "27024903",
+        "genres": [
+            "剧情",
+            "犯罪",
+            "悬疑"
+        ],
+        "title": "天才枪手",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "茱蒂蒙·琼查容苏因"
+            },
+            {
+                "name": "查侬·散顶腾古"
+            },
+            {
+                "name": "依莎亚·贺苏汪"
+            },
+            {
+                "name": "披纳若·苏潘平佑"
+            },
+            {
+                "name": "塔内·瓦拉库努娄"
+            },
+            {
+                "name": "莎琳雷特·托马斯"
+            },
+            {
+                "name": "伊戈·米基塔斯"
+            },
+            {
+                "name": "帕辛·宽萨塔彭"
+            },
+            {
+                "name": "萨哈贾克·波斯安吉特"
+            },
+            {
+                "name": "坎嘉娜·维耐潘尼"
+            },
+            {
+                "name": "育塔彭·瓦拉努科洛楚"
+            },
+            {
+                "name": "诺帕瓦特·里基特王"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726c67",
+            "_base_color": [
+                0.06666666666666661,
+                0.09803921568627458,
+                0.2
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.08333333333333326,
+                0.11594202898550715,
+                0.27058823529411763
+            ],
+            "primary_color_dark": "4c4845"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2501863104.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/27024903",
+        "url": "https://movie.douban.com/subject/27024903/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/27024903",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "纳塔吾·彭皮里亚"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

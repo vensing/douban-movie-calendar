@@ -1,0 +1,130 @@
+{
+    "comment": {
+        "content": "摇滚乐是一种生活方式和一种思考方式。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725c53",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3d37"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580141209.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-23",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 25056,
+            "max": 10,
+            "star_count": 4,
+            "value": 8
+        },
+        "pubdate": [
+            "2000-09-13(美国)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2453284980.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2453284980.jpg"
+        },
+        "is_show": false,
+        "year": "2000",
+        "card_subtitle": "2000 / 美国 / 剧情 音乐\n卡梅伦·克罗 导演",
+        "id": "1292352",
+        "genres": [
+            "剧情",
+            "音乐"
+        ],
+        "title": "几近成名",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "比利·克鲁德普"
+            },
+            {
+                "name": "弗兰西斯·麦克多蒙德"
+            },
+            {
+                "name": "凯特·哈德森"
+            },
+            {
+                "name": "杰森·李"
+            },
+            {
+                "name": "派屈克·福吉特"
+            },
+            {
+                "name": "佐伊·丹斯切尔"
+            },
+            {
+                "name": "迈克尔·安格拉诺"
+            },
+            {
+                "name": "安娜·帕奎因"
+            },
+            {
+                "name": "费尔鲁扎·鲍克"
+            },
+            {
+                "name": "诺亚·泰勒"
+            },
+            {
+                "name": "John Fedevich"
+            },
+            {
+                "name": "马克·科兹莱克"
+            },
+            {
+                "name": "菲利普·塞默·霍夫曼"
+            },
+            {
+                "name": "利兹·斯托贝尔"
+            },
+            {
+                "name": "吉米·法伦"
+            },
+            {
+                "name": "碧悠·菲利浦斯"
+            },
+            {
+                "name": "J·J·科恩"
+            },
+            {
+                "name": "马克·佩灵顿"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a57242",
+            "_base_color": [
+                0.08115942028985508,
+                0.5989583333333334,
+                0.7529411764705882
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.06981981981981983,
+                0.4327485380116959,
+                0.6705882352941176
+            ],
+            "primary_color_dark": "7f5833"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2453284980.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292352",
+        "url": "https://movie.douban.com/subject/1292352/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292352",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "卡梅伦·克罗"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

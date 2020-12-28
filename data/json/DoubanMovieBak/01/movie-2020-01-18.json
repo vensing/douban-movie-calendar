@@ -1,0 +1,101 @@
+{
+    "comment": {
+        "content": "若不能言语，便是对望也好。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a57f67",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "7f614f"
+        },
+        "source": "豆瓣网友 即兴表演艺术家",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139348.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-18",
+        "description": "北野武73岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 55728,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.4
+        },
+        "pubdate": [
+            "1991-10-19(日本)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2153209777.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2153209777.jpg"
+        },
+        "is_show": false,
+        "year": "1991",
+        "card_subtitle": "1991 / 日本 / 剧情 喜剧 爱情\n北野武 导演",
+        "id": "1295815",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "title": "那年夏天，宁静的海",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "真木藏人"
+            },
+            {
+                "name": "大岛弘子"
+            },
+            {
+                "name": "河原萨布"
+            },
+            {
+                "name": "藤原稔三"
+            },
+            {
+                "name": "寺岛进"
+            },
+            {
+                "name": "渡边哲"
+            },
+            {
+                "name": "键本景子"
+            },
+            {
+                "name": "森下能幸"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "446fa5",
+            "_base_color": [
+                0.5923076923076923,
+                0.5855855855855855,
+                0.43529411764705883
+            ],
+            "secondary_color": "f4f7f9",
+            "_avg_color": [
+                0.5933333333333334,
+                0.11627906976744184,
+                0.8431372549019608
+            ],
+            "primary_color_dark": "34567f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2153209777.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1295815",
+        "url": "https://movie.douban.com/subject/1295815/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1295815",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "北野武"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

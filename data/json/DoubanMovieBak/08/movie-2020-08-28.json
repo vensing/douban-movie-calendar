@@ -1,0 +1,124 @@
+{
+    "comment": {
+        "content": "要战胜生活中的困难，需要信念、希望…最重要的是，要有幽默感。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72675d",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c443e"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140728.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-28",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 11181,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.9
+        },
+        "pubdate": [
+            "2001-08-03"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p924741559.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p924741559.jpg"
+        },
+        "is_show": false,
+        "year": "2001",
+        "card_subtitle": "2001 / 美国 英国 德国 / 喜剧 剧情\n泰利·茨威戈夫 导演",
+        "id": "1304868",
+        "genres": [
+            "喜剧",
+            "剧情"
+        ],
+        "title": "幽灵世界",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "索拉·伯奇"
+            },
+            {
+                "name": "斯嘉丽·约翰逊"
+            },
+            {
+                "name": "史蒂夫·布西密"
+            },
+            {
+                "name": "布拉德·兰弗洛"
+            },
+            {
+                "name": "伊里纳·道格拉斯"
+            },
+            {
+                "name": "鲍勃·巴拉班"
+            },
+            {
+                "name": "斯塔西·达维斯"
+            },
+            {
+                "name": "Charles C. Stevenson Jr."
+            },
+            {
+                "name": "戴夫·谢里登"
+            },
+            {
+                "name": "汤姆·麦高恩"
+            },
+            {
+                "name": "Debra Azar"
+            },
+            {
+                "name": "布莱恩·乔治"
+            },
+            {
+                "name": "帕特·希利"
+            },
+            {
+                "name": "里尼·贝尔"
+            },
+            {
+                "name": "T·J·塞恩"
+            },
+            {
+                "name": "大卫·克罗斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": false,
+            "primary_color_light": "f2f0eb",
+            "_base_color": [
+                0.11111111111111138,
+                0.0266666666666667,
+                0.8823529411764706
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.4166666666666667,
+                0.008583690987124434,
+                0.9137254901960784
+            ],
+            "primary_color_dark": "f2f0eb"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p924741559.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1304868",
+        "url": "https://movie.douban.com/subject/1304868/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1304868",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "泰利·茨威戈夫"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

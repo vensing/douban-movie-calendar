@@ -1,0 +1,101 @@
+{
+    "comment": {
+        "content": "野蛮人只有情感，但文明人除了情感还有思想。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72554c",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3833"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140876.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-18",
+        "description": "周迅46岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 38227,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.9
+        },
+        "pubdate": [
+            "2002-10-09"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1119158729.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1119158729.jpg"
+        },
+        "is_show": false,
+        "year": "2002",
+        "card_subtitle": "2002 / 中国大陆 法国 / 传记 剧情 爱情\n戴思杰 导演",
+        "id": "1296769",
+        "genres": [
+            "传记",
+            "剧情",
+            "爱情"
+        ],
+        "title": "巴尔扎克与小裁缝",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "周迅"
+            },
+            {
+                "name": "刘烨"
+            },
+            {
+                "name": "陈坤"
+            },
+            {
+                "name": "王双宝"
+            },
+            {
+                "name": "丛志军"
+            },
+            {
+                "name": "王宏伟"
+            },
+            {
+                "name": "肖雄"
+            },
+            {
+                "name": "陈炜"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724f3a",
+            "_base_color": [
+                0.06140350877192983,
+                0.49222797927461137,
+                0.7568627450980392
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.05357142857142857,
+                0.4912280701754386,
+                0.2235294117647059
+            ],
+            "primary_color_dark": "4c3426"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1119158729.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1296769",
+        "url": "https://movie.douban.com/subject/1296769/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1296769",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "戴思杰"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

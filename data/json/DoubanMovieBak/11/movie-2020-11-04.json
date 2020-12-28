@@ -1,0 +1,121 @@
+{
+    "comment": {
+        "content": "——我怎么样有那么重要吗？\n——真希望，我从没见过你，但是我见过了。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58b70",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f6a56"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140968.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-04",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 390186,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.1
+        },
+        "pubdate": [
+            "2014-06-06(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2185073849.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2185073849.jpg"
+        },
+        "is_show": false,
+        "year": "2014",
+        "card_subtitle": "2014 / 美国 加拿大 / 动作 科幻\n道格·里曼 导演",
+        "id": "4746257",
+        "genres": [
+            "动作",
+            "科幻"
+        ],
+        "title": "明日边缘",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "汤姆·克鲁斯"
+            },
+            {
+                "name": "艾米莉·布朗特"
+            },
+            {
+                "name": "布莱丹·格里森"
+            },
+            {
+                "name": "比尔·帕克斯顿"
+            },
+            {
+                "name": "约纳斯·阿姆斯特朗"
+            },
+            {
+                "name": "托尼·威"
+            },
+            {
+                "name": "奇克·盖瑞"
+            },
+            {
+                "name": "弗朗茨·德拉姆"
+            },
+            {
+                "name": "德拉戈米尔·米希克"
+            },
+            {
+                "name": "夏洛特·莱利"
+            },
+            {
+                "name": "羽田正义"
+            },
+            {
+                "name": "特伦斯·梅纳德"
+            },
+            {
+                "name": "诺亚·泰勒"
+            },
+            {
+                "name": "劳拉·普沃"
+            },
+            {
+                "name": "玛德琳·曼托克"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726966",
+            "_base_color": [
+                0.036231884057971085,
+                0.10697674418604652,
+                0.8431372549019608
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.08333333333333333,
+                0.018348623853210944,
+                0.42745098039215684
+            ],
+            "primary_color_dark": "4c4644"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2185073849.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/4746257",
+        "url": "https://movie.douban.com/subject/4746257/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/4746257",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "道格·里曼"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

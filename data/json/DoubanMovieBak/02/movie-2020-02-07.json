@@ -1,0 +1,122 @@
+{
+    "comment": {
+        "content": "在这里你无法生存下去。你不是狼，而这里已是狼群的领地。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725a4a",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3c31"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139404.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-02-07",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 98541,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.6
+        },
+        "pubdate": [
+            "2015-05-19(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2263976596.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2263976596.jpg"
+        },
+        "is_show": false,
+        "year": "2015",
+        "card_subtitle": "2015 / 美国 / 剧情 犯罪 惊悚\n丹尼斯·维伦纽瓦 导演",
+        "id": "25881247",
+        "genres": [
+            "剧情",
+            "犯罪",
+            "惊悚"
+        ],
+        "title": "边境杀手",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "艾米莉·布朗特"
+            },
+            {
+                "name": "本尼西奥·德尔·托罗"
+            },
+            {
+                "name": "乔什·布洛林"
+            },
+            {
+                "name": "维克多·加博"
+            },
+            {
+                "name": "乔·博恩瑟"
+            },
+            {
+                "name": "丹尼尔·卡卢亚"
+            },
+            {
+                "name": "杰弗里·多诺万"
+            },
+            {
+                "name": "劳尔·特鲁希洛"
+            },
+            {
+                "name": "胡里奥·赛迪罗"
+            },
+            {
+                "name": "汉克·罗杰森"
+            },
+            {
+                "name": "马克斯米利亚诺·赫尔南德斯"
+            },
+            {
+                "name": "艾伦·D·柏温"
+            },
+            {
+                "name": "迪兰·科宁"
+            },
+            {
+                "name": "马修·佩奇"
+            },
+            {
+                "name": "约翰·彼得·贝尔纳多"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a57f6b",
+            "_base_color": [
+                0.05555555555555558,
+                0.34883720930232565,
+                0.16862745098039217
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.09803921568627454,
+                0.24460431654676257,
+                0.5450980392156862
+            ],
+            "primary_color_dark": "7f6153"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2263976596.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/25881247",
+        "url": "https://movie.douban.com/subject/25881247/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/25881247",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "丹尼斯·维伦纽瓦"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

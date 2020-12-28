@@ -1,0 +1,112 @@
+{
+    "comment": {
+        "content": "尽管知道整个旅程，知道它通向哪里，我依然倾心接受，欢迎它的每一个时刻。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5795e",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "7f5d48"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580139321.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-01",
+        "description": "",
+        "title": "元旦"
+    },
+    "subject": {
+        "rating": {
+            "count": 356541,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.8
+        },
+        "pubdate": [
+            "2017-01-20(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2411622421.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2411622421.jpg"
+        },
+        "is_show": false,
+        "year": "2016",
+        "card_subtitle": "2016 / 美国 加拿大 / 剧情 科幻\n丹尼斯·维伦纽瓦 导演",
+        "id": "21324900",
+        "genres": [
+            "剧情",
+            "科幻"
+        ],
+        "title": "降临",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "艾米·亚当斯"
+            },
+            {
+                "name": "杰瑞米·雷纳"
+            },
+            {
+                "name": "福里斯特·惠特克"
+            },
+            {
+                "name": "迈克尔·斯图巴"
+            },
+            {
+                "name": "马泰"
+            },
+            {
+                "name": "马克·奥布莱恩"
+            },
+            {
+                "name": "乔·柯布登 "
+            },
+            {
+                "name": "派特·凯利"
+            },
+            {
+                "name": "娜塔莉·希波蒂"
+            },
+            {
+                "name": "袁罗素"
+            },
+            {
+                "name": "克里斯蒂安· 杰达"
+            },
+            {
+                "name": "朱利安·凯西"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "707264",
+            "_base_color": [
+                0.19444444444444456,
+                0.12244897959183673,
+                0.19215686274509805
+            ],
+            "secondary_color": "f9f9f4",
+            "_avg_color": [
+                0.10317460317460315,
+                0.18918918918918914,
+                0.43529411764705883
+            ],
+            "primary_color_dark": "4a4c43"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2411622421.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/21324900",
+        "url": "https://movie.douban.com/subject/21324900/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/21324900",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "丹尼斯·维伦纽瓦"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

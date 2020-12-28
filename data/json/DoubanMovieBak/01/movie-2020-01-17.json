@@ -1,0 +1,96 @@
+{
+    "comment": {
+        "content": "——“如果我们没做错事，为什么要躲起来？”\n——“因为他们觉得我们做错了事。”",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59a82",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "7f7664"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139347.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-17",
+        "description": "坂本龙一68岁生日",
+        "title": "小年"
+    },
+    "subject": {
+        "rating": {
+            "count": 135590,
+            "max": 10,
+            "star_count": 4,
+            "value": 8
+        },
+        "pubdate": [
+            "2007-03-13(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p792233816.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p792233816.jpg"
+        },
+        "is_show": false,
+        "year": "2006",
+        "card_subtitle": "2006 / 法国 美国 墨西哥 / 剧情\n亚历杭德罗·冈萨雷斯·伊纳里图 导演",
+        "id": "1498818",
+        "genres": [
+            "剧情"
+        ],
+        "title": "通天塔",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "布拉德·皮特"
+            },
+            {
+                "name": "凯特·布兰切特"
+            },
+            {
+                "name": "盖尔·加西亚·贝纳尔"
+            },
+            {
+                "name": "艾德里安娜·巴拉扎"
+            },
+            {
+                "name": "菊地凛子"
+            },
+            {
+                "name": "役所广司"
+            },
+            {
+                "name": "迈克尔·佩纳"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726f6a",
+            "_base_color": [
+                0.11111111111111101,
+                0.07211538461538464,
+                0.8156862745098039
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.12499999999999985,
+                0.07272727272727272,
+                0.43137254901960786
+            ],
+            "primary_color_dark": "4c4a46"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p792233816.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1498818",
+        "url": "https://movie.douban.com/subject/1498818/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1498818",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "亚历杭德罗·冈萨雷斯·伊纳里图"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

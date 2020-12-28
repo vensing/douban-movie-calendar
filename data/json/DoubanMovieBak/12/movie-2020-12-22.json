@@ -1,0 +1,111 @@
+{
+    "comment": {
+        "content": "天才也可以很性感。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725a4e",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3c34"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580141208.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-22",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 266970,
+            "max": 10,
+            "star_count": 5,
+            "value": 9.5
+        },
+        "pubdate": [
+            "2007-09-24(美国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2553281898.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553281898.jpg"
+        },
+        "is_show": false,
+        "year": "2007",
+        "card_subtitle": "2007 / 美国 / 喜剧\n詹姆斯·伯罗斯 导演",
+        "id": "2156528",
+        "genres": [
+            "喜剧"
+        ],
+        "title": "生活大爆炸  第一季",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "吉姆·帕森斯"
+            },
+            {
+                "name": "约翰尼·盖尔克奇"
+            },
+            {
+                "name": "凯莉·库柯"
+            },
+            {
+                "name": "西蒙·赫尔伯格"
+            },
+            {
+                "name": "昆瑙·内亚"
+            },
+            {
+                "name": "莎拉·吉尔伯特"
+            },
+            {
+                "name": "DJ·考尔斯"
+            },
+            {
+                "name": "考特尼·海根勒"
+            },
+            {
+                "name": "莎拉尤·拉奧"
+            },
+            {
+                "name": "布鲁克·朵赛"
+            },
+            {
+                "name": "布瑞恩韦德"
+            },
+            {
+                "name": "马克·哈雷利克"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59ea4",
+            "_base_color": [
+                0.8703703703703702,
+                0.0434782608695652,
+                0.8117647058823529
+            ],
+            "secondary_color": "f9f4f8",
+            "_avg_color": [
+                0.9852941176470589,
+                0.18478260869565213,
+                0.7215686274509804
+            ],
+            "primary_color_dark": "7f797e"
+        },
+        "type": "tv",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2553281898.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/2156528",
+        "url": "https://movie.douban.com/subject/2156528/",
+        "release_date": null,
+        "uri": "douban://douban.com/tv/2156528",
+        "subtype": "tv",
+        "directors": [
+            {
+                "name": "詹姆斯·伯罗斯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

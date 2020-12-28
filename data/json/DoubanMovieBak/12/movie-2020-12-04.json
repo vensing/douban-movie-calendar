@@ -1,0 +1,107 @@
+{
+    "comment": {
+        "content": "我们最大的梦想，就是给根本不存在的电子形象加一个新的应用程序。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725948",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3b30"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580141164.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-04",
+        "description": "《黑镜》开播9周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 322591,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.4
+        },
+        "pubdate": [
+            "2011-12-04(英国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1403875505.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1403875505.jpg"
+        },
+        "is_show": false,
+        "year": "2011",
+        "card_subtitle": "2011 / 英国 / 剧情 科幻 惊悚\nOtto Bathurst / 尤洛斯·林 / Brian Welsh 导演",
+        "id": "7054120",
+        "genres": [
+            "剧情",
+            "科幻",
+            "惊悚"
+        ],
+        "title": "黑镜 第一季",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "罗里·金尼尔"
+            },
+            {
+                "name": "鲁伯特·艾弗雷特"
+            },
+            {
+                "name": "丹尼尔·卡卢亚"
+            },
+            {
+                "name": "托比·凯贝尔"
+            },
+            {
+                "name": "杰西卡·布朗·芬德利"
+            },
+            {
+                "name": "艾伦·里奇"
+            },
+            {
+                "name": "保罗·帕波维尔"
+            },
+            {
+                "name": "汤姆·库伦"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "616b72",
+            "_base_color": [
+                0.5666666666666668,
+                0.1515151515151516,
+                0.12941176470588237
+            ],
+            "secondary_color": "f4f7f9",
+            "_avg_color": [
+                0.5,
+                0.030769230769230663,
+                0.2549019607843137
+            ],
+            "primary_color_dark": "40474c"
+        },
+        "type": "tv",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1403875505.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/7054120",
+        "url": "https://movie.douban.com/subject/7054120/",
+        "release_date": null,
+        "uri": "douban://douban.com/tv/7054120",
+        "subtype": "tv",
+        "directors": [
+            {
+                "name": "Otto Bathurst"
+            },
+            {
+                "name": "尤洛斯·林"
+            },
+            {
+                "name": "Brian Welsh"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

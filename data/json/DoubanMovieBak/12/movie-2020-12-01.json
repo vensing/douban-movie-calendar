@@ -1,0 +1,103 @@
+{
+    "comment": {
+        "content": "在人们跑到街上尖叫之前，他们可以承受的精神创伤是有限的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59384",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f7166"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580141144.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-01",
+        "description": "伍迪·艾伦85岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 127333,
+            "max": 10,
+            "star_count": 4,
+            "value": 8
+        },
+        "pubdate": [
+            "2013-08-23(美国)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1978807112.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1978807112.jpg"
+        },
+        "is_show": false,
+        "year": "2013",
+        "card_subtitle": "2013 / 美国 / 剧情 家庭\n伍迪·艾伦 导演",
+        "id": "10576419",
+        "genres": [
+            "剧情",
+            "家庭"
+        ],
+        "title": "蓝色茉莉",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "凯特·布兰切特"
+            },
+            {
+                "name": "莎莉·霍金斯"
+            },
+            {
+                "name": "亚历克·鲍德温"
+            },
+            {
+                "name": "安德鲁·戴斯·克雷"
+            },
+            {
+                "name": "鲍比·坎纳瓦尔"
+            },
+            {
+                "name": "路易·C·K"
+            },
+            {
+                "name": "彼得·萨斯加德"
+            },
+            {
+                "name": "阿尔登·埃伦瑞奇"
+            },
+            {
+                "name": "迈克尔·斯图巴"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a5a4",
+            "_base_color": [
+                0.08333333333333333,
+                0.008620689655172382,
+                0.9098039215686274
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.6111111111111112,
+                0.013333333333333286,
+                0.8823529411764706
+            ],
+            "primary_color_dark": "7f7e7e"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1978807112.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/10576419",
+        "url": "https://movie.douban.com/subject/10576419/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/10576419",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "伍迪·艾伦"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

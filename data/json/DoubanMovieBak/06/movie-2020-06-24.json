@@ -1,0 +1,126 @@
+{
+    "comment": {
+        "content": "只有在艺术中，自由才不是幻想。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "727267",
+            "secondary_color": "f9f9f4",
+            "primary_color_dark": "4c4c44"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140052.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-24",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 55110,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "2018-09-04(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2554483719.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554483719.jpg"
+        },
+        "is_show": false,
+        "year": "2018",
+        "card_subtitle": "2018 / 德国 意大利 / 剧情\n弗洛里安·亨克尔·冯·多纳斯马尔克 导演",
+        "id": "26701196",
+        "genres": [
+            "剧情"
+        ],
+        "title": "无主之作",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "汤姆·希林"
+            },
+            {
+                "name": "塞巴斯蒂安·科赫"
+            },
+            {
+                "name": "葆拉·贝尔"
+            },
+            {
+                "name": "莎斯琪亚·罗森道尔"
+            },
+            {
+                "name": "奥利弗·马苏奇"
+            },
+            {
+                "name": "叶甫根尼·希迪金"
+            },
+            {
+                "name": "马克·扎克"
+            },
+            {
+                "name": "乌尔里克·C·扎勒"
+            },
+            {
+                "name": "巴斯蒂安·特罗斯特"
+            },
+            {
+                "name": "汉斯-尤韦·鲍尔"
+            },
+            {
+                "name": "汉诺·科夫勒"
+            },
+            {
+                "name": "辛纳克·勋纳曼"
+            },
+            {
+                "name": "詹妮特·海因"
+            },
+            {
+                "name": "乔切·舒托夫"
+            },
+            {
+                "name": "约翰娜·加斯多夫"
+            },
+            {
+                "name": "弗罗里安·巴西奥罗麦"
+            },
+            {
+                "name": "本·贝克"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725f5f",
+            "_base_color": [
+                0.9952380952380953,
+                0.16826923076923073,
+                0.8156862745098039
+            ],
+            "secondary_color": "f9f4f5",
+            "_avg_color": [
+                0.9270833333333333,
+                0.15384615384615385,
+                0.40784313725490196
+            ],
+            "primary_color_dark": "4c3f3f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2554483719.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26701196",
+        "url": "https://movie.douban.com/subject/26701196/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26701196",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "弗洛里安·亨克尔·冯·多纳斯马尔克"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

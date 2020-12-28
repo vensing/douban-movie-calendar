@@ -1,0 +1,145 @@
+{
+    "comment": {
+        "content": "——“我希望你能成为那个最好的自己。”\n——“如果这就是最好的我呢？”",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726a61",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c4741"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139333.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-08",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 259856,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.9
+        },
+        "pubdate": [
+            "2017-09-01(特柳赖德电影节)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2505925363.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505925363.jpg"
+        },
+        "is_show": false,
+        "year": "2017",
+        "card_subtitle": "2017 / 美国 / 剧情 家庭\n格蕾塔·葛韦格 导演",
+        "id": "26588314",
+        "genres": [
+            "剧情",
+            "家庭"
+        ],
+        "title": "伯德小姐",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "西尔莎·罗南"
+            },
+            {
+                "name": "劳里·梅特卡夫"
+            },
+            {
+                "name": "崔西·莱茨"
+            },
+            {
+                "name": "卢卡斯·赫奇斯"
+            },
+            {
+                "name": "蒂莫西·柴勒梅德"
+            },
+            {
+                "name": "比妮·费尔德斯坦"
+            },
+            {
+                "name": "罗伊丝·史密斯"
+            },
+            {
+                "name": "斯蒂芬·亨德森"
+            },
+            {
+                "name": "奥德娅·拉什"
+            },
+            {
+                "name": "乔丹·罗德里格斯"
+            },
+            {
+                "name": "凯瑟琳·纽顿"
+            },
+            {
+                "name": "约翰·卡尔纳"
+            },
+            {
+                "name": "杰克·麦克道曼"
+            },
+            {
+                "name": "劳拉·马兰洛"
+            },
+            {
+                "name": "安迪·巴克利"
+            },
+            {
+                "name": "丹尼尔·祖瓦图"
+            },
+            {
+                "name": "克里森·克拉克"
+            },
+            {
+                "name": "丹妮尔·麦克唐纳"
+            },
+            {
+                "name": "鲍勃·斯蒂芬森"
+            },
+            {
+                "name": "路易莎·李"
+            },
+            {
+                "name": "伦敦·托尔"
+            },
+            {
+                "name": "本·康尼斯伯格"
+            },
+            {
+                "name": "维克托·沃尔夫"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a19e",
+            "_base_color": [
+                0.05555555555555538,
+                0.04225352112676054,
+                0.8352941176470589
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.0357142857142857,
+                0.2727272727272727,
+                0.6039215686274509
+            ],
+            "primary_color_dark": "7f7b7a"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2505925363.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26588314",
+        "url": "https://movie.douban.com/subject/26588314/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26588314",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "格蕾塔·葛韦格"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

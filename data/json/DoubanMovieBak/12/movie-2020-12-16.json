@@ -1,0 +1,143 @@
+{
+    "comment": {
+        "content": "如果你活着，早晚都会死；如果你死了，你就永远活着。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72564e",
+            "secondary_color": "f9f5f4",
+            "primary_color_dark": "4c3934"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580141197.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-16",
+        "description": "《让子弹飞》上映10周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 1248649,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.8
+        },
+        "pubdate": [
+            "2010-12-16(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1512562287.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1512562287.jpg"
+        },
+        "is_show": false,
+        "year": "2010",
+        "card_subtitle": "2010 / 中国大陆 中国香港 / 剧情 喜剧 动作\n姜文 导演",
+        "id": "3742360",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "动作"
+        ],
+        "title": "让子弹飞",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "姜文"
+            },
+            {
+                "name": "葛优"
+            },
+            {
+                "name": "周润发"
+            },
+            {
+                "name": "刘嘉玲"
+            },
+            {
+                "name": "陈坤"
+            },
+            {
+                "name": "张默"
+            },
+            {
+                "name": "姜武"
+            },
+            {
+                "name": "周韵"
+            },
+            {
+                "name": "廖凡"
+            },
+            {
+                "name": "姚橹"
+            },
+            {
+                "name": "邵兵"
+            },
+            {
+                "name": "苗圃"
+            },
+            {
+                "name": "冯小刚"
+            },
+            {
+                "name": "胡军"
+            },
+            {
+                "name": "马珂"
+            },
+            {
+                "name": "白冰"
+            },
+            {
+                "name": "杜奕衡"
+            },
+            {
+                "name": "李静"
+            },
+            {
+                "name": "胡明"
+            },
+            {
+                "name": "危笑"
+            },
+            {
+                "name": "杨奇雨"
+            },
+            {
+                "name": "赵铭"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725b30",
+            "_base_color": [
+                0.10784313725490198,
+                0.5762711864406781,
+                0.23137254901960785
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.10833333333333335,
+                0.5217391304347826,
+                0.45098039215686275
+            ],
+            "primary_color_dark": "4c3c20"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1512562287.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3742360",
+        "url": "https://movie.douban.com/subject/3742360/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3742360",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "姜文"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

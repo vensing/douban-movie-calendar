@@ -1,0 +1,92 @@
+{
+    "comment": {
+        "content": "——“我结婚又不是为了跟人家交代。”\n——“不跟人家交代，你结什么婚哪？”",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724d38",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3325"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139322.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-02",
+        "description": "",
+        "title": "腊八节"
+    },
+    "subject": {
+        "rating": {
+            "count": 261496,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.9
+        },
+        "pubdate": [
+            "1993-02(柏林电影节)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2173713676.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2173713676.jpg"
+        },
+        "is_show": false,
+        "year": "1993",
+        "card_subtitle": "1993 / 中国台湾 美国 / 剧情 喜剧 爱情\n李安 导演",
+        "id": "1303037",
+        "genres": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "title": "喜宴",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "赵文瑄"
+            },
+            {
+                "name": "郎雄"
+            },
+            {
+                "name": "归亚蕾"
+            },
+            {
+                "name": "金素梅"
+            },
+            {
+                "name": "米切尔·利希藤斯坦"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "392c72",
+            "_base_color": [
+                0.6969696969696969,
+                0.6111111111111112,
+                0.1411764705882353
+            ],
+            "secondary_color": "f5f4f9",
+            "_avg_color": [
+                0.9879227053140096,
+                0.5702479338842975,
+                0.4745098039215686
+            ],
+            "primary_color_dark": "261d4c"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2173713676.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1303037",
+        "url": "https://movie.douban.com/subject/1303037/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1303037",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "李安"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

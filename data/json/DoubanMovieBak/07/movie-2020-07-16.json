@@ -1,0 +1,152 @@
+{
+    "comment": {
+        "content": "你不想为你的信仰冒一下险吗？难道想等你老了，再后悔莫及吗？",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726f70",
+            "secondary_color": "f9f4f7",
+            "primary_color_dark": "4c4a4b"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140220.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-16",
+        "description": "《盗梦空间》上映10周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 1624123,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.3
+        },
+        "pubdate": [
+            "2010-09-01(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2616355133.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2616355133.jpg"
+        },
+        "is_show": false,
+        "year": "2010",
+        "card_subtitle": "2010 / 美国 英国 / 剧情 科幻 悬疑\n克里斯托弗·诺兰 导演",
+        "id": "3541415",
+        "genres": [
+            "剧情",
+            "科幻",
+            "悬疑"
+        ],
+        "title": "盗梦空间",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "莱昂纳多·迪卡普里奥"
+            },
+            {
+                "name": "约瑟夫·高登-莱维特"
+            },
+            {
+                "name": "艾利奥特·佩吉"
+            },
+            {
+                "name": "汤姆·哈迪"
+            },
+            {
+                "name": "渡边谦"
+            },
+            {
+                "name": "迪利普·劳"
+            },
+            {
+                "name": "基里安·墨菲"
+            },
+            {
+                "name": "汤姆·贝伦杰"
+            },
+            {
+                "name": "玛丽昂·歌迪亚"
+            },
+            {
+                "name": "皮特·波斯尔思韦特"
+            },
+            {
+                "name": "迈克尔·凯恩"
+            },
+            {
+                "name": "卢卡斯·哈斯"
+            },
+            {
+                "name": "李太力"
+            },
+            {
+                "name": "克莱尔·吉尔蕾"
+            },
+            {
+                "name": "马格努斯·诺兰"
+            },
+            {
+                "name": "泰勒·吉蕾"
+            },
+            {
+                "name": "乔纳森·吉尔"
+            },
+            {
+                "name": "水源士郎"
+            },
+            {
+                "name": "冈本玉二"
+            },
+            {
+                "name": "厄尔·卡梅伦"
+            },
+            {
+                "name": "瑞恩·海沃德"
+            },
+            {
+                "name": "米兰达·诺兰"
+            },
+            {
+                "name": "拉什·费加"
+            },
+            {
+                "name": "蒂姆·科勒赫"
+            },
+            {
+                "name": "妲露拉·莱莉"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "2d5e72",
+            "_base_color": [
+                0.5482456140350878,
+                0.6031746031746033,
+                0.24705882352941178
+            ],
+            "secondary_color": "f4f8f9",
+            "_avg_color": [
+                0.5441176470588235,
+                0.40476190476190477,
+                0.32941176470588235
+            ],
+            "primary_color_dark": "1e3f4c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2616355133.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3541415",
+        "url": "https://movie.douban.com/subject/3541415/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3541415",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "克里斯托弗·诺兰"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

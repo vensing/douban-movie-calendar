@@ -1,0 +1,123 @@
+{
+    "comment": {
+        "content": "永远相信，做正确的事情绝对不会错。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726255",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c4139"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140040.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-18",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 224208,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.9
+        },
+        "pubdate": [
+            "2015-09-25(美国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2260497287.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2260497287.jpg"
+        },
+        "is_show": false,
+        "year": "2015",
+        "card_subtitle": "2015 / 美国 / 喜剧\n南希·迈耶斯 导演",
+        "id": "10594965",
+        "genres": [
+            "喜剧"
+        ],
+        "title": "实习生",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "罗伯特·德尼罗"
+            },
+            {
+                "name": "安妮·海瑟薇"
+            },
+            {
+                "name": "蕾妮·罗素"
+            },
+            {
+                "name": "安德雷斯·霍尔姆"
+            },
+            {
+                "name": "乔乔·库什纳"
+            },
+            {
+                "name": "安德鲁·兰内斯"
+            },
+            {
+                "name": "亚当·德维尼"
+            },
+            {
+                "name": "扎克·珀尔曼"
+            },
+            {
+                "name": "杰森·奥利"
+            },
+            {
+                "name": "克里斯蒂娜·谢勒"
+            },
+            {
+                "name": "纳特·沃尔夫"
+            },
+            {
+                "name": "琳达·拉文"
+            },
+            {
+                "name": "西利亚·维斯顿"
+            },
+            {
+                "name": "史蒂夫·维诺维奇"
+            },
+            {
+                "name": "玛丽·凯·普莱斯"
+            },
+            {
+                "name": "德瑞娜·德尼罗"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "9e90a5",
+            "_base_color": [
+                0.7777777777777778,
+                0.1276595744680851,
+                0.1843137254901961
+            ],
+            "secondary_color": "f8f4f9",
+            "_avg_color": [
+                0.9761904761904763,
+                0.16030534351145026,
+                0.5137254901960784
+            ],
+            "primary_color_dark": "7a6f7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2260497287.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/10594965",
+        "url": "https://movie.douban.com/subject/10594965/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/10594965",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "南希·迈耶斯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "comment": {
+        "content": "伟大的事物通常始于渺小。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726258",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c413b"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580141140.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-30",
+        "description": "雷德利·斯科特83岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 288188,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.5
+        },
+        "pubdate": [
+            "2012-09-02(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1548920463.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1548920463.jpg"
+        },
+        "is_show": false,
+        "year": "2012",
+        "card_subtitle": "2012 / 美国 英国 / 科幻 惊悚 冒险\n雷德利·斯科特 导演",
+        "id": "3771562",
+        "genres": [
+            "科幻",
+            "惊悚",
+            "冒险"
+        ],
+        "title": "普罗米修斯",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "劳米·拉佩斯"
+            },
+            {
+                "name": "迈克尔·法斯宾德"
+            },
+            {
+                "name": "查理兹·塞隆"
+            },
+            {
+                "name": "伊德里斯·艾尔巴"
+            },
+            {
+                "name": "盖·皮尔斯"
+            },
+            {
+                "name": "罗根·马歇尔-格林"
+            },
+            {
+                "name": "西恩·哈里斯"
+            },
+            {
+                "name": "拉菲·斯波"
+            },
+            {
+                "name": "埃蒙·埃利奥特"
+            },
+            {
+                "name": "本尼迪克特·王"
+            },
+            {
+                "name": "凯特·迪基"
+            },
+            {
+                "name": "帕特里克·威尔森"
+            },
+            {
+                "name": "露西·哈钦森"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "2d6b72",
+            "_base_color": [
+                0.5185185185185185,
+                0.6,
+                0.11764705882352941
+            ],
+            "secondary_color": "f4f9f9",
+            "_avg_color": [
+                0.5217391304347826,
+                0.42592592592592593,
+                0.21176470588235294
+            ],
+            "primary_color_dark": "1e474c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1548920463.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3771562",
+        "url": "https://movie.douban.com/subject/3771562/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3771562",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "雷德利·斯科特"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

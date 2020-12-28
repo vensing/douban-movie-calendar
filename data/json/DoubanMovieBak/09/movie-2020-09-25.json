@@ -1,0 +1,209 @@
+{
+    "comment": {
+        "content": "这里是芝加哥，孩子，你永远无法打败那些新人。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72496e",
+            "secondary_color": "f9f4f9",
+            "primary_color_dark": "4c3049"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140802.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-25",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 121295,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.8
+        },
+        "pubdate": [
+            "2002-12-27(美国)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2454020352.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2454020352.jpg"
+        },
+        "is_show": false,
+        "year": "2002",
+        "card_subtitle": "2002 / 美国 德国 / 喜剧 歌舞 犯罪\n罗伯·马歇尔 导演",
+        "id": "1307697",
+        "genres": [
+            "喜剧",
+            "歌舞",
+            "犯罪"
+        ],
+        "title": "芝加哥",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "泰雅·迪格斯"
+            },
+            {
+                "name": "凯瑟琳·泽塔-琼斯"
+            },
+            {
+                "name": "蕾妮·齐薇格"
+            },
+            {
+                "name": "多米尼克·韦斯特"
+            },
+            {
+                "name": "杰恩·伊斯特伍德"
+            },
+            {
+                "name": "约翰·C·赖利"
+            },
+            {
+                "name": "科鲁姆·费奥瑞"
+            },
+            {
+                "name": "奇塔·里维拉"
+            },
+            {
+                "name": "奎恩·拉提法"
+            },
+            {
+                "name": "苏珊·米斯纳尔"
+            },
+            {
+                "name": "Denise Faye"
+            },
+            {
+                "name": "迪德尔·古德温"
+            },
+            {
+                "name": "叶卡捷琳娜切特希尔卡诺娃"
+            },
+            {
+                "name": "玛雅"
+            },
+            {
+                "name": "乔伊皮奇"
+            },
+            {
+                "name": "塞巴斯蒂安·拉·考斯"
+            },
+            {
+                "name": "理查·基尔"
+            },
+            {
+                "name": "克里斯汀·芭伦斯基"
+            },
+            {
+                "name": "布兰登·沃尔"
+            },
+            {
+                "name": "Gerry Fiorini"
+            },
+            {
+                "name": "刘玉玲"
+            },
+            {
+                "name": "约瑟夫·斯科伦"
+            },
+            {
+                "name": "莫妮卡·甘德顿"
+            },
+            {
+                "name": "April Morgan"
+            },
+            {
+                "name": "马蒂·莫罗"
+            },
+            {
+                "name": "肖恩·麦卡恩"
+            },
+            {
+                "name": "杰夫·克拉克"
+            },
+            {
+                "name": "Patrick Salvagna"
+            },
+            {
+                "name": "凯瑟琳·泽纳"
+            },
+            {
+                "name": "杰夫·普斯蒂尔"
+            },
+            {
+                "name": "Michelle Johnston"
+            },
+            {
+                "name": "Mary Ann Lamb"
+            },
+            {
+                "name": "Cynthia Onrubia"
+            },
+            {
+                "name": "Karine Plantadit-Bageot"
+            },
+            {
+                "name": "娜塔利威尔斯"
+            },
+            {
+                "name": "Brittany Gray"
+            },
+            {
+                "name": "凯伦·霍尔尼斯"
+            },
+            {
+                "name": "保罗·贝克"
+            },
+            {
+                "name": "Scott Fowler"
+            },
+            {
+                "name": "Bill Hartung"
+            },
+            {
+                "name": "Darren Lee"
+            },
+            {
+                "name": "Blake McGrath"
+            },
+            {
+                "name": "罗伯特·蒙塔诺"
+            },
+            {
+                "name": "肖恩·帕默尔"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724d43",
+            "_base_color": [
+                0.0357142857142857,
+                0.41584158415841577,
+                0.792156862745098
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.01851851851851849,
+                0.38571428571428573,
+                0.27450980392156865
+            ],
+            "primary_color_dark": "4c332c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2454020352.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1307697",
+        "url": "https://movie.douban.com/subject/1307697/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1307697",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "罗伯·马歇尔"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

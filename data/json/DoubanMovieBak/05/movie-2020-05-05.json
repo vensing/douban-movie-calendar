@@ -1,0 +1,176 @@
+{
+    "comment": {
+        "content": "可悲的是我们无权选择命运，但有权决定如何面对死亡。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725e52",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3e37"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580139770.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-05",
+        "description": "角斗士上映20周年",
+        "title": "立夏"
+    },
+    "subject": {
+        "rating": {
+            "count": 181650,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.5
+        },
+        "pubdate": [
+            "2000-05-05(美国)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1601948450.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1601948450.jpg"
+        },
+        "is_show": false,
+        "year": "2000",
+        "card_subtitle": "2000 / 美国 英国 / 剧情 动作 冒险\n雷德利·斯科特 导演",
+        "id": "1293530",
+        "genres": [
+            "剧情",
+            "动作",
+            "冒险"
+        ],
+        "title": "角斗士",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "罗素·克劳"
+            },
+            {
+                "name": "华金·菲尼克斯"
+            },
+            {
+                "name": "康妮·尼尔森"
+            },
+            {
+                "name": "奥列佛·里德"
+            },
+            {
+                "name": "理查德·哈里斯"
+            },
+            {
+                "name": "德里克·雅各比"
+            },
+            {
+                "name": "杰曼·翰苏"
+            },
+            {
+                "name": "大卫·斯科菲尔德"
+            },
+            {
+                "name": "约翰·斯拉普内尔"
+            },
+            {
+                "name": "托马斯·阿拉纳"
+            },
+            {
+                "name": "拉尔夫·莫勒"
+            },
+            {
+                "name": "斯宾塞·崔特·克拉克"
+            },
+            {
+                "name": "戴维·海明斯"
+            },
+            {
+                "name": "汤米·弗拉纳根"
+            },
+            {
+                "name": "史文-欧尔·托尔森"
+            },
+            {
+                "name": "欧米德·吉亚李利"
+            },
+            {
+                "name": "Chris Kell"
+            },
+            {
+                "name": "托尼·库兰"
+            },
+            {
+                "name": "大卫·拜利"
+            },
+            {
+                "name": "艾尔·阿什顿"
+            },
+            {
+                "name": "雷·卡雷贾"
+            },
+            {
+                "name": "詹妮娜·法西奥"
+            },
+            {
+                "name": "乔治·坎塔里尼"
+            },
+            {
+                "name": "阿兰·柯德勒"
+            },
+            {
+                "name": "迈克尔·梅林杰"
+            },
+            {
+                "name": "亚当·利维"
+            },
+            {
+                "name": "吉力·吉尔克里斯特"
+            },
+            {
+                "name": "Kjeld Gogosha-Clark"
+            },
+            {
+                "name": "尼克·梅因"
+            },
+            {
+                "name": "若昂·科斯塔·梅内塞斯"
+            },
+            {
+                "name": "迈克·米切尔"
+            },
+            {
+                "name": "诺曼·坎贝尔·里斯"
+            },
+            {
+                "name": "布瑞恩·斯米吉"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726037",
+            "_base_color": [
+                0.11538461538461538,
+                0.52,
+                0.09803921568627451
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.12179487179487185,
+                0.2921348314606741,
+                0.34901960784313724
+            ],
+            "primary_color_dark": "4c4024"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1601948450.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1293530",
+        "url": "https://movie.douban.com/subject/1293530/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1293530",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "雷德利·斯科特"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

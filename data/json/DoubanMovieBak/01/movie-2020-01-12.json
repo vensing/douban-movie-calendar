@@ -1,0 +1,106 @@
+{
+    "comment": {
+        "content": "我们彼此碰撞，只是为了感觉到彼此的存在。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725248",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3730"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139339.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-12",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 259997,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "2004-09-10(多伦多电影节)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2075132390.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2075132390.jpg"
+        },
+        "is_show": false,
+        "year": "2004",
+        "card_subtitle": "2004 / 美国 德国 澳大利亚 / 犯罪 剧情\n保罗·哈吉斯 导演",
+        "id": "1388216",
+        "genres": [
+            "犯罪",
+            "剧情"
+        ],
+        "title": "撞车",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "桑德拉·布洛克"
+            },
+            {
+                "name": "唐·钱德尔"
+            },
+            {
+                "name": "马特·狄龙"
+            },
+            {
+                "name": "布兰登·费舍"
+            },
+            {
+                "name": "泰伦斯·霍华德"
+            },
+            {
+                "name": "坦迪·牛顿"
+            },
+            {
+                "name": "卢达克里斯"
+            },
+            {
+                "name": "迈克尔·佩纳"
+            },
+            {
+                "name": "詹妮弗·艾斯波西多"
+            },
+            {
+                "name": "瑞恩·菲利普"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725f44",
+            "_base_color": [
+                0.09848484848484847,
+                0.39999999999999997,
+                0.21568627450980393
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.10119047619047618,
+                0.4000000000000001,
+                0.27450980392156865
+            ],
+            "primary_color_dark": "4c3f2d"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2075132390.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1388216",
+        "url": "https://movie.douban.com/subject/1388216/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1388216",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "保罗·哈吉斯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

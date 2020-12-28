@@ -1,0 +1,103 @@
+{
+    "comment": {
+        "content": "我所能拥有的一切美好都来自你。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58d7b",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f6c5f"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139402.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-02-06",
+        "description": "弗朗索瓦·特吕弗诞辰88周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 34859,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.4
+        },
+        "pubdate": [
+            "1962-01-23(法国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p555160366.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p555160366.jpg"
+        },
+        "is_show": false,
+        "year": "1962",
+        "card_subtitle": "1962 / 法国 / 剧情 爱情\n弗朗索瓦·特吕弗 导演",
+        "id": "1292338",
+        "genres": [
+            "剧情",
+            "爱情"
+        ],
+        "title": "祖与占",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "让娜·莫罗"
+            },
+            {
+                "name": "奥斯卡·威内尔"
+            },
+            {
+                "name": "亨利·赛尔"
+            },
+            {
+                "name": "万娜·乌尔比诺"
+            },
+            {
+                "name": "Serge Rezvani"
+            },
+            {
+                "name": "阿妮·内尔森"
+            },
+            {
+                "name": "萨比娜·奥德潘"
+            },
+            {
+                "name": "玛丽·杜布瓦"
+            },
+            {
+                "name": "米歇尔·索博"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a5a5",
+            "_base_color": [
+                0,
+                0,
+                0.8901960784313725
+            ],
+            "secondary_color": "f9f4f4",
+            "_avg_color": [
+                0.6666666666666666,
+                0.014705882352941124,
+                0.5333333333333333
+            ],
+            "primary_color_dark": "7f7f7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p555160366.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292338",
+        "url": "https://movie.douban.com/subject/1292338/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292338",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "弗朗索瓦·特吕弗"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

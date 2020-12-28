@@ -1,0 +1,140 @@
+{
+    "comment": {
+        "content": "从前有个人对我说，不要沾上任何30秒内不能摆脱的事物。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726b51",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "4c4736"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139718.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-04-25",
+        "description": "阿尔·帕西诺80岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 95369,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.5
+        },
+        "pubdate": [
+            "1995-12-15(美国)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2193849510.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2193849510.jpg"
+        },
+        "is_show": false,
+        "year": "1995",
+        "card_subtitle": "1995 / 美国 / 剧情 动作 犯罪\n迈克尔·曼 导演",
+        "id": "1295686",
+        "genres": [
+            "剧情",
+            "动作",
+            "犯罪"
+        ],
+        "title": "盗火线",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "阿尔·帕西诺"
+            },
+            {
+                "name": "罗伯特·德尼罗"
+            },
+            {
+                "name": "方·基默"
+            },
+            {
+                "name": "强·沃特"
+            },
+            {
+                "name": "汤姆·塞兹摩尔"
+            },
+            {
+                "name": "戴安·维诺拉"
+            },
+            {
+                "name": "艾米·布伦尼曼"
+            },
+            {
+                "name": "艾什莉·贾德"
+            },
+            {
+                "name": "麦凯尔泰·威廉逊"
+            },
+            {
+                "name": "韦斯·斯塔迪"
+            },
+            {
+                "name": "泰德·拉文"
+            },
+            {
+                "name": "丹尼斯·海斯伯特"
+            },
+            {
+                "name": "威廉·菲克纳"
+            },
+            {
+                "name": "娜塔莉·波特曼"
+            },
+            {
+                "name": "汤姆·诺南"
+            },
+            {
+                "name": "凯文·盖奇"
+            },
+            {
+                "name": "汉克·阿扎利亚"
+            },
+            {
+                "name": "苏珊·特雷勒"
+            },
+            {
+                "name": "丹尼·特雷霍"
+            },
+            {
+                "name": "亨利·罗林斯"
+            },
+            {
+                "name": "杰瑞·特林伯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "234072",
+            "_base_color": [
+                0.6060606060606061,
+                0.6875,
+                0.06274509803921569
+            ],
+            "secondary_color": "f4f6f9",
+            "_avg_color": [
+                0.5833333333333334,
+                0.5797101449275363,
+                0.27058823529411763
+            ],
+            "primary_color_dark": "172b4c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2193849510.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1295686",
+        "url": "https://movie.douban.com/subject/1295686/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1295686",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "迈克尔·曼"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

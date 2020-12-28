@@ -1,0 +1,97 @@
+{
+    "comment": {
+        "content": "有些故事，我们永远猜不出结局。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5927c",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f7060"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140964.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-01",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 120001,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.5
+        },
+        "pubdate": [
+            "2012-10-19(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1722545381.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1722545381.jpg"
+        },
+        "is_show": false,
+        "year": "2012",
+        "card_subtitle": "2012 / 中国大陆 法国 / 剧情 犯罪\n娄烨 导演",
+        "id": "10438426",
+        "genres": [
+            "剧情",
+            "犯罪"
+        ],
+        "title": "浮城谜事",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "郝蕾"
+            },
+            {
+                "name": "秦昊"
+            },
+            {
+                "name": "齐溪"
+            },
+            {
+                "name": "朱亚文"
+            },
+            {
+                "name": "祖峰"
+            },
+            {
+                "name": "常方源"
+            },
+            {
+                "name": "瞿颖"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a39c",
+            "_base_color": [
+                0.12499999999999956,
+                0.05405405405405405,
+                0.5803921568627451
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.08333333333333304,
+                0.053691275167785234,
+                0.5843137254901961
+            ],
+            "primary_color_dark": "7f7d78"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1722545381.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/10438426",
+        "url": "https://movie.douban.com/subject/10438426/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/10438426",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "娄烨"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

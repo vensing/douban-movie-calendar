@@ -1,0 +1,136 @@
+{
+    "comment": {
+        "content": "这个世界上没什么是永远有效的，知道吗？",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59c92",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f7870"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139566.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-11",
+        "description": "《岁月神偷》上映10周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 483233,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "2010-03-11(中国香港)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p456666151.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456666151.jpg"
+        },
+        "is_show": false,
+        "year": "2010",
+        "card_subtitle": "2010 / 中国香港 中国大陆 / 剧情 家庭\n罗启锐 导演",
+        "id": "3792799",
+        "genres": [
+            "剧情",
+            "家庭"
+        ],
+        "title": "岁月神偷",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "吴君如"
+            },
+            {
+                "name": "任达华"
+            },
+            {
+                "name": "钟绍图"
+            },
+            {
+                "name": "李治廷"
+            },
+            {
+                "name": "蔡颖恩"
+            },
+            {
+                "name": "秦沛"
+            },
+            {
+                "name": "夏萍"
+            },
+            {
+                "name": "谷德昭"
+            },
+            {
+                "name": "许鞍华"
+            },
+            {
+                "name": "张同祖"
+            },
+            {
+                "name": "庄域飞"
+            },
+            {
+                "name": "威廉希路"
+            },
+            {
+                "name": "李健兴"
+            },
+            {
+                "name": "林耀祺"
+            },
+            {
+                "name": "廖爱玲"
+            },
+            {
+                "name": "张翼东"
+            },
+            {
+                "name": "钱耀荣"
+            },
+            {
+                "name": "谭瓒强"
+            },
+            {
+                "name": "陈庆航"
+            },
+            {
+                "name": "黎祥荣"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59a8d",
+            "_base_color": [
+                0.08641975308641973,
+                0.14361702127659584,
+                0.7372549019607844
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.10606060606060623,
+                0.06145251396648039,
+                0.7019607843137254
+            ],
+            "primary_color_dark": "7f766d"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p456666151.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3792799",
+        "url": "https://movie.douban.com/subject/3792799/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3792799",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "罗启锐"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

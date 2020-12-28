@@ -1,0 +1,91 @@
+{
+    "comment": {
+        "content": "其实了解一个人并不代表什么，人是会变的，今天他喜欢凤梨，明天他可以喜欢别的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725947",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3b2f"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140223.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-17",
+        "description": "王家卫62岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 613758,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "1994-07-14(中国香港)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p792381411.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792381411.jpg"
+        },
+        "is_show": false,
+        "year": "1994",
+        "card_subtitle": "1994 / 中国香港 / 剧情 爱情\n王家卫 导演",
+        "id": "1291999",
+        "genres": [
+            "剧情",
+            "爱情"
+        ],
+        "title": "重庆森林",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "林青霞"
+            },
+            {
+                "name": "金城武"
+            },
+            {
+                "name": "梁朝伟"
+            },
+            {
+                "name": "王菲"
+            },
+            {
+                "name": "周嘉玲"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a56f47",
+            "_base_color": [
+                0.07057057057057059,
+                0.5663265306122449,
+                0.7686274509803922
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.06730769230769235,
+                0.3795620437956205,
+                0.5372549019607843
+            ],
+            "primary_color_dark": "7f5537"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p792381411.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291999",
+        "url": "https://movie.douban.com/subject/1291999/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291999",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "王家卫"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

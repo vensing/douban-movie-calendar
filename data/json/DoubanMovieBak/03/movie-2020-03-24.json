@@ -1,0 +1,103 @@
+{
+    "comment": {
+        "content": "里约热内卢的风景明信片上是不会有我们这里的。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a57e61",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f614a"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139596.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-24",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 242844,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9
+        },
+        "pubdate": [
+            "2002-05-18(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p455677490.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p455677490.jpg"
+        },
+        "is_show": false,
+        "year": "2002",
+        "card_subtitle": "2002 / 巴西 法国 / 犯罪 剧情\n费尔南多·梅里尔斯 / 卡迪亚·兰德 导演",
+        "id": "1292208",
+        "genres": [
+            "犯罪",
+            "剧情"
+        ],
+        "title": "上帝之城",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "亚历桑德雷·罗德里格斯"
+            },
+            {
+                "name": "莱安德鲁·菲尔米诺"
+            },
+            {
+                "name": "菲利佩·哈根森"
+            },
+            {
+                "name": "道格拉斯·席尔瓦"
+            },
+            {
+                "name": "乔纳森·哈根森"
+            },
+            {
+                "name": "马修斯·纳克加勒"
+            },
+            {
+                "name": "索·豪黑"
+            },
+            {
+                "name": "艾莉丝·布拉加"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58a39",
+            "_base_color": [
+                0.12445887445887449,
+                0.6553191489361702,
+                0.9215686274509803
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.13836477987421383,
+                0.4076923076923077,
+                0.5098039215686274
+            ],
+            "primary_color_dark": "7f6a2b"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p455677490.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292208",
+        "url": "https://movie.douban.com/subject/1292208/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292208",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "费尔南多·梅里尔斯"
+            },
+            {
+                "name": "卡迪亚·兰德"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

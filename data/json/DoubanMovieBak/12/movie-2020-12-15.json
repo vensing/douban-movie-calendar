@@ -1,0 +1,98 @@
+{
+    "comment": {
+        "content": "从现在开始我们就是一分钟的朋友，这是事实，你改变不了，因为已经过去了。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724333",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c2d22"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580141196.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-15",
+        "description": "《阿飞正传》上映30周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 386923,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.5
+        },
+        "pubdate": [
+            "1990-12-15(中国香港)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2525770523.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2525770523.jpg"
+        },
+        "is_show": false,
+        "year": "1990",
+        "card_subtitle": "1990 / 中国香港 / 犯罪 剧情 爱情\n王家卫 导演",
+        "id": "1305690",
+        "genres": [
+            "犯罪",
+            "剧情",
+            "爱情"
+        ],
+        "title": "阿飞正传",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "张国荣"
+            },
+            {
+                "name": "张曼玉"
+            },
+            {
+                "name": "刘嘉玲"
+            },
+            {
+                "name": "刘德华"
+            },
+            {
+                "name": "张学友"
+            },
+            {
+                "name": "潘迪华"
+            },
+            {
+                "name": "梁朝伟"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72683c",
+            "_base_color": [
+                0.1336996336996337,
+                0.4715025906735751,
+                0.7568627450980392
+            ],
+            "secondary_color": "f9f8f4",
+            "_avg_color": [
+                0.13157894736842105,
+                0.3762376237623762,
+                0.396078431372549
+            ],
+            "primary_color_dark": "4c4528"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2525770523.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1305690",
+        "url": "https://movie.douban.com/subject/1305690/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1305690",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "王家卫"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

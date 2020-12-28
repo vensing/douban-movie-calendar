@@ -1,0 +1,121 @@
+{
+    "comment": {
+        "content": "享受这个世界的荒谬吧，这会减少很多痛苦，相信我，我们的世界比现实世界中的痛苦少多了。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72604a",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c4031"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140585.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-20",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 95206,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.4
+        },
+        "pubdate": [
+            "2016-09-02(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2391556881.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2391556881.jpg"
+        },
+        "is_show": false,
+        "year": "2016",
+        "card_subtitle": "2016 / 美国 / 剧情 惊悚\n汤姆·福特 导演",
+        "id": "26353372",
+        "genres": [
+            "剧情",
+            "惊悚"
+        ],
+        "title": "夜行动物",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "艾米·亚当斯"
+            },
+            {
+                "name": "杰克·吉伦哈尔"
+            },
+            {
+                "name": "迈克尔·珊农"
+            },
+            {
+                "name": "亚伦·泰勒-约翰逊"
+            },
+            {
+                "name": "艾拉·菲舍尔"
+            },
+            {
+                "name": "艾丽·巴姆博"
+            },
+            {
+                "name": "艾米·汉莫"
+            },
+            {
+                "name": "卡尔·格洛斯曼"
+            },
+            {
+                "name": "罗伯特·阿拉马约"
+            },
+            {
+                "name": "劳拉·琳妮"
+            },
+            {
+                "name": "安德丽娅·赖斯伯勒"
+            },
+            {
+                "name": "麦克·辛"
+            },
+            {
+                "name": "伊莫金·沃特豪斯"
+            },
+            {
+                "name": "弗兰科·维嘉"
+            },
+            {
+                "name": "吉娜·马隆"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725457",
+            "_base_color": [
+                0.9803921568627451,
+                0.26562499999999994,
+                0.25098039215686274
+            ],
+            "secondary_color": "f9f4f5",
+            "_avg_color": [
+                0.006172839506172904,
+                0.28125000000000006,
+                0.3764705882352941
+            ],
+            "primary_color_dark": "4c383a"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2391556881.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26353372",
+        "url": "https://movie.douban.com/subject/26353372/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26353372",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "汤姆·福特"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

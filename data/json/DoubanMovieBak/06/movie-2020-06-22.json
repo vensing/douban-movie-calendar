@@ -1,0 +1,84 @@
+{
+    "comment": {
+        "content": "我知道自杀是一种重大的罪孽。可是，活得不幸福也是一种罪。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726c6d",
+            "secondary_color": "f9f4f5",
+            "primary_color_dark": "4c4849"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580140048.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-22",
+        "description": "阿巴斯·基亚罗斯塔米诞辰80周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 23673,
+            "max": 10,
+            "star_count": 4,
+            "value": 8
+        },
+        "pubdate": [
+            "1997-05-16(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2522781398.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522781398.jpg"
+        },
+        "is_show": false,
+        "year": "1997",
+        "card_subtitle": "1997 / 法国 伊朗 / 剧情\n阿巴斯·基亚罗斯塔米 导演",
+        "id": "1296177",
+        "genres": [
+            "剧情"
+        ],
+        "title": "樱桃的滋味",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "赫玛永·厄沙迪"
+            },
+            {
+                "name": "Abdolrahman Bagheri"
+            },
+            {
+                "name": "Afshin Khorshid Bakhtiari"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72423b",
+            "_base_color": [
+                0.020833333333333332,
+                0.4848484848484849,
+                0.12941176470588237
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.033333333333333326,
+                0.47619047619047616,
+                0.16470588235294117
+            ],
+            "primary_color_dark": "4c2c27"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2522781398.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1296177",
+        "url": "https://movie.douban.com/subject/1296177/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1296177",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "阿巴斯·基亚罗斯塔米"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

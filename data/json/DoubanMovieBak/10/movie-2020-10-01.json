@@ -1,0 +1,91 @@
+{
+    "comment": {
+        "content": "我一辈子就是老想着人家，结果呢，我自己吃苦，现在我要笑对人生。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725140",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c362a"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140851.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-01",
+        "description": "国庆节",
+        "title": "中秋节"
+    },
+    "subject": {
+        "rating": {
+            "count": 12109,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.9
+        },
+        "pubdate": [
+            "2013-09-19(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2128713173.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2128713173.jpg"
+        },
+        "is_show": false,
+        "year": "2010",
+        "card_subtitle": "2010 / 中国大陆 / 剧情 家庭\n王全安 导演",
+        "id": "4284085",
+        "genres": [
+            "剧情",
+            "家庭"
+        ],
+        "title": "团圆",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "卢燕"
+            },
+            {
+                "name": "凌峰"
+            },
+            {
+                "name": "徐才根"
+            },
+            {
+                "name": "马晓晴"
+            },
+            {
+                "name": "莫小棋"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a51c22",
+            "_base_color": [
+                0.9933333333333334,
+                0.8254716981132075,
+                0.8313725490196079
+            ],
+            "secondary_color": "f9f4f5",
+            "_avg_color": [
+                0.9953379953379953,
+                0.7371134020618557,
+                0.7607843137254902
+            ],
+            "primary_color_dark": "7f161a"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2128713173.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/4284085",
+        "url": "https://movie.douban.com/subject/4284085/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/4284085",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "王全安"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

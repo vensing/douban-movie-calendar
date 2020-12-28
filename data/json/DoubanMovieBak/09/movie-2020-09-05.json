@@ -1,0 +1,88 @@
+{
+    "comment": {
+        "content": "我们每天的生活像是种幻象，背后才是现实。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726c66",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c4844"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140743.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-05",
+        "description": "沃纳·赫尔佐格78岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 7966,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.8
+        },
+        "pubdate": [
+            "1982-03-04"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2512739426.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2512739426.jpg"
+        },
+        "is_show": false,
+        "year": "1982",
+        "card_subtitle": "1982 / 西德 秘鲁 / 剧情 冒险\n沃纳·赫尔佐格 导演",
+        "id": "1297105",
+        "genres": [
+            "剧情",
+            "冒险"
+        ],
+        "title": "陆上行舟",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "克劳斯·金斯基"
+            },
+            {
+                "name": "克劳迪娅·卡汀娜"
+            },
+            {
+                "name": "若泽·卢戈伊"
+            },
+            {
+                "name": "Miguel Ángel Fuentes"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "607fa5",
+            "_base_color": [
+                0.5925925925925926,
+                0.41538461538461535,
+                0.2549019607843137
+            ],
+            "secondary_color": "f4f7f9",
+            "_avg_color": [
+                0.9861111111111112,
+                0.08633093525179847,
+                0.5450980392156862
+            ],
+            "primary_color_dark": "4a627f"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2512739426.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1297105",
+        "url": "https://movie.douban.com/subject/1297105/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1297105",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "沃纳·赫尔佐格"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

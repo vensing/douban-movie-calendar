@@ -1,0 +1,146 @@
+{
+    "comment": {
+        "content": "不能够再活下去，没有你的人生有如黑暗。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a58779",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "7f685d"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140543.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-03",
+        "description": "《童年往事》上映35周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 39756,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.8
+        },
+        "pubdate": [
+            "1985-08-03(中国台湾)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2259777287.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2259777287.jpg"
+        },
+        "is_show": false,
+        "year": "1985",
+        "card_subtitle": "1985 / 中国台湾 / 剧情 传记 家庭\n侯孝贤 导演",
+        "id": "1300572",
+        "genres": [
+            "剧情",
+            "传记",
+            "家庭"
+        ],
+        "title": "童年往事",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "游安顺"
+            },
+            {
+                "name": "田丰"
+            },
+            {
+                "name": "梅芳"
+            },
+            {
+                "name": "唐如韫"
+            },
+            {
+                "name": "萧艾"
+            },
+            {
+                "name": "吴素莹"
+            },
+            {
+                "name": "陈淑芳"
+            },
+            {
+                "name": "辛树芬"
+            },
+            {
+                "name": "严圣华"
+            },
+            {
+                "name": "周栋宏"
+            },
+            {
+                "name": "陈汉文"
+            },
+            {
+                "name": "胡翔评"
+            },
+            {
+                "name": "林崇文"
+            },
+            {
+                "name": "高重黎"
+            },
+            {
+                "name": "陶德辰"
+            },
+            {
+                "name": "陈志贞"
+            },
+            {
+                "name": "江宝德"
+            },
+            {
+                "name": "张宁"
+            },
+            {
+                "name": "罗泽中"
+            },
+            {
+                "name": "罗诚业"
+            },
+            {
+                "name": "张家宝"
+            },
+            {
+                "name": "罗勋琳"
+            },
+            {
+                "name": "刘国宾"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a57439",
+            "_base_color": [
+                0.09166666666666666,
+                0.6557377049180327,
+                0.7176470588235294
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.10355987055016184,
+                0.5754189944134078,
+                0.7019607843137254
+            ],
+            "primary_color_dark": "7f592b"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2259777287.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1300572",
+        "url": "https://movie.douban.com/subject/1300572/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1300572",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "侯孝贤"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

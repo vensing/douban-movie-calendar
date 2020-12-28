@@ -1,0 +1,90 @@
+{
+    "comment": {
+        "content": "永远不要求人，该有的总会有。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726957",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "4c463a"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140974.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-07",
+        "description": "",
+        "title": "立冬"
+    },
+    "subject": {
+        "rating": {
+            "count": 33737,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.3
+        },
+        "pubdate": [
+            "2010-06-11"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2510515532.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2510515532.jpg"
+        },
+        "is_show": false,
+        "year": "2010",
+        "card_subtitle": "2010 / 美国 / 剧情\n黛布拉·格兰尼克 导演",
+        "id": "3610676",
+        "genres": [
+            "剧情"
+        ],
+        "title": "冬天的骨头",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "詹妮弗·劳伦斯"
+            },
+            {
+                "name": "约翰·浩克斯"
+            },
+            {
+                "name": "凯文·布雷斯纳汉"
+            },
+            {
+                "name": "戴尔·迪奇"
+            },
+            {
+                "name": "加瑞特·迪拉胡特"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "354e72",
+            "_base_color": [
+                0.5984848484848485,
+                0.5365853658536586,
+                0.1607843137254902
+            ],
+            "secondary_color": "f4f6f9",
+            "_avg_color": [
+                0.5892857142857143,
+                0.3255813953488373,
+                0.33725490196078434
+            ],
+            "primary_color_dark": "23344c"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2510515532.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/3610676",
+        "url": "https://movie.douban.com/subject/3610676/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/3610676",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "黛布拉·格兰尼克"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

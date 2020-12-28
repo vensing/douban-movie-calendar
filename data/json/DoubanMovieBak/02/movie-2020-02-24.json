@@ -1,0 +1,116 @@
+{
+    "comment": {
+        "content": "你不需要假装自己已经死了来保护你的孤独。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72696e",
+            "secondary_color": "f9f4f7",
+            "primary_color_dark": "4c4649"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139438.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-02-24",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 21672,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.8
+        },
+        "pubdate": [
+            "2018-05-10(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2527725378.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527725378.jpg"
+        },
+        "is_show": false,
+        "year": "2018",
+        "card_subtitle": "2018 / 法国 / 剧情 爱情 同性\n克里斯托夫·奥诺雷 导演",
+        "id": "26979199",
+        "genres": [
+            "剧情",
+            "爱情",
+            "同性"
+        ],
+        "title": "喜欢，轻吻，快跑",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "文森特·拉科斯特"
+            },
+            {
+                "name": "皮埃尔·德隆尚"
+            },
+            {
+                "name": "德尼·波达利德斯"
+            },
+            {
+                "name": "阿黛尔·维斯梅思"
+            },
+            {
+                "name": "托马斯·冈萨雷斯"
+            },
+            {
+                "name": "克莱蒙·梅特耶"
+            },
+            {
+                "name": "昆廷·蒂博"
+            },
+            {
+                "name": "特里斯坦·法尔热"
+            },
+            {
+                "name": "索菲·勒图讷尔"
+            },
+            {
+                "name": "马莱娜·索尔达纳"
+            },
+            {
+                "name": "卢卡·马林诺夫斯基"
+            },
+            {
+                "name": "埃里克·维涅尔"
+            },
+            {
+                "name": "罗曼·施耐纳"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a197a5",
+            "_base_color": [
+                0.7878787878787877,
+                0.08661417322834648,
+                0.4980392156862745
+            ],
+            "secondary_color": "f8f4f9",
+            "_avg_color": [
+                0.9027777777777779,
+                0.08823529411764706,
+                0.5333333333333333
+            ],
+            "primary_color_dark": "7c747f"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2527725378.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26979199",
+        "url": "https://movie.douban.com/subject/26979199/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26979199",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "克里斯托夫·奥诺雷"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

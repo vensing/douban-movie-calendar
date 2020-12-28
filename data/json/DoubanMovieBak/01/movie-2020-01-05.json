@@ -1,0 +1,140 @@
+{
+    "comment": {
+        "content": "我们一起大笑，可怕的东西就会跑光。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726557",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c433a"
+        },
+        "source": "",
+        "poster": "https://img1.doubanio.com/view/photo/l/public/p2580139328.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-05",
+        "description": "宫崎骏79岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 989533,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9.2
+        },
+        "pubdate": [
+            "2018-12-14(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2540924496.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540924496.jpg"
+        },
+        "is_show": false,
+        "year": "1988",
+        "card_subtitle": "1988 / 日本 / 动画 奇幻 冒险\n宫崎骏 导演",
+        "id": "1291560",
+        "genres": [
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "title": "龙猫",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "日高法子"
+            },
+            {
+                "name": "坂本千夏"
+            },
+            {
+                "name": "糸井重里"
+            },
+            {
+                "name": "岛本须美"
+            },
+            {
+                "name": "北林谷荣"
+            },
+            {
+                "name": "高木均"
+            },
+            {
+                "name": "雨笠利幸"
+            },
+            {
+                "name": "丸山裕子"
+            },
+            {
+                "name": "广濑正志"
+            },
+            {
+                "name": "鹫尾真知子"
+            },
+            {
+                "name": "铃木玲子"
+            },
+            {
+                "name": "千叶繁"
+            },
+            {
+                "name": "龙田直树"
+            },
+            {
+                "name": "鳕子"
+            },
+            {
+                "name": "西村朋纮"
+            },
+            {
+                "name": "石田光子"
+            },
+            {
+                "name": "神代知衣"
+            },
+            {
+                "name": "中村大树"
+            },
+            {
+                "name": "水谷优子"
+            },
+            {
+                "name": "平松晶子"
+            },
+            {
+                "name": "大谷育江"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59f7f",
+            "_base_color": [
+                0.1405228758169935,
+                0.2318181818181819,
+                0.8627450980392157
+            ],
+            "secondary_color": "f9f9f4",
+            "_avg_color": [
+                0.1423611111111111,
+                0.22966507177033493,
+                0.8196078431372549
+            ],
+            "primary_color_dark": "7f7a61"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2540924496.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291560",
+        "url": "https://movie.douban.com/subject/1291560/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291560",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "宫崎骏"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

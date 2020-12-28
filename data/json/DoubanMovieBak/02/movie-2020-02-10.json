@@ -1,0 +1,271 @@
+{
+    "comment": {
+        "content": "在昆汀眼中，光怪陆离的好莱坞如西部那般广袤、包容，表面上人性苍凉，内里有复杂的情感交织，每个人都可以追逐电影梦想。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59a88",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f7668"
+        },
+        "source": "豆瓣网友 南悠一",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580139410.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-02-10",
+        "description": "第92届奥斯卡颁奖",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 185448,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.3
+        },
+        "pubdate": [
+            "2019-05-21(戛纳电影节)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2551119672.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2551119672.jpg"
+        },
+        "is_show": false,
+        "year": "2019",
+        "card_subtitle": "2019 / 美国 英国 中国大陆 / 剧情 喜剧\n昆汀·塔伦蒂诺 导演",
+        "id": "27087724",
+        "genres": [
+            "剧情",
+            "喜剧"
+        ],
+        "title": "好莱坞往事",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "莱昂纳多·迪卡普里奥"
+            },
+            {
+                "name": "布拉德·皮特"
+            },
+            {
+                "name": "玛格特·罗比"
+            },
+            {
+                "name": "埃米尔·赫斯基"
+            },
+            {
+                "name": "玛格丽特·库里"
+            },
+            {
+                "name": "蒂莫西·奥利芬特"
+            },
+            {
+                "name": "茱莉亚·巴特斯"
+            },
+            {
+                "name": "奥斯汀·巴特勒"
+            },
+            {
+                "name": "达科塔·范宁"
+            },
+            {
+                "name": "布鲁斯·邓恩"
+            },
+            {
+                "name": "麦克·莫"
+            },
+            {
+                "name": "卢克·贝里"
+            },
+            {
+                "name": "戴米恩·路易斯"
+            },
+            {
+                "name": "库尔特·拉塞尔"
+            },
+            {
+                "name": "阿尔·帕西诺"
+            },
+            {
+                "name": "玛雅·霍克"
+            },
+            {
+                "name": "西德妮·斯威尼"
+            },
+            {
+                "name": "哈莉·奎恩·史密斯"
+            },
+            {
+                "name": "达蒙·海瑞曼"
+            },
+            {
+                "name": "凯特·贝兰特"
+            },
+            {
+                "name": "洛伦扎·伊佐"
+            },
+            {
+                "name": "迈克尔·马德森"
+            },
+            {
+                "name": "拉莫·威利斯"
+            },
+            {
+                "name": "斯科特·麦克纳里"
+            },
+            {
+                "name": "小克利夫顿·克林斯"
+            },
+            {
+                "name": "维多利亚·佩德雷蒂"
+            },
+            {
+                "name": "吕蓓卡·盖哈特"
+            },
+            {
+                "name": "佐伊·贝尔"
+            },
+            {
+                "name": "莱斯利·贝加"
+            },
+            {
+                "name": "瑞贝卡·瑞滕豪斯"
+            },
+            {
+                "name": "萨曼莎·罗宾森"
+            },
+            {
+                "name": "莉娜·邓纳姆"
+            },
+            {
+                "name": "德瑞玛·沃克"
+            },
+            {
+                "name": "克鲁·古拉格"
+            },
+            {
+                "name": "丹妮拉·皮克"
+            },
+            {
+                "name": "布伦达·瓦卡罗"
+            },
+            {
+                "name": "尼古拉斯·哈蒙德"
+            },
+            {
+                "name": "米奇·麦迪森"
+            },
+            {
+                "name": "詹姆斯·兰德里·赫伯特"
+            },
+            {
+                "name": "妮可·加利西亚"
+            },
+            {
+                "name": "麦迪逊·贝蒂"
+            },
+            {
+                "name": "佩内洛普·卡普迪雅"
+            },
+            {
+                "name": "莫里斯·孔特"
+            },
+            {
+                "name": "科斯塔·罗宁"
+            },
+            {
+                "name": "卢·坦普尔"
+            },
+            {
+                "name": "斯宾塞·加雷特"
+            },
+            {
+                "name": "布丽安娜·乔伊·乔默"
+            },
+            {
+                "name": "奥玛·杜姆"
+            },
+            {
+                "name": "娜塔莉·科恩"
+            },
+            {
+                "name": "拉法尔·扎维鲁查"
+            },
+            {
+                "name": "马尔科·罗德里格斯"
+            },
+            {
+                "name": "堪萨丝·宝琳"
+            },
+            {
+                "name": "维森特·拉雷斯卡"
+            },
+            {
+                "name": "殷巴尔·阿米拉夫"
+            },
+            {
+                "name": "拉蒙·弗兰克"
+            },
+            {
+                "name": "莫妮卡·斯塔吉丝"
+            },
+            {
+                "name": "克雷格·斯塔克"
+            },
+            {
+                "name": "大卫·斯廷"
+            },
+            {
+                "name": "朱丽叶·吉达"
+            },
+            {
+                "name": "埃迪·佩雷斯"
+            },
+            {
+                "name": "布蕾迪·拉多娜"
+            },
+            {
+                "name": "凯拉·拉多姆斯基"
+            },
+            {
+                "name": "布里安娜·温"
+            },
+            {
+                "name": "卡萝莱娜·瓦加斯"
+            },
+            {
+                "name": "加里·派怀特"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "697269",
+            "_base_color": [
+                0.3333333333333333,
+                0.08108108108108117,
+                0.1450980392156863
+            ],
+            "secondary_color": "f4f9f4",
+            "_avg_color": [
+                0.1349206349206349,
+                0.24705882352941172,
+                0.3333333333333333
+            ],
+            "primary_color_dark": "464c46"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2551119672.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/27087724",
+        "url": "https://movie.douban.com/subject/27087724/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/27087724",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "昆汀·塔伦蒂诺"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

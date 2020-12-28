@@ -1,0 +1,120 @@
+{
+    "comment": {
+        "content": "我们像一片落叶一样在风中飘零，这个世界多么奇怪呀！手提箱、冰冷的铁路站、我们无法理解的语言和手势，还有这令人恐惧的漫漫长夜。但我们很高兴，至少我们在前进。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726d6a",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c4947"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580139720.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-04-27",
+        "description": "西奥·安哲罗普洛斯诞辰85周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 30797,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.9
+        },
+        "pubdate": [
+            "1988-08-31(威尼斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1117765592.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1117765592.jpg"
+        },
+        "is_show": false,
+        "year": "1988",
+        "card_subtitle": "1988 / 希腊 法国 意大利 / 剧情\n西奥·安哲罗普洛斯 导演",
+        "id": "1294252",
+        "genres": [
+            "剧情"
+        ],
+        "title": "雾中风景",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "米哈利斯·齐克"
+            },
+            {
+                "name": "塔尼娅·帕拉依奥罗葛"
+            },
+            {
+                "name": "斯特拉托斯·楚措格卢"
+            },
+            {
+                "name": "伊娃·科塔曼尼多"
+            },
+            {
+                "name": "阿利基·耶奥古利"
+            },
+            {
+                "name": "瓦西利斯·科洛沃斯"
+            },
+            {
+                "name": "Vasilis Bouyiouklakis"
+            },
+            {
+                "name": "伊利亚斯·洛戈塞蒂斯"
+            },
+            {
+                "name": "万格利斯·卡赞"
+            },
+            {
+                "name": "斯特拉托斯·帕希斯"
+            },
+            {
+                "name": "米哈利斯·扬纳托斯"
+            },
+            {
+                "name": "基里亚科斯·卡特里瓦诺斯"
+            },
+            {
+                "name": "格里戈里斯·埃万耶拉托斯"
+            },
+            {
+                "name": "扬尼斯·菲里奥斯"
+            },
+            {
+                "name": "Nikos Kouros"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": false,
+            "primary_color_light": "f0f1f2",
+            "_base_color": [
+                0.5833333333333334,
+                0.008403361344537785,
+                0.9333333333333333
+            ],
+            "secondary_color": "f4f7f9",
+            "_avg_color": [
+                0.6111111111111112,
+                0.012820512820512775,
+                0.9176470588235294
+            ],
+            "primary_color_dark": "f0f1f2"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1117765592.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1294252",
+        "url": "https://movie.douban.com/subject/1294252/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1294252",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "西奥·安哲罗普洛斯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

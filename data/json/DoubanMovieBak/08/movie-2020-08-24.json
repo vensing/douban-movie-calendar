@@ -1,0 +1,158 @@
+{
+    "comment": {
+        "content": "你觉得我们为什么会知道前一秒的自己和现在的自己是同一个人？这是因为记忆的连续性，我们就只靠着这个，一直在制造一贯的自我认同幻想。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725966",
+            "secondary_color": "f9f4f7",
+            "primary_color_dark": "4c3b44"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140591.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-08-24",
+        "description": "今敏逝世10周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 215541,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 9
+        },
+        "pubdate": [
+            "1997-07(加拿大奇幻电影节)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1351050722.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1351050722.jpg"
+        },
+        "is_show": false,
+        "year": "1997",
+        "card_subtitle": "1997 / 日本 / 动画 奇幻 惊悚\n今敏 导演",
+        "id": "1395091",
+        "genres": [
+            "动画",
+            "奇幻",
+            "惊悚"
+        ],
+        "title": "未麻的部屋",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "岩男润子"
+            },
+            {
+                "name": "松本梨香"
+            },
+            {
+                "name": "辻亲八"
+            },
+            {
+                "name": "大仓正章"
+            },
+            {
+                "name": "秋元羊介"
+            },
+            {
+                "name": "盐屋翼"
+            },
+            {
+                "name": "堀秀行"
+            },
+            {
+                "name": "筱原惠美"
+            },
+            {
+                "name": "江原正士"
+            },
+            {
+                "name": "梁田清之"
+            },
+            {
+                "name": "古泽彻"
+            },
+            {
+                "name": "新山志保"
+            },
+            {
+                "name": "古川惠实子"
+            },
+            {
+                "name": "原亚弥"
+            },
+            {
+                "name": "三木真一郎"
+            },
+            {
+                "name": "山野井仁"
+            },
+            {
+                "name": "田野惠 "
+            },
+            {
+                "name": "长嶝高士"
+            },
+            {
+                "name": "陶山章央"
+            },
+            {
+                "name": "细井治"
+            },
+            {
+                "name": "远近孝一"
+            },
+            {
+                "name": "本井英美"
+            },
+            {
+                "name": "保志总一朗"
+            },
+            {
+                "name": "谷山纪章"
+            },
+            {
+                "name": "北野诚"
+            },
+            {
+                "name": "南香织"
+            },
+            {
+                "name": "商店一野"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5878f",
+            "_base_color": [
+                0.9583333333333334,
+                0.1818181818181818,
+                0.8627450980392157
+            ],
+            "secondary_color": "f9f4f6",
+            "_avg_color": [
+                0.967479674796748,
+                0.21354166666666666,
+                0.7529411764705882
+            ],
+            "primary_color_dark": "7f686e"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1351050722.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1395091",
+        "url": "https://movie.douban.com/subject/1395091/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1395091",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "今敏"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,238 @@
+{
+    "comment": {
+        "content": "明星是不老的……",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "727272",
+            "secondary_color": "f9f4f4",
+            "primary_color_dark": "4c4c4c"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139796.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-22",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 41818,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "1950-08-10(美国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1119483806.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1119483806.jpg"
+        },
+        "is_show": false,
+        "year": "1950",
+        "card_subtitle": "1950 / 美国 / 剧情 黑色电影\n比利·怀德 导演",
+        "id": "1298733",
+        "genres": [
+            "剧情",
+            "黑色电影"
+        ],
+        "title": "日落大道",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "威廉·霍尔登"
+            },
+            {
+                "name": "葛洛丽亚·斯旺森"
+            },
+            {
+                "name": "埃里克·冯·施特罗海姆"
+            },
+            {
+                "name": "南希·奥尔森"
+            },
+            {
+                "name": "弗雷德·克拉克"
+            },
+            {
+                "name": "劳埃德·高夫"
+            },
+            {
+                "name": "杰克·韦伯"
+            },
+            {
+                "name": "富兰克林·法纳姆"
+            },
+            {
+                "name": "拉里·J·布莱克"
+            },
+            {
+                "name": "Charles Dayton"
+            },
+            {
+                "name": "塞西尔·B·戴米尔"
+            },
+            {
+                "name": "赫达·霍珀"
+            },
+            {
+                "name": "巴斯特·基顿"
+            },
+            {
+                "name": "安娜·Q·尼尔松"
+            },
+            {
+                "name": "H.B.沃纳"
+            },
+            {
+                "name": "雷·伊万斯"
+            },
+            {
+                "name": "杰伊·利文斯顿"
+            },
+            {
+                "name": "Fred Aldrich"
+            },
+            {
+                "name": "格特鲁德·阿斯特"
+            },
+            {
+                "name": "安妮·鲍切恩斯"
+            },
+            {
+                "name": "Edward Biby"
+            },
+            {
+                "name": "丹尼·鲍沙其"
+            },
+            {
+                "name": "Ken Christy"
+            },
+            {
+                "name": "露丝·克利福德"
+            },
+            {
+                "name": "John Cortay"
+            },
+            {
+                "name": "Archie R. Dalzell"
+            },
+            {
+                "name": "艾迪·朱"
+            },
+            {
+                "name": "茱莉亚·法耶"
+            },
+            {
+                "name": "Al Ferguson"
+            },
+            {
+                "name": "Kenneth Gibson"
+            },
+            {
+                "name": "Joe Gray"
+            },
+            {
+                "name": "克莱顿·黑尔"
+            },
+            {
+                "name": "E. Mason Hopper"
+            },
+            {
+                "name": "Tiny Jones"
+            },
+            {
+                "name": "霍华德·乔斯林"
+            },
+            {
+                "name": "Perc Launders"
+            },
+            {
+                "name": "Alan Marston"
+            },
+            {
+                "name": "Gertrude Messinger"
+            },
+            {
+                "name": "哈罗德·米勒"
+            },
+            {
+                "name": "李·米勒"
+            },
+            {
+                "name": "拉尔夫·蒙哥马利"
+            },
+            {
+                "name": "伯特·穆尔豪斯"
+            },
+            {
+                "name": "Jay Morley"
+            },
+            {
+                "name": "霍华德·尼格利"
+            },
+            {
+                "name": "奥托拉内史密斯"
+            },
+            {
+                "name": "伊娃·诺瓦克"
+            },
+            {
+                "name": "弗兰克·奥康纳"
+            },
+            {
+                "name": "罗伯特·埃米特·奥康纳"
+            },
+            {
+                "name": "Jack Perrin"
+            },
+            {
+                "name": "西德尼·斯科尔斯基"
+            },
+            {
+                "name": "Archie Twitchell"
+            },
+            {
+                "name": "伊薇特·维克斯"
+            },
+            {
+                "name": "Edward Wahrman"
+            },
+            {
+                "name": "亨利·威尔克松"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a53524",
+            "_base_color": [
+                0.021341463414634127,
+                0.7772511848341231,
+                0.8274509803921568
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.031746031746031744,
+                0.49122807017543857,
+                0.6705882352941176
+            ],
+            "primary_color_dark": "7f291c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1119483806.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1298733",
+        "url": "https://movie.douban.com/subject/1298733/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1298733",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "比利·怀德"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

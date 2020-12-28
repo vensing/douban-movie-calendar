@@ -1,0 +1,155 @@
+{
+    "comment": {
+        "content": "在所有人类中只有两种男人，一种是老实地待在合适他的地方的人，一种是想踩着别人的脸往上爬的人。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725e51",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "4c3e36"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139806.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-05-28",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 133570,
+            "max": 10,
+            "star_count": 4,
+            "value": 7.8
+        },
+        "pubdate": [
+            "2007-12-21(美国)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1662825746.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1662825746.jpg"
+        },
+        "is_show": false,
+        "year": "2007",
+        "card_subtitle": "2007 / 美国 英国 / 剧情 恐怖 歌舞\n蒂姆·波顿 导演",
+        "id": "1820145",
+        "genres": [
+            "剧情",
+            "恐怖",
+            "歌舞"
+        ],
+        "title": "理发师陶德",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "约翰尼·德普"
+            },
+            {
+                "name": "海伦娜·伯翰·卡特"
+            },
+            {
+                "name": "艾伦·瑞克曼"
+            },
+            {
+                "name": "蒂莫西·斯波"
+            },
+            {
+                "name": "萨莎·拜伦·科恩"
+            },
+            {
+                "name": "杰米·坎贝尔·鲍尔"
+            },
+            {
+                "name": "劳拉·米歇尔·凯利"
+            },
+            {
+                "name": "简妮·怀森纳"
+            },
+            {
+                "name": "爱德·山德斯"
+            },
+            {
+                "name": "Jody Halse"
+            },
+            {
+                "name": "Lee Whitlock"
+            },
+            {
+                "name": "大卫·麦凯尔"
+            },
+            {
+                "name": "菲利普·菲尔玛"
+            },
+            {
+                "name": "史蒂芬 阿施菲尔德"
+            },
+            {
+                "name": "杰瑞·贾奇"
+            },
+            {
+                "name": "诺曼·坎贝尔·里斯"
+            },
+            {
+                "name": "丽莎萨多维"
+            },
+            {
+                "name": "盖伊·布朗"
+            },
+            {
+                "name": "Tim Glanfield"
+            },
+            {
+                "name": "安东尼·海德"
+            },
+            {
+                "name": "Les Loveday"
+            },
+            {
+                "name": "尼克·托马斯-韦伯斯特"
+            },
+            {
+                "name": "Gracie May Weldon"
+            },
+            {
+                "name": "Ava May"
+            },
+            {
+                "name": "Gabriella Freeman"
+            },
+            {
+                "name": "Aron Paramor"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "576a72",
+            "_base_color": [
+                0.5476190476190476,
+                0.2413793103448276,
+                0.11372549019607843
+            ],
+            "secondary_color": "f4f8f9",
+            "_avg_color": [
+                0.5476190476190476,
+                0.1521739130434782,
+                0.1803921568627451
+            ],
+            "primary_color_dark": "3a474c"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1662825746.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1820145",
+        "url": "https://movie.douban.com/subject/1820145/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1820145",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "蒂姆·波顿"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

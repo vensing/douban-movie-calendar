@@ -1,0 +1,176 @@
+{
+    "comment": {
+        "content": "不管是难过还是痛苦的时候，就算是勉强也好，都要保持笑容，这样应该就能克服万难了。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "5e7259",
+            "secondary_color": "f5f9f4",
+            "primary_color_dark": "3f4c3b"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140861.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-10-08",
+        "description": "",
+        "title": "寒露"
+    },
+    "subject": {
+        "rating": {
+            "count": 105538,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "2012-07-21(日本)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1667896544.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1667896544.jpg"
+        },
+        "is_show": false,
+        "year": "2012",
+        "card_subtitle": "2012 / 日本 / 剧情 动画 奇幻\n细田守 导演",
+        "id": "7064681",
+        "genres": [
+            "剧情",
+            "动画",
+            "奇幻"
+        ],
+        "title": "狼的孩子雨和雪",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "宫崎葵"
+            },
+            {
+                "name": "大泽隆夫"
+            },
+            {
+                "name": "黑木华"
+            },
+            {
+                "name": "西井幸人"
+            },
+            {
+                "name": "大野百花"
+            },
+            {
+                "name": "加部亚门"
+            },
+            {
+                "name": "平冈拓真"
+            },
+            {
+                "name": "林原惠美"
+            },
+            {
+                "name": "中村正"
+            },
+            {
+                "name": "大木民夫"
+            },
+            {
+                "name": "片冈富枝"
+            },
+            {
+                "name": "小林隆"
+            },
+            {
+                "name": "井上肇"
+            },
+            {
+                "name": "染谷将太"
+            },
+            {
+                "name": "桝太一"
+            },
+            {
+                "name": "碓井将大"
+            },
+            {
+                "name": "多田野曜平"
+            },
+            {
+                "name": "桥本一郎"
+            },
+            {
+                "name": "池上幸平"
+            },
+            {
+                "name": "竹内太郎"
+            },
+            {
+                "name": "津田英三"
+            },
+            {
+                "name": "今井麻美"
+            },
+            {
+                "name": "德本英一郎"
+            },
+            {
+                "name": "上白石萌音"
+            },
+            {
+                "name": "荒川知佳"
+            },
+            {
+                "name": "小林里乃"
+            },
+            {
+                "name": "春名风花"
+            },
+            {
+                "name": "佐藤瑠生亮"
+            },
+            {
+                "name": "田中奏生"
+            },
+            {
+                "name": "小西舞优"
+            },
+            {
+                "name": "谷村美月"
+            },
+            {
+                "name": "麻生久美子"
+            },
+            {
+                "name": "菅原文太"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "92a2a5",
+            "_base_color": [
+                0.5320512820512819,
+                0.11555555555555552,
+                0.8823529411764706
+            ],
+            "secondary_color": "f4f8f9",
+            "_avg_color": [
+                0.44999999999999996,
+                0.11494252873563227,
+                0.6823529411764706
+            ],
+            "primary_color_dark": "707c7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1667896544.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/7064681",
+        "url": "https://movie.douban.com/subject/7064681/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/7064681",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "细田守"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

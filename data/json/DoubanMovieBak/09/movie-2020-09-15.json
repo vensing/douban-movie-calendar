@@ -1,0 +1,122 @@
+{
+    "comment": {
+        "content": "我不信仰上帝，但我敬畏上帝。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "727164",
+            "secondary_color": "f9f9f4",
+            "primary_color_dark": "4c4b42"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140770.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-15",
+        "description": "《非常嫌疑犯》上映25周年",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 206797,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.6
+        },
+        "pubdate": [
+            "1995-01-25(圣丹斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2455372830.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2455372830.jpg"
+        },
+        "is_show": false,
+        "year": "1995",
+        "card_subtitle": "1995 / 德国 美国 / 犯罪 悬疑 惊悚\n布莱恩·辛格 导演",
+        "id": "1292214",
+        "genres": [
+            "犯罪",
+            "悬疑",
+            "惊悚"
+        ],
+        "title": "非常嫌疑犯",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "史蒂芬·鲍德温"
+            },
+            {
+                "name": "加布里埃尔·伯恩"
+            },
+            {
+                "name": "本尼西奥·德尔·托罗"
+            },
+            {
+                "name": "凯文·波拉克"
+            },
+            {
+                "name": "凯文·史派西"
+            },
+            {
+                "name": "查兹·帕尔明特瑞"
+            },
+            {
+                "name": "皮特·波斯尔思韦特"
+            },
+            {
+                "name": "苏茜·爱米斯"
+            },
+            {
+                "name": "吉安卡罗·埃斯波西托"
+            },
+            {
+                "name": "丹·哈达亚"
+            },
+            {
+                "name": "保罗·巴特尔"
+            },
+            {
+                "name": "卡尔·布瑞斯勒"
+            },
+            {
+                "name": "菲力浦·西蒙"
+            },
+            {
+                "name": "杰克·希勒"
+            },
+            {
+                "name": "克里斯汀·艾斯布鲁克"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "726f6c",
+            "_base_color": [
+                0.08974358974358972,
+                0.05439330543933059,
+                0.9372549019607843
+            ],
+            "secondary_color": "f9f7f4",
+            "_avg_color": [
+                0.09259259259259256,
+                0.0769230769230769,
+                0.4588235294117647
+            ],
+            "primary_color_dark": "4c4a48"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2455372830.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292214",
+        "url": "https://movie.douban.com/subject/1292214/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292214",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "布莱恩·辛格"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

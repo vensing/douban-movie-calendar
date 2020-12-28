@@ -1,0 +1,136 @@
+{
+    "comment": {
+        "content": "生而为人，我很抱歉。",
+        "color_scheme": {
+            "is_dark": false,
+            "primary_color_light": "f2e5d4",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "f2e5d4"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580140021.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-06-10",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 573188,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.9
+        },
+        "pubdate": [
+            "2006-05-27(日本)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p884763596.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p884763596.jpg"
+        },
+        "is_show": false,
+        "year": "2006",
+        "card_subtitle": "2006 / 日本 / 剧情 歌舞\n中岛哲也 导演",
+        "id": "1787291",
+        "genres": [
+            "剧情",
+            "歌舞"
+        ],
+        "title": "被嫌弃的松子的一生",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "中谷美纪"
+            },
+            {
+                "name": "永山瑛太"
+            },
+            {
+                "name": "香川照之"
+            },
+            {
+                "name": "市川实日子"
+            },
+            {
+                "name": "伊势谷友介"
+            },
+            {
+                "name": "柄本明"
+            },
+            {
+                "name": "黑泽明日香"
+            },
+            {
+                "name": "荒川良良"
+            },
+            {
+                "name": "柴崎幸"
+            },
+            {
+                "name": "土屋安娜"
+            },
+            {
+                "name": "奥之矢佳奈"
+            },
+            {
+                "name": "谷原章介"
+            },
+            {
+                "name": "武田真治"
+            },
+            {
+                "name": "片平渚"
+            },
+            {
+                "name": "宫藤官九郎"
+            },
+            {
+                "name": "角野卓造"
+            },
+            {
+                "name": "田中要次"
+            },
+            {
+                "name": "木村凯拉"
+            },
+            {
+                "name": "谷中敦"
+            },
+            {
+                "name": "剧团一人"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a53528",
+            "_base_color": [
+                0.016877637130801686,
+                0.7559808612440192,
+                0.8196078431372549
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.023224043715846982,
+                0.6630434782608695,
+                0.7215686274509804
+            ],
+            "primary_color_dark": "7f281f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p884763596.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1787291",
+        "url": "https://movie.douban.com/subject/1787291/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1787291",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "中岛哲也"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

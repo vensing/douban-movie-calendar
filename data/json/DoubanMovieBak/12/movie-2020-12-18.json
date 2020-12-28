@@ -1,0 +1,121 @@
+{
+    "comment": {
+        "content": "如果他是为爱而生的，那他有理由知道怎么去恨。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a57e5b",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f6146"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580141200.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-12-18",
+        "description": "史蒂文·斯皮尔伯格74岁生日",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 341667,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "2001-06-29(美国)"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p792257137.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792257137.jpg"
+        },
+        "is_show": false,
+        "year": "2001",
+        "card_subtitle": "2001 / 美国 英国 / 剧情 科幻\n史蒂文·斯皮尔伯格 导演",
+        "id": "1302827",
+        "genres": [
+            "剧情",
+            "科幻"
+        ],
+        "title": "人工智能",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "海利·乔·奥斯蒙"
+            },
+            {
+                "name": "弗兰西丝·奥康纳"
+            },
+            {
+                "name": "山姆·洛巴兹"
+            },
+            {
+                "name": "杰克·托马斯"
+            },
+            {
+                "name": "裘德·洛"
+            },
+            {
+                "name": "威廉·赫特"
+            },
+            {
+                "name": "肯·梁"
+            },
+            {
+                "name": "克拉克·格雷格"
+            },
+            {
+                "name": "凯文·苏斯曼"
+            },
+            {
+                "name": "汤姆·加洛普"
+            },
+            {
+                "name": "尤金·奥斯门特"
+            },
+            {
+                "name": "艾普尔·格雷斯"
+            },
+            {
+                "name": "马特·温斯顿"
+            },
+            {
+                "name": "萨布丽娜·格德维奇"
+            },
+            {
+                "name": "西奥·格林利"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "5a7272",
+            "_base_color": [
+                0.5,
+                0.21428571428571427,
+                0.054901960784313725
+            ],
+            "secondary_color": "f4f9f9",
+            "_avg_color": [
+                0.5,
+                0.17391304347826086,
+                0.09019607843137255
+            ],
+            "primary_color_dark": "3c4c4c"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p792257137.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1302827",
+        "url": "https://movie.douban.com/subject/1302827/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1302827",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "史蒂文·斯皮尔伯格"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "comment": {
+        "content": "将森林化为灰烬只要一天，但用水和风培育出茁壮的森林却要一百年。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a292",
+            "secondary_color": "f9f8f4",
+            "primary_color_dark": "7f7c70"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140236.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-25",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 295281,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.9
+        },
+        "pubdate": [
+            "1992-05(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1917567652.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1917567652.jpg"
+        },
+        "is_show": false,
+        "year": "1984",
+        "card_subtitle": "1984 / 日本 / 动画 奇幻 冒险\n宫崎骏 导演",
+        "id": "1291585",
+        "genres": [
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "title": "风之谷",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "岛本须美"
+            },
+            {
+                "name": "松田洋治"
+            },
+            {
+                "name": "榊原良子"
+            },
+            {
+                "name": "辻村真人"
+            },
+            {
+                "name": "京田尚子"
+            },
+            {
+                "name": "纳谷悟朗"
+            },
+            {
+                "name": "永井一郎"
+            },
+            {
+                "name": "宫内幸平"
+            },
+            {
+                "name": "八奈见乘儿"
+            },
+            {
+                "name": "矢田稔"
+            },
+            {
+                "name": "富永美伊奈"
+            },
+            {
+                "name": "家弓家正"
+            },
+            {
+                "name": "吉田理保子"
+            },
+            {
+                "name": "菅谷政子"
+            },
+            {
+                "name": "坂本千夏"
+            },
+            {
+                "name": "鳕子"
+            },
+            {
+                "name": "麦人"
+            },
+            {
+                "name": "大塚芳忠"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "7b74a5",
+            "_base_color": [
+                0.69281045751634,
+                0.29999999999999993,
+                0.6666666666666666
+            ],
+            "secondary_color": "f5f4f9",
+            "_avg_color": [
+                0.7857142857142859,
+                0.13636363636363624,
+                0.6039215686274509
+            ],
+            "primary_color_dark": "5f597f"
+        },
+        "type": "movie",
+        "has_linewatch": false,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p1917567652.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1291585",
+        "url": "https://movie.douban.com/subject/1291585/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1291585",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "宫崎骏"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

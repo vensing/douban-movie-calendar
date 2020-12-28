@@ -1,0 +1,182 @@
+{
+    "comment": {
+        "content": "能做一只猴子真好，因为人的自觉性是可怕的诅咒，借由思考和感觉而备受苦恼。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "725d4a",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "4c3e31"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580139442.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-02-26",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 52242,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.2
+        },
+        "pubdate": [
+            "1999-10-29"
+        ],
+        "pic": {
+            "large": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1087658057.jpg",
+            "normal": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1087658057.jpg"
+        },
+        "is_show": false,
+        "year": "1999",
+        "card_subtitle": "1999 / 美国 / 喜剧 剧情 奇幻\n斯派克·琼斯 导演",
+        "id": "1292279",
+        "genres": [
+            "喜剧",
+            "剧情",
+            "奇幻"
+        ],
+        "title": "成为约翰·马尔科维奇",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "约翰·库萨克"
+            },
+            {
+                "name": "卡梅隆·迪亚兹"
+            },
+            {
+                "name": "凯瑟琳·基纳"
+            },
+            {
+                "name": "约翰·马尔科维奇"
+            },
+            {
+                "name": "耐德·巴拉米"
+            },
+            {
+                "name": "奥克塔维亚·斯宾瑟"
+            },
+            {
+                "name": "玛丽·凯·普莱斯"
+            },
+            {
+                "name": "奥森·比恩"
+            },
+            {
+                "name": "K.K. Dodds"
+            },
+            {
+                "name": "伯恩·皮文"
+            },
+            {
+                "name": "Judith Wetzell"
+            },
+            {
+                "name": "凯文·卡罗尔"
+            },
+            {
+                "name": "威利·加森"
+            },
+            {
+                "name": "W·厄尔·布朗"
+            },
+            {
+                "name": "Reginald C. Hayes"
+            },
+            {
+                "name": "查理·辛"
+            },
+            {
+                "name": "理查德·凡西"
+            },
+            {
+                "name": "Christine D. Coleman"
+            },
+            {
+                "name": "帕梅拉·海登"
+            },
+            {
+                "name": "内尔·洛斯"
+            },
+            {
+                "name": "兰斯·邦斯"
+            },
+            {
+                "name": "安迪·迪克"
+            },
+            {
+                "name": "Eddie L. Fauria"
+            },
+            {
+                "name": "大卫·芬奇"
+            },
+            {
+                "name": "杰斯特·海尔斯顿"
+            },
+            {
+                "name": "Isaac Hanson"
+            },
+            {
+                "name": "Taylor Hanson"
+            },
+            {
+                "name": "扎克·汉森"
+            },
+            {
+                "name": "达斯汀·霍夫曼"
+            },
+            {
+                "name": "Victor Isaac"
+            },
+            {
+                "name": "斯派克·琼斯"
+            },
+            {
+                "name": "西恩·潘"
+            },
+            {
+                "name": "布拉德·皮特"
+            },
+            {
+                "name": "薇诺娜·瑞德"
+            },
+            {
+                "name": "加里·西尼斯"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "724c4c",
+            "_base_color": [
+                0,
+                0.3333333333333333,
+                0.058823529411764705
+            ],
+            "secondary_color": "f9f4f4",
+            "_avg_color": [
+                0.05426356589147283,
+                0.3412698412698413,
+                0.49411764705882355
+            ],
+            "primary_color_dark": "4c3333"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p1087658057.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1292279",
+        "url": "https://movie.douban.com/subject/1292279/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1292279",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "斯派克·琼斯"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "comment": {
+        "content": "过去的如果都让它就这么过去，以后只会更糟。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a59c90",
+            "secondary_color": "f9f7f4",
+            "primary_color_dark": "7f786f"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580140235.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-07-24",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 718656,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.3
+        },
+        "pubdate": [
+            "2016-10-28(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2393044761.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2393044761.jpg"
+        },
+        "is_show": false,
+        "year": "2016",
+        "card_subtitle": "2016 / 中国大陆 / 剧情 喜剧\n周申 / 刘露 导演",
+        "id": "25921812",
+        "genres": [
+            "剧情",
+            "喜剧"
+        ],
+        "title": "驴得水",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "任素汐"
+            },
+            {
+                "name": "大力"
+            },
+            {
+                "name": "刘帅良"
+            },
+            {
+                "name": "裴魁山"
+            },
+            {
+                "name": "阿如那"
+            },
+            {
+                "name": "韩彦博"
+            },
+            {
+                "name": "卜冠今"
+            },
+            {
+                "name": "王堃"
+            },
+            {
+                "name": "高阳"
+            },
+            {
+                "name": "苏千越"
+            },
+            {
+                "name": "麦亚瑟"
+            },
+            {
+                "name": "王峰"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a54132",
+            "_base_color": [
+                0.020618556701030927,
+                0.6928571428571428,
+                0.5490196078431373
+            ],
+            "secondary_color": "f9f5f4",
+            "_avg_color": [
+                0.03494623655913981,
+                0.39999999999999997,
+                0.6078431372549019
+            ],
+            "primary_color_dark": "7f3227"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2393044761.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/25921812",
+        "url": "https://movie.douban.com/subject/25921812/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/25921812",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "周申"
+            },
+            {
+                "name": "刘露"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "comment": {
+        "content": "我不需要一个勋章来证明我是一个好人，因为那个小女孩都喜欢我，我能坏到哪去呢？”",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a57460",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "7f594a"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139334.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-01-09",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 412062,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.7
+        },
+        "pubdate": [
+            "2012-11-06(中国大陆)"
+        ],
+        "pic": {
+            "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1735642656.jpg",
+            "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1735642656.jpg"
+        },
+        "is_show": false,
+        "year": "2012",
+        "card_subtitle": "2012 / 美国 / 喜剧 动画 奇幻\n瑞奇·摩尔 导演",
+        "id": "6534248",
+        "genres": [
+            "喜剧",
+            "动画",
+            "奇幻"
+        ],
+        "title": "无敌破坏王",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "约翰·C·赖利"
+            },
+            {
+                "name": "萨拉·西尔弗曼"
+            },
+            {
+                "name": "杰克·麦克布瑞尔"
+            },
+            {
+                "name": "简·林奇"
+            },
+            {
+                "name": "艾伦·图代克"
+            },
+            {
+                "name": "敏迪·卡灵"
+            },
+            {
+                "name": "乔·洛·特鲁格里奥"
+            },
+            {
+                "name": "艾德·奥尼尔"
+            },
+            {
+                "name": "丹尼斯·海斯伯特"
+            },
+            {
+                "name": "伊迪·麦克勒格"
+            },
+            {
+                "name": "雷蒙德·S·佩尔西"
+            },
+            {
+                "name": "杰斯·哈梅尔"
+            },
+            {
+                "name": "瑞秋·哈里斯"
+            },
+            {
+                "name": "斯盖拉·阿斯丁"
+            },
+            {
+                "name": "亚当·卡罗拉"
+            },
+            {
+                "name": "霍拉提奥·桑斯"
+            },
+            {
+                "name": "莫里斯·拉马奇"
+            },
+            {
+                "name": "斯戴芬妮·斯考特"
+            },
+            {
+                "name": "约翰·迪·马吉欧"
+            },
+            {
+                "name": "瑞奇·摩尔"
+            },
+            {
+                "name": "凯蒂·洛斯"
+            },
+            {
+                "name": "贾米·埃曼"
+            },
+            {
+                "name": "乔西·特立尼达"
+            },
+            {
+                "name": "辛贝·沃克"
+            },
+            {
+                "name": "塔克·吉莫尔"
+            },
+            {
+                "name": "布兰登·斯考特"
+            },
+            {
+                "name": "蒂姆·梅尔滕斯"
+            },
+            {
+                "name": "凯文·迪特斯"
+            },
+            {
+                "name": "杰洛·里佛斯"
+            },
+            {
+                "name": "马丁·贾维斯"
+            },
+            {
+                "name": "布莱恩·克辛格"
+            },
+            {
+                "name": "罗杰·克莱格·史密斯"
+            },
+            {
+                "name": "菲尔·约翰斯顿"
+            },
+            {
+                "name": "鲁本·兰登"
+            },
+            {
+                "name": "凯尔·赫伯特"
+            },
+            {
+                "name": "洁米·斯贝勒·罗伯茨"
+            },
+            {
+                "name": "尼克·格里姆肖"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "72574d",
+            "_base_color": [
+                0.04460093896713613,
+                0.3212669683257919,
+                0.8666666666666667
+            ],
+            "secondary_color": "f9f6f4",
+            "_avg_color": [
+                0.6666666666666666,
+                0.15254237288135597,
+                0.4627450980392157
+            ],
+            "primary_color_dark": "4c3a33"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p1735642656.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/6534248",
+        "url": "https://movie.douban.com/subject/6534248/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/6534248",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "瑞奇·摩尔"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

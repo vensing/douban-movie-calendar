@@ -1,0 +1,94 @@
+{
+    "comment": {
+        "content": "你做梦对我开过枪，醒来后最好向我道歉。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "697270",
+            "secondary_color": "f4f9f8",
+            "primary_color_dark": "464c4a"
+        },
+        "source": "",
+        "poster": "https://img2.doubanio.com/view/photo/l/public/p2580140773.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-09-17",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 163950,
+            "max": 10,
+            "star_count": 4,
+            "value": 8.4
+        },
+        "pubdate": [
+            "1992-01-21(圣丹斯电影节)"
+        ],
+        "pic": {
+            "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1851340431.jpg",
+            "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1851340431.jpg"
+        },
+        "is_show": false,
+        "year": "1992",
+        "card_subtitle": "1992 / 美国 / 惊悚 犯罪\n昆汀·塔伦蒂诺 导演",
+        "id": "1299603",
+        "genres": [
+            "惊悚",
+            "犯罪"
+        ],
+        "title": "落水狗",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "哈威·凯特尔"
+            },
+            {
+                "name": "蒂姆·罗斯"
+            },
+            {
+                "name": "迈克尔·马德森"
+            },
+            {
+                "name": "克里斯·潘"
+            },
+            {
+                "name": "史蒂夫·布西密"
+            },
+            {
+                "name": "昆汀·塔伦蒂诺"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "727249",
+            "_base_color": [
+                0.16666666666666666,
+                0.35714285714285715,
+                0.054901960784313725
+            ],
+            "secondary_color": "f9f9f4",
+            "_avg_color": [
+                0.07371794871794869,
+                0.4727272727272728,
+                0.43137254901960786
+            ],
+            "primary_color_dark": "4c4c31"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p1851340431.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/1299603",
+        "url": "https://movie.douban.com/subject/1299603/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/1299603",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "昆汀·塔伦蒂诺"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

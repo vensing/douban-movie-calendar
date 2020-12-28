@@ -1,0 +1,99 @@
+{
+    "comment": {
+        "content": "我们的大脑构建了一个时间连续体的思维框架，连接了过去现在和未来，但你没必要按照那种固有的模式来生活。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a09e",
+            "secondary_color": "f9f6f4",
+            "primary_color_dark": "7f7b79"
+        },
+        "source": "",
+        "poster": "https://img9.doubanio.com/view/photo/l/public/p2580139585.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-03-19",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 10421,
+            "max": 10,
+            "star_count": 3.5,
+            "value": 7.3
+        },
+        "pubdate": [
+            "2014-09-04(韩国)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2193382662.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2193382662.jpg"
+        },
+        "is_show": false,
+        "year": "2014",
+        "card_subtitle": "2014 / 韩国 / 剧情\n洪常秀 导演",
+        "id": "10796578",
+        "genres": [
+            "剧情"
+        ],
+        "title": "自由之丘",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "加濑亮"
+            },
+            {
+                "name": "文素丽"
+            },
+            {
+                "name": "徐永嬅"
+            },
+            {
+                "name": "金义城"
+            },
+            {
+                "name": "尹汝贞"
+            },
+            {
+                "name": "纪柱峰"
+            },
+            {
+                "name": "郑恩彩"
+            },
+            {
+                "name": "李珉宇"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a2a4a5",
+            "_base_color": [
+                0.5833333333333327,
+                0.02105263157894744,
+                0.7450980392156863
+            ],
+            "secondary_color": "f4f7f9",
+            "_avg_color": [
+                0.625,
+                0.027210884353741402,
+                0.5764705882352941
+            ],
+            "primary_color_dark": "7c7e7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2193382662.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/10796578",
+        "url": "https://movie.douban.com/subject/10796578/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/10796578",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "洪常秀"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}

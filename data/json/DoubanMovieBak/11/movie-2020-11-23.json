@@ -1,0 +1,108 @@
+{
+    "comment": {
+        "content": "没有人能独自承担一切，没有人，包括你。",
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "a5a0a3",
+            "secondary_color": "f9f4f7",
+            "primary_color_dark": "7f7b7d"
+        },
+        "source": "",
+        "poster": "https://img3.doubanio.com/view/photo/l/public/p2580141001.jpg"
+    },
+    "ad": {},
+    "today": {
+        "date": "2020-11-23",
+        "description": "",
+        "title": ""
+    },
+    "subject": {
+        "rating": {
+            "count": 309864,
+            "max": 10,
+            "star_count": 4.5,
+            "value": 8.9
+        },
+        "pubdate": [
+            "2015-12-25(瑞典)"
+        ],
+        "pic": {
+            "large": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2406624993.jpg",
+            "normal": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2406624993.jpg"
+        },
+        "is_show": false,
+        "year": "2015",
+        "card_subtitle": "2015 / 瑞典 / 剧情\n汉内斯·赫尔姆 导演",
+        "id": "26628357",
+        "genres": [
+            "剧情"
+        ],
+        "title": "一个叫欧维的男人决定去死",
+        "is_released": true,
+        "actors": [
+            {
+                "name": "罗夫·拉斯加德"
+            },
+            {
+                "name": "巴哈·帕斯"
+            },
+            {
+                "name": "托比亚斯·阿姆博瑞"
+            },
+            {
+                "name": "菲利普·伯格"
+            },
+            {
+                "name": "安娜-莱娜·布伦丁"
+            },
+            {
+                "name": "博瑞·伦贝里"
+            },
+            {
+                "name": "埃达·英格薇"
+            },
+            {
+                "name": "弗雷德里克·埃弗斯"
+            },
+            {
+                "name": "玛德琳·雅各布松"
+            },
+            {
+                "name": "查特里娜·拉松"
+            },
+            {
+                "name": "杰克尔·法尔斯特伦"
+            }
+        ],
+        "color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "7b8ba5",
+            "_base_color": [
+                0.6018518518518517,
+                0.25714285714285723,
+                0.27450980392156865
+            ],
+            "secondary_color": "f4f6f9",
+            "_avg_color": [
+                0.5925925925925926,
+                0.1384615384615384,
+                0.5098039215686274
+            ],
+            "primary_color_dark": "5e6b7f"
+        },
+        "type": "movie",
+        "has_linewatch": true,
+        "cover_url": "https://img2.doubanio.com/view/photo/m_ratio_poster/public/p2406624993.jpg",
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/26628357",
+        "url": "https://movie.douban.com/subject/26628357/",
+        "release_date": null,
+        "uri": "douban://douban.com/movie/26628357",
+        "subtype": "movie",
+        "directors": [
+            {
+                "name": "汉内斯·赫尔姆"
+            }
+        ],
+        "null_rating_reason": ""
+    }
+}
